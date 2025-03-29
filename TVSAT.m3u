@@ -1112,3 +1112,185 @@ http:/hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/РБК.png" catchup="shift" catchup-days="7" timeshift="6" group-title="Новостные" tvg-id="291",РБК
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 4)
 http:/online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+#EXTM3U The playlist was created in "IPTV PLAYLIST CHECKER" http://play.google.com/store/apps/details?id=runapp.iptv 
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Bolt Россия.png" group-title="Российские" tvg-rec="48" catchup="default",Bolt Россия
+http://95.142.88.250/Bolt/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Одинцово.png" group-title="Российские" tvg-rec="48" catchup="default",Одинцово
+http://cam.indikom.ru/1/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Страна FM.png" group-title="Российские" tvg-id="967" tvg-rec="48" catchup="default",Страна FM
+http://live.stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Страна FM HD.png" group-title="Российские" tvg-id="967" tvg-rec="48" catchup="default",Страна FM HD
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТНТ Music.png" group-title="Российские" tvg-id="85" tvg-rec="48" catchup="default",ТНТ Music
+http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Сарафан.png" group-title="Российские" tvg-id="179" tvg-rec="48" catchup="default",Сарафан
+http://95.142.88.250:80/sarafan/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Shopping Live.png" group-title="Российские" tvg-id="2301" tvg-rec="48" catchup="default",Shopping Live
+http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Bollywood.png" group-title="Фильмовые" tvg-id="418" tvg-rec="48" catchup="default",Bollywood
+http://95.142.88.250:80/Bolt/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Bolt.png" group-title="Фильмовые" tvg-id="403" tvg-rec="48" catchup="default",Bolt
+http://95.142.88.250:80/Bolt/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Shot TV.png" group-title="Фильмовые" tvg-id="505" tvg-rec="48" catchup="default",Shot TV
+http://95.142.88.250:80/SHOT_TV/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Shot TV HD.png" group-title="Фильмовые" tvg-id="505" tvg-rec="48" catchup="default",Shot TV HD
+http://95.142.88.250/SHOT_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport.png" group-title="Спортивные" tvg-rec="48" catchup="default",auto motor und sport channel
+http://78.130.250.2:8023/play/a018/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport.png" group-title="Спортивные" tvg-rec="48" catchup="default",Dubai Sports 3 HD
+http://streamer3.connectto.com/913/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport.png" group-title="Спортивные" tvg-rec="48" catchup="default",ESPN 3
+http://181.78.105.146:2000/play/a03n/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport.png" group-title="Спортивные" tvg-rec="48" catchup="default",One Golf
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Kuriakos Kids.png" group-title="Детские" tvg-rec="48" catchup="default",Kuriakos Kids
+http://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music.png" group-title="Музыкальные" tvg-rec="48" catchup="default",Kronehit FHD
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music.png" group-title="Музыкальные" tvg-rec="48" catchup="default",MN Music
+http://mntv.livebox.co.in/musichls/live.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music.png" group-title="Музыкальные" tvg-rec="48" catchup="default",MOBA
+http://muzzik-live.morescreens.com/mts-2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music.png" group-title="Музыкальные" tvg-rec="48" catchup="default",MTV Classic East
+http://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music.png" group-title="Музыкальные" tvg-rec="48" catchup="default",MUZZIK
+http://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music.png" group-title="Музыкальные" tvg-rec="48" catchup="default",Muzzik Cafe&Club Serbia
+http://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music.png" group-title="Музыкальные" tvg-rec="48" catchup="default",Muzzik Electro
+http://muzzik-live.morescreens.com/mts-9/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music.png" group-title="Музыкальные" tvg-rec="48" catchup="default",Muzzik Flashback
+http://muzzik-live.morescreens.com/mts-8/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music.png" group-title="Музыкальные" tvg-rec="48" catchup="default",Muzzik HipHop Serbia
+http://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music.png" group-title="Музыкальные" tvg-rec="48" catchup="default",Muzzik Jeka Serbia
+http://muzzik-live.morescreens.com/mts-4/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music.png" group-title="Музыкальные" tvg-rec="48" catchup="default",On Air TV
+http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/chunklist_w1284330867.m3u8
+
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Stingray Naturescape.png" group-title="Познавательные" tvg-rec="48" catchup="default",Stingray Naturescape
+http://stream.ads.ottera.tv/cl/240211cn4j7g65sur7fq378vpg/1920x1080_5711200_3_f.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Travel Guide TV.png" group-title="Познавательные" tvg-rec="48" catchup="default",Travel Guide TV
+http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Groovy.png" group-title="Развлекательные" tvg-rec="48" catchup="default",Groovy
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/HD Life.png" group-title="Развлекательные" tvg-id="305" tvg-rec="48" catchup="default",HD Life
+http://95.142.88.250:80/HDL/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Mar TV.png" group-title="Развлекательные" tvg-id="930" tvg-rec="48" catchup="default",Mar TV
+http://iptv.services.everywan.net:8080/martv-web/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Red Bull HD.png" group-title="Развлекательные" tvg-rec="48" catchup="default",Red Bull HD
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Red Bull TV.png" group-title="Развлекательные" tvg-id="6039" tvg-rec="48" catchup="default",Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Red Bull TV.png" group-title="Развлекательные" tvg-id="6039" tvg-rec="48" catchup="default",Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Red Bull TV.png" group-title="Развлекательные" tvg-id="6039" tvg-rec="48" catchup="default",Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Хузур ТВ.png" group-title="Развлекательные" tvg-id="2478" tvg-rec="48" catchup="default",Хузур ТВ
+http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Bem TV.png" group-title="Региональные" tvg-id="910" tvg-rec="48" catchup="default",Bem TV
+http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/starcius.png" group-title="Другие" tvg-id="846" tvg-rec="48" catchup="default",Relaxon
+http://iptv.prosto.tv:7000/ch306/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/starcius.png" group-title="Другие" tvg-id="846" tvg-rec="48" catchup="default",Relaxon
+http://iptv.prosto.tv:7000/ch317/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/starcius.png" group-title="Другие" tvg-id="846" tvg-rec="48" catchup="default",Relaxon
+http://iptv.prosto.tv:7000/ch314/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/starcius.png" group-title="Другие" tvg-id="846" tvg-rec="48" catchup="default",Relaxon
+http://iptv.prosto.tv:7000/ch321/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/starcius.png" group-title="Другие" tvg-id="846" tvg-rec="48" catchup="default",Relaxon
+http://iptv.prosto.tv:7000/ch325/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/starcius.png" group-title="Другие" tvg-id="846" tvg-rec="48" catchup="default",Relaxon
+http://iptv.prosto.tv:7000/ch345/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/starcius.png" group-title="Другие" tvg-id="846" tvg-rec="48" catchup="default",Relaxon
+http://iptv.prosto.tv:7000/ch329/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/starcius.png" group-title="Другие" tvg-id="846" tvg-rec="48" catchup="default",Relaxon
+http://iptv.prosto.tv:7000/ch302/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/starcius.png" group-title="Другие" tvg-id="846" tvg-rec="48" catchup="default",Relaxon
+http://iptv.prosto.tv:7000/ch340/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/starcius.png" group-title="Другие" tvg-id="846" tvg-rec="48" catchup="default",Relaxon
+http://iptv.prosto.tv:7000/ch339/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/starcius.png" group-title="Другие" tvg-id="846" tvg-rec="48" catchup="default",Relaxon
+http://iptv.prosto.tv:7000/ch304/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/starcius.png" group-title="Другие" tvg-id="846" tvg-rec="48" catchup="default",Relaxon
+http://iptv.prosto.tv:7000/ch348/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/starcius.png" group-title="Другие" tvg-id="846" tvg-rec="48" catchup="default",Relaxon
+http://iptv.prosto.tv:7000/ch319/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/starcius.png" group-title="Другие" tvg-id="846" tvg-rec="48" catchup="default",Relaxon
+http://iptv.prosto.tv:7000/ch318/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/starcius.png" group-title="Другие" tvg-id="846" tvg-rec="48" catchup="default",Relaxon
+http://iptv.prosto.tv:7000/ch312/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/starcius.png" group-title="Другие" tvg-id="846" tvg-rec="48" catchup="default",Relaxon
+http://iptv.prosto.tv:7000/ch328/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/starcius.png" group-title="Другие" tvg-id="846" tvg-rec="48" catchup="default",Relaxon
+http://iptv.prosto.tv:7000/ch330/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/starcius.png" group-title="Другие" tvg-id="846" tvg-rec="48" catchup="default",Relaxon
+http://iptv.prosto.tv:7000/ch331/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/starcius.png" group-title="Другие" tvg-id="846" tvg-rec="48" catchup="default",Relaxon
+http://iptv.prosto.tv:7000/ch341/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/starcius.png" group-title="Другие" tvg-id="846" tvg-rec="48" catchup="default",Relaxon
+http://iptv.prosto.tv:7000/ch350/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/starcius.png" group-title="Другие" tvg-id="846" tvg-rec="48" catchup="default",Relaxon
+http://iptv.prosto.tv:7000/ch343/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/starcius.png" group-title="Другие" tvg-id="846" tvg-rec="48" catchup="default",Relaxon
+http://iptv.prosto.tv:7000/ch332/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/starcius.png" group-title="Другие" tvg-id="846" tvg-rec="48" catchup="default",Relaxon
+http://iptv.prosto.tv:7000/ch305/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/starcius.png" group-title="Другие" tvg-id="846" tvg-rec="48" catchup="default",Relaxon
+http://iptv.prosto.tv:7000/ch338/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/starcius.png" group-title="Другие" tvg-id="846" tvg-rec="48" catchup="default",Relaxon
+http://iptv.prosto.tv:7000/ch347/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/starcius.png" group-title="Другие" tvg-id="846" tvg-rec="48" catchup="default",Relaxon
+http://iptv.prosto.tv:7000/ch351/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/starcius.png" group-title="Другие" tvg-id="846" tvg-rec="48" catchup="default",Relaxon
+http://iptv.prosto.tv:7000/ch335/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/starcius.png" group-title="Другие" tvg-id="846" tvg-rec="48" catchup="default",Relaxon
+http://iptv.prosto.tv:7000/ch346/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/starcius.png" group-title="Другие" tvg-id="846" tvg-rec="48" catchup="default",Relaxon
+http://iptv.prosto.tv:7000/ch316/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/starcius.png" group-title="Другие" tvg-id="710" tvg-rec="48" catchup="default",Зима
+http://iptv.prosto.tv:7000/ch327/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/starcius.png" group-title="Другие" tvg-rec="48" catchup="default",Ночь
+http://iptv.prosto.tv:7000/ch349/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/starcius.png" group-title="Другие" tvg-rec="48" catchup="default",Рыбалка
+http://iptv.prosto.tv:7000/ch344/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/starcius.png" group-title="Другие" tvg-rec="48" catchup="default",Терраса
+http://iptv.prosto.tv:7000/ch336/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/starcius.png" group-title="Другие" tvg-id="891" tvg-rec="48" catchup="default",STAR TV
+http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/starcius.png" group-title="Другие" tvg-rec="48" catchup="default",MyTime Movie Network Brazil
+http://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/starcius.png" group-title="Другие" tvg-rec="48" catchup="default",Onza TV
+http://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/starcius.png" group-title="Другие" tvg-rec="48" catchup="default",Radio Yaucana TV
+http://stmvideo6.livecastv.com/rytv2015/rytv2015/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/starcius.png" group-title="Другие" tvg-rec="48" catchup="default",Revry Brasil
+http://linear-181.frequency.stream/mt/brightcove/181/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/starcius.png" group-title="Другие" tvg-rec="48" catchup="default",LiveNOW from FOX
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/starcius.png" group-title="Другие" tvg-rec="48" catchup="default",TTV Musiqa
+http://st1.uzdigital.tv/TTV_Musiqa/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/starcius.png" group-title="Другие" tvg-rec="48" catchup="default",Vidusdaugavas TV
+http://straume.vdtv.lv/vdtv3/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/starcius.png" group-title="Другие" tvg-id="1146" tvg-rec="48" catchup="default",КТК
+http://89.218.30.37/ktklive/live.hq/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/starcius.png" group-title="Другие" tvg-id="1146" tvg-rec="48" catchup="default",КТК
+http://wz-kt.ktk.kz/ktklive/live.hq/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/starcius.png" group-title="Другие" tvg-rec="48" catchup="default",Muğla-Marmaris-Meydan
+http://cdn-ipkamera.yayin.com.tr/marmarisbel/meydan/chunklist_w11552912.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/starcius.png" group-title="Другие" tvg-rec="48" catchup="default",Praia Canide Norte - Sul
+http://video-auth1.iol.pt/beachcam/bccanidelo/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/starcius.png" group-title="Другие" tvg-rec="48" catchup="default",Praia da Barra
+http://video-auth1.iol.pt/beachcam/aveiro/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/starcius.png" group-title="Другие" tvg-rec="48" catchup="default",Praia Grande - Sul
+http://video-auth1.iol.pt/beachcam/praiagrande2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/starcius.png" group-title="Другие" tvg-rec="48" catchup="default",Pre?ov Sun Park
+http://stream.kukaj.se/stream/8b/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/starcius.png" group-title="Другие" tvg-rec="48" catchup="default",USA - Schooners Sunset Cam
+http://5ed7b8fd7bf40.streamlock.net:1935/schoonerssunsetHDCam/schsun/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/starcius.png" group-title="Другие" tvg-rec="48" catchup="default",Нидерланды 13
+http://5d881567b7568.streamlock.net/live/Kerkuil1Buiten.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/starcius.png" group-title="Другие" tvg-rec="48" catchup="default",Нидерланды 16
+http://5b8d2cbe62ad6.streamlock.net/live/vlissingen4.stream/chunklist.m3u8
