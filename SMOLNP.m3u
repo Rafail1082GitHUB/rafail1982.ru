@@ -1,1127 +1,1679 @@
-#EXTM3U url-tvg="http://epg.one/epg.xml,http://epg.cdntv.online/lite.xml.gz"<script src="/inclusive1.js"></script>
+#EXTM3U url-tvg="http://epg.one/epg.xml,http://epg.cdntv.online/lite.xml.gz"
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый канал.png" group-title="Общественные",Первый канал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/360°.png" group-title="Общественные",360°
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/RTVi.png" group-title="Общественные",RTVi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://45.143.108.110:2203/RTVi
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/TV BRICS.png" group-title="Общественные",TV BRICS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/БелРос.png" group-title="Общественные",БелРос
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Большая Азия.png" group-title="Общественные",Большая Азия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Время.png" group-title="Общественные",Время
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://130.193.73.10:8937/play/a03p
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Звезда.png" group-title="Общественные",Звезда
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Красная линия.png" group-title="Общественные",Красная линия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир.png" group-title="Общественные",Мир
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Неизвестная Россия.png" group-title="Общественные",Неизвестная Россия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://cdn.ntv.ru/unknown_russia/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ.png" group-title="Общественные",НТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ.png" group-title="Общественные",НТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Пятый канал.png" group-title="Общественные",Пятый канал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ратник.png" group-title="Общественные",Ратник
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Рен ТВ.png" group-title="Общественные",Рен ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Рен ТВ.png" group-title="Общественные",Рен ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1.png" group-title="Общественные",Россия 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1.png" group-title="Общественные",Россия 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТВ3.png" group-title="Общественные",ТВ3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://130.193.73.10:8937/play/a03q
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТСВ.png" group-title="Общественные",ТСВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://iptv-hls.idc.md:8200/hls/2/live1.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТВ Центр.png" group-title="Общественные",ТВ Центр
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/360° Новости.png" group-title="Информационные",360° Новости
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/RTД.png" group-title="Информационные",RTД
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ДУМА ТВ.png" group-title="Информационные",ДУМА ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://dumatv.iptv2022.com/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Известия.png" group-title="Информационные",Известия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Крик ТВ.png" group-title="Информационные",Крик ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир 24.png" group-title="Информационные",Мир 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/МОСКВА24.png" group-title="Информационные",МОСКВА24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Москва Доверие.png" group-title="Информационные",Москва Доверие
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 24.png" group-title="Информационные",Россия 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/РБК.png" group-title="Информационные",РБК
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Соловьев.Live.png" group-title="Информационные",Соловьев.Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ani.png" group-title="Детские",Ani
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Nickelodeon.png" group-title="Детские",Nickelodeon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://135.181.115.81:8000/play/a03x/index.m3u8?token=livetv
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Детское кино Int.png" group-title="Детские",Детское кино Int
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Карусель.png" group-title="Детские",Карусель
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кино Мульт.png" group-title="Детские",Кино Мульт
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://109.200.130.123:7537/play/a024
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мульт.png" group-title="Детские",Мульт
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/МУЛЬТиМУЗЫКА.png" group-title="Детские",МУЛЬТиМУЗЫКА
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://stv.mediacdn.ru/live/cdn/multimuzika/playlist_sdhigher.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/О!.png" group-title="Детские",О!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://130.193.73.10:8937/play/a016
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Радость моя.png" group-title="Детские",Радость моя
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Солнце.png" group-title="Детские",Солнце
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТС Kids.png" group-title="Детские",СТС Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://130.193.73.10:8937/play/a017
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Уникум.png" group-title="Детские",Уникум
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://130.193.73.10:8937/play/a015
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Карусель Международный.png" group-title="Детские",Карусель Международный
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://cdn2.skygo.mn/live/disk1/Karusel/HLS-FTA/Karusel.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мульт.png" group-title="Детские" tvg-id="153",Мульт
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мульт.png" group-title="Детские",Мульт
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://stv.mediacdn.ru/live/cdn/mult/playlist_sdhigh.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СуперГерои.png" group-title="Детские" tvg-id="2239",СуперГерои
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СуперГерои.png" group-title="Детские",СуперГерои
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://178.124.179.122:8088/Malish/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Радио Kids FM.png" group-title="Детские",Радио Kids FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ералаш.png" group-title="Детские" tvg-id="4775",Ералаш
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ералаш.png" group-title="Детские",Ералаш
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Retro Cartoon.png" group-title="Детские",Retro Cartoon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Детский мир HD.png" group-title="Детские",Детский мир HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://178.212.71.253:8002/play/a00v/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мама.png" group-title="Детские",Мама
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://31.148.48.15/Mama/tracks-v1a1/mono.m3u8?token=default
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мульт.png" group-title="Детские",Мульт
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://31.148.48.15/Mult/tracks-v1a1/mono.m3u8?token=default
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ani.png" group-title="Детские",Ani
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://31.148.48.15/Ani/tracks-v1a1/mono.m3u8?token=default?token=test
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/В гостях у сказки.png" group-title="Детские",В гостях у сказки
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://109.200.130.123:7537/play/a02m
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/МультСказки HD.png" group-title="Детские",МультСказки HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://92.53.64.197:5050/IPTVPLAYMultSkazki.tv/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СоюзМультфильм.png" group-title="Детские",СоюзМультфильм
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Чип и Дейл.png" group-title="Детские",Чип и Дейл
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/2x2.png" group-title="Развлекательные",2x2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/7 TV.png" group-title="Развлекательные",7 TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://v4.proofix.ru:80/7tv-live/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Девятка.png" group-title="Развлекательные",Девятка
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://devyatka.iptv2022.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Домашний.png" group-title="Развлекательные",Домашний
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Домашний.png" group-title="Развлекательные",Домашний
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://livetv.mylifeisgood.net.ru/channels/domashnii.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Домашний Int.png" group-title="Развлекательные",Домашний Int
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://178.124.152.238:8088/dom
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Зал суда.png" group-title="Развлекательные",Зал суда
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://95.156.76.230:33001/udp/230.4.34.6:1234
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Калейдоскоп ТВ.png" group-title="Развлекательные",Калейдоскоп ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Продвижение.png" group-title="Развлекательные",Продвижение
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Пятница!.png" group-title="Развлекательные",Пятница!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://130.193.73.10:8937/play/a018
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Пятница!.png" group-title="Развлекательные",Пятница!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://livetv.mylifeisgood.net.ru/channels/friday.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Сарафан.png" group-title="Развлекательные",Сарафан
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://31.148.48.15/Sarafan/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТРК.png" group-title="Развлекательные",СТРК
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://sochinskayatrk.ru/hdtv/hls/CTPK_HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТС.png" group-title="Развлекательные",СТС
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТС Love.png" group-title="Развлекательные",СТС Love
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://178.212.71.253:8002/play/a00r/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТС Int.png" group-title="Развлекательные",СТС Int
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://cdn2.skygo.mn/live/disk1/STS/HLS-FTA/STS.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Суббота.png" group-title="Развлекательные",Суббота
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://130.193.73.10:8937/play/a03a
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Суббота.png" group-title="Развлекательные",Суббота
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Твоё ТВ.png" group-title="Развлекательные",Твоё ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Твоё ТВ Юмор.png" group-title="Развлекательные",Твоё ТВ Юмор
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТНТ4.png" group-title="Развлекательные",ТНТ4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://178.212.71.253:8000/play/106/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТНТ4 Int.png" group-title="Развлекательные",ТНТ4 Int
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://cdn2.skygo.mn/live/disk1/TNT4/HLS-FTA/TNT4.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Че!.png" group-title="Развлекательные",Че!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://178.212.71.253:8002/play/a00s/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ю.png" group-title="Развлекательные",Ю
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://92.53.64.197:5050/yu/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/AFV Family.png" group-title="Развлекательные",AFV Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/The Pet Collective.png" group-title="Развлекательные",The Pet Collective
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Перец.png" group-title="Развлекательные" tvg-id="5651",Перец
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Перец.png" group-title="Развлекательные",Перец
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://cdn3.skygo.mn/live/disk1/Che/HLS-FTA/Che.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Тео-ТВ.png" group-title="Развлекательные",Тео-ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_TEOTV/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ювелирочка.png" group-title="Развлекательные" tvg-id="1579",Ювелирочка
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ювелирочка.png" group-title="Развлекательные",Ювелирочка
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Витрина ТВ.png" group-title="Развлекательные",Витрина ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://v4.proofix.ru/vitrina-live/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Shopping Live.png" group-title="Развлекательные" tvg-id="2301",Shopping Live
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Shopping Live.png" group-title="Развлекательные",Shopping Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://shoppinglive.mediacdn.ru/cdn/shopping/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Leomax +.png" group-title="Развлекательные",Leomax +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Магнат.png" group-title="Развлекательные",Магнат
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ Стиль.png" group-title="Развлекательные",НТВ Стиль
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТС LOVE.png" group-title="Развлекательные",СТС LOVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://178.212.71.253:8002/play/a00r/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НСТ.png" group-title="Развлекательные",НСТ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://130.193.73.10:8937/play/a03c
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТНТ4.png" group-title="Развлекательные",ТНТ4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://130.193.73.10:8937/play/a020
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ЧЕ!.png" group-title="Развлекательные",ЧЕ!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://178.212.71.253:8002/play/a00s/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/2x2.png" group-title="Развлекательные",2x2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://31.148.48.15/2x2/tracks-v1a1/mono.m3u8?token=default
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Победа.png" group-title="Развлекательные",Победа
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://130.193.73.10:8937/play/a03h
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Бобёр.png" group-title="Развлекательные",Бобёр
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://178.212.71.253:8002/play/a00m/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/RETRO TV.png" group-title="Развлекательные",RETRO TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://78.130.250.2:8023/play/a02r/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Живи.png" group-title="Развлекательные",Живи
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://31.148.48.15/Zhivi/tracks-v1a1/mono.m3u8?token=default
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кулинар.png" group-title="Развлекательные",Кулинар
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Bridge.png" group-title="Музыкальные",Bridge
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://195.26.83.96:7007/play/a00m/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Clubbing TV.png" group-title="Музыкальные",Clubbing TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Retro Music TV.png" group-title="Музыкальные",Retro Music TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/RU TV.png" group-title="Музыкальные",RU TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/RU TV.png" group-title="Музыкальные",RU TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Жар-Птица.png" group-title="Музыкальные",Жар-Птица
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Майдан.png" group-title="Музыкальные",Майдан
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://dmi3y-tv.ru/hls/zabava/region/KZN/CH_MAIDAN.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/МузТВ.png" group-title="Музыкальные",МузТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://130.193.73.10:8937/play/a042
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Страна FM.png" group-title="Музыкальные",Страна FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТНТ Music.png" group-title="Музыкальные",ТНТ Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Шансон ТВ.png" group-title="Музыкальные",Шансон ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Новое Радио.png" group-title="Музыкальные" tvg-id="960",Новое Радио
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Новое Радио.png" group-title="Музыкальные",Новое Радио
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Nick Music.png" group-title="Музыкальные",Nick Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/NM Television.png" group-title="Музыкальные" tvg-id="7591",NM Television
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/NM Television.png" group-title="Музыкальные",NM Television
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://tv.a21network.ru/stream/40650/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Spirit TV.png" group-title="Музыкальные" tvg-id="4657",Spirit TV
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Spirit TV.png" group-title="Музыкальные",Spirit TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Deluxe Music TV.png" group-title="Музыкальные",Deluxe Music TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/CARAC1.png" group-title="Музыкальные",CARAC1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/radio m2o.png" group-title="Музыкальные",radio m2o
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1728000.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/XITE.png" group-title="Музыкальные",XITE
-http://xite-samsung-de.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/DeeJay.png" group-title="Музыкальные",DeeJay
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://streamcdnb4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Clubbing TV.png" group-title="Музыкальные" tvg-id="395",Clubbing TV
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Clubbing TV.png" group-title="Музыкальные",Clubbing TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://clubbingtv-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Song TV Россия.png" group-title="Музыкальные" tvg-id="78",Song TV Россия
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Song TV Россия.png" group-title="Музыкальные",Song TV Россия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://songtv.hls.iptvdc.com/web-russia/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Song TV Армения.png" group-title="Музыкальные" tvg-id="77",Song TV Армения
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Song TV Армения.png" group-title="Музыкальные",Song TV Армения
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://songtv.hls.iptvdc.com/web-armenia/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Kronehit HD.png" group-title="Музыкальные",Kronehit HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/MTV Europe.png" group-title="Музыкальные",MTV Europe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl5.moveonjoy.com/MTV/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/MTV Live .png" group-title="Музыкальные" tvg-id="71",MTV Live
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/MTV Live .png" group-title="Музыкальные",MTV Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/MTV Classic.png" group-title="Музыкальные" tvg-id="6426",MTV Classic
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/MTV Classic.png" group-title="Музыкальные",MTV Classic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/1HD Music.png" group-title="Музыкальные" tvg-id="5930",1HD Music
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/1HD Music.png" group-title="Музыкальные",1HD Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://91.247.68.229:8000/play/eee/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Now 70's.png" group-title="Музыкальные",Now 70's
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/9 волна.png" group-title="Музыкальные",9 волна
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://catchup.videoline.ru/asvtv/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ocko Star.png" group-title="Музыкальные" tvg-id="1803",Ocko Star
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ocko Star.png" group-title="Музыкальные",Ocko Star
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ocko TV.png" group-title="Музыкальные" tvg-id="1804",Ocko TV
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ocko TV.png" group-title="Музыкальные",Ocko TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ocko Gold.png" group-title="Музыкальные" tvg-id="1805",Ocko Gold
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ocko Gold.png" group-title="Музыкальные",Ocko Gold
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ocko Expres PM.png" group-title="Музыкальные",Ocko Expres PM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/МузСоюз.png" group-title="Музыкальные",МузСоюз
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/RU TV HD.png" group-title="Музыкальные",RU TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://hls-03-video.webcaramba.com/rutv/live_720/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Муз ТВРадио Шансон.png" group-title="Музыкальные",Муз ТВРадио Шансон
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://chanson.hostingradio.ru:8041/chanson64.mp3
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Наше радио.png" group-title="Музыкальные",Наше радио
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://nashe2.hostingradio.ru/nashe-128.mp3
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/радио Маяк.png" group-title="Музыкальные",радио Маяк
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ретро FM.png" group-title="Музыкальные",Ретро FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://retroserver.streamr.ru:8043/retro64
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Русские Песни.png" group-title="Музыкальные",Русские Песни
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://listen.rusongs.ru:8005/ru-mp3-128?vvv1766
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Москва FM.png" group-title="Музыкальные",Москва FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://icecast.vgtrk.cdnvideo.ru/moscowfm128
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/13 радио.png" group-title="Музыкальные",13 радио
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://play4.radio13.ru/mp3
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Antenne Bayern.png" group-title="Музыкальные",Antenne Bayern
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://mp3channels.webradio.antenne.de/antenne
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Technobase FM.png" group-title="Музыкальные",Technobase FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://mp3.stream.tb-group.fm/tb.mp3
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Джаз.png" group-title="Музыкальные",Джаз
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://nashe2.hostingradio.ru/jazz-128.mp3
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Stingray Classica DE.png" group-title="Музыкальные",Stingray Classica DE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://78.130.250.2:8023/play/a022/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/MCM Top Russia.png" group-title="Музыкальные",MCM Top Russia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://130.193.73.10:8937/play/a041
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Музыка Первого.png" group-title="Музыкальные",Музыка Первого
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://130.193.73.10:8937/play/a043
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Танцуй!.png" group-title="Музыкальные",Танцуй!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://130.193.73.10:8937/play/a044
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Now 90" group-title="Музыкальные",Now 90"s
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/V2BEAT HD.png" group-title="Музыкальные",V2BEAT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ЖАРА.png" group-title="Музыкальные",ЖАРА
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://109.200.130.123:7537/play/a02v
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/CHD-TV RU Rock HD.png" group-title="Музыкальные" tvg-id="6844",CHD-TV RU Rock HD
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/CHD-TV RU Rock HD.png" group-title="Музыкальные",CHD-TV RU Rock HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://194.26.229.213/chdtv_ru_rock/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/CHD-TV Rock.png" group-title="Музыкальные" tvg-id="6844",CHD-TV Rock
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/CHD-TV Rock.png" group-title="Музыкальные",CHD-TV Rock
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://194.26.229.213/chdtv_rock/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/.sci-fi.png" group-title="Кинозал",.sci-fi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://130.193.73.10:8937/play/a02q
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Amedia 1.png" group-title="Кинозал",Amedia 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://65.21.85.175:8000/play/a00g/index.m3u8?token=livetv
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/FAN.png" group-title="Кинозал",FAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://109.200.130.123:7537/play/a02a
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/FAN.png" group-title="Кинозал",FAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://hlss.goodgame.ru/hls/157239.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/FlixSnip.png" group-title="Кинозал",FlixSnip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://130.193.73.10:8937/play/a02r
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Filmbox.png" group-title="Кинозал",Filmbox
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://130.193.73.10:8937/play/a03s
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Filmbox Arthouse.png" group-title="Кинозал",Filmbox Arthouse
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://130.193.73.10:8937/play/a03t
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/HollywooD.png" group-title="Кинозал",HollywooD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://109.200.130.123:7537/play/a02g
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/HollywooD.png" group-title="Кинозал",HollywooD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://130.193.73.10:8937/play/a02k
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Romance.png" group-title="Кинозал",Romance
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://130.193.73.10:8937/play/a01o
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/SHOT TV.png" group-title="Кинозал",SHOT TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://109.200.130.123:7537/play/a02b
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Start World.png" group-title="Кинозал",Start World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://95.156.76.230:33001/udp/230.4.34.66:1234
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Viju TV1000.png" group-title="Кинозал",Viju TV1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://130.193.73.10:8937/play/a02s
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Viju TV1000 Action.png" group-title="Кинозал",Viju TV1000 Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://130.193.73.10:8937/play/a02t
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Viju+ premiere.png" group-title="Кинозал",Viju+ premiere
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://130.193.73.10:8937/play/a03g
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Иллюзион+.png" group-title="Кинозал",Иллюзион+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://130.193.73.10:8937/play/a02y
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Комедия.png" group-title="Кинозал",Комедия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://130.193.73.10:8937/play/a03k
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинеко.png" group-title="Кинозал",Кинеко
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://130.193.73.10:8937/play/a03d
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Киноман.png" group-title="Кинозал",Киноман
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://178.212.71.253:8000/play/66/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кино ТВ.png" group-title="Кинозал",Кино ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ретро.png" group-title="Кинозал",Ретро
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://194.158.218.123:8880/Retrotv/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Сапфир.png" group-title="Кинозал",Сапфир
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://135.181.115.81:8000/play/a03f/index.m3u8?token=livetv
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Start Air.png" group-title="Русский кинозал",Start Air
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Дом Кино.png" group-title="Русский кинозал",Дом Кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://65.21.85.175:8000/play/a00m/index.m3u8?token=livetv
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кино 1 Int.png" group-title="Русский кинозал",Кино 1 Int
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ Сериал.png" group-title="Русский кинозал",НТВ Сериал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://cdn2.ntv.ru/th_serial/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ Хит.png" group-title="Русский кинозал",НТВ Хит
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://cdn2.ntv.ru/th_hit/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Русский бестселлер.png" group-title="Русский кинозал",Русский бестселлер
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://130.193.73.10:8937/play/a03l
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Русский детектив.png" group-title="Русский кинозал",Русский детектив
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://130.193.73.10:8937/play/a03o
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Русский иллюзион.png" group-title="Русский кинозал",Русский иллюзион
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://192.166.144.101:8000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Русский роман.png" group-title="Русский кинозал",Русский роман
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://130.193.73.10:8937/play/a03n
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Телекафе.png" group-title="Русский кинозал",Телекафе
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://45.11.139.43:8555/telekafe/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Extreme Sports.png" group-title="Спортивные",Extreme Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://109.200.130.123:7537/play/a02p
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Eurosport 1.png" group-title="Спортивные",Eurosport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Конный Мир.png" group-title="Спортивные",Конный Мир
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч!.png" group-title="Спортивные",Матч!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч!.png" group-title="Спортивные",Матч!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир баскетбола.png" group-title="Спортивные",Мир баскетбола
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://130.193.73.10:8937/play/a04m
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Танцуй!.png" group-title="Спортивные",Танцуй!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://178.212.71.253:8000/play/81/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Fight Network.png" group-title="Спортивные",Fight Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Boxing TV.png" group-title="Спортивные",Boxing TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/DAZN Combat.png" group-title="Спортивные",DAZN Combat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Swerve Sports.png" group-title="Спортивные",Swerve Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Eurosport 2.png" group-title="Спортивные" tvg-id="39",Eurosport 2
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Eurosport 2.png" group-title="Спортивные",Eurosport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/58/hls/pl.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Eurosport 2 HD ESP.png" group-title="Спортивные",Eurosport 2 HD ESP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://185.189.225.157/EuroSport2/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Конный мир HD.png" group-title="Спортивные" tvg-id="412",Конный мир HD
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Конный мир HD.png" group-title="Спортивные",Конный мир HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://cdn-01.bonus-tv.ru/kmir/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Астрахань Спорт.png" group-title="Спортивные",Астрахань Спорт
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/DIGI Sport 1.png" group-title="Спортивные",DIGI Sport 1
-http://top2new.koskoros.ru/top2/premium400/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/IMPACT Wrestling.png" group-title="Спортивные",IMPACT Wrestling
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Canal Motor.png" group-title="Спортивные",Canal Motor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Red Bull TV.png" group-title="Спортивные" tvg-id="6039",Red Bull TV
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Red Bull TV.png" group-title="Спортивные",Red Bull TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Billiard TV.png" group-title="Спортивные",Billiard TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/CBS Sports Network .png" group-title="Спортивные",CBS Sports Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="Спортивные",beIN SPORTS XTRA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Dubai Sports 1.png" group-title="Спортивные",Dubai Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Dubai Sports 2.png" group-title="Спортивные",Dubai Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Dubai Sports 3.png" group-title="Спортивные",Dubai Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч ТВ FHD.png" group-title="Спортивные",Матч ТВ FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://178.212.71.253:8002/play/a00k/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Sport 1+ HD DE.png" group-title="Спортивные",Sport 1+ HD DE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://78.130.250.2:8023/play/a02o/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Golf Channel HD US.png" group-title="Спортивные",Golf Channel HD US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://78.130.250.2:8023/play/a02q/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Sport 1.png" group-title="Спортивные",Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://78.130.250.2:8023/play/a02u/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Canal+ Sport HD PL.png" group-title="Спортивные",Canal+ Sport HD PL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://78.130.250.2:8023/play/a02v/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/CANAL+ SPORT 2 PL.png" group-title="Спортивные",CANAL+ SPORT 2 PL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://78.130.250.2:8023/play/a02w/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Nova Sport 2 HD CZ.png" group-title="Спортивные",Nova Sport 2 HD CZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://78.130.250.2:8023/play/a004/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Auto Motor Sport HD.png" group-title="Спортивные",Auto Motor Sport HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://78.130.250.2:8023/play/a018/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч!.png" group-title="Спортивные",Матч!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://130.193.73.10:8937/play/a049
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Боец.png" group-title="Спортивные",Матч! Боец
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://31.148.48.15/Match_Boec/tracks-v1a1/mono.m3u8?token=default
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Футбол 3.png" group-title="Спортивные",Матч! Футбол 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://185.57.68.33/110/mpegts
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Animal Planet.png" group-title="Познавательные",Animal Planet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://135.181.115.81:8000/play/a03i/index.m3u8?token=livetv
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Galaxy TV.png" group-title="Познавательные",Galaxy TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://31.173.165.29:8000/play/a024/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Nano.png" group-title="Познавательные",Nano
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://194.143.148.28:8080/NanoTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Top Secret.png" group-title="Познавательные",Top Secret
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://178.124.152.238:8088/sovsec
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Travel+Adventure.png" group-title="Познавательные",Travel+Adventure
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://130.193.73.10:8937/play/a026
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/TERRA.png" group-title="Познавательные",TERRA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://130.193.73.10:8937/play/a01g
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/UNIVER.png" group-title="Познавательные",UNIVER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://cdn.universmotri.ru/live/univer.sdp_1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Viju HISTORY.png" group-title="Познавательные",Viju HISTORY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://188.190.222.53/Viasat_History/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Viju NATURE.png" group-title="Познавательные",Viju NATURE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://31.173.165.29:8000/play/a016/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Вопросы и ответы.png" group-title="Познавательные",Вопросы и ответы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://178.212.71.253:8000/play/97/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ЕГЭ ТВ.png" group-title="Познавательные",ЕГЭ ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://tv.streams.baikal-telecom.net:8080/RT_DOC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Живая Планета.png" group-title="Познавательные",Живая Планета
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://130.193.73.10:8937/play/a01m
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/История.png" group-title="Познавательные",История
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://109.200.130.123:7537/play/a025
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Наука.png" group-title="Познавательные",Наука
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://178.124.152.238:8088/nauka
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ Право.png" group-title="Познавательные",НТВ Право
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://130.193.73.10:8937/play/a01s
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Моя Планета.png" group-title="Познавательные",Моя Планета
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://194.143.148.28:8080/Nauka20/mpegts
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Моя стихия.png" group-title="Познавательные",Моя стихия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://109.200.130.123:7537/play/a02f
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Поехали!.png" group-title="Познавательные",Поехали!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://91.247.68.229:8000/play/Poehali/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Просвещение.png" group-title="Познавательные",Просвещение
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Психология.png" group-title="Познавательные",Психология
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://178.212.71.253:8000/play/96/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия К.png" group-title="Познавательные",Россия К
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Техно 24.png" group-title="Познавательные",Техно 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://178.212.71.253:8000/play/63/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Wellbeing TV.png" group-title="Познавательные",Wellbeing TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://amg01492-secomsasmediart-myzen-fr-rakuten-spvgz.amagi.tv/hls/amagi_hls_data_rakutenAA-myzen-fr-rakuten/CDN/master.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Авто Плюс.png" group-title="Познавательные" tvg-id="266",Авто Плюс
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Авто Плюс.png" group-title="Познавательные",Авто Плюс
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://178.212.71.253:8000/play/69/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Моя Планета.png" group-title="Познавательные" tvg-id="339",Моя Планета
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Моя Планета.png" group-title="Познавательные",Моя Планета
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://tv.streams.baikal-telecom.net:8080/Moya_Planeta/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Просвещение.png" group-title="Познавательные" tvg-id="456",Просвещение
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Просвещение.png" group-title="Познавательные",Просвещение
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/360° Международный HD.png" group-title="Познавательные",360° Международный HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Усадьба.png" group-title="Познавательные" tvg-id="357",Усадьба
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Усадьба.png" group-title="Познавательные",Усадьба
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://194.158.218.123:8880/Usadba/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Живая природа HD.png" group-title="Познавательные" tvg-id="449",Живая природа HD
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Живая природа HD.png" group-title="Познавательные",Живая природа HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://178.212.71.253:8002/play/a00o/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кто есть кто.png" group-title="Познавательные" tvg-id="1974",Кто есть кто
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кто есть кто.png" group-title="Познавательные",Кто есть кто
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://178.212.71.253:8000/play/132/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТВ Беларусь.png" group-title="Познавательные" tvg-id="875",СТВ Беларусь
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТВ Беларусь.png" group-title="Познавательные",СТВ Беларусь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://edge50.dc.beltelecom.by/ctv/ctv.stream/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/RTG HD.png" group-title="Познавательные" tvg-id="311",RTG HD
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/RTG HD.png" group-title="Познавательные",RTG HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://tv.streams.baikal-telecom.net:8080/RTG_HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/лекторий DОСТОЕВСКИЙ.png" group-title="Познавательные",лекторий DОСТОЕВСКИЙ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ Право.png" group-title="Познавательные",НТВ Право
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Живая природа HD.png" group-title="Познавательные",Живая природа HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://178.212.71.253:8002/play/a00o/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/TERRA.png" group-title="Познавательные",TERRA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://109.200.130.123:7537/play/a02i
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/RTG TV.png" group-title="Познавательные",RTG TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://195.26.83.96:7007/play/a00n/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Охота и рыбалка.png" group-title="Познавательные",Охота и рыбалка
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://78.130.250.2:8023/play/a032/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Живая Планета.png" group-title="Познавательные",Живая Планета
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://31.148.48.15/Zhivaya_Planeta/tracks-v1a1/mono.m3u8?token=default
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Зоо ТВ.png" group-title="Познавательные",Зоо ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://31.148.48.15/Zoo_TV/tracks-v1a1/mono.m3u8?token=default
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/История.png" group-title="Познавательные",История
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://31.148.48.15/Istoriya/tracks-v1a1/mono.m3u8?token=default
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Доктор.png" group-title="Познавательные",Доктор
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://31.148.48.15/Doktor/tracks-v1a1/mono.m3u8?token=default
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Время.png" group-title="Познавательные",Время
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://31.148.48.15/Vremya/tracks-v1a1/mono.m3u8?token=default
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Авто Плюс.png" group-title="Познавательные",Авто Плюс
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://31.148.48.15/Avto_Plus/tracks-v1a1/mono.m3u8?token=default
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Naturescape.png" group-title="Познавательные",Naturescape
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://stream.ads.ottera.tv/cl/240211cn4j7g65sur7fq378vpg/1920x1080_5711200_3_f.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Бобёр.png" group-title="Хобби и увлечения",Бобёр
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://178.212.71.253:8002/play/a00m/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Диалоги о рыбалке.png" group-title="Хобби и увлечения",Диалоги о рыбалке
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://130.193.73.10:8937/play/a04q
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Доктор.png" group-title="Хобби и увлечения",Доктор
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://130.193.73.10:8937/play/a01q
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Домашние Животные.png" group-title="Хобби и увлечения",Домашние Животные
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://130.193.73.10:8937/play/a02d
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Дикая Рыбалка.png" group-title="Хобби и увлечения",Дикая Рыбалка
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://130.193.73.10:8937/play/a04p
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Дикий.png" group-title="Хобби и увлечения",Дикий
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://130.193.73.10:8937/play/a04s
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Загородная Жизнь.png" group-title="Хобби и увлечения",Загородная Жизнь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://185.57.68.33/40/mpegts
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Здоровое ТВ.png" group-title="Хобби и увлечения",Здоровое ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://194.158.218.123:8880/ZdorovoeTV/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Лапки Live.png" group-title="Хобби и увлечения",Лапки Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://91.247.68.229:8000/play/Lapki/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ Стиль.png" group-title="Хобби и увлечения",НТВ Стиль
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://cdn2.ntv.ru/th_style/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Открытый мир.png" group-title="Хобби и увлечения",Открытый мир
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://v4.proofix.ru/0mir/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Приключения.png" group-title="Хобби и увлечения",Приключения
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://tvip.btk.teleos.ru:8081/chid142/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Светлое ТВ.png" group-title="Хобби и увлечения",Светлое ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://176.107.219.20:9000/play/a009/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Точка Отрыва.png" group-title="Хобби и увлечения",Точка Отрыва
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://130.193.73.10:8937/play/a021
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Усадьба.png" group-title="Хобби и увлечения",Усадьба
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://130.193.73.10:8937/play/a024
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/12 Канал.png" group-title="Региональные",12 Канал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://gtrkomsk-live.cdnvideo.ru/gtrkomsk/gtrkomsk.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Астрахань 24.png" group-title="Региональные",Астрахань 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://astrakhan24.mediacdn.ru:80/cdn/astrakhan24/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Башкортостан 24.png" group-title="Региональные",Башкортостан 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/БСТ.png" group-title="Региональные",БСТ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Вектор 24.png" group-title="Региональные",Вектор 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://136723.edgevideo.ru/streams/136723_657205/720n/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ветта 24.png" group-title="Региональные",Ветта 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Волга.png" group-title="Региональные",Волга
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Волгоград 24.png" group-title="Региональные",Волгоград 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/volgograd24-hd/track_103_aa662c17/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Восток 24.png" group-title="Региональные",Восток 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Губерния.png" group-title="Региональные",Губерния
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Енисей.png" group-title="Региональные",Енисей
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Запад 24.png" group-title="Региональные",Запад 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Краснодар.png" group-title="Региональные",Краснодар
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кубань 24.png" group-title="Региональные",Кубань 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мордовия 24.png" group-title="Региональные",Мордовия 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/МТВ.png" group-title="Региональные",МТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НВК Саха.png" group-title="Региональные",НВК Саха
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Нижний Новгород 24.png" group-title="Региональные",Нижний Новгород 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://live-vestinn.cdnvideo.ru/vestinn/nn24/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Новый Век.png" group-title="Региональные",Новый Век
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/РТВ.png" group-title="Региональные",РТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://e10-ll.facecast.net/rtv/0.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Своё ТВ.png" group-title="Региональные",Своё ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://svoetv.mediacdn.ru/cdn/svoetv/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/С1.png" group-title="Региональные",С1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://sitv.ru/hls/stv1024.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Саров 24.png" group-title="Региональные",Саров 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://serv30.vintera.tv:8081/sarov/sarov_stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ЮУрГУ.png" group-title="Региональные",ЮУрГУ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://tvrlive.susu.ru/1800k/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Байкал Универ ТВ.png" group-title="Региональные",Байкал Универ ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://stream01.bgu.ru/1/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ЮУрГУ-ТВ.png" group-title="Региональные",ЮУрГУ-ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://tvrlive.susu.ru/1800k/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Белгород 24.png" group-title="Региональные",Белгород 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/12 КАНАЛ (ОМСК).png" group-title="Региональные",12 КАНАЛ (ОМСК)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТВК (Красноярск).png" group-title="Региональные",ТВК (Красноярск)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Раменское ТВ.png" group-title="Региональные",Раменское ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://e10-ll.facecast.net/rtv/0.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТРК 555 HD.png" group-title="Региональные",ТРК 555 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://trk555.tv:8888/live
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Тамыр.png" group-title="Региональные",Тамыр
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://bsttv.bonus-tv.ru/cdn/tamyr/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/БСТ.png" group-title="Региональные",БСТ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Курай TV.png" group-title="Региональные",Курай TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://bsttv.bonus-tv.ru/cdn/kurai/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Салям.png" group-title="Региональные",Салям
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Осетия-Ирыстон.png" group-title="Региональные",Осетия-Ирыстон
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://catchup.videoline.ru/iriston/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/С1 Сургут 86.png" group-title="Региональные",С1 Сургут 86
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://sitv.ru/hls/s86512.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/С1 Сургут HD.png" group-title="Региональные",С1 Сургут HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://sitv.ru/vgtrk/stv.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ЮГРА.png" group-title="Региональные",ЮГРА
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://live-ugratv.cdnvideo.ru/ugratv/ugratv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТОЛК.png" group-title="Региональные",ТОЛК
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://live-tolknews.cdnvideo.ru/tolknews/stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Краснодар HD.png" group-title="Региональные",Краснодар HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Алания 24.png" group-title="Региональные",Алания 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://hls-alaniatv.cdnvideo.ru/alaniatv/alania1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Запад 24 HD.png" group-title="Региональные",Запад 24 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://live-vestikaliningrad.cdnvideo.ru/vestikaliningrad/vestikaliningrad.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый Ярославский.png" group-title="Региональные",Первый Ярославский
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Своё ТВ.png" group-title="Региональные",Своё ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://svoetv.mediacdn.ru/cdn/svoetv/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Архыз 24.png" group-title="Региональные",Архыз 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТК ИНГУШЕТИЯ.png" group-title="Региональные",НТК ИНГУШЕТИЯ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/РГВК Дагестан.png" group-title="Региональные",РГВК Дагестан
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Таврия ТВ.png" group-title="Региональные",Таврия ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://tavr.mediacdn.ru/cdn/tavria/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Грозный.png" group-title="Региональные",Грозный
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый Тульский.png" group-title="Региональные",Первый Тульский
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://5.164.24.83/tula/1tv_hi/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Тверской Проспект Регион.png" group-title="Региональные",Тверской Проспект Регион
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://stream.fastlnk.ru:88/Tverskojj_prospekt/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Щелковское ТВ.png" group-title="Региональные",Щелковское ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://stream0.tv41.ru/live.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Теледом ТВ HD.png" group-title="Региональные",Теледом ТВ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/МТВ(Волгоград).png" group-title="Региональные",МТВ(Волгоград)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НВК Саха HD.png" group-title="Региональные",НВК Саха HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Евразия Орск.png" group-title="Региональные",Евразия Орск
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://live2-orsk.cdnvideo.ru/orsk-infochhd/infochhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Аист ТВ.png" group-title="Региональные",Аист ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Астрахань 24.png" group-title="Региональные",Астрахань 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Тюменское Время.png" group-title="Региональные",Тюменское Время
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://hls-sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ника ТВ.png" group-title="Региональные",Ника ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ННТВ.png" group-title="Региональные",ННТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://live-nntv2.cdnvideo.ru/nntv2/cfd99gu0ai_nntv_tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/TV ГУБЕРНИЯ.png" group-title="Региональные",TV ГУБЕРНИЯ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Эхо ТВ.png" group-title="Региональные",Эхо ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Эхо ТВ 24.png" group-title="Региональные",Эхо ТВ 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://stream.novouralsk-news.ru/echotv24/echotv24-576p.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/12 Канал.png" group-title="Региональные",12 Канал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Sochi Live HD.png" group-title="Региональные" tvg-id="194",Sochi Live HD
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Sochi Live HD.png" group-title="Региональные",Sochi Live HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Алмазный край.png" group-title="Региональные" tvg-id="196",Алмазный край
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Алмазный край.png" group-title="Региональные",Алмазный край
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://stream.almaz-media.tv:8080/hls/720.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Sochi Live HD.png" group-title="Региональные" tvg-id="194",Sochi Live HD
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Sochi Live HD.png" group-title="Региональные",Sochi Live HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Авторадио.png" group-title="Радио",Авторадио
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://ic7.101.ru:8000/v3_1
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Дорожное Радио.png" group-title="Радио",Дорожное Радио
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://emgregion.hostingradio.ru:8064/moscow.dorognoe.mp3
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Наше радио.png" group-title="Радио",Наше радио
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://nashe1.hostingradio.ru:80/nashe-256
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Радио Маяк.png" group-title="Радио",Радио Маяк
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://icecast.vgtrk.cdnvideo.ru/mayakfm
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Радио Мир.png" group-title="Радио",Радио Мир
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://icecast-mirtv.cdnvideo.ru:8000/radio_mir_256
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Радио на семи холмах.png" group-title="Радио",Радио на семи холмах
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://emgregion.hostingradio.ru:8064/moscow.radio7.mp3
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Радио Романтика.png" group-title="Радио",Радио Романтика
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://ic7.101.ru:8000/v4_1
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Радио Шансон.png" group-title="Радио",Радио Шансон
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://chanson.hostingradio.ru:8041/chanson256.mp3
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Радио Ваня.png" group-title="Радио",Радио Ваня
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://icecast-radiovanya.cdnvideo.ru:8000/radiovanya
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ретро FM.png" group-title="Радио",Ретро FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Хит FM.png" group-title="Радио",Хит FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://hitfm.hostingradio.ru/hitfm128.mp3
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Юмор FM.png" group-title="Радио",Юмор FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://ic7.101.ru:8000/v5_1
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Конгресс ТВ.png" group-title="Эфирные" tvg-id="9078",Конгресс ТВ
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Конгресс ТВ.png" group-title="Эфирные",Конгресс ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://live-3.otcnet.ru/congresstv/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/TV BRICS.png" group-title="Эфирные" tvg-id="447",TV BRICS
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/TV BRICS.png" group-title="Эфирные",TV BRICS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://rusbrics.mediacdn.ru/cdn/brics/russian/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Звезда Плюс HD.png" group-title="Эфирные" tvg-id="1331",Звезда Плюс HD
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Звезда Плюс HD.png" group-title="Эфирные",Звезда Плюс HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый Крымский.png" group-title="Эфирные" tvg-id="238",Первый Крымский
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый Крымский.png" group-title="Эфирные",Первый Крымский
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://live1.trkcrimea.ru/1tvcrimea.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Красная линия.png" group-title="Эфирные" tvg-id="335",Красная линия
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Красная линия.png" group-title="Эфирные",Красная линия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир Белогорья.png" group-title="Эфирные" tvg-id="223",Мир Белогорья
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир Белогорья.png" group-title="Эфирные",Мир Белогорья
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BELG_MIR_BLG/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/РБК HD.png" group-title="Новости" tvg-id="291",РБК HD
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/РБК HD.png" group-title="Новости",РБК HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ОСН ТВ.png" group-title="Новости",ОСН ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Про бизнес.png" group-title="Новости" tvg-id="290",Про бизнес
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Про бизнес.png" group-title="Новости",Про бизнес
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://176.107.219.20:9000/play/a003/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/DW Russia.png" group-title="Новости",DW Russia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/DW Europe.png" group-title="Новости",DW Europe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Настоящее время HD.png" group-title="Новости" tvg-id="1106",Настоящее время HD
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Настоящее время HD.png" group-title="Новости",Настоящее время HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/360 Новости.png" group-title="Новости" tvg-id="4458",360 Новости
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/360 Новости.png" group-title="Новости",360 Новости
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/РЖД HD.png" group-title="Новости",РЖД HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Вместе-РФ.png" group-title="Новости" tvg-id="282",Вместе-РФ
-http://cdn-01.bonus-tv.ru:80/vmesterf/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Крым 24.png" group-title="Новости" tvg-id="2474",Крым 24
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Крым 24.png" group-title="Новости",Крым 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://live24.trkcrimea.ru/24tvcrimea.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/FOX NEWS CHANNEL FHD.png" group-title="Новости" tvg-id="6683",FOX NEWS CHANNEL FHD
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/FOX NEWS CHANNEL FHD.png" group-title="Новости",FOX NEWS CHANNEL FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Китай ТВ.png" group-title="Кино и сериалы",Китай ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинохит.png" group-title="Кино и сериалы" tvg-id="118",Кинохит
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинохит.png" group-title="Кино и сериалы",Кинохит
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://178.212.71.253:8000/play/123/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Киносемья.png" group-title="Кино и сериалы" tvg-id="123",Киносемья
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Киносемья.png" group-title="Кино и сериалы",Киносемья
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://178.212.71.253:8000/play/127/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Киносвидание.png" group-title="Кино и сериалы" tvg-id="122",Киносвидание
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Киносвидание.png" group-title="Кино и сериалы",Киносвидание
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://178.212.71.253:8000/play/122/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Киномикс.png" group-title="Кино и сериалы" tvg-id="120",Киномикс
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Киномикс.png" group-title="Кино и сериалы",Киномикс
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://178.212.71.253:8000/play/70/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Киносерия HD.png" group-title="Кино и сериалы" tvg-id="1490",Киносерия HD
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Киносерия HD.png" group-title="Кино и сериалы",Киносерия HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://178.212.71.253:8000/play/64/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Киноужас HD.png" group-title="Кино и сериалы" tvg-id="509",Киноужас HD
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Киноужас HD.png" group-title="Кино и сериалы",Киноужас HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://178.212.71.253:8000/play/133/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Наше новое кино.png" group-title="Кино и сериалы" tvg-id="132",Наше новое кино
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Наше новое кино.png" group-title="Кино и сериалы",Наше новое кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://178.212.71.253:8002/play/a00i/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинокомедия.png" group-title="Кино и сериалы" tvg-id="119",Кинокомедия
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинокомедия.png" group-title="Кино и сериалы",Кинокомедия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://178.212.71.253:8000/play/85/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Индийское кино.png" group-title="Кино и сериалы" tvg-id="115",Индийское кино
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Индийское кино.png" group-title="Кино и сериалы",Индийское кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://188.113.190.12/329/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Родное кино.png" group-title="Кино и сериалы" tvg-id="514",Родное кино
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Родное кино.png" group-title="Кино и сериалы",Родное кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://178.212.71.253:8000/play/136/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мужское Кино.png" group-title="Кино и сериалы" tvg-id="128",Мужское Кино
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мужское Кино.png" group-title="Кино и сериалы",Мужское Кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://178.212.71.253:8000/play/126/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ВидеоКассета VHS.png" group-title="Кинозалы" tvg-id="6005",ВидеоКассета VHS
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ВидеоКассета VHS.png" group-title="Кинозалы",ВидеоКассета VHS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://132544.edgevideo.ru/streams/132544_806129/1325441080/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ВидеоКассета Киномир.png" group-title="Кинозалы",ВидеоКассета Киномир
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Смотрим Кино и сериалы.png" group-title="Кинозалы",Смотрим Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Шоу Бенни Хилла.png" group-title="Кинозалы",Шоу Бенни Хилла
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba62/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мистер Бин.png" group-title="Кинозалы",Мистер Бин
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba45/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Star Media.png" group-title="Кинозалы",Star Media
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Документалка 1.png" group-title="Кинозалы",Документалка 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba28/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Документалка 2.png" group-title="Кинозалы",Документалка 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba29/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Документалка 3.png" group-title="Кинозалы",Документалка 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba38/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Retrovision.png" group-title="Кинозалы",Retrovision
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba-rvision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Retrovision Motor.png" group-title="Кинозалы",Retrovision Motor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba-rvisionmotor/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Retrovision Movies.png" group-title="Кинозалы",Retrovision Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Retrovision Classic.png" group-title="Кинозалы",Retrovision Classic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba-rvisionclassic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Retrovision Кинопанорама.png" group-title="Кинозалы",Retrovision Кинопанорама
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/SPOOPS.png" group-title="Кинозалы",SPOOPS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba46/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинозалы 1.png" group-title="Кинозалы",Кинозалы 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba13/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинозалы 2.png" group-title="Кинозалы",Кинозалы 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba14/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинозалы 3.png" group-title="Кинозалы",Кинозалы 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинозалы 4.png" group-title="Кинозалы",Кинозалы 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba26/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинозалы 5.png" group-title="Кинозалы",Кинозалы 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba-films-b/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинозалы 6.png" group-title="Кинозалы",Кинозалы 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинозалы 7.png" group-title="Кинозалы",Кинозалы 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba-films-d/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинозалы 8.png" group-title="Кинозалы",Кинозалы 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba-films-e/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинозалы 9.png" group-title="Кинозалы",Кинозалы 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba-films-f/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинозалы 10.png" group-title="Кинозалы",Кинозалы 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba-films-g/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинозалы 11.png" group-title="Кинозалы",Кинозалы 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba-films-h/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинозалы 12.png" group-title="Кинозалы",Кинозалы 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba-films-i/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинозалы 13.png" group-title="Кинозалы",Кинозалы 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba-films-j/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинозалы 14.png" group-title="Кинозалы",Кинозалы 14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba-films-m/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинозалы 15.png" group-title="Кинозалы",Кинозалы 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba-films-p/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинозалы 16.png" group-title="Кинозалы",Кинозалы 16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba-films-t/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинозалы 17.png" group-title="Кинозалы",Кинозалы 17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba-films-yz/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинозалы 18.png" group-title="Кинозалы",Кинозалы 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba-films-n/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинозалы 19.png" group-title="Кинозалы",Кинозалы 19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba-films-qr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинозалы 20.png" group-title="Кинозалы",Кинозалы 20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba-films-uv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинозалы 21.png" group-title="Кинозалы",Кинозалы 21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba-films-o/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинозалы 22.png" group-title="Кинозалы",Кинозалы 22
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba-films-s/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинозалы 23.png" group-title="Кинозалы",Кинозалы 23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba-films-w/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинозалы 24.png" group-title="Кинозалы",Кинозалы 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинозалы 25.png" group-title="Кинозалы",Кинозалы 25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинозалы 26.png" group-title="Кинозалы",Кинозалы 26
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba-rfilrms-b/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинозалы 27.png" group-title="Кинозалы",Кинозалы 27
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba-rfilrms-c/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинозалы 28.png" group-title="Кинозалы",Кинозалы 28
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинозалы 29.png" group-title="Кинозалы",Кинозалы 29
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba-rfilrms-e/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинозалы 30.png" group-title="Кинозалы",Кинозалы 30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинозалы 31.png" group-title="Кинозалы",Кинозалы 31
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинозалы 32.png" group-title="Кинозалы",Кинозалы 32
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba-rfilrms-k/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинозалы 33.png" group-title="Кинозалы",Кинозалы 33
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba-rfilrms-p/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинозалы 34.png" group-title="Кинозалы",Кинозалы 34
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинозалы 35.png" group-title="Кинозалы",Кинозалы 35
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинозалы 36.png" group-title="Кинозалы",Кинозалы 36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba64/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинозалы 37.png" group-title="Кинозалы",Кинозалы 37
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba65/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Gameplay.png" group-title="Кинозалы",Gameplay
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba31/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Gameplay трейлеры.png" group-title="Кинозалы",Gameplay трейлеры
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba44/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/11x1.png" group-title="Кинозал Top Gear",11x1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://s2.gencit.info/vod/films/top_gear__11x01_73857/hls/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/16 x спецвыпуск.png" group-title="Кинозал Top Gear",16 x спецвыпуск
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://s3.gencit.info/vod/films/top.gir.16.sezon.01.seriya.iz.06.2011.xvid.tvrip_240446/hls/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/16x2.png" group-title="Кинозал Top Gear",16x2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://s3.gencit.info/vod/films/top.gir.16.sezon.02.seriya.iz.06.2011.xvid.tvrip_240447/hls/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/16x3.png" group-title="Кинозал Top Gear",16x3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://s3.gencit.info/vod/films/top.gir.16.sezon.03.seriya.iz.06.2011.xvid.tvrip_240448/hls/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/16x4.png" group-title="Кинозал Top Gear",16x4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://s3.gencit.info/vod/films/top.gir.16.sezon.04.seriya.iz.06.2011.xvid.tvrip_240449/hls/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/16x5.png" group-title="Кинозал Top Gear",16x5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://s3.gencit.info/vod/films/top.gir.16.sezon.05.seriya.iz.06.2011.xvid.tvrip_240450/hls/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/16x6.png" group-title="Кинозал Top Gear",16x6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://s3.gencit.info/vod/films/top.gir.16.sezon.06.seriya.iz.06.2011.xvid.tvrip_240451/hls/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Fashion 4K.png" group-title="Fashion" tvg-id="1184",Fashion 4K
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Fashion 4K.png" group-title="Fashion",Fashion 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Fashion TV HD.png" group-title="Fashion" tvg-id="2491",Fashion TV HD
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Fashion TV HD.png" group-title="Fashion",Fashion TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/World Fashion.png" group-title="Fashion",World Fashion
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Fashion Czech & Slovak.png" group-title="Fashion",Fashion Czech & Slovak
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/FTV Midnite Secrets HD.png" group-title="Fashion",FTV Midnite Secrets HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/World Fashion Channel En.png" group-title="Fashion" tvg-id="428",World Fashion Channel En
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/World Fashion Channel En.png" group-title="Fashion",World Fashion Channel En
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/World Fashion Channel.png" group-title="Fashion" tvg-id="428",World Fashion Channel
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/World Fashion Channel.png" group-title="Fashion",World Fashion Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Fashion TV Africa.png" group-title="Fashion",Fashion TV Africa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мода 1.png" group-title="Fashion",Мода 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba-t8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мода 2.png" group-title="Fashion",Мода 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba-m6/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мода 3.png" group-title="Fashion",Мода 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba-m7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мода 4.png" group-title="Fashion",Мода 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba-m8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мода 5.png" group-title="Fashion",Мода 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba-m9/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мода 6.png" group-title="Fashion",Мода 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://fl1001.bozztv.com/ushba-m1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Неизвестная Россия.png" group-title="Российские",Неизвестная Россия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ HD.png" group-title="Российские",НТВ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ HD.png" group-title="Российские",НТВ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ +1.png" group-title="Российские",НТВ +1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://cdn.ntv.ru/ntv1/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ +2.png" group-title="Российские",НТВ +2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://cdn.ntv.ru/ntv2/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ +4.png" group-title="Российские",НТВ +4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://cdn.ntv.ru/ntv4/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ +7.png" group-title="Российские",НТВ +7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://cdn.ntv.ru/ntv7/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/РБК.png" group-title="Российские",РБК
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://online.video.rbc.ru/online2/rbctv_1080p/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТВЦ.png" group-title="Российские",ТВЦ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 HD.png" group-title="Российские",Россия 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://178.212.71.253:8002/play/a00w/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Москва 24.png" group-title="Российские",Москва 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://195.26.83.96:7007/play/a008/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Звезда Плюс.png" group-title="Российские",Звезда Плюс
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Звезда Плюс HD.png" group-title="Российские",Звезда Плюс HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ОТР.png" group-title="Российские",ОТР
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_OTR/variant.m3u8?version=3#parser
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/RT.png" group-title="Российские",RT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://31.148.48.15/RT_HD/tracks-v1a1/mono.m3u8?token=default
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Смотрим.png" group-title="Российские",Смотрим
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ Хит.png" group-title="Фильмовые",НТВ Хит
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ Сериал.png" group-title="Фильмовые",НТВ Сериал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кино и сериалы.png" group-title="Фильмовые",Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НАШЕ НОВОЕ КИНО.png" group-title="Фильмовые",НАШЕ НОВОЕ КИНО
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://178.212.71.253:8002/play/a00i/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/КИНОКОМЕДИЯ.png" group-title="Фильмовые",КИНОКОМЕДИЯ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://178.212.71.253:8002/play/a00j/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Bollywood HD.png" group-title="Фильмовые",Bollywood HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://178.212.71.253:8002/play/a00t/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мосфильм. Золотая коллекция.png" group-title="Фильмовые",Мосфильм. Золотая коллекция
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://130.193.73.10:8937/play/a03i
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/HBO BR.png" group-title="Фильмовые",HBO BR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://78.130.250.2:8023/play/a02s/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Дорама.png" group-title="Фильмовые",Дорама
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://109.200.130.123:7537/play/a02n
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Дом Кино.png" group-title="Фильмовые",Дом Кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://31.148.48.15/Dom_Kino/tracks-v1a1/mono.m3u8?token=default
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Дом Кино Премиум HD.png" group-title="Фильмовые",Дом Кино Премиум HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://31.148.48.15/Dom_Kino_Premium_HD/tracks-v1a1/mono.m3u8?token=default
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Еврокино.png" group-title="Фильмовые",Еврокино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://31.148.48.15/Evrokino/tracks-v1a1/mono.m3u8?token=default
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/КИНО ТВ.png" group-title="Фильмовые",КИНО ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://31.148.48.15/Kino_TV/tracks-v1a1/mono.m3u8?token=default
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кино ТВ HD.png" group-title="Фильмовые",Кино ТВ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://31.148.48.15/Kino_TV_HD/tracks-v1a1/mono.m3u8?token=default
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинопоказ.png" group-title="Фильмовые",Кинопоказ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://31.148.48.15/Kinopokaz/tracks-v1a1/mono.m3u8?token=default
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинеко.png" group-title="Фильмовые",Кинеко
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://31.148.48.15/Kineko/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/УЖАСТИК HD.png" group-title="Фильмовые",УЖАСТИК HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://92.53.64.197:5050/IPTVPLAYUZHASTIK.tv/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ФАНТАСТИКА HD.png" group-title="Фильмовые",ФАНТАСТИКА HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://92.53.64.197:5050/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ОСН.png" group-title="Другие",ОСН
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/TV Pro.png" group-title="Другие",TV Pro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТСВ.png" group-title="Другие",ТСВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://iptv-hls.idc.md/hls/2/live2.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТРК Круг.png" group-title="Другие",ТРК Круг
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr/krugod/krugod/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Тивиком.png" group-title="Другие",Тивиком
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://tvcom.stream.intelema.ru/tvcom/studio/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Репортер.png" group-title="Другие",Репортер
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Univer TV HD.png" group-title="Другие",Univer TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://cdn.universmotri.ru/live/smil:univer.smil/chunklist_w911267907_b3628000_slru.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Миллет.png" group-title="Другие",Миллет
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://live.trkmillet.ru/millet/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Tv Brics.png" group-title="Другие",Tv Brics
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Brodilo TV.png" group-title="Другие",Brodilo TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://brodilo.tv/brodilotv.m3u
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/TBN BALTIA.png" group-title="Другие",TBN BALTIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://dc.tbnbaltia.eu:8088/dvr/tracks-v1a1/rewind-21600.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Радость моя.png" group-title="Другие",Радость моя
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Красная линия.png" group-title="Другие",Красная линия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТМ HD.png" group-title="Другие",НТМ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТС HD.png" group-title="Другие",НТС HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТМ.png" group-title="Другие",НТМ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/РЖД ТВ.png" group-title="Другие",РЖД ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://hls-tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Наш Дом.png" group-title="Другие",Наш Дом
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://85.234.33.63/stream/c11.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Хузур ТВ.png" group-title="Другие",Хузур ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/NEXO.png" group-title="Другие",NEXO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://rafail1982.uz/nexo2.mp4
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Galaxy.png" group-title="Другие",Galaxy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://195.26.83.96:7007/play/a00j/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Channel a00m.png" group-title="Другие",Channel a00m
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://195.26.83.96:7007/play/a00m/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ Хит.png" group-title="Другие",НТВ Хит
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://130.193.73.10:8937/play/a03f
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Channel a03m.png" group-title="Другие",Channel a03m
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://130.193.73.10:8937/play/a03m
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Дорама.png" group-title="Другие",Дорама
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://130.193.73.10:8937/play/a03v
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Channel a001.png" group-title="Другие",Channel a001
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://130.193.73.10:8937/play/a001
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Оплот.png" group-title="Другие",Оплот
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://130.193.73.10:8937/play/a003
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Оплот 2.png" group-title="Другие",Оплот 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://130.193.73.10:8937/play/a004
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Channel a038.png" group-title="Другие",Channel a038
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://130.193.73.10:8937/play/a038
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Channel a040.png" group-title="Другие",Channel a040
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://130.193.73.10:8937/play/a040
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/First Channel News.png" group-title="Другие",First Channel News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://amtvusdvr.tulix.tv/am3abr/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/SONGTV Armenia.png" group-title="Другие",SONGTV Armenia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://songtv.hls.iptvdc.com/web-armenia/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/SONG TV RUSSIA .png" group-title="Другие",SONG TV RUSSIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://songtv.hls.iptvdc.com/web-russia/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Channel 9104.png" group-title="Другие",Channel 9104
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://api.alpaca.t62a.com/hls/9104/stream0.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/TV Rus.png" group-title="Другие",TV Rus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://api.alpaca.t62a.com/hls/9106/stream0.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Channel 9108.png" group-title="Другие",Channel 9108
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://api.alpaca.t62a.com/hls/9108/stream0.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Kaufbei TV.png" group-title="Другие",Kaufbei TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://api.alpaca.t62a.com/hls/9111/stream0.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Channel 9112.png" group-title="Другие",Channel 9112
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://api.alpaca.t62a.com/hls/9112/stream0.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кнопка TV.png" group-title="Другие",Кнопка TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://api.alpaca.t62a.com/hls/9116/stream0.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/TV Rus.png" group-title="Другие",TV Rus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://api.alpaca.t62a.com/hls/9121/stream0.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Channel 232.png" group-title="Другие",Channel 232
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://185.57.68.33/232/mpegts
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Channel 233.png" group-title="Другие",Channel 233
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://185.57.68.33/233/mpegts
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Channel 236.png" group-title="Другие",Channel 236
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://185.57.68.33/236/mpegts
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Channel 237.png" group-title="Другие",Channel 237
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://185.57.68.33/237/mpegts
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Channel 240.png" group-title="Другие",Channel 240
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://185.57.68.33/240/mpegts
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/RTG.png" group-title="Другие",RTG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://31.148.48.15/RTG/tracks-v1a1/mono.m3u8?token=default
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/RU TV.png" group-title="Другие",RU TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://31.148.48.15/RU_TV/tracks-v1a1/mono.m3u8?token=default
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Бокс ТВ.png" group-title="Другие",Бокс ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://31.148.48.15/Boks_TV/tracks-v1a1/mono.m3u8?token=default
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/А 1.png" group-title="Другие",А 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://31.148.48.15/A1/tracks-v1a1/mono.m3u8?token=default
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/А 2.png" group-title="Другие",А 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://31.148.48.15/A2/tracks-v1a1/mono.m3u8?token=default
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Русский бестселлер.png" group-title="Другие",Русский бестселлер
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://31.148.48.15/Russkiy_Bestseller/tracks-v1a1/mono.m3u8?token=default
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Твое ТВ Юмор HD.png" group-title="Другие",Твое ТВ Юмор HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://84.38.180.145:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Память HD.png" group-title="Другие",Память HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://92.53.64.197:5050/IPTVPLAYPAMYAT.tv/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Promo HD.png" group-title="Другие",Promo HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://92.53.64.197:5050/IPTVPLAYPROMO.tv/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Тротек.png" group-title="Другие",Тротек
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://trotek.keenetic.pro/play.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/.black.png" group-title="Другие",.black
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://109.200.130.123:7537/play/a02s
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/TVM Channel.png" group-title="Другие",TVM Channel
-http://cdn-01.bonus-tv.ru/tvm_edge/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/360 Новости.png" group-title="Другие" tvg-id="4458",360 Новости
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/360 Новости.png" group-title="Другие",360 Новости
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
+
