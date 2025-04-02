@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.one/epg.xml,http://epg.cdntv.online/lite.xml.gz"<script src="/inclusive1.js"></script>
+#EXTM3U url-tvg="http://epg.one/epg.xml,http://epg.cdntv.online/lite.xml.gz"
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/РЖД ТВ.png" group-title="Российские",РЖД ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8
