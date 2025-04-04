@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://epg.one/epg.xml,http://epg.cdntv.online/lite.xml.gz"
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый канал -1.png" group-title="Российские",Первый канал -1
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый канал.png" group-title="Российские",Первый канал -1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/T2/CH_1TV-1.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый канал.png" group-title="Российские" tvg-id="1",Первый канал
@@ -23,7 +23,7 @@ http://dmi3y-tv.ru/hls/T2/CH_1TV_8.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый канал +9.png" group-title="Российские",Первый канал +9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/T2/CH_1TV_9.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 -1.png" group-title="Российские",Россия 1 -1
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1.png" group-title="Российские",Россия 1 -1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/T2/CH_RUSSIA1-1.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1.png" group-title="Российские" tvg-id="2",Россия 1
@@ -68,7 +68,7 @@ http://dmi3y-tv.ru/hls/T2/CH_RUSSIA1_9.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 HD +9.png" group-title="Российские",Россия 1 HD +9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD_9.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ -1.png" group-title="Российские",НТВ -1
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ.png" group-title="Российские",НТВ -1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/T2/CH_NTV-1.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ.png" group-title="Российские" tvg-id="4",НТВ
@@ -89,7 +89,7 @@ http://dmi3y-tv.ru/hls/T2/CH_NTV_6.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ +7.png" group-title="Российские" tvg-id="3028",НТВ +7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/T2/CH_NTV_7.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Пятый канал -1.png" group-title="Российские",Пятый канал -1
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Пятый канал.png" group-title="Российские",Пятый канал -1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/T2/CH_5TV-1.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Пятый канал.png" group-title="Российские" tvg-id="5",Пятый канал
@@ -107,7 +107,7 @@ http://dmi3y-tv.ru/hls/T2/CH_5TV_6.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Пятый канал +7.png" group-title="Российские",Пятый канал +7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/T2/CH_5TV_7.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия К -1.png" group-title="Российские",Россия К -1
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия К.png" group-title="Российские",Россия К -1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/T2/CH_RUSSIAK-1.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия К.png" group-title="Российские" tvg-id="6",Россия К
