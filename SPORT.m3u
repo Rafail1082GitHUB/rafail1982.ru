@@ -1,501 +1,314 @@
-#EXTM3U url-tvg="http://epg.one/epg.xml,http://epg.cdntv.online/lite.xml.gz"
+#EXTM3U The playlist was created in "IPTV PLAYLIST CHECKER" https://play.google.com/store/apps/details?id=runapp.iptv 
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/football.png" group-title="NEXO",NEXO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://rafail1982.uz/nexo2.mp4
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/football.png" group-title="Спортивные",ТЕЛЕКАНАЛ ФУТБОЛ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://217.19.214.39:8200/hls/77/live1.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/football.png" group-title="Спортивные",OnlineTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://185.221.213.254:8080/Okko/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Футбол 1.png" group-title="Спортивные",Матч! Футбол 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://31.148.48.15/Match_Futbol_1_HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Футбол 2.png" group-title="Спортивные",Матч! Футбол 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://31.148.48.15/Match_Futbol_2_HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Футбол 3.png" group-title="Спортивные",Матч! Футбол 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://185.57.68.33/110/mpegts
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Планета.png" group-title="Спортивные",Матч! Планета
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://82.215.111.227/1049/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Setanta Sports 1 HD.png" group-title="Спортивные",Setanta Sports 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://82.215.111.227/1263/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Setanta Sports 2 HD.png" group-title="Спортивные",Setanta Sports 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://82.215.111.227/1264/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Удар.png" group-title="Спортивные",Удар
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://tv.movielab.pro/4111/video.m3u8?token=97792aaf238c4d102a5f67fc450aee364a3f3ccd-caa3d7ea430cfbc08442c99c19bc488d-1745138625-1745052225
 #EXTINF:-1 tvg-logo="http://i120.fastpic.org/big/2022/1002/60/2f8a8f9c961b16485098b28ba00c7b60.png" group-title="Спортивные",UFC Network
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cnn.sherdog.com/image_crop/300/300/_images/organizations/20221021093354_United_Fight_Alliance.JPG" group-title="Спортивные",UFA TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
 #EXTINF:-1 tvg-logo="http://cams-online.ru/static/home/img/thumbnails/channels/boxing-tv.jpg" group-title="Спортивные",Boxing TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8
 #EXTINF:-1 tvg-logo="http://www.ediscom.it/img/clienti/loghi/dazn.svg" group-title="Спортивные",DAZN Combat
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="http://sun9-41.userapi.com/Ek4K0P7a3IKapjSOkoZgX8AtFwhk1oeFNzrACg/NmkYA3KKOU8.jpg" group-title="Спортивные",Glory Kickboxing
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.pinimg.com/736x/c6/52/12/c6521293a214c420a7a61d9bff924234.jpg" group-title="Спортивные",Turbo Sports Network
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://apollo.production-public.tubi.io/live/ac-fubo.m3u8
 #EXTINF:-1 tvg-logo="http://swerveplay.com/cdn/shop/files/logo-large_d7d2e650-ea68-4bff-9905-91a253de0e4e_130x@2x.png?v=1663096800" group-title="Спортивные",Swerve Sports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/БОКС ТВ.png" group-title="Спортивные",БОКС ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
-http://5.166.64.254:81/udp/225.0.55.50:1234
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/БОКС ТВ HD.png" group-title="Спортивные",БОКС ТВ HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://mhd128.iptv2022.com/p/MUXIFwqVXwf8PEQWRYF5iw,1745096412/streaming/bokstv/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/M-1 Global.png" group-title="Спортивные",M-1 Global
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://stream-msk-10.ott.tricolor.tv/dtv/id524_MSKSG-PVR-1--M1_Global/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NTIwMjU4NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ0NTk3Nzg1LCJzZXNzaW9uX2lkIjoiZmNjZmEyYmIyMTMwOTBkNzZiOWEyMGY3MmM4NjQ4NDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.E96GI_YQPBxXPy-WE_BTpJNMYXaIivzIQ2r-zcbkz6w
 #EXTINF:-1 tvg-logo="http://epg.iptvx.one/picons/poedinok.png" group-title="Спортивные",Поединок HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://stream-msk-08.ott.tricolor.tv/dtv/id629_MSKSG-PVR-1--Channel_LIVE2/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NTIwMjU4NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ0NTk3Nzg1LCJzZXNzaW9uX2lkIjoiZmNjZmEyYmIyMTMwOTBkNzZiOWEyMGY3MmM4NjQ4NDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.E96GI_YQPBxXPy-WE_BTpJNMYXaIivzIQ2r-zcbkz6w
 #EXTINF:-1 tvg-logo="http://epg.iptvx.one/picons/sportmaster-tv.png" group-title="Спортивные",Спортмастер ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://stream-msk-09.ott.tricolor.tv/dtv/id628_MSKSG-PVR-1--Channel_LIVE1/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NTIwMjU4NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ0NTk3Nzg1LCJzZXNzaW9uX2lkIjoiZmNjZmEyYmIyMTMwOTBkNzZiOWEyMGY3MmM4NjQ4NDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.E96GI_YQPBxXPy-WE_BTpJNMYXaIivzIQ2r-zcbkz6w
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Сила.png" group-title="Спортивные",Сила
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://stream-msk-04.ott.tricolor.tv/dtv/id633_MSKSG-PVR-1--Channel_LIVE5/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NTIwMjU4NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ0NTk3Nzg1LCJzZXNzaW9uX2lkIjoiZmNjZmEyYmIyMTMwOTBkNzZiOWEyMGY3MmM4NjQ4NDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.E96GI_YQPBxXPy-WE_BTpJNMYXaIivzIQ2r-zcbkz6w
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Eurosport 1 HD CEE.png" group-title="Спортивные",Eurosport 1 HD CEE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://tv.movielab.pro/145/video.m3u8?token=780fc0d388dee10c6c9b182466bb4a02b74b4d97-4c04a94e019e23032cc5d79afba9b03a-1745138625-1745052225
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Eurosport 1 HD 🇪🇸.png" group-title="Спортивные",Eurosport 1 HD 🇪🇸
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Eurosport 1 HD.png" group-title="Спортивные",Eurosport 1 HD 
 http://185.189.225.157/EuroSport1/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Eurosport 2 HD.png" group-title="Спортивные",Eurosport 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://109.70.186.70:9090/udp/239.185.1.15:1234
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Eurosport 2 HD .png" group-title="Спортивные",Eurosport 2 HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Eurosport 2 HD .png" group-title="Спортивные",Eurosport 2 HD
 http://185.189.225.157/EuroSport2/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Eurosport 2 HD .png" group-title="Спортивные",Eurosport 2 HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Eurosport 2 HD .png" group-title="Спортивные",Eurosport 2 HD
 http://213.91.178.133:8000/play/a04b
 #EXTINF:-1 tvg-logo="http://iconape.com/wp-content/png_logo_vector/eurosport-hd-live-logo.png" group-title="Спортивные",live Eurosport GOLD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Старт HD.png" group-title="Спортивные",Старт HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://stream-msk-13.ott.tricolor.tv/dtv/id625_MSKSG-PVR-1--Start/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NTIwMjU4NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ0NTk3Nzg1LCJzZXNzaW9uX2lkIjoiZmNjZmEyYmIyMTMwOTBkNzZiOWEyMGY3MmM4NjQ4NDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.E96GI_YQPBxXPy-WE_BTpJNMYXaIivzIQ2r-zcbkz6w
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Старт Триумф HD.png" group-title="Спортивные",Старт Триумф HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://stream-msk-15.ott.tricolor.tv/dtv/id902_MSKSG-PVR-1--Start_triumph/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NTIwMjU4NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ0NTk3Nzg1LCJzZXNzaW9uX2lkIjoiZmNjZmEyYmIyMTMwOTBkNzZiOWEyMGY3MmM4NjQ4NDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.E96GI_YQPBxXPy-WE_BTpJNMYXaIivzIQ2r-zcbkz6w
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Тонус ТВ.png" group-title="Спортивные",Тонус ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://stream-msk-05.ott.tricolor.tv/dtv/id686_MSKSG-PVR-1--Tonus/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NTIwMjU4NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ0NTk3Nzg1LCJzZXNzaW9uX2lkIjoiZmNjZmEyYmIyMTMwOTBkNzZiOWEyMGY3MmM4NjQ4NDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.E96GI_YQPBxXPy-WE_BTpJNMYXaIivzIQ2r-zcbkz6w
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Russian Extreme HD.png" group-title="Спортивные",Russian Extreme HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://stream-msk-06.ott.tricolor.tv/dtv/id294_MSKSG-PVR-1--HD_Russkiy_Extreme/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NTIwMjU4NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ0NTk3Nzg1LCJzZXNzaW9uX2lkIjoiZmNjZmEyYmIyMTMwOTBkNzZiOWEyMGY3MmM4NjQ4NDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.E96GI_YQPBxXPy-WE_BTpJNMYXaIivzIQ2r-zcbkz6w
 #EXTINF:-1 tvg-logo="http://mosi.ru/sites/default/files/conf/122013_Psihologia/sport-k_0.jpg" group-title="Спортивные",Спорт на Первом
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://edge3.1internet.tv/dash-live2/streams/sport-1/sport-1.mpd
 #EXTINF:-1 tvg-logo="http://epg.iptvx.one/picons/voleybol.png" group-title="Спортивные",Волейбол HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://mhd128.iptv2022.com/p/pO-_xRTJ-RRHmcbmKjmpwQ,1745096421/streaming/volleyball/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! HD.png" group-title="Спортивные",Матч! HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://live-mirror-01.ott.tricolor.tv/live/live/match/hls_enc/match-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NTIwMjU4NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ0NTk3Nzg1LCJzZXNzaW9uX2lkIjoiZmNjZmEyYmIyMTMwOTBkNzZiOWEyMGY3MmM4NjQ4NDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.E96GI_YQPBxXPy-WE_BTpJNMYXaIivzIQ2r-zcbkz6w
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Арена.png" group-title="Спортивные",Матч! Арена
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://87.120.142.11:18000/Match!Arena
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Арена HD.png" group-title="Спортивные",Матч! Арена HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://tv.movielab.pro/146/video.m3u8?token=4ac18e30409eabfbb69cebfd50fcc99431648b68-108c7a9f4ee037aada10dde5faea6831-1745138625-1745052225
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Боец.png" group-title="Спортивные",Матч! Боец
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://api.peers.tv/timeshift/boets/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDUxNjIxODAsImlhdCI6MTc0NTA3NTc4MCwiY2lkIjo2LCJ1aWQiOjkxMDEyODA3MywicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.lDubdNfpVLBzKAkYkjJeTM8cKF_mQsXNvaJlMEHDhgc&offset=3
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Боец HD.png" group-title="Спортивные",Матч! Боец HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://mhd128.iptv2022.com/p/uhTpGJzxPpA3NzWIXp-ndA,1745096411/streaming/boectv/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч Игра.png" group-title="Спортивные",Матч Игра
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://87.120.142.11:18000/Match!Igra
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Игра.png" group-title="Спортивные",Матч! Игра
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://api.peers.tv/timeshift/sport_2/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDUxNjIxODAsImlhdCI6MTc0NTA3NTc4MCwiY2lkIjo2LCJ1aWQiOjkxMDEyODA3MywicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.lDubdNfpVLBzKAkYkjJeTM8cKF_mQsXNvaJlMEHDhgc&offset=3
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Страна.png" group-title="Спортивные",Матч! Страна
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://api.peers.tv/timeshift/match_nash_sport/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDUxNjIxODAsImlhdCI6MTc0NTA3NTc4MCwiY2lkIjo2LCJ1aWQiOjkxMDEyODA3MywicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.lDubdNfpVLBzKAkYkjJeTM8cKF_mQsXNvaJlMEHDhgc&offset=3
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч Премьер HD.png" group-title="Спортивные",Матч Премьер HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://195.18.23.20:8000/play/88/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Премьер HD.png" group-title="Спортивные",Матч! Премьер HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://tv.movielab.pro/250/video.m3u8?token=1dd747781fcadea11e2d7fb78990cb22de7bfab0-598a543a6ef6789a7e26aaed38985d01-1745138625-1745052225
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Футбол 1 HD.png" group-title="Спортивные",Матч! Футбол 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://tv.movielab.pro/260/video.m3u8?token=7b0ff52eda093eae59b4a72008bc1ea34f16e705-72faa01c600beb0fdfa7cae90f9b8731-1745138625-1745052225
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Футбол 2 HD.png" group-title="Спортивные",Матч! Футбол 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://tv.movielab.pro/271/video.m3u8?token=010e26771d07982d2fa42a249b565ef3cff8bf58-a0ab70b620b6f9f827b4d7775e4feee7-1745138625-1745052225
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч Футбол 3 HD.png" group-title="Спортивные",Матч Футбол 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://mhd128.iptv2022.com/p/uDn2lTynEqZ0EU6RK_svvg,1745096411/streaming/footbal3hd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Сетанта Спорт 1 HD.png" group-title="Спортивные",Сетанта Спорт 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://tv.movielab.pro/942/video.m3u8?token=d1cf44608a7e24c2e21eb9facc2b6a09a42ac688-a2214dbe16ba62d20d388db5e709038f-1745138625-1745052225
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Сетанта Спорт 2 HD.png" group-title="Спортивные",Сетанта Спорт 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
-http://tv.movielab.pro/943/video.m3u8?token=54ea21db666090b69538198f280eefdf1def74f9-60dda51c7af1c3db32f1cea2f19d901b-1745138625-1745052225
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Setanta Казахстан.png" group-title="Спортивные",Setanta Казахстан
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://tv.movielab.pro/5094/video.m3u8?token=d94e7ddb53003469ee14c946c550ff8e43badc3c-190f53982e679e7de88de3edcd6f02f5-1745138625-1745052225
 #EXTINF:-1 tvg-logo="http://e7.pngegg.com/pngimages/732/115/png-clipart-white-and-black-soccer-ball-illustration-football-player-flame-football-blue-text.png" group-title="Спортивные",IDC: Футбол
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Viju+ Sport HD.png" group-title="Спортивные",Viju+ Sport HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://api.peers.tv/timeshift/viasat_sport_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDUxNjIxODAsImlhdCI6MTc0NTA3NTc4MCwiY2lkIjo2LCJ1aWQiOjkxMDEyODA3MywicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.lDubdNfpVLBzKAkYkjJeTM8cKF_mQsXNvaJlMEHDhgc&offset=3
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мяч.png" group-title="Спортивные",Мяч
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
-http://stream-msk-08.ott.tricolor.tv:443/dtv/id734_MSKSG-PVR-1--Futbolnyy_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NTIwMjU4NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ0NTk3Nzg1LCJzZXNzaW9uX2lkIjoiZmNjZmEyYmIyMTMwOTBkNzZiOWEyMGY3MmM4NjQ4NDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.E96GI_YQPBxXPy-WE_BTpJNMYXaIivzIQ2r-zcbkz6w
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Футбол.png" group-title="Спортивные",Футбол
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://api.peers.tv/timeshift/futbol_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDUxNjIxODAsImlhdCI6MTc0NTA3NTc4MCwiY2lkIjo2LCJ1aWQiOjkxMDEyODA3MywicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.lDubdNfpVLBzKAkYkjJeTM8cKF_mQsXNvaJlMEHDhgc&offset=3
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/NBA TV.png" group-title="Спортивные",NBA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://tv.movielab.pro/9984/video.m3u8?token=8a888e708b8b34655fef1b95194084357785e211-49c9cf7cd10a2a6bba53e4a0e42a3dce-1745138625-1745052225
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/КХЛ.png" group-title="Спортивные",КХЛ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://api.peers.tv/timeshift/khl/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDUxNjIxODAsImlhdCI6MTc0NTA3NTc4MCwiY2lkIjo2LCJ1aWQiOjkxMDEyODA3MywicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.lDubdNfpVLBzKAkYkjJeTM8cKF_mQsXNvaJlMEHDhgc&offset=3
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/KHL.png" group-title="Спортивные",KHL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://178.124.152.238:8088/khl
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/КХЛ HD.png" group-title="Спортивные",КХЛ HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://api.peers.tv/timeshift/kxl_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDUxNjIxODAsImlhdCI6MTc0NTA3NTc4MCwiY2lkIjo2LCJ1aWQiOjkxMDEyODA3MywicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.lDubdNfpVLBzKAkYkjJeTM8cKF_mQsXNvaJlMEHDhgc&offset=3
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/KHL Prime.png" group-title="Спортивные",KHL Prime
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://tv.movielab.pro/177/video.m3u8?token=4846f29f892f400d26d58518a826c961859e8e7c-321da9984bdb767513ad20dc19f0a4c8-1745138625-1745052225
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Хоккей ТВ.png" group-title="Спортивные",Хоккей ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://stream-msk-09.ott.tricolor.tv/dtv/id700_MSKSG-PVR-1--Hokeinii_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NTIwMjU4NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ0NTk3Nzg1LCJzZXNzaW9uX2lkIjoiZmNjZmEyYmIyMTMwOTBkNzZiOWEyMGY3MmM4NjQ4NDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.E96GI_YQPBxXPy-WE_BTpJNMYXaIivzIQ2r-zcbkz6w
 #EXTINF:-1 tvg-logo="http://bonus-betting.ru/wp-content/uploads/2021/10/nhl-logo.png" group-title="Спортивные",NHL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://nhl-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТВ Спорт.png" group-title="Спортивные",ТВ Спорт
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://stream-msk-06.ott.tricolor.tv/dtv/id733_MSKSG-PVR-1--Sportivnii/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NTIwMjU4NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ0NTk3Nzg1LCJzZXNzaW9uX2lkIjoiZmNjZmEyYmIyMTMwOTBkNzZiOWEyMGY3MmM4NjQ4NDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.E96GI_YQPBxXPy-WE_BTpJNMYXaIivzIQ2r-zcbkz6w
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Большой эфир.png" group-title="Спортивные",Большой эфир
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://stream-msk-10.ott.tricolor.tv/dtv/id621_MSKSG-PVR-1--ChannelLIVE/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NTIwMjU4NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ0NTk3Nzg1LCJzZXNzaW9uX2lkIjoiZmNjZmEyYmIyMTMwOTBkNzZiOWEyMGY3MmM4NjQ4NDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.E96GI_YQPBxXPy-WE_BTpJNMYXaIivzIQ2r-zcbkz6w
 #EXTINF:-1 tvg-logo="http://epg.iptvx.one/picons/igra.png" group-title="Спортивные",Игра HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://stream-msk-06.ott.tricolor.tv/dtv/id632_MSKSG-PVR-1--Channel_LIVE4/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NTIwMjU4NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ0NTk3Nzg1LCJzZXNzaW9uX2lkIjoiZmNjZmEyYmIyMTMwOTBkNzZiOWEyMGY3MmM4NjQ4NDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.E96GI_YQPBxXPy-WE_BTpJNMYXaIivzIQ2r-zcbkz6w
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Конный мир.png" group-title="Спортивные",Конный мир
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://stream-msk-16.ott.tricolor.tv/dtv/id989_MSKSG-PVR-1--Konniy_Mir/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NTIwMjU4NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ0NTk3Nzg1LCJzZXNzaW9uX2lkIjoiZmNjZmEyYmIyMTMwOTBkNzZiOWEyMGY3MmM4NjQ4NDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.E96GI_YQPBxXPy-WE_BTpJNMYXaIivzIQ2r-zcbkz6w
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Конный мир HD.png" group-title="Спортивные",Конный мир HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://cdn-01.bonus-tv.ru/kmir/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Беларусь 5 HD.png" group-title="Спортивные",Беларусь 5 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
-http://edge50.dc.beltelecom.by/ngtrk/smil:belarus5.smil/chunklist_b2660000_sleng.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Беларусь 5 Интернет.png" group-title="Спортивные",Беларусь 5 Интернет
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
-http://edge50.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/chunklist_b2660000_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://www.zarya-kaspiya.ru/wp-content/uploads/2019/09/LOGO-ASTRAKHAN-RU-SPORT-ver.jpg" group-title="Спортивные",Астрахань Спорт
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Танцуй!.png" group-title="Спортивные",Танцуй!
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://109.200.130.123:7537/play/a02l
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир баскетбола.png" group-title="Спортивные",Мир баскетбола
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://api.peers.tv/timeshift/mir_basketbola/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDUxNjIxODAsImlhdCI6MTc0NTA3NTc4MCwiY2lkIjo2LCJ1aWQiOjkxMDEyODA3MywicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.lDubdNfpVLBzKAkYkjJeTM8cKF_mQsXNvaJlMEHDhgc&offset=3
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Trace Sport Stars.png" group-title="Спортивные",Trace Sport Stars
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://87.120.142.11:18000/Rossiya1
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Sky Sports Premier League HD.png" group-title="Спортивные",Sky Sports Premier League HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://bl.rutube.ru/livestream/9cc47f22f8b64783940a3be37a2c69e7/index.m3u8?s=tycX2vMlR-wCnLOURI8HLg&e=1745139846&scheme=https
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/A Spor HD.png" group-title="Спортивные",A Spor HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://trkvz-live.daioncdn.net/aspor/aspor.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Extreme sports.png" group-title="Спортивные",Extreme sports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://109.200.130.123:7537/play/a02p
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/National_Olympic_Committee_of_Turkmenistan_logo.svg/1200px-National_Olympic_Committee_of_Turkmenistan_logo.svg.png" group-title="Спортивные",Turkmenistan Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.avm.gen.tr/resimler/network_kadin_1.jpg" group-title="Спортивные",A21 Network
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://tv.a21network.ru/content/37909/index.m3u8
 #EXTINF:-1 tvg-logo="http://photos.live-tv-channels.org/tv-logo/canal-motor-5880.webp" group-title="Спортивные",Canal Motor
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 #EXTINF:-1 tvg-logo="http://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="Спортивные",Red Bull TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="http://epg.iptvx.one/picons/supertennis.png" group-title="Спортивные",SuperTennis HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
-#EXTINF:-1 tvg-logo="http://epg.iptvx.one/picons/tennis-cnl-us.png" group-title="Спортивные",Tennis Channel 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+#EXTINF:-1 tvg-logo="http://epg.iptvx.one/picons/tennis-cnl-us.png" group-title="Спортивные",Tennis Channel
 http://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://m.media-amazon.com/images/I/41NhI9FSeQL._AC_UL800_QL65_.png" group-title="Спортивные",TENNIS CHANNEL 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://d3qg0hadt0dkov.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/35a24fd8-60c3-45d0-bd8a-ee3cc914581f/3.m3u8
 #EXTINF:-1 tvg-logo="http://yt3.googleusercontent.com/ytc/AOPolaSY-gKU2sbMotqwkqOBkR0vfo540_8yH7YhbdKh=s900-c-k-c0x00ffffff-no-rj" group-title="Спортивные",UNBEATEN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://unbeaten-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://streamstak.com/billiardtv/wp-content/uploads/sites/2/2021/09/billiard-tv-thumbnail.jpg" group-title="Спортивные",Billiard TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/MAX Sport 1 HD.png" group-title="Спортивные",MAX Sport 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://213.91.178.133:8000/play/a0as
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/MAX Sport 2 HD.png" group-title="Спортивные",MAX Sport 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://213.91.178.133:8000/play/a0at
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/MAX Sport 3 HD.png" group-title="Спортивные",MAX Sport 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://213.91.178.133:8000/play/a0ar
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/MAX Sport 4 HD.png" group-title="Спортивные",MAX Sport 4 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://213.91.178.133:8000/play/a05n
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Arena Sport 1 .png" group-title="Спортивные",Arena Sport 1 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Arena Sport 1 .png" group-title="Спортивные",Arena Sport 1
 http://78.130.250.2:8023/play/a02o/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/V562tpO.png" group-title="Спортивные",beIN SPORTS XTRA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 tvg-logo="http://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/f6/87/e3/f687e3b6-6f05-b755-3eeb-69ce1fb30611/source/512x512bb.jpg" group-title="Спортивные",Bahrain Sports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
-http://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/f6/87/e3/f687e3b6-6f05-b755-3eeb-69ce1fb30611/source/512x512bb.jpg" group-title="Спортивные",Bahrain Sports 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
-http://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Abu_Dhabi_Sports_logo_2023.svg/512px-Abu_Dhabi_Sports_logo_2023.svg.png" group-title="Спортивные",Abu Dhabi Sports 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/PMJ7Zmo.png" group-title="Спортивные",Dubai Sports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/PMJ7Zmo.png" group-title="Спортивные",Dubai Sports 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/U0A8Gex.png" group-title="Спортивные",Dubai Sports 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+#EXTINF:-1http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч!.png" group-title="Спортивные",Матч!
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир Баскетбола.png" group-title="Спортивные",Мир Баскетбола
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://65.21.85.175:8000/play/a00c/index.m3u8?token=livetv
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Extreme Sports.png" group-title="Спортивные",Extreme Sports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://109.200.130.123:7537/play/a02p
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Golf Channel English.png" group-title="Спортивные",Golf Channel English
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://78.130.250.2:8023/play/a02q/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/KHL Prime HD.png" group-title="Спортивные",KHL Prime HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://radio.tvs.by:8088/KHL_HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Trace Sport Stars HD.png" group-title="Спортивные",Trace Sport Stars HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://82.215.111.227/1274/tracks-v1a2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Viju+ Sport.png" group-title="Спортивные",Viju+ Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://82.215.111.227/1229/tracks-v1a2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Eurosport 2.png" group-title="Спортивные",Eurosport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://217.19.214.39:8200/hls/260/live1.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ru Sport.png" group-title="Спортивные",Ru Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/A21 Network HD.png" group-title="Спортивные",A21 Network HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://tv.a21network.ru/stream/37909/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Red Bull TV HD.png" group-title="Спортивные",Red Bull TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport.png" group-title="Спортивные",97.XSPORT+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://176.122.99.7:7000/ch117/video.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ASXTV FIGHTS.png" group-title="Спортивные",ASXTV FIGHTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
-http://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/AXS Fight.png" group-title="Спортивные",AXS Fight
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
-http://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/CANAL MOTOR.png" group-title="Спортивные",CANAL MOTOR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://digicom.hls.iptvdc.com/canalmotor/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/DUBAI SPORTS 2.png" group-title="Спортивные",DUBAI SPORTS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/DUBAI SPORTS 3.png" group-title="Спортивные",DUBAI SPORTS 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/FIGHTBOX.png" group-title="Спортивные",FIGHTBOX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://176.122.99.7:7000/ch118/video.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/IMPACT! Wrestling.png" group-title="Спортивные",IMPACT! Wrestling
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/LAX SPORTS.png" group-title="Спортивные",LAX SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Motors Tv.png" group-title="Спортивные",Motors Tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/One Golf.png" group-title="Спортивные",One Golf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://162.250.201.58:6211/pk/ONEGOLF/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ovacion TV.png" group-title="Спортивные",Ovacion TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/PROSTO DRIVE.png" group-title="Спортивные",PROSTO DRIVE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://176.122.99.7:7000/ch326/video.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Red Bull TV.png" group-title="Спортивные",Red Bull TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/San Marino RTV Sport.png" group-title="Спортивные",San Marino RTV Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Sports TV.png" group-title="Спортивные",Sports TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://live.sportstv.com.tr/hls/low/sportstv.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Trace Sport Stars.png" group-title="Спортивные",Trace Sport Stars
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://176.122.99.7:7000/ch236/video.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Viasat Sport.png" group-title="Спортивные",Viasat Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://176.122.99.7:7000/ch282/video.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Wired2Fish.png" group-title="Спортивные",Wired2Fish
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/XStream.png" group-title="Спортивные",XStream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://176.122.99.7:7000/ch313/video.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Астрахань.Ru Sport.png" group-title="Спортивные",Астрахань.Ru Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/CampusLore.png" group-title="Спортивные",CampusLore
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Racing.com.png" group-title="Спортивные",Racing.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Swerve Sports.png" group-title="Спортивные",Swerve Sports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/W14DK-D 14.5 All Sports Television Network.png" group-title="Спортивные",W14DK-D 14.5 All Sports Television Network
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Конный Мир HD.png" group-title="Спортивные",Конный Мир HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Танцуй!.png" group-title="Спортивные",Танцуй!
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://109.200.130.123:7537/play/a02l
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Russian Extreme.png" group-title="Спортивные",Russian Extreme
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://195.26.83.96:7029/play/a008
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Polsat Sport 1.png" group-title="Спортивные",Polsat Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://185.236.229.62:9981/play/a07n
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Polsat Sport 2.png" group-title="Спортивные",Polsat Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://185.236.229.62:9981/play/a07q
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Polsat Sport 3.png" group-title="Спортивные",Polsat Sport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://185.236.229.62:9981/play/a06m
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Polsat Sport Fight.png" group-title="Спортивные",Polsat Sport Fight
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://185.236.229.62:9981/play/a06l
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Polsat Sport Premium 2 Super HD.png" group-title="Спортивные",Polsat Sport Premium 2 Super HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://cdn-nvm-chicago3.lolokoko.tv/polsatsportp2.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Extreme Sports.png" group-title="Спортивные",Extreme Sports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://188.113.190.15/39/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Старт.png" group-title="Спортивные",Старт
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://188.113.190.15/127/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Конный Мир HD.png" group-title="Спортивные",Конный Мир HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://cdn-01.bonus-tv.ru/kmir/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Red Bull HD.png" group-title="Спортивные",Red Bull HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/KHL Prime.png" group-title="Спортивные",KHL Prime
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://178.124.179.122:8088/KHL_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/IMPACT Wrestling.png" group-title="Спортивные",IMPACT Wrestling
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
-http://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Red Bull TV.png" group-title="Спортивные",Red Bull TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="Спортивные",beIN SPORTS XTRA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Dubai Sports 1.png" group-title="Спортивные",Dubai Sports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Motorvision TV.png" group-title="Спортивные",Motorvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Игра.png" group-title="Спортивные",Игра
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://31.148.48.15:80/Match_Igra/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/BEK TV Sports West.png" group-title="Спортивные",BEK TV Sports West
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Dubai Sports 2.png" group-title="Спортивные",Dubai Sports 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Dubai Sports 3.png" group-title="Спортивные",Dubai Sports 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/MadeinBO TV.png" group-title="Спортивные",MadeinBO TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://srvx1.selftv.video/dmchannel/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/More Than Sports TV.png" group-title="Спортивные",More Than Sports TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Oman Sports TV.png" group-title="Спортивные",Oman Sports TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/One Golf.png" group-title="Спортивные",One Golf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Sharjah Sports TV.png" group-title="Спортивные",Sharjah Sports TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Sports Connect.png" group-title="Спортивные",Sports Connect
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/SSC Action Waleed.png" group-title="Спортивные",SSC Action Waleed
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Teledeporte.png" group-title="Спортивные",Teledeporte
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Teletrak.png" group-title="Спортивные",Teletrak
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/TR Sport.png" group-title="Спортивные",TR Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://livetr.teleromagna.it/mia/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Астрахань.Ru Sport.png" group-title="Спортивные",Астрахань.Ru Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
 http://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
