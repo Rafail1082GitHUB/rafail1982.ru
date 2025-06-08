@@ -1,0 +1,743 @@
+#EXTM3U url-tvg="http://epg.one/epg.xml,http://epg.cdntv.online/lite.xml.gz"
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1.png" group-title="Российские" tvg-id="2",Россия 1
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ.png" group-title="Российские" tvg-id="4",НТВ
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/cdn2.ntv.ru/ntv0_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТС.png" group-title="Российские" tvg-id="13",СТС
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/178.217.72.66:8080/STS/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТНТ.png" group-title="Российские" tvg-id="19",ТНТ
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/45.143.108.110:2200/tnt4
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Звезда.png" group-title="Российские" tvg-id="17",Звезда
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/МИР.png" group-title="Российские" tvg-id="18",МИР
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/360°.png" group-title="Российские" tvg-id="363",360°
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/31.148.48.15/Telekanal_360_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый канал FHD.png" group-title="Российские" tvg-id="1",Первый канал FHD
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый канал HD +4.png" group-title="Российские" tvg-id="3025",Первый канал HD +4
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/edge3.1internet.tv/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый канал Евразия.png" group-title="Российские" tvg-id="1147",Первый канал Евразия
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/sc.id-tv.kz/1KanalEvraziya_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Неизвестная Россия.png" group-title="Российские" tvg-id="9015" tvg-rec="48" catchup="default",Неизвестная Россия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+https:/cdn.ntv.ru/unknown_russia/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ +1.png" group-title="Российские" tvg-rec="48" catchup="default",НТВ +1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+https:/cdn.ntv.ru/ntv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ +2.png" group-title="Российские" tvg-rec="48" catchup="default",НТВ +2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+https:/cdn.ntv.ru/ntv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ +4.png" group-title="Российские" tvg-id="2964" tvg-rec="48" catchup="default",НТВ +4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+https:/cdn.ntv.ru/ntv4/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ +7.png" group-title="Российские" tvg-id="3028" tvg-rec="48" catchup="default",НТВ +7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+https:/cdn.ntv.ru/ntv7/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ HD.png" group-title="Российские" tvg-id="4" tvg-rec="48" catchup="default",НТВ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+https:/cdn.ntv.ru/ntv0/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ Право.png" group-title="Российские" tvg-id="340" tvg-rec="48" catchup="default",НТВ Право
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+https:/cdn.ntv.ru/th_pravo/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ Сериал.png" group-title="Российские" tvg-id="129" tvg-rec="48" catchup="default",НТВ Сериал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+https:/cdn.ntv.ru/th_serial/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ Стиль.png" group-title="Российские" tvg-id="1108" tvg-rec="48" catchup="default",НТВ Стиль
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+https:/cdn.ntv.ru/th_hit/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ Хит.png" group-title="Российские" tvg-id="130" tvg-rec="48" catchup="default",НТВ Хит
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+https:/cdn.ntv.ru/th_style/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1.png" group-title="Российские" tvg-id="2" tvg-rec="48" catchup="default",Россия 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http:/dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1.png" group-title="Российские" tvg-id="2" tvg-rec="48" catchup="default",Россия 1
+https:/vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 +1.png" group-title="Российские" tvg-rec="48" catchup="default",Россия 1 +1
+https:/vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 +2.png" group-title="Российские" tvg-id="3000" tvg-rec="48" catchup="default",Россия 1 +2
+https:/vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 +3.png" group-title="Российские" tvg-id="3001" tvg-rec="48" catchup="default",Россия 1 +3
+https:/vgtrkregion-reg.cdnvideo.ru/vgtrk/3/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 +4.png" group-title="Российские" tvg-id="3001" tvg-rec="48" catchup="default",Россия 1 +4
+https:/vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 +5.png" group-title="Российские" tvg-rec="48" catchup="default",Россия 1 +5
+https:/vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 +6.png" group-title="Российские" tvg-id="3002" tvg-rec="48" catchup="default",Россия 1 +6
+https:/vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 +7.png" group-title="Российские" tvg-id="7989" tvg-rec="48" catchup="default",Россия 1 +7
+https:/vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 +8.png" group-title="Российские" tvg-rec="48" catchup="default",Россия 1 +8
+https:/vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 +9.png" group-title="Российские" tvg-rec="48" catchup="default",Россия 1 +9
+https:/vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 24.png" group-title="Российские" tvg-id="7",Россия 24
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA24.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 24 +2.png" group-title="Российские" tvg-id="2975",Россия 24 +2
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA24_2.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 24 +3.png" group-title="Российские",Россия 24 +3
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA24_3.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 24 +6.png" group-title="Российские",Россия 24 +6
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA24_6.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СПАС.png" group-title="Российские" tvg-id="12",СПАС
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/T2/CH_SPAS.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Пятница! +4.png" group-title="Российские" tvg-id="3017",Пятница! +4
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/T2/CH_FRIDAY_4.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Звезда.png" group-title="Российские" tvg-id="17",Звезда
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/T2/CH_ZVEZDA.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Звезда HD.png" group-title="Российские" tvg-id="17",Звезда HD
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/T2/CH_ZVEZDAHD.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Звезда +4.png" group-title="Российские" tvg-id="3035",Звезда +4
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/T2/CH_ZVEZDA_4.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир HD.png" group-title="Российские" tvg-id="18",Мир HD
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/T2/CH_MIRHD.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир +2.png" group-title="Российские" tvg-id="3019",Мир +2
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/T2/CH_MIR_2.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир +4.png" group-title="Российские" tvg-id="3020",Мир +4
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/T2/CH_MIR_4.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир +7.png" group-title="Российские" tvg-id="3021",Мир +7
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/T2/CH_MIR_7.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Союз HD.png" group-title="Российские" tvg-id="966",Союз HD
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_SOYUZHD.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ратник.png" group-title="Российские" tvg-id="350",Ратник
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_RATNIK.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ратник HD.png" group-title="Российские" tvg-id="350",Ратник HD
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_RATNIKHD.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Известия.png" group-title="Новости" tvg-id="286",Известия
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/85.234.33.63/stream/c11.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/МИР 24.png" group-title="Новости" tvg-id="287",МИР 24
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Дождь.png" group-title="Новости" tvg-id="283",Дождь
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир 24.png" group-title="Новости" tvg-id="287",Мир 24
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_MIR24.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир 24 HD.png" group-title="Новости" tvg-id="287",Мир 24 HD
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_MIR24HD.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/РБК.png" group-title="Новости" tvg-id="291",РБК
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_RBK.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/РБК HD.png" group-title="Новости" tvg-id="291",РБК HD
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_RBKHD.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Красная линия.png" group-title="Новости" tvg-id="335",Красная линия
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_REDLINE.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/РЖД ТВ.png" group-title="Новости" tvg-id="962",РЖД ТВ
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_RZHDTV.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/РЖД ТВ HD.png" group-title="Новости" tvg-id="962",РЖД ТВ HD
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_RZHDTVHD.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Большая Азия HD.png" group-title="Новости" tvg-id="323",Большая Азия HD
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_BAZIYAHD720.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Известия.png" group-title="Новости" tvg-id="286",Известия
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_IZVESTIYA.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Байкал Телеком info HD720.png" group-title="Новости",Байкал Телеком info HD720
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_BAYKALTEL_INFOHD720.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мульт.png" group-title="Детские" tvg-id="153",Мульт
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ani Nickelodeon.png" group-title="Детские",Ani Nickelodeon
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/178.134.1.158:8081/nickelodeon/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТС Kids.png" group-title="Детские" tvg-id="162",СТС Kids
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/31.148.48.15/STS_Kids_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Радость моя.png" group-title="Детские" tvg-id="488",Радость моя
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_RADOSTMOYA.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мама.png" group-title="Детские" tvg-id="154",Мама
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_MAMA.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мульт.png" group-title="Детские" tvg-id="153",Мульт
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_MULT.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мульт HD.png" group-title="Детские" tvg-id="153",Мульт HD
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_MULTHD.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мультимузыка.png" group-title="Детские" tvg-id="158",Мультимузыка
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_MULTIMUZYKA.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Солнце.png" group-title="Детские" tvg-id="7669",Солнце
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_SOLNCE.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Amedia 1.png" group-title="Фильмовые",Amedia 1
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/178.217.72.66:8080/A1/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Amedia Hit.png" group-title="Фильмовые" tvg-id="87",Amedia Hit
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/178.217.72.66:8080/Amedia_Hit/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Cinema.png" group-title="Фильмовые" tvg-id="89",Cinema
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/45.143.108.110:2200/cinema
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Fox Life.png" group-title="Фильмовые" tvg-id="94",Fox Life
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/188.237.47.212:6008
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кино ТВ.png" group-title="Фильмовые" tvg-id="117",Кино ТВ
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/31.148.48.15/Kino_TV_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/КИНО ТВ.png" group-title="Фильмовые" tvg-id="117",КИНО ТВ
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_KINOTV.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/CINEMA.png" group-title="Фильмовые" tvg-id="89",CINEMA
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_CINEMA.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинеко HD.png" group-title="Фильмовые" tvg-id="7314",Кинеко HD
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_KINEKO.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/8 канал.png" group-title="Фильмовые" tvg-id="190",8 канал
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_8CHANNEL.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/8 Канал Европа.png" group-title="Фильмовые",8 Канал Европа
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_8CHANNEL_EUROPE.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/E TV HD.png" group-title="Фильмовые" tvg-id="69",E TV HD
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_ETVHD.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Animal Planet.png" group-title="Познавательные" tvg-id="295",Animal Planet
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/31.148.48.15/Animal_Planet_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Discovery Channel.png" group-title="Познавательные" tvg-id="364",Discovery Channel
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/195.245.99.242/Discovery/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/National Geographic.png" group-title="Познавательные" tvg-id="309",National Geographic
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/178.217.72.66:8080/National_Geographic/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/RTД rus.png" group-title="Познавательные",RTД rus
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/river-1.rutube.ru/stream/genetta-316.m9.rutube.ru/gmSfdbIeykPfEWMSapzEUg/1749568439/bb71a99e0ddc621322dafad338b96a3e/1080p_stream.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Моя Планета.png" group-title="Познавательные" tvg-id="339",Моя Планета
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_MOYAPLANETA.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Моя Планета HD.png" group-title="Познавательные" tvg-id="339",Моя Планета HD
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_MOYAPLANETAHD720.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/МузСоюз.png" group-title="Познавательные" tvg-id="959",МузСоюз
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_MUZSOYUZ.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч!.png" group-title="Спортивные" tvg-id="48",Матч!
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/178.217.72.66:8080/Match_HD/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Арена.png" group-title="Спортивные" tvg-id="47",Матч! Арена
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/31.148.48.15/Match_Arena_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Футбол 1.png" group-title="Спортивные" tvg-id="55",Матч! Футбол 1
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/178.217.72.66:8080/Match_Futbol_1_HD/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Red Bull TV HD.png" group-title="Спортивные" tvg-id="6039",Red Bull TV HD
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_REDBULLTVHD.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Bridge TV Deluxe.png" group-title="Музыкальные",Bridge TV Deluxe
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/31.148.48.15/Bridge_TV_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/RU.TV.png" group-title="Музыкальные" tvg-id="75",RU.TV
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/hls-03-video.webcaramba.com/rutv/live.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Муз-ТВ.png" group-title="Музыкальные",Муз-ТВ
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/radio.tvs.by:8088/MuzTV/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/RU TV.png" group-title="Музыкальные" tvg-id="69",RU TV
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_RUTV.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/RU TV HD.png" group-title="Музыкальные" tvg-id="69",RU TV HD
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_RUTVHD.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/OneBY.png" group-title="Музыкальные",OneBY
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_1MUZ.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/OneBY HD.png" group-title="Музыкальные",OneBY HD
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/rtmp.one.by:1300
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/OneBY.png" group-title="Музыкальные",OneBY
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/rtmp.one.by:2200
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/OneBY HD.png" group-title="Музыкальные",OneBY HD
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/rtmp.one.by:2300
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТНТ MUSIC.png" group-title="Музыкальные" tvg-id="85",ТНТ MUSIC
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_TNT_MUSIC.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/V2BEAT HD.png" group-title="Музыкальные" tvg-id="5483",V2BEAT HD
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_V2BEATHD720.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Krone hit.png" group-title="Музыкальные" tvg-id="4653",Krone hit
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_KRONEHIT.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Krone hit HD.png" group-title="Музыкальные" tvg-id="4653",Krone hit HD
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_KRONEHITHD.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Trace Urban.png" group-title="Музыкальные" tvg-id="1807",Trace Urban
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_TRACE_URBAN.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Trace Urban HD.png" group-title="Музыкальные" tvg-id="1807",Trace Urban HD
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_TRACE_URBANHD.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Сарафан.png" group-title="Развлекательные" tvg-id="179",Сарафан
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/streamer3.connectto.com/490/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТС Love.png" group-title="Развлекательные" tvg-id="177",СТС Love
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_STSLOVE.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ Право.png" group-title="Развлекательные" tvg-id="340",НТВ Право
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_NTVPRAVO.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ Сериал.png" group-title="Развлекательные" tvg-id="129",НТВ Сериал
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_NTVSERIAL.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ Стиль.png" group-title="Развлекательные" tvg-id="1108",НТВ Стиль
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_NTVSTIL.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ Хит.png" group-title="Развлекательные" tvg-id="130",НТВ Хит
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_NTVHIT.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/NEXO.png" group-title="NEXO",NEXO
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/rafail1982.uz/nexo2.mp4
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Nano.png" group-title="Хобби и увлечения" tvg-id="341",Nano
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_NANOTVHD.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ЕГЭ ТВ.png" group-title="Хобби и увлечения" tvg-id="2420",ЕГЭ ТВ
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_EGETV.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Abai TV.png" group-title="Казахстанские" tvg-id="4289",Abai TV
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Aqjaiyq.png" group-title="Казахстанские",Aqjaiyq
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/stream.kaztrk.kz/regional/oraltv/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Aqtóbe.png" group-title="Казахстанские",Aqtóbe
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/stream.kaztrk.kz/regional/aktobetv/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Atyraý.png" group-title="Казахстанские",Atyraý
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/stream.kaztrk.kz/regional/atyrautv/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ertis.png" group-title="Казахстанские",Ertis
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/stream.kaztrk.kz/regional/pavlodartv/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Jambyl.png" group-title="Казахстанские",Jambyl
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/stream.kaztrk.kz/regional/taraztv/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Kókshe.png" group-title="Казахстанские",Kókshe
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/stream.kaztrk.kz/regional/kokshetautv/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ontústik.png" group-title="Казахстанские",Ontústik
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/stream.kaztrk.kz/regional/shymkenttv/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Qazaqstan TV International.png" group-title="Казахстанские",Qazaqstan TV International
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Qyzyljar.png" group-title="Казахстанские",Qyzyljar
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/stream.kaztrk.kz/regional/petropavltv/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Qyzylorda.png" group-title="Казахстанские",Qyzylorda
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/stream.kaztrk.kz/regional/kyzylordatv/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Saryarqa.png" group-title="Казахстанские",Saryarqa
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/stream.kaztrk.kz/regional/karagandytv/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/КТК.png" group-title="Казахстанские" tvg-id="1146",КТК
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/89.218.30.37/ktklive/live.hq/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/МТРК.png" group-title="Казахстанские",МТРК
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Новое телевидение.png" group-title="Казахстанские" tvg-id="232",Новое телевидение
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Balapan TV.png" group-title="Казахстанские",Balapan TV
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/CGTN Русский.png" group-title="Казахстанские" tvg-id="277",CGTN Русский
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/news.cgtn.com/resource/live/russian/cgtn-r.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Fashion TV.png" group-title="Казахстанские" tvg-id="2491",Fashion TV
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Semeı.png" group-title="Казахстанские",Semeı
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/stream.kaztrk.kz/regional/semeytv/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/QazSport.png" group-title="Казахстанские" tvg-id="7509",QazSport
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир Белогорья HD Белгород.png" group-title="Региональные",Мир Белогорья HD Белгород
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_MIR_BLGRYAHD_BELG.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/TV1.KG БИШКЕК CITY HD Бишкек.png" group-title="Региональные",TV1.KG БИШКЕК CITY HD Бишкек
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_BISHKEKCITYHD_BISHKEK.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/МТВ HD720 Волгоград.png" group-title="Региональные",МТВ HD720 Волгоград
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_MTVHD720_VGRAD.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Волгоград 24 Волгоград.png" group-title="Региональные",Волгоград 24 Волгоград
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/smotrim/region/CH_VOLGOGRAD24_VGRAD.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Волгоград 24 HD Волгоград.png" group-title="Региональные",Волгоград 24 HD Волгоград
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/smotrim/region/CH_VOLGOGRAD24HD_VGRAD.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Волжский Плюс HD Волжский.png" group-title="Региональные",Волжский Плюс HD Волжский
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_VOLPLUSHD_VLSKIY.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ОТВ Екатеринбург.png" group-title="Региональные" tvg-id="6682",ОТВ Екатеринбург
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_OTV_EKT.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ОТВ HD720 Екатеринбург.png" group-title="Региональные",ОТВ HD720 Екатеринбург
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_OTVHD720_EKT.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ингушетия Магас.png" group-title="Региональные",Ингушетия Магас
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_INGUSHETIYA_ING.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ингушетия HD720 Магас.png" group-title="Региональные",Ингушетия HD720 Магас
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_INGUSHETIYAHD720_ING.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/АИСТ HD Иркутск.png" group-title="Региональные",АИСТ HD Иркутск
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_AISTHD_IRK.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/БАЙКАЛ Универ ТВ HD Иркутск.png" group-title="Региональные",БАЙКАЛ Универ ТВ HD Иркутск
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_BAYKALUNIVERTVHD_IRK.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТНВ Планета Казань.png" group-title="Региональные",ТНВ Планета Казань
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_TNVPLANETA_KZN.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ШАЯН Казань.png" group-title="Региональные",ШАЯН Казань
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_SHAYAN_KZN.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ШАЯН HD Казань.png" group-title="Региональные",ШАЯН HD Казань
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_SHAYANHD_KZN.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/UNIVER Казань.png" group-title="Региональные",UNIVER Казань
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_UNIVER_KZN.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/UNIVER HD Казань.png" group-title="Региональные",UNIVER HD Казань
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_UNIVERHD_KZN.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Запад 24 Калининград.png" group-title="Региональные",Запад 24 Калининград
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/smotrim/region/CH_3APAD24_KLGR.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Запад 24 HD Калининград.png" group-title="Региональные",Запад 24 HD Калининград
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/smotrim/region/CH_3APAD24HD_KLGR.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Краснодар Краснодар.png" group-title="Региональные",Краснодар Краснодар
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_KRASNODAR_KRDAR.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Краснодар HD Краснодар.png" group-title="Региональные",Краснодар HD Краснодар
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/smotrim/region/CH_KRASNODARHD_KRDAR.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Енисей HD Красноярск.png" group-title="Региональные",Енисей HD Красноярск
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_ENISEYHD_KRSK.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТВК 24 Красноярск.png" group-title="Региональные",ТВК 24 Красноярск
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_TVK24_KRSK.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТВК 24 HD Красноярск.png" group-title="Региональные",ТВК 24 HD Красноярск
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_TVK24HD_KRSK.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Тува 24 Кызыл.png" group-title="Региональные",Тува 24 Кызыл
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_TUVA24_TUVA.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/TVАист Ликино-Дулево.png" group-title="Региональные",TVАист Ликино-Дулево
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_TVAIST_LD.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Липецкое время HD720 Липецк.png" group-title="Региональные",Липецкое время HD720 Липецк
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_LVREMYAHD720_LIPETSK.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Крик ТВ Магадан.png" group-title="Региональные",Крик ТВ Магадан
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_KRIKTV_DV_MGDN.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/РГВК Дагестан Махачкала.png" group-title="Региональные",РГВК Дагестан Махачкала
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_DAGESTAN_MAHACHK.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/РГВК Дагестан HD Махачкала.png" group-title="Региональные",РГВК Дагестан HD Махачкала
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_DAGESTANHD_MAHACHK.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мособр ТВ HD720 Москва.png" group-title="Региональные",Мособр ТВ HD720 Москва
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_MOSOBRTVHD720_MOS.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Север Нарьян-Мар.png" group-title="Региональные",Север Нарьян-Мар
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_SEVER_NAO.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Север HD Нарьян-Мар.png" group-title="Региональные",Север HD Нарьян-Мар
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_SEVERHD_NAO.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Волга Нижний Новгород.png" group-title="Региональные",Волга Нижний Новгород
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_VOLGA_NN.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Волга HD Нижний Новгород.png" group-title="Региональные",Волга HD Нижний Новгород
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_VOLGAHD_NN.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Нижний Новгород 24 Нижний Новгород.png" group-title="Региональные",Нижний Новгород 24 Нижний Новгород
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/smotrim/region/CH_NN24_NN.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Нижний Новгород 24 HD Нижний Новгород.png" group-title="Региональные",Нижний Новгород 24 HD Нижний Новгород
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/smotrim/region/CH_NN24HD_NN.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Эхо ТВ 24 Новоуральск.png" group-title="Региональные",Эхо ТВ 24 Новоуральск
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_ECHOTV24_NURLSK.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Сибирь 24 Новосибирск.png" group-title="Региональные",Сибирь 24 Новосибирск
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/smotrim/region/CH_SIBIR24_NSK.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Сибирь 24 HD Новосибирск.png" group-title="Региональные",Сибирь 24 HD Новосибирск
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/smotrim/region/CH_SIBIR24HD_NSK.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/12 Канал Омск.png" group-title="Региональные" tvg-id="5841",12 Канал Омск
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_12CHANNEL_OMSK.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/12 Канал HD Омск.png" group-title="Региональные" tvg-id="5841",12 Канал HD Омск
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_12CHANNELHD_OMSK.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Экспресс HD Пенза.png" group-title="Региональные",Экспресс HD Пенза
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_EXPRESSHD_PENZA.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Наш дом Пенза.png" group-title="Региональные",Наш дом Пенза
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_NASHDOM_PENZA.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ветта-24 Пермь.png" group-title="Региональные",Ветта-24 Пермь
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_VETTA24_PERM.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ДОН 24 Ростов на Дону.png" group-title="Региональные",ДОН 24 Ростов на Дону
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_DON24_RD.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ДОН 24 HD Ростов на Дону.png" group-title="Региональные",ДОН 24 HD Ростов на Дону
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_DON24HD_RD.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Губерния Самара.png" group-title="Региональные" tvg-id="6750",Губерния Самара
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_GUBERNIA_SAMARA.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Теледом HD720 Санкт-Петербург.png" group-title="Региональные",Теледом HD720 Санкт-Петербург
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_TELEDOMHD720_SPB.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Народное телевидение Мордовии Саранск.png" group-title="Региональные",Народное телевидение Мордовии Саранск
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_NTM_SRNK.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Народное телевидение Мордовии HD720 Саранск.png" group-title="Региональные",Народное телевидение Мордовии HD720 Саранск
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_NTMHD720_SRNK.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Саратов 24 HD Саратов.png" group-title="Региональные",Саратов 24 HD Саратов
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_SARATOV24HD_SARATOV.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТС HD Севастополь.png" group-title="Региональные",НТС HD Севастополь
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_NTSHD_SVTPL.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Легендарный 24 HD Севастополь.png" group-title="Региональные",Легендарный 24 HD Севастополь
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_LEGENDARNY24HD_SVTPL.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Симферополь 24 HD Симферополь.png" group-title="Региональные",Симферополь 24 HD Симферополь
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_SIMFEROPOL24HD_SMRPL.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Миллет ТВ HD720 Симферополь.png" group-title="Региональные",Миллет ТВ HD720 Симферополь
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_MILLETHD720_SMRPL.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый Крымский Симферополь.png" group-title="Региональные",Первый Крымский Симферополь
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_1KRYMSKIY_SMRPL.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/КРЫМ 24 Симферополь.png" group-title="Региональные",КРЫМ 24 Симферополь
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_KRYM24_SMRPL.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/КРЫМ 24 HD720 Симферополь.png" group-title="Региональные",КРЫМ 24 HD720 Симферополь
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_KRYM24HD720_SMRPL.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/SOCHI LIVE HD720 Сочи.png" group-title="Региональные",SOCHI LIVE HD720 Сочи
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_SOCHILIVEHD720_SOCHI.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СВОЁ ТВ Ставрополь.png" group-title="Региональные",СВОЁ ТВ Ставрополь
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_SVOETV_STAVR.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СВОЁ ТВ HD Ставрополь.png" group-title="Региональные",СВОЁ ТВ HD Ставрополь
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_SVOETVHD_STAVR.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кавказ 24 Ставрополь.png" group-title="Региональные",Кавказ 24 Ставрополь
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/smotrim/region/CH_KAVKAZ24_STAVR.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/С1 Сургут.png" group-title="Региональные",С1 Сургут
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_C1_SUR.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/С86 Сургут.png" group-title="Региональные",С86 Сургут
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_C86_SUR.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТВ/Продвижение Стрежевой.png" group-title="Региональные",СТВ/Продвижение Стрежевой
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_STV_SRVOY.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Новый век Тамбов.png" group-title="Региональные",Новый век Тамбов
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_NOVIY_VEK_TAMB.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Новый век HD720 Тамбов.png" group-title="Региональные",Новый век HD720 Тамбов
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_NOVIY_VEKHD720_TAMB.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Югра HD Тюмень.png" group-title="Региональные",Югра HD Тюмень
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/smotrim/region/CH_UGRAHD_TUM.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матур ТВ HD Уфа.png" group-title="Региональные",Матур ТВ HD Уфа
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_MATURTVHD_UFA.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТАМЫР Уфа.png" group-title="Региональные",ТАМЫР Уфа
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_TAMYR_UFA.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/САЛЯМ Уфа.png" group-title="Региональные",САЛЯМ Уфа
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_SALYAM_UFA.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Курай ТВ Уфа.png" group-title="Региональные",Курай ТВ Уфа
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_KURAY_UFA.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/РБК Уфа.png" group-title="Региональные",РБК Уфа
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_RBK_UFA.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/БСТ Уфа.png" group-title="Региональные",БСТ Уфа
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_BST_UFA.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Башкортостан 24 Уфа.png" group-title="Региональные",Башкортостан 24 Уфа
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/smotrim/region/CH_BASHKORTOSTAN24_UFA.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Башкортостан 24 HD Уфа.png" group-title="Региональные",Башкортостан 24 HD Уфа
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/smotrim/region/CH_BASHKORTOSTAN24HD_UFA.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ЮУрГУ ТВ HD720 Челябинск.png" group-title="Региональные",ЮУрГУ ТВ HD720 Челябинск
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_YURGUTVHD720_CHEL.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Урал 24 Челябинск.png" group-title="Региональные",Урал 24 Челябинск
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/smotrim/region/CH_URAL24_CHEL.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Урал 24 HD Челябинск.png" group-title="Региональные",Урал 24 HD Челябинск
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/smotrim/region/CH_URAL24HD_CHEL.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Архыз 24 Черкесия.png" group-title="Региональные",Архыз 24 Черкесия
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_ARKHIZ24_CHERKS.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Архыз 24 HD Черкесия.png" group-title="Региональные",Архыз 24 HD Черкесия
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_ARKHIZ24HD_CHERKS.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НВК Саха HD Якутск.png" group-title="Региональные",НВК Саха HD Якутск
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_NVCHD_DV_YKT.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Якутия 24 HD Якутск.png" group-title="Региональные",Якутия 24 HD Якутск
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_YAKT24HD_DV_YKT.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый Ярославский Ярославль.png" group-title="Региональные",Первый Ярославский Ярославль
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_1YAROSLAVSKIY_YARL.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый Ярославский HD Ярославль.png" group-title="Региональные",Первый Ярославский HD Ярославль
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/region/CH_1YAROSLAVSKIYHD_YARL.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/МИТВ Местное Илимское TV.png" group-title="Региональные",МИТВ Местное Илимское TV
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/193.33.233.109:9000/tv
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Беларусь 1 Беларусь.png" group-title="Белорусские",Беларусь 1 Беларусь
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/blrus/CH_BELARUS1.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Беларусь 1 HD Беларусь.png" group-title="Белорусские",Беларусь 1 HD Беларусь
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/blrus/CH_BELARUS1HD.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Беларусь 2 Беларусь.png" group-title="Белорусские",Беларусь 2 Беларусь
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/blrus/CH_BELARUS2.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Беларусь 2 HD Беларусь.png" group-title="Белорусские",Беларусь 2 HD Беларусь
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/blrus/CH_BELARUS2HD.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Беларусь 3 Беларусь.png" group-title="Белорусские",Беларусь 3 Беларусь
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/blrus/CH_BELARUS3.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Беларусь 3 HD Беларусь.png" group-title="Белорусские",Беларусь 3 HD Беларусь
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/blrus/CH_BELARUS3HD.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Беларусь 5 Беларусь.png" group-title="Белорусские",Беларусь 5 Беларусь
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/blrus/CH_BELARUS5.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Беларусь 5 Интернет Беларусь.png" group-title="Белорусские",Беларусь 5 Интернет Беларусь
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/blrus/CH_BELARUS5_INT.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Беларусь 5 Интернет HD Беларусь.png" group-title="Белорусские",Беларусь 5 Интернет HD Беларусь
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/blrus/CH_BELARUS5_INTHD.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Беларусь 24 Беларусь.png" group-title="Белорусские",Беларусь 24 Беларусь
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/blrus/CH_BELARUS24.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Беларусь 24 HD Беларусь.png" group-title="Белорусские",Беларусь 24 HD Беларусь
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/blrus/CH_BELARUS24HD.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый информационный Беларусь.png" group-title="Белорусские",Первый информационный Беларусь
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/blrus/CH_1INFORMATSYONNY.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый информационный HD Беларусь.png" group-title="Белорусские",Первый информационный HD Беларусь
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/blrus/CH_1INFORMATSYONNYHD.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТВ HD720 Беларусь.png" group-title="Белорусские",СТВ HD720 Беларусь
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/blrus/CH_CTBHD720.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ОНТ HD Беларусь.png" group-title="Белорусские",ОНТ HD Беларусь
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/blrus/CH_OHTHD.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/БелРос Беларусь.png" group-title="Белорусские",БелРос Беларусь
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/blrus/CH_BELROS.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/DW ENGLISH.png" group-title="ЕВРОПА" tvg-id="1460",DW ENGLISH
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_DW_ENGLISH.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/DW ENGLISH HD.png" group-title="ЕВРОПА" tvg-id="1460",DW ENGLISH HD
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_DW_ENGLISHHD.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/DW ARABIC.png" group-title="ЕВРОПА",DW ARABIC
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_DW_ARABIC.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/DW ARABIC HD.png" group-title="ЕВРОПА",DW ARABIC HD
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_DW_ARABICHD.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/DW ESPANOL.png" group-title="ЕВРОПА",DW ESPANOL
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_DW_ESPANOL.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/DW ESPANOL HD.png" group-title="ЕВРОПА",DW ESPANOL HD
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_DW_ESPANOLHD.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/CGTN ENGLISH HD720.png" group-title="ЕВРОПА",CGTN ENGLISH HD720
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_CGTN_ENGLISHHD720.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/CGTN ESPANOL HD.png" group-title="ЕВРОПА",CGTN ESPANOL HD
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_CGTN_ESPANOLHD.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/CGTN FRANCAIS HD.png" group-title="ЕВРОПА",CGTN FRANCAIS HD
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_CGTN_FRANCAISHD.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/CGTN ARABIC HD.png" group-title="ЕВРОПА",CGTN ARABIC HD
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_CGTN_ARABICHD.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/CGTN РУССКИЙ HD.png" group-title="ЕВРОПА" tvg-id="277",CGTN РУССКИЙ HD
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_CGTN_RUSSKIYHD.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/CGTN DOCUMENTARY HD720.png" group-title="ЕВРОПА",CGTN DOCUMENTARY HD720
+#EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
+http:/dmi3y-tv.ru/hls/CH_CGTN_DOCUMENTARYHD720.m3u8
+
