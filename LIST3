@@ -1,0 +1,2381 @@
+#EXTM3U url-tvg="http://epg.one/epg.xml; https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/epg_lite.xml; https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/epg_lite_gabbarit.xml"
+#EXTINF:-1 group-title="Российские",Неизвестная Россия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Российские",НТВ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Российские",НТВ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Российские",НТВ +1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/cdn.ntv.ru/ntv1/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Российские",НТВ +2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/cdn.ntv.ru/ntv2/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Российские",НТВ +4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/cdn.ntv.ru/ntv4/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Российские",НТВ +7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/cdn.ntv.ru/ntv7/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Российские",РБК
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/online.video.rbc.ru/online2/rbctv_1080p/index.m3u8
+#EXTINF:-1 group-title="Российские",ТВЦ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1 group-title="Российские",Россия 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/178.212.71.253:8002/play/a00w/index.m3u8?token=test
+#EXTINF:-1 group-title="Российские",Москва 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/195.26.83.96:7007/play/a008/index.m3u8?token=test
+#EXTINF:-1 group-title="Российские",Звезда HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Российские",Звезда Плюс
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="Российские",Звезда Плюс HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Российские",RT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/31.148.48.15/RT_HD/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1 group-title="Российские",НТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/cdn2.ntv.ru/ntv2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Российские",НТВ +2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/cdn.ntv.ru/ntv2/mono.m3u8
+#EXTINF:-1 group-title="Российские",НТВ +4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/cdn2.ntv.ru/ntv4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Российские",НТВ +4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/cdn.ntv.ru/ntv4/mono.m3u8
+#EXTINF:-1 group-title="Российские",НТВ +7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/cdn2.ntv.ru/ntv7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Российские",НТВ +7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/cdn.ntv.ru/ntv7/mono.m3u8
+#EXTINF:-1 group-title="Российские",Россия 1 +3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/vgtrkregion-reg.cdnvideo.ru/vgtrk/omsk/russia24-sd/792000_576p.m3u8
+#EXTINF:-1 group-title="Российские",Россия 1 +3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/vgtrkregion-reg.cdnvideo.ru/vgtrk/3/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Российские",Россия 1 +4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Российские",Россия 1 +5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Российские",Россия 1 +6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Российские",Россия 1 +7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Российские",Россия 1 +8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Российские",Россия 1 +9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Российские",Первый канал HD +4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/edge3.1internet.tv/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
+#EXTINF:-1 group-title="Российские",Первый канал Евразия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/sc.id-tv.kz/1KanalEvraziya_34_35.m3u8
+#EXTINF:-1 group-title="Российские",Неизвестная Россия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/cdn.ntv.ru/unknown_russia/playlist.m3u8
+#EXTINF:-1 group-title="Российские",НТВ Право
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/cdn.ntv.ru/th_pravo/playlist.m3u8
+#EXTINF:-1 group-title="Российские",НТВ Сериал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/cdn.ntv.ru/th_serial/playlist.m3u8
+#EXTINF:-1 group-title="Российские",НТВ Стиль
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/cdn.ntv.ru/th_hit/playlist.m3u8
+#EXTINF:-1 group-title="Российские",НТВ Хит
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/cdn.ntv.ru/th_style/playlist.m3u8
+#EXTINF:-1 group-title="Российские",Россия 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA24.m3u8
+#EXTINF:-1 group-title="Российские",Россия 24 +2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA24_2.m3u8
+#EXTINF:-1 group-title="Российские",Россия 24 +3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA24_3.m3u8
+#EXTINF:-1 group-title="Российские",СПАС
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/T2/CH_SPAS.m3u8
+#EXTINF:-1 group-title="Российские",Пятница! +4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/T2/CH_FRIDAY_4.m3u8
+#EXTINF:-1 group-title="Российские",Звезда
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
+#EXTINF:-1 group-title="Российские",Звезда +4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/vod.tuva.ru:8080/zvezda/index.m3u8
+#EXTINF:-1 group-title="Российские",Мир +4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/T2/CH_MIR_4.m3u8
+#EXTINF:-1 group-title="Российские",Мир +7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/T2/CH_MIR_7.m3u8
+#EXTINF:-1 group-title="Российские",Союз HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/CH_SOYUZHD.m3u8
+#EXTINF:-1 group-title="Российские",Ратник
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/CH_RATNIK.m3u8
+#EXTINF:-1 group-title="Российские",Ратник HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/CH_RATNIKHD.m3u8
+#EXTINF:-1 group-title="Российские",Неизвестная Россия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/CH_UNKNOWN_RUSSIA.m3u8
+#EXTINF:-1 group-title="Российские",Неизвестная Россия HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/CH_UNKNOWN_RUSSIAHD.m3u8
+#EXTINF:-1 group-title="Российские",Звезда Плюс
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/178.212.71.253:8000/play/130/index.m3u8
+#EXTINF:-1 group-title="Российские",Рен ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/178.212.71.253:8000/play/11/index.m3u8
+#EXTINF:-1 group-title="Российские",Москва 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/213.91.178.133:8000/play/a0b1
+#EXTINF:-1 group-title="Российские",Москва Доверие
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/213.91.178.133:8000/play/a0b2
+#EXTINF:-1 group-title="Российские",Москва Доверие
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/178.212.71.253:8000/play/53/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",НТВ Хит
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые",НТВ Сериал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые",Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="Фильмовые",НАШЕ НОВОЕ КИНО
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/178.212.71.253:8002/play/a00i/index.m3u8?token=test
+#EXTINF:-1 group-title="Фильмовые",КИНОКОМЕДИЯ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/178.212.71.253:8002/play/a00j/index.m3u8?token=test
+#EXTINF:-1 group-title="Фильмовые",Bollywood HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/178.212.71.253:8002/play/a00t/index.m3u8?token=test
+#EXTINF:-1 group-title="Фильмовые",HBO BR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/78.130.250.2:8023/play/a02s/index.m3u8?token=test
+#EXTINF:-1 group-title="Фильмовые",Дом Кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/31.148.48.15/Dom_Kino/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1 group-title="Фильмовые",Дом Кино Премиум HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/31.148.48.15/Dom_Kino_Premium_HD/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1 group-title="Фильмовые",Еврокино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/31.148.48.15/Evrokino/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1 group-title="Фильмовые",КИНО ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/31.148.48.15/Kino_TV/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1 group-title="Фильмовые",Кино ТВ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/31.148.48.15/Kino_TV_HD/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1 group-title="Фильмовые",Кинопоказ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/31.148.48.15/Kinopokaz/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1 group-title="Фильмовые",Кинеко
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/31.148.48.15/Kineko/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",CINEMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/CH_CINEMA.m3u8
+#EXTINF:-1 group-title="Фильмовые",Кинеко HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/CH_KINEKO.m3u8
+#EXTINF:-1 group-title="Фильмовые",8 канал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/CH_8CHANNEL.m3u8
+#EXTINF:-1 group-title="Фильмовые",8 Канал Европа
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/CH_8CHANNEL_EUROPE.m3u8
+#EXTINF:-1 group-title="Фильмовые",E TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/CH_ETVHD.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч ТВ FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/178.212.71.253:8002/play/a00k/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные",Sport 1+ HD DE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/78.130.250.2:8023/play/a02o/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные",Golf Channel HD US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/78.130.250.2:8023/play/a02q/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные",Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/78.130.250.2:8023/play/a02u/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные",Canal+ Sport HD PL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/78.130.250.2:8023/play/a02v/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные",CANAL+ SPORT 2 PL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/78.130.250.2:8023/play/a02w/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные",Nova Sport 2 HD CZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/78.130.250.2:8023/play/a004/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные",Auto Motor Sport HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/78.130.250.2:8023/play/a018/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные",Матч! Боец
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/31.148.48.15/Match_Boec/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1 group-title="Спортивные",Swerve Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч! Футбол 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/185.57.68.33/110/mpegts
+#EXTINF:-1 group-title="Спортивные",Red Bull TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/CH_REDBULLTVHD.m3u8
+#EXTINF:-1 group-title="Спортивные",OnlineTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/185.221.213.254:8080/Okko/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч! Футбол 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/77.235.1.19:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч! Футбол 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/178.217.72.66:8080/Match_Futbol_1_HD/video.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч! Футбол 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/77.235.1.19:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч! Футбол 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/178.217.72.66:8080/Match_Futbol_2_HD/video.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч! Футбол 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/77.235.1.19:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч! Футбол 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/178.217.72.66:8080/Match_Futbol_3_HD/video.m3u8
+#EXTINF:-1 group-title="Спортивные",UFC Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные",UFA TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
+#EXTINF:-1 group-title="Спортивные",Boxing TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8
+#EXTINF:-1 group-title="Спортивные",DAZN Combat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+#EXTINF:-1 group-title="Спортивные",M-1 Global
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/stream-msk-10.ott.tricolor.tv/dtv/id524_MSKSG-PVR-1--M1_Global/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NTIwMjU4NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ0NTk3Nzg1LCJzZXNzaW9uX2lkIjoiZmNjZmEyYmIyMTMwOTBkNzZiOWEyMGY3MmM4NjQ4NDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.E96GI_YQPBxXPy-WE_BTpJNMYXaIivzIQ2r-zcbkz6w
+#EXTINF:-1 group-title="Спортивные",Поединок HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/stream-msk-08.ott.tricolor.tv/dtv/id629_MSKSG-PVR-1--Channel_LIVE2/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NTIwMjU4NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ0NTk3Nzg1LCJzZXNzaW9uX2lkIjoiZmNjZmEyYmIyMTMwOTBkNzZiOWEyMGY3MmM4NjQ4NDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.E96GI_YQPBxXPy-WE_BTpJNMYXaIivzIQ2r-zcbkz6w
+#EXTINF:-1 group-title="Спортивные",Спортмастер ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/stream-msk-09.ott.tricolor.tv/dtv/id628_MSKSG-PVR-1--Channel_LIVE1/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NTIwMjU4NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ0NTk3Nzg1LCJzZXNzaW9uX2lkIjoiZmNjZmEyYmIyMTMwOTBkNzZiOWEyMGY3MmM4NjQ4NDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.E96GI_YQPBxXPy-WE_BTpJNMYXaIivzIQ2r-zcbkz6w
+#EXTINF:-1 group-title="Спортивные",Сила
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/stream-msk-04.ott.tricolor.tv/dtv/id633_MSKSG-PVR-1--Channel_LIVE5/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NTIwMjU4NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ0NTk3Nzg1LCJzZXNzaW9uX2lkIjoiZmNjZmEyYmIyMTMwOTBkNzZiOWEyMGY3MmM4NjQ4NDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.E96GI_YQPBxXPy-WE_BTpJNMYXaIivzIQ2r-zcbkz6w
+#EXTINF:-1 group-title="Спортивные",Eurosport 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/185.189.225.157/EuroSport1/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Eurosport 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/185.189.225.157/EuroSport2/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Eurosport 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/213.91.178.133:8000/play/a04b
+#EXTINF:-1 group-title="Спортивные",Старт HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/stream-msk-13.ott.tricolor.tv/dtv/id625_MSKSG-PVR-1--Start/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NTIwMjU4NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ0NTk3Nzg1LCJzZXNzaW9uX2lkIjoiZmNjZmEyYmIyMTMwOTBkNzZiOWEyMGY3MmM4NjQ4NDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.E96GI_YQPBxXPy-WE_BTpJNMYXaIivzIQ2r-zcbkz6w
+#EXTINF:-1 group-title="Спортивные",Старт Триумф HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/stream-msk-15.ott.tricolor.tv/dtv/id902_MSKSG-PVR-1--Start_triumph/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NTIwMjU4NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ0NTk3Nzg1LCJzZXNzaW9uX2lkIjoiZmNjZmEyYmIyMTMwOTBkNzZiOWEyMGY3MmM4NjQ4NDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.E96GI_YQPBxXPy-WE_BTpJNMYXaIivzIQ2r-zcbkz6w
+#EXTINF:-1 group-title="Спортивные",Тонус ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/stream-msk-05.ott.tricolor.tv/dtv/id686_MSKSG-PVR-1--Tonus/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NTIwMjU4NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ0NTk3Nzg1LCJzZXNzaW9uX2lkIjoiZmNjZmEyYmIyMTMwOTBkNzZiOWEyMGY3MmM4NjQ4NDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.E96GI_YQPBxXPy-WE_BTpJNMYXaIivzIQ2r-zcbkz6w
+#EXTINF:-1 group-title="Спортивные",Russian Extreme HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/stream-msk-06.ott.tricolor.tv/dtv/id294_MSKSG-PVR-1--HD_Russkiy_Extreme/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NTIwMjU4NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ0NTk3Nzg1LCJzZXNzaW9uX2lkIjoiZmNjZmEyYmIyMTMwOTBkNzZiOWEyMGY3MmM4NjQ4NDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.E96GI_YQPBxXPy-WE_BTpJNMYXaIivzIQ2r-zcbkz6w
+#EXTINF:-1 group-title="Спортивные",Спорт на Первом
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/edge3.1internet.tv/dash-live2/streams/sport-1/sport-1.mpd
+#EXTINF:-1 group-title="Спортивные",Матч! HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/live-mirror-01.ott.tricolor.tv/live/live/match/hls_enc/match-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NTIwMjU4NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ0NTk3Nzg1LCJzZXNzaW9uX2lkIjoiZmNjZmEyYmIyMTMwOTBkNzZiOWEyMGY3MmM4NjQ4NDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.E96GI_YQPBxXPy-WE_BTpJNMYXaIivzIQ2r-zcbkz6w
+#EXTINF:-1 group-title="Спортивные",Матч! Арена
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/87.120.142.11:18000/Match!Arena
+#EXTINF:-1 group-title="Спортивные",Матч Игра
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/87.120.142.11:18000/Match!Igra
+#EXTINF:-1 group-title="Спортивные",KHL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/178.124.152.238:8088/khl
+#EXTINF:-1 group-title="Спортивные",Хоккей ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/stream-msk-09.ott.tricolor.tv/dtv/id700_MSKSG-PVR-1--Hokeinii_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NTIwMjU4NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ0NTk3Nzg1LCJzZXNzaW9uX2lkIjoiZmNjZmEyYmIyMTMwOTBkNzZiOWEyMGY3MmM4NjQ4NDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.E96GI_YQPBxXPy-WE_BTpJNMYXaIivzIQ2r-zcbkz6w
+#EXTINF:-1 group-title="Спортивные",NHL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные",ТВ Спорт
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/stream-msk-06.ott.tricolor.tv/dtv/id733_MSKSG-PVR-1--Sportivnii/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NTIwMjU4NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ0NTk3Nzg1LCJzZXNzaW9uX2lkIjoiZmNjZmEyYmIyMTMwOTBkNzZiOWEyMGY3MmM4NjQ4NDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.E96GI_YQPBxXPy-WE_BTpJNMYXaIivzIQ2r-zcbkz6w
+#EXTINF:-1 group-title="Спортивные",Большой эфир
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/stream-msk-10.ott.tricolor.tv/dtv/id621_MSKSG-PVR-1--ChannelLIVE/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NTIwMjU4NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ0NTk3Nzg1LCJzZXNzaW9uX2lkIjoiZmNjZmEyYmIyMTMwOTBkNzZiOWEyMGY3MmM4NjQ4NDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.E96GI_YQPBxXPy-WE_BTpJNMYXaIivzIQ2r-zcbkz6w
+#EXTINF:-1 group-title="Спортивные",Игра HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/stream-msk-06.ott.tricolor.tv/dtv/id632_MSKSG-PVR-1--Channel_LIVE4/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NTIwMjU4NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ0NTk3Nzg1LCJzZXNzaW9uX2lkIjoiZmNjZmEyYmIyMTMwOTBkNzZiOWEyMGY3MmM4NjQ4NDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.E96GI_YQPBxXPy-WE_BTpJNMYXaIivzIQ2r-zcbkz6w
+#EXTINF:-1 group-title="Спортивные",Конный мир HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/cdn-01.bonus-tv.ru/kmir/mono.m3u8
+#EXTINF:-1 group-title="Спортивные",Астрахань Спорт
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Trace Sport Stars
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/87.120.142.11:18000/Rossiya1
+#EXTINF:-1 group-title="Спортивные",A Spor HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/trkvz-live.daioncdn.net/aspor/aspor.m3u8
+#EXTINF:-1 group-title="Спортивные",Turkmenistan Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="Спортивные",A21 Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/tv.a21network.ru/content/37909/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Canal Motor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/digicom.hls.iptvdc.com/canalmotor/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Tennis Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные",TENNIS CHANNEL 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/d3qg0hadt0dkov.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/35a24fd8-60c3-45d0-bd8a-ee3cc914581f/3.m3u8
+#EXTINF:-1 group-title="Спортивные",UNBEATEN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/unbeaten-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные",Billiard TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
+#EXTINF:-1 group-title="Спортивные",MAX Sport 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/213.91.178.133:8000/play/a0as
+#EXTINF:-1 group-title="Спортивные",MAX Sport 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/213.91.178.133:8000/play/a0at
+#EXTINF:-1 group-title="Спортивные",MAX Sport 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/213.91.178.133:8000/play/a0ar
+#EXTINF:-1 group-title="Спортивные",MAX Sport 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/213.91.178.133:8000/play/a05n
+#EXTINF:-1 group-title="Спортивные",Arena Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/78.130.250.2:8023/play/a02o/index.m3u8
+#EXTINF:-1 group-title="Спортивные",beIN SPORTS XTRA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 group-title="Спортивные",Dubai Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Спортивные",Dubai Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Спортивные",Dubai Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спортивные",Golf Channel English
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/78.130.250.2:8023/play/a02q/index.m3u8
+#EXTINF:-1 group-title="Спортивные",KHL Prime HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/radio.tvs.by:8088/KHL_HD/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Ru Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Спортивные",A21 Network HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/tv.a21network.ru/stream/37909/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Red Bull TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 group-title="Спортивные",97.XSPORT+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/176.122.99.7:7000/ch117/video.m3u8
+#EXTINF:-1 group-title="Спортивные",CANAL MOTOR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/digicom.hls.iptvdc.com/canalmotor/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спортивные",FIGHTBOX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/176.122.99.7:7000/ch118/video.m3u8
+#EXTINF:-1 group-title="Спортивные",LAX SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
+#EXTINF:-1 group-title="Спортивные",Ovacion TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные",PROSTO DRIVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/176.122.99.7:7000/ch326/video.m3u8
+#EXTINF:-1 group-title="Спортивные",Red Bull TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="Спортивные",San Marino RTV Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
+#EXTINF:-1 group-title="Спортивные",Sports TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/live.sportstv.com.tr/hls/low/sportstv.m3u8
+#EXTINF:-1 group-title="Спортивные",Trace Sport Stars
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/176.122.99.7:7000/ch236/video.m3u8
+#EXTINF:-1 group-title="Спортивные",Viasat Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/176.122.99.7:7000/ch282/video.m3u8
+#EXTINF:-1 group-title="Спортивные",Wired2Fish
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные",XStream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/176.122.99.7:7000/ch313/video.m3u8
+#EXTINF:-1 group-title="Спортивные",CampusLore
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные",Racing.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
+#EXTINF:-1 group-title="Спортивные",W14DK-D 14.5 All Sports Television Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные",Конный Мир HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спортивные",Russian Extreme
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/195.26.83.96:7029/play/a008
+#EXTINF:-1 group-title="Спортивные",Polsat Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/185.236.229.62:9981/play/a07n
+#EXTINF:-1 group-title="Спортивные",Polsat Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/185.236.229.62:9981/play/a07q
+#EXTINF:-1 group-title="Спортивные",Polsat Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/185.236.229.62:9981/play/a06m
+#EXTINF:-1 group-title="Спортивные",Polsat Sport Fight
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/185.236.229.62:9981/play/a06l
+#EXTINF:-1 group-title="Спортивные",Extreme Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/188.113.190.15/39/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Старт
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/188.113.190.15/127/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Red Bull HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
+#EXTINF:-1 group-title="Спортивные",KHL Prime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/178.124.179.122:8088/KHL_HD/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Motorvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/stream.ads.ottera.tv/playlist.m3u8?network_id=535
+#EXTINF:-1 group-title="Спортивные",Игра
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/31.148.48.15:80/Match_Igra/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные",BEK TV Sports West
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные",Dubai Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Dubai Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1 group-title="Спортивные",MadeinBO TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/srvx1.selftv.video/dmchannel/live/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные",More Than Sports TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные",Oman Sports TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Спортивные",Sharjah Sports TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные",SSC Action Waleed
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Teletrak
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные",Астрахань.Ru Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+#EXTINF:-1 group-title="Детские",Детский мир HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/178.212.71.253:8002/play/a00v/index.m3u8?token=test
+#EXTINF:-1 group-title="Детские",Мама
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/31.148.48.15/Mama/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1 group-title="Детские",Мульт
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/31.148.48.15/Mult/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1 group-title="Детские",СоюзМультфильм
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:-1 group-title="Детские",Чип и Дейл
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:-1 group-title="Детские",Ani
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/31.148.48.15/Ani/tracks-v1a1/mono.m3u8?token=default?token=test
+#EXTINF:-1 group-title="Детские",Retro Cartoon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+#EXTINF:-1 group-title="Детские",Солнце
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/CH_SOLNCE.m3u8
+#EXTINF:-1 group-title="Музыкальные",МузСоюз
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",Шансон ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",Радио Страна HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",RU TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/hls-03-video.webcaramba.com/rutv/live_720/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",Муз ТВРадио Шансон
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/chanson.hostingradio.ru:8041/chanson64.mp3
+#EXTINF:-1 group-title="Музыкальные",Наше радио
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/nashe2.hostingradio.ru/nashe-128.mp3
+#EXTINF:-1 group-title="Музыкальные",радио Маяк
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
+#EXTINF:-1 group-title="Музыкальные",Ретро FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/retroserver.streamr.ru:8043/retro64
+#EXTINF:-1 group-title="Музыкальные",Русские Песни
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/listen.rusongs.ru:8005/ru-mp3-128?vvv1766
+#EXTINF:-1 group-title="Музыкальные",13 радио
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/play4.radio13.ru/mp3
+#EXTINF:-1 group-title="Музыкальные",Technobase FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/mp3.stream.tb-group.fm/tb.mp3
+#EXTINF:-1 group-title="Музыкальные",Джаз
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/nashe2.hostingradio.ru/jazz-128.mp3
+#EXTINF:-1 group-title="Музыкальные",Stingray Classica DE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/78.130.250.2:8023/play/a022/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="http:/rafail1982.uz/logo/Now 70" group-title="Музыкальные",Now 70"s
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-logo="http:/rafail1982.uz/logo/Now 90" group-title="Музыкальные",Now 90"s
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 group-title="Музыкальные",Ocko Expres
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Музыкальные",V2BEAT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",Retro Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",CHD-TV RU Rock HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/194.26.229.213/chdtv_ru_rock/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",CHD-TV Rock
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/194.26.229.213/chdtv_rock/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",RU TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/CH_RUTV.m3u8
+#EXTINF:-1 group-title="Музыкальные",RU TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/CH_RUTVHD.m3u8
+#EXTINF:-1 group-title="Музыкальные",OneBY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/CH_1MUZ.m3u8
+#EXTINF:-1 group-title="Музыкальные",OneBY HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/rtmp.one.by:1300
+#EXTINF:-1 group-title="Музыкальные",OneBY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/rtmp.one.by:2200
+#EXTINF:-1 group-title="Музыкальные",OneBY HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/rtmp.one.by:2300
+#EXTINF:-1 group-title="Музыкальные",ТНТ MUSIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/CH_TNT_MUSIC.m3u8
+#EXTINF:-1 group-title="Музыкальные",ТНТ MUSIC HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/CH_TNT_MUSICHD.m3u8
+#EXTINF:-1 group-title="Музыкальные",V2BEAT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/CH_V2BEATHD720.m3u8
+#EXTINF:-1 group-title="Музыкальные",Krone hit
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/CH_KRONEHIT.m3u8
+#EXTINF:-1 group-title="Музыкальные",Krone hit HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/CH_KRONEHITHD.m3u8
+#EXTINF:-1 group-title="Музыкальные",Trace Urban
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/CH_TRACE_URBAN.m3u8
+#EXTINF:-1 group-title="Музыкальные",Trace Urban HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/CH_TRACE_URBANHD.m3u8
+#EXTINF:-1 group-title="Познавательные",НТВ Право
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Живая природа HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/178.212.71.253:8002/play/a00o/index.m3u8?token=test
+#EXTINF:-1 group-title="Познавательные",RTG TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/195.26.83.96:7007/play/a00n/index.m3u8?token=test
+#EXTINF:-1 group-title="Познавательные",Охота и рыбалка
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/78.130.250.2:8023/play/a032/index.m3u8?token=test
+#EXTINF:-1 group-title="Познавательные",Живая Планета
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/31.148.48.15/Zhivaya_Planeta/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1 group-title="Познавательные",Зоо ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/31.148.48.15/Zoo_TV/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1 group-title="Познавательные",История
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/31.148.48.15/Istoriya/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1 group-title="Познавательные",Доктор
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/31.148.48.15/Doktor/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1 group-title="Познавательные",Время
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/31.148.48.15/Vremya/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1 group-title="Познавательные",Авто Плюс
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/31.148.48.15/Avto_Plus/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1 group-title="Познавательные",Naturescape
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/stream.ads.ottera.tv/cl/240211cn4j7g65sur7fq378vpg/1920x1080_5711200_3_f.m3u8
+#EXTINF:-1 group-title="Познавательные",Red Bull TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 group-title="Познавательные",Моя Планета HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/CH_MOYAPLANETAHD720.m3u8
+#EXTINF:-1 group-title="Познавательные",МузСоюз
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/CH_MUZSOYUZ.m3u8
+#EXTINF:-1 group-title="Развлекательные",НТВ Стиль
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные",СТС LOVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/178.212.71.253:8002/play/a00r/index.m3u8?token=test
+#EXTINF:-1 group-title="Развлекательные",ЧЕ!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/178.212.71.253:8002/play/a00s/index.m3u8?token=test
+#EXTINF:-1 group-title="Развлекательные",2x2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/31.148.48.15/2x2/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1 group-title="Развлекательные",Бобёр
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/178.212.71.253:8002/play/a00m/index.m3u8?token=test
+#EXTINF:-1 group-title="Развлекательные",RETRO TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/78.130.250.2:8023/play/a02r/index.m3u8?token=test
+#EXTINF:-1 group-title="Развлекательные",Живи
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/31.148.48.15/Zhivi/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1 group-title="Развлекательные",Кулинар
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/api.alpaca.t62a.com/hls/9110/stream0.m3u8
+#EXTINF:-1 group-title="Региональные",Байкал Универ ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/stream01.bgu.ru/1/1/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",ЮУрГУ-ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/tvrlive.susu.ru/1800k/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",12 КАНАЛ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Региональные",ТВК
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Региональные",Sochi Live HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
+#EXTINF:-1 group-title="Региональные",ТРК 555 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/trk555.tv:8888/live
+#EXTINF:-1 group-title="Региональные",БСТ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="Региональные",Салям
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Осетия-Ирыстон
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/catchup.videoline.ru/iriston/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Региональные",С1 Сургут 86
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/sitv.ru/hls/s86512.m3u8
+#EXTINF:-1 group-title="Региональные",С1 Сургут HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/sitv.ru/vgtrk/stv.m3u8
+#EXTINF:-1 group-title="Региональные",ЮГРА
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/live-ugratv.cdnvideo.ru/ugratv/ugratv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Региональные",ТОЛК
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/live-tolknews.cdnvideo.ru/tolknews/stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Региональные",Краснодар HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Региональные",Алания 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/hls-alaniatv.cdnvideo.ru/alaniatv/alania1/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Запад 24 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/live-vestikaliningrad.cdnvideo.ru/vestikaliningrad/vestikaliningrad.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Своё ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/svoetv.mediacdn.ru/cdn/svoetv/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Региональные",Архыз 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/live.mediacdn.ru/sr1/arhis24/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",РГВК Дагестан
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dagestan.mediacdn.ru/cdn/dagestan/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Региональные",Таврия ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/tavr.mediacdn.ru/cdn/tavria/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Грозный
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
+#EXTINF:-1 group-title="Региональные",Первый Тульский
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/5.164.24.83/tula/1tv_hi/index.m3u8
+#EXTINF:-1 group-title="Региональные",Тверской Проспект Регион
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/stream.fastlnk.ru:88/Tverskojj_prospekt/index.m3u8
+#EXTINF:-1 group-title="Региональные",Щелковское ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/stream0.tv41.ru/live.m3u8
+#EXTINF:-1 group-title="Региональные",Теледом ТВ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
+#EXTINF:-1 group-title="Региональные",МТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",НВК Саха HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Евразия Орск
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/live2-orsk.cdnvideo.ru/orsk-infochhd/infochhd/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Аист ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Астрахань 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/streaming.astrakhan.ru/astrakhan24/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Региональные",Тюменское Время
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/hls-sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Ника ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",TV ГУБЕРНИЯ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Региональные",Эхо ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Эхо ТВ 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/stream.novouralsk-news.ru/echotv24/echotv24-576p.m3u8
+#EXTINF:-1 group-title="Региональные",12 Канал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Sochi Live HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",TV1.KG БИШКЕК CITY HD Бишкек
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_BISHKEKCITYHD_BISHKEK.m3u8
+#EXTINF:-1 group-title="Региональные",Осетия Ирыстон HD Владикавказ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_IRISTONHD_VKAZ.m3u8
+#EXTINF:-1 group-title="Региональные",МТВ HD720 Волгоград
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_MTVHD720_VGRAD.m3u8
+#EXTINF:-1 group-title="Региональные",Волгоград 24 Волгоград
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/smotrim/region/CH_VOLGOGRAD24_VGRAD.m3u8
+#EXTINF:-1 group-title="Региональные",Волгоград 24 HD Волгоград
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/smotrim/region/CH_VOLGOGRAD24HD_VGRAD.m3u8
+#EXTINF:-1 group-title="Региональные",Волжский Плюс HD Волжский
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_VOLPLUSHD_VLSKIY.m3u8
+#EXTINF:-1 group-title="Региональные",ОТВ Екатеринбург
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_OTV_EKT.m3u8
+#EXTINF:-1 group-title="Региональные",ОТВ HD720 Екатеринбург
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_OTVHD720_EKT.m3u8
+#EXTINF:-1 group-title="Региональные",АИСТ HD Иркутск
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_AISTHD_IRK.m3u8
+#EXTINF:-1 group-title="Региональные",БАЙКАЛ Универ ТВ HD Иркутск
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_BAYKALUNIVERTVHD_IRK.m3u8
+#EXTINF:-1 group-title="Региональные",ТНВ Планета Казань
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_TNVPLANETA_KZN.m3u8
+#EXTINF:-1 group-title="Региональные",ШАЯН Казань
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_SHAYAN_KZN.m3u8
+#EXTINF:-1 group-title="Региональные",ШАЯН HD Казань
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_SHAYANHD_KZN.m3u8
+#EXTINF:-1 group-title="Региональные",UNIVER Казань
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_UNIVER_KZN.m3u8
+#EXTINF:-1 group-title="Региональные",UNIVER HD Казань
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_UNIVERHD_KZN.m3u8
+#EXTINF:-1 group-title="Региональные",Запад 24 Калининград
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/smotrim/region/CH_3APAD24_KLGR.m3u8
+#EXTINF:-1 group-title="Региональные",Запад 24 HD Калининград
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/smotrim/region/CH_3APAD24HD_KLGR.m3u8
+#EXTINF:-1 group-title="Региональные",Краснодар Краснодар
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_KRASNODAR_KRDAR.m3u8
+#EXTINF:-1 group-title="Региональные",Краснодар HD Краснодар
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/smotrim/region/CH_KRASNODARHD_KRDAR.m3u8
+#EXTINF:-1 group-title="Региональные",Енисей HD Красноярск
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_ENISEYHD_KRSK.m3u8
+#EXTINF:-1 group-title="Региональные",ТВК 24 Красноярск
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_TVK24_KRSK.m3u8
+#EXTINF:-1 group-title="Региональные",ТВК 24 HD Красноярск
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_TVK24HD_KRSK.m3u8
+#EXTINF:-1 group-title="Региональные",Тува 24 Кызыл
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_TUVA24_TUVA.m3u8
+#EXTINF:-1 group-title="Региональные",TVАист Ликино-Дулево
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_TVAIST_LD.m3u8
+#EXTINF:-1 group-title="Региональные",Липецкое время HD720 Липецк
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_LVREMYAHD720_LIPETSK.m3u8
+#EXTINF:-1 group-title="Региональные",Крик ТВ Магадан
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_KRIKTV_DV_MGDN.m3u8
+#EXTINF:-1 group-title="Региональные",РГВК Дагестан Махачкала
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_DAGESTAN_MAHACHK.m3u8
+#EXTINF:-1 group-title="Региональные",РГВК Дагестан HD Махачкала
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_DAGESTANHD_MAHACHK.m3u8
+#EXTINF:-1 group-title="Региональные",Мособр ТВ HD720 Москва
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_MOSOBRTVHD720_MOS.m3u8
+#EXTINF:-1 group-title="Региональные",Север Нарьян-Мар
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_SEVER_NAO.m3u8
+#EXTINF:-1 group-title="Региональные",Север HD Нарьян-Мар
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_SEVERHD_NAO.m3u8
+#EXTINF:-1 group-title="Региональные",Волга Нижний Новгород
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_VOLGA_NN.m3u8
+#EXTINF:-1 group-title="Региональные",Волга HD Нижний Новгород
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_VOLGAHD_NN.m3u8
+#EXTINF:-1 group-title="Региональные",Нижний Новгород 24 Нижний Новгород
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/smotrim/region/CH_NN24_NN.m3u8
+#EXTINF:-1 group-title="Региональные",Нижний Новгород 24 HD Нижний Новгород
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/smotrim/region/CH_NN24HD_NN.m3u8
+#EXTINF:-1 group-title="Региональные",Эхо ТВ 24 Новоуральск
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_ECHOTV24_NURLSK.m3u8
+#EXTINF:-1 group-title="Региональные",Сибирь 24 Новосибирск
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/smotrim/region/CH_SIBIR24_NSK.m3u8
+#EXTINF:-1 group-title="Региональные",Сибирь 24 HD Новосибирск
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/smotrim/region/CH_SIBIR24HD_NSK.m3u8
+#EXTINF:-1 group-title="Региональные",12 Канал Омск
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_12CHANNEL_OMSK.m3u8
+#EXTINF:-1 group-title="Региональные",12 Канал HD Омск
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_12CHANNELHD_OMSK.m3u8
+#EXTINF:-1 group-title="Региональные",Экспресс HD Пенза
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_EXPRESSHD_PENZA.m3u8
+#EXTINF:-1 group-title="Региональные",Наш дом Пенза
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_NASHDOM_PENZA.m3u8
+#EXTINF:-1 group-title="Региональные",Ветта-24 Пермь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_VETTA24_PERM.m3u8
+#EXTINF:-1 group-title="Региональные",ДОН 24 HD Ростов на Дону
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_DON24HD_RD.m3u8
+#EXTINF:-1 group-title="Региональные",Губерния Самара
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_GUBERNIA_SAMARA.m3u8
+#EXTINF:-1 group-title="Региональные",Теледом HD720 Санкт-Петербург
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_TELEDOMHD720_SPB.m3u8
+#EXTINF:-1 group-title="Региональные",Народное телевидение Мордовии Саранск
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_NTM_SRNK.m3u8
+#EXTINF:-1 group-title="Региональные",Народное телевидение Мордовии HD720 Саранск
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_NTMHD720_SRNK.m3u8
+#EXTINF:-1 group-title="Региональные",Саратов 24 HD Саратов
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_SARATOV24HD_SARATOV.m3u8
+#EXTINF:-1 group-title="Региональные",НТС HD Севастополь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_NTSHD_SVTPL.m3u8
+#EXTINF:-1 group-title="Региональные",Легендарный 24 HD Севастополь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_LEGENDARNY24HD_SVTPL.m3u8
+#EXTINF:-1 group-title="Региональные",Симферополь 24 HD Симферополь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_SIMFEROPOL24HD_SMRPL.m3u8
+#EXTINF:-1 group-title="Региональные",Миллет ТВ HD720 Симферополь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_MILLETHD720_SMRPL.m3u8
+#EXTINF:-1 group-title="Региональные",Первый Крымский Симферополь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_1KRYMSKIY_SMRPL.m3u8
+#EXTINF:-1 group-title="Региональные",КРЫМ 24 Симферополь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_KRYM24_SMRPL.m3u8
+#EXTINF:-1 group-title="Региональные",КРЫМ 24 HD720 Симферополь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_KRYM24HD720_SMRPL.m3u8
+#EXTINF:-1 group-title="Региональные",SOCHI LIVE HD720 Сочи
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_SOCHILIVEHD720_SOCHI.m3u8
+#EXTINF:-1 group-title="Региональные",СВОЁ ТВ Ставрополь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_SVOETV_STAVR.m3u8
+#EXTINF:-1 group-title="Региональные",СВОЁ ТВ HD Ставрополь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_SVOETVHD_STAVR.m3u8
+#EXTINF:-1 group-title="Региональные",Кавказ 24 Ставрополь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/smotrim/region/CH_KAVKAZ24_STAVR.m3u8
+#EXTINF:-1 group-title="Региональные",С1 Сургут
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_C1_SUR.m3u8
+#EXTINF:-1 group-title="Региональные",С86 Сургут
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_C86_SUR.m3u8
+#EXTINF:-1 group-title="Региональные",СТВ/Продвижение Стрежевой
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_STV_SRVOY.m3u8
+#EXTINF:-1 group-title="Региональные",Новый век Тамбов
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_NOVIY_VEK_TAMB.m3u8
+#EXTINF:-1 group-title="Региональные",Югра HD Тюмень
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/smotrim/region/CH_UGRAHD_TUM.m3u8
+#EXTINF:-1 group-title="Региональные",Матур ТВ HD Уфа
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_MATURTVHD_UFA.m3u8
+#EXTINF:-1 group-title="Региональные",РБК Уфа
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_RBK_UFA.m3u8
+#EXTINF:-1 group-title="Региональные",БСТ Уфа
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_BST_UFA.m3u8
+#EXTINF:-1 group-title="Региональные",Башкортостан 24 Уфа
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/smotrim/region/CH_BASHKORTOSTAN24_UFA.m3u8
+#EXTINF:-1 group-title="Региональные",Башкортостан 24 HD Уфа
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/smotrim/region/CH_BASHKORTOSTAN24HD_UFA.m3u8
+#EXTINF:-1 group-title="Региональные",Урал 24 Челябинск
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/smotrim/region/CH_URAL24_CHEL.m3u8
+#EXTINF:-1 group-title="Региональные",Урал 24 HD Челябинск
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/smotrim/region/CH_URAL24HD_CHEL.m3u8
+#EXTINF:-1 group-title="Региональные",Архыз 24 HD Черкесия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_ARKHIZ24HD_CHERKS.m3u8
+#EXTINF:-1 group-title="Региональные",НВК Саха HD Якутск
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_NVCHD_DV_YKT.m3u8
+#EXTINF:-1 group-title="Региональные",Якутия 24 HD Якутск
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/region/CH_YAKT24HD_DV_YKT.m3u8
+#EXTINF:-1 group-title="Региональные",МИТВ Местное Илимское TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/193.33.233.109:9000/tv
+#EXTINF:-1 group-title="Другие",ОСН
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
+#EXTINF:-1 group-title="Другие",TV Pro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/rtmp.tvpro-online.ru/hls/ch1.m3u8
+#EXTINF:-1 group-title="Другие",ТРК Круг
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/cdn1.live-tv.od.ua:8081/krugod/krugod-abr/krugod/krugod/playlist.m3u8
+#EXTINF:-1 group-title="Другие",Репортер
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
+#EXTINF:-1 group-title="Другие",Univer TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/cdn.universmotri.ru/live/smil:univer.smil/chunklist_w911267907_b3628000_slru.m3u8
+#EXTINF:-1 group-title="Другие",Миллет
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/live.trkmillet.ru/millet/index.m3u8
+#EXTINF:-1 group-title="Другие",Tv Brics
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Другие",Brodilo TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/brodilo.tv/brodilotv.m3u
+#EXTINF:-1 group-title="Другие",TBN BALTIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dc.tbnbaltia.eu:8088/dvr/tracks-v1a1/rewind-21600.m3u8
+#EXTINF:-1 group-title="Другие",Радость моя
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="Другие",Красная линия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Другие",НТМ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:-1 group-title="Другие",НТС HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/chunklist.m3u8
+#EXTINF:-1 group-title="Другие",Мир Premium HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="Другие",Мир 24 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 group-title="Другие",Крик-ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
+#EXTINF:-1 group-title="Другие",РЖД ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/hls-tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Другие",Наш Дом
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/85.234.33.63/stream/c11.m3u8
+#EXTINF:-1 group-title="Другие",Хузур ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Другие",NEXO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/rafail1982.uz/nexo2.mp4
+#EXTINF:-1 group-title="Другие",360 Новости
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
+#EXTINF:-1 group-title="Другие",Galaxy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/195.26.83.96:7007/play/a00j/index.m3u8?token=test
+#EXTINF:-1 group-title="Другие",Channel a00m
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/195.26.83.96:7007/play/a00m/index.m3u8?token=test
+#EXTINF:-1 group-title="Другие",First Channel News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/amtvusdvr.tulix.tv/am3abr/index.m3u8?token=test
+#EXTINF:-1 group-title="Другие",SONGTV Armenia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/songtv.hls.iptvdc.com/web-armenia/index.m3u8?token=test
+#EXTINF:-1 group-title="Другие",SONG TV RUSSIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/songtv.hls.iptvdc.com/web-russia/index.m3u8?token=test
+#EXTINF:-1 group-title="Другие",Channel 9104
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/api.alpaca.t62a.com/hls/9104/stream0.m3u8
+#EXTINF:-1 group-title="Другие",TV Rus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/api.alpaca.t62a.com/hls/9106/stream0.m3u8
+#EXTINF:-1 group-title="Другие",Channel 9108
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/api.alpaca.t62a.com/hls/9108/stream0.m3u8
+#EXTINF:-1 group-title="Другие",Kaufbei TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/api.alpaca.t62a.com/hls/9111/stream0.m3u8
+#EXTINF:-1 group-title="Другие",Channel 9112
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/api.alpaca.t62a.com/hls/9112/stream0.m3u8
+#EXTINF:-1 group-title="Другие",Кнопка TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/api.alpaca.t62a.com/hls/9116/stream0.m3u8
+#EXTINF:-1 group-title="Другие",TV Rus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/api.alpaca.t62a.com/hls/9121/stream0.m3u8
+#EXTINF:-1 group-title="Другие",Channel 40
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/185.57.68.33/40/mpegts
+#EXTINF:-1 group-title="Другие",Channel 232
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/185.57.68.33/232/mpegts
+#EXTINF:-1 group-title="Другие",Channel 233
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/185.57.68.33/233/mpegts
+#EXTINF:-1 group-title="Другие",Channel 236
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/185.57.68.33/236/mpegts
+#EXTINF:-1 group-title="Другие",Channel 237
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/185.57.68.33/237/mpegts
+#EXTINF:-1 group-title="Другие",Channel 240
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/185.57.68.33/240/mpegts
+#EXTINF:-1 group-title="Другие",RTG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/31.148.48.15/RTG/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1 group-title="Другие",RU TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/31.148.48.15/RU_TV/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1 group-title="Другие",Бокс ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/31.148.48.15/Boks_TV/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1 group-title="Другие",А 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/31.148.48.15/A1/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1 group-title="Другие",А 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/31.148.48.15/A2/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1 group-title="Другие",Русский бестселлер
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/31.148.48.15/Russkiy_Bestseller/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1 group-title="Другие",БелРос
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
+#EXTINF:-1 group-title="Другие",Твое ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:-1 group-title="Другие",Твое ТВ Юмор HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/84.38.180.145:8080/tvoetv/index.m3u8
+#EXTINF:-1 group-title="Другие",Тротек
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/trotek.keenetic.pro/play.m3u8
+#EXTINF:-1 group-title="Хобби и увлечения",ЕГЭ ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/CH_EGETV.m3u8
+#EXTINF:-1 group-title="Турецкие",360 TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 group-title="Турецкие",Akit TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/akittv-live.ercdn.net/akittv/akittv.m3u8
+#EXTINF:-1 group-title="Турецкие",Al-Zahra TV Turkic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/live.al-zahratv.com/live/playlist.m3u8
+#EXTINF:-1 group-title="Турецкие",ARAS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/1.rtmp.org/tv217/yayin.stream/playlist.m3u8
+#EXTINF:-1 group-title="Турецкие",Can TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/canbroadcast.com:7000/canlican/tv.m3u8
+#EXTINF:-1 group-title="Турецкие",Cekmeköy TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/playlist.m3u8
+#EXTINF:-1 group-title="Турецкие",Diyanet TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:-1 group-title="Турецкие",Dost TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dost.stream.emsal.im/tv/live.m3u8
+#EXTINF:-1 group-title="Турецкие",Dream Türk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1 group-title="Турецкие",Erzurum Web TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8
+#EXTINF:-1 group-title="Турецкие",Euro D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+#EXTINF:-1 group-title="Турецкие",Kanal 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
+#EXTINF:-1 group-title="Турецкие",Kanal D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/demiroren-live.daioncdn.net/kanald/kanald.m3u8
+#EXTINF:-1 group-title="Турецкие",Kanal Hayat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/tbn02a.ltnschedule.com/hls/nx21i.m3u8
+#EXTINF:-1 group-title="Турецкие",NTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dogus-live.daioncdn.net/ntv/ntv.m3u8
+#EXTINF:-1 group-title="Турецкие",Number 1 Ask
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+#EXTINF:-1 group-title="Турецкие",Number 1 Damar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+#EXTINF:-1 group-title="Турецкие",Number 1 Dance
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
+#EXTINF:-1 group-title="Турецкие",On 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/live.artidijitalmedya.com/artidijital_kanal16/kanal16/playlist.m3u8
+#EXTINF:-1 group-title="Турецкие",Sat7 Türk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8
+#EXTINF:-1 group-title="Турецкие",Semerkand TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
+#EXTINF:-1 group-title="Турецкие",Star TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTINF:-1 group-title="Турецкие",Syria TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8
+#EXTINF:-1 group-title="Турецкие",Tarim TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8
+#EXTINF:-1 group-title="Турецкие",Tatlises TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
+#EXTINF:-1 group-title="Турецкие",TBMM TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/meclistv-live.ercdn.net/meclistv/meclistv.m3u8
+#EXTINF:-1 group-title="Турецкие",Teve2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/teve2vod.duhnet.tv/S12/HLS_VOD/382843_2e5b/index.m3u8
+#EXTINF:-1 group-title="Турецкие",TGRT Belgesel TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
+#EXTINF:-1 group-title="Турецкие",TRT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/d1u68oyra9spme.cloudfront.net/master.m3u8
+#EXTINF:-1 group-title="Турецкие",TRT Belgesel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Турецкие",TRT EBA Ilkokul
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/tv-e-okul00.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Турецкие",TRT EBA Lise
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/tv-e-okul02.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Турецкие",TRT EBA Ortaokul
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/tv-e-okul01.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Турецкие",TRT Kurdî
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/tv-trtkurdi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Турецкие",TRT Müzik
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Татарстан",ТНВ ПЛАНЕТА
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/origin5.mediacdn.ru/live/tnvplaneta/index.m3u8
+#EXTINF:-1 group-title="Татарстан",ТНВ ТАТАРСТАН
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/user91229.clients-cdnnow.ru/hls/user91229_1_480/index.m3u8
+#EXTINF:-1 group-title="Татарстан",БАШКОРТОСТАН 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/109.233.169.137/540/b24-540.m3u8
+#EXTINF:-1 group-title="Татарстан",БСТ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
+#EXTINF:-1 group-title="Татарстан",АРИС 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/serv25.vintera.tv:8081/test/aris/playlist.m3u8
+#EXTINF:-1 group-title="Татарстан",UNIVER TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/cdn.universmotri.ru/live/univer.sdp_720p/playlist.m3u8
+#EXTINF:-1 group-title="Татарстан",МАЙДАН
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/live-maidantv.cdnvideo.ru/maidantv/maidantv_480/playlist.m3u8
+#EXTINF:-1 group-title="Татарстан",МАЙДАН HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/live-maidantv.cdnvideo.ru/maidantv/maidantv_720/playlist.m3u8
+#EXTINF:-1 group-title="Татарстан",МАТУР ТВ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/providers.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+#EXTINF:-1 group-title="Татарстан",ТУГАН ТЕЛ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/213.59.128.165:8080/Tugantel/index.m3u8
+#EXTINF:-1 group-title="Татарстан",ТУГАН ТЕЛ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/streamer.rtcommufa.ru:1935/tugantel/hd/playlist.m3u8
+#EXTINF:-1 group-title="Татарстан",КУРАЙ ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
+#EXTINF:-1 group-title="Татарстан",ТАМЫР
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
+#EXTINF:-1 group-title="Татарстан",ӘТНӘ ТЕАТРЫ РАДИОСЫ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/c2.radioboss.fm:18571/stream
+#EXTINF:-1 group-title="Татарстан",РАДИО ДУЛКЫН
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/radio.tatmedia.com:8800/Saba
+#EXTINF:-1 group-title="Татарстан",РАДИО РОКСАНА
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/listen1.myradio24.com/2761
+#EXTINF:-1 group-title="Татарстан",РАДИО КУНЕЛ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/89.251.159.37:8080/hls/kunelfm.m3u8
+#EXTINF:-1 group-title="Татарстан",БОЛГАР РАДИОСЫ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/user73612.clients-cdnnow.ru/hls/user73612_1/index.m3u8
+#EXTINF:-1 group-title="Казахстанские",Abai TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
+#EXTINF:-1 group-title="Казахстанские",Atyraý
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/stream.kaztrk.kz/regional/atyrautv/index.m3u8
+#EXTINF:-1 group-title="Казахстанские",Ertis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/stream.kaztrk.kz/regional/pavlodartv/index.m3u8
+#EXTINF:-1 group-title="Казахстанские",Jambyl
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/stream.kaztrk.kz/regional/taraztv/index.m3u8
+#EXTINF:-1 group-title="Казахстанские",Kókshe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/stream.kaztrk.kz/regional/kokshetautv/index.m3u8
+#EXTINF:-1 group-title="Казахстанские",Ontústik
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/stream.kaztrk.kz/regional/shymkenttv/index.m3u8
+#EXTINF:-1 group-title="Казахстанские",Qazaqstan TV International
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
+#EXTINF:-1 group-title="Казахстанские",Qostanai
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/stream.kaztrk.kz/regional/kostanaytv/index.m3u8
+#EXTINF:-1 group-title="Казахстанские",Qyzylorda
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/stream.kaztrk.kz/regional/kyzylordatv/index.m3u8
+#EXTINF:-1 group-title="Казахстанские",Saryarqa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/stream.kaztrk.kz/regional/karagandytv/index.m3u8
+#EXTINF:-1 group-title="Казахстанские",КТК
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/89.218.30.37/ktklive/live.hq/playlist.m3u8
+#EXTINF:-1 group-title="Казахстанские",МТРК
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
+#EXTINF:-1 group-title="Казахстанские",Новое телевидение
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+#EXTINF:-1 group-title="Казахстанские",Balapan TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
+#EXTINF:-1 group-title="Казахстанские",CGTN Русский
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/news.cgtn.com/resource/live/russian/cgtn-r.m3u8
+#EXTINF:-1 group-title="Казахстанские",Fashion TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Казахстанские",Semeı
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/stream.kaztrk.kz/regional/semeytv/index.m3u8
+#EXTINF:-1 group-title="Казахстанские",QazSport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
+#EXTINF:-1 group-title="ARABIC",Afghanistan International
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/hls.afintl.com/hls/stream.m3u8
+#EXTINF:-1 group-title="ARABIC",Ajyal TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/htvajyal.mada.ps:8888/ajyal/index.m3u8
+#EXTINF:-1 group-title="ARABIC",Al Alam
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/live2.alalam.ir/alalam.m3u8
+#EXTINF:-1 group-title="ARABIC",Al Aqsa Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/167.172.161.13/hls/feedspare/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
+#EXTINF:-1 group-title="ARABIC",Al Arabiya
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 group-title="ARABIC",Al Arabiya Business
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
+#EXTINF:-1 group-title="ARABIC",Al Arabiya Programs
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/d1j4r34gq3qw9y.cloudfront.net/out/v1/96804f3a14864641a21c25e8ca9afb74/index.m3u8
+#EXTINF:-1 group-title="ARABIC",Al Ekhbariya
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
+#EXTINF:-1 group-title="ARABIC",Al Hadath TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
+#EXTINF:-1 group-title="ARABIC",Al Iraqia News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
+#EXTINF:-1 group-title="ARABIC",Al Ittihad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/185.105.4.151:8080/_defapp_/ittihad/index.m3u8
+#EXTINF:-1 group-title="ARABIC",Al Jazeera Arabic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
+#EXTINF:-1 group-title="ARABIC",Al Jazeera Documentary
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/live-hls-web-ajd.getaj.net/AJD/index.m3u8
+#EXTINF:-1 group-title="ARABIC",Al Jazeera Mubasher
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF:-1 group-title="ARABIC",Al Mamlaka TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist.m3u8
+#EXTINF:-1 group-title="ARABIC",Al Manar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/edge.fastpublish.me/live/index.m3u8
+#EXTINF:-1 group-title="ARABIC",Al Mashhad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/playlist.m3u8
+#EXTINF:-1 group-title="ARABIC",Al Mayadeen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="ARABIC",Al Qahera News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/playlist.m3u8
+#EXTINF:-1 group-title="ARABIC",Al Shallal TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ARABIC",Al Sharqiya Min Kabla
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+#EXTINF:-1 group-title="ARABIC",Al Wousta TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
+#EXTINF:-1 group-title="ARABIC",Al Yaum TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/iko-live.akamaized.net/AlyuamTV/master.m3u8
+#EXTINF:-1 group-title="ARABIC",Alaraby 2 TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ARABIC",Alaraby TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ARABIC",Alhaqeqa Aldawlia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/ghaasiflu.online/alhqeqa/index.m3u8
+#EXTINF:-1 group-title="ARABIC",Alhurra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
+#EXTINF:-1 group-title="ARABIC",Alhurra Iraq
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8
+#EXTINF:-1 group-title="ARABIC",ALWifak News TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/alwifaklive.info:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 group-title="ARABIC",Amman TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
+#EXTINF:-1 group-title="ARABIC",Asharq Discovery
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+#EXTINF:-1 group-title="ARABIC",Asharq News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8
+#EXTINF:-1 group-title="ARABIC",Asharq News Portrait
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/bcovlive-a.akamaihd.net/ed81ac1118414d4fa893d3a83ccec9be/eu-central-1/6203311941001/playlist.m3u8
+#EXTINF:-1 group-title="ARABIC",Asil TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/live.asil.tv/asiltv/index.m3u8
+#EXTINF:-1 group-title="Новости 🗞",Мир 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/CH_MIR24.m3u8
+#EXTINF:-1 group-title="Новости 🗞",Мир 24 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/CH_MIR24HD.m3u8
+#EXTINF:-1 group-title="Новости 🗞",РБК
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/CH_RBK.m3u8
+#EXTINF:-1 group-title="Новости 🗞",РБК HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/CH_RBKHD.m3u8
+#EXTINF:-1 group-title="Новости 🗞",Красная линия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/CH_REDLINE.m3u8
+#EXTINF:-1 group-title="Новости 🗞",РЖД ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/CH_RZHDTV.m3u8
+#EXTINF:-1 group-title="Новости 🗞",РЖД ТВ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/CH_RZHDTVHD.m3u8
+#EXTINF:-1 group-title="Новости 🗞",Большая Азия HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/CH_BAZIYAHD720.m3u8
+#EXTINF:-1 group-title="Новости 🗞",Байкал Телеком info HD720
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/CH_BAYKALTEL_INFOHD720.m3u8
+#EXTINF:-1 group-title="Белорусские",Беларусь 1 Беларусь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/blrus/CH_BELARUS1.m3u8
+#EXTINF:-1 group-title="Белорусские",Беларусь 1 HD Беларусь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/blrus/CH_BELARUS1HD.m3u8
+#EXTINF:-1 group-title="Белорусские",Беларусь 2 Беларусь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/blrus/CH_BELARUS2.m3u8
+#EXTINF:-1 group-title="Белорусские",Беларусь 2 HD Беларусь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/blrus/CH_BELARUS2HD.m3u8
+#EXTINF:-1 group-title="Белорусские",Беларусь 3 Беларусь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/blrus/CH_BELARUS3.m3u8
+#EXTINF:-1 group-title="Белорусские",Беларусь 3 HD Беларусь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/blrus/CH_BELARUS3HD.m3u8
+#EXTINF:-1 group-title="Белорусские",Беларусь 5 Беларусь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/blrus/CH_BELARUS5.m3u8
+#EXTINF:-1 group-title="Белорусские",Беларусь 5 Интернет Беларусь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/blrus/CH_BELARUS5_INT.m3u8
+#EXTINF:-1 group-title="Белорусские",Беларусь 5 Интернет HD Беларусь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/blrus/CH_BELARUS5_INTHD.m3u8
+#EXTINF:-1 group-title="Белорусские",Беларусь 24 Беларусь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/blrus/CH_BELARUS24.m3u8
+#EXTINF:-1 group-title="Белорусские",Беларусь 24 HD Беларусь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/blrus/CH_BELARUS24HD.m3u8
+#EXTINF:-1 group-title="Белорусские",Первый информационный Беларусь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/blrus/CH_1INFORMATSYONNY.m3u8
+#EXTINF:-1 group-title="Белорусские",Первый информационный HD Беларусь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/blrus/CH_1INFORMATSYONNYHD.m3u8
+#EXTINF:-1 group-title="Белорусские",ОНТ HD Беларусь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/blrus/CH_OHTHD.m3u8
+#EXTINF:-1 group-title="Белорусские",БелРос Беларусь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmi3y-tv.ru/hls/blrus/CH_BELROS.m3u8
+#EXTINF:-1 group-title="KINOZAL",СТРК HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/sochinskayatrk.ru/hdtv/hls/CTPK_HD/playlist.m3u8
+#EXTINF:-1 group-title="KINOZAL",Шоу Бенни Хилла
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fl1001.bozztv.com/ushba62/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINOZAL",Мистер Бин
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fl1001.bozztv.com/ushba45/index.m3u8
+#EXTINF:-1 group-title="KINOZAL",Star Media
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fl1001.bozztv.com/ushba4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINOZAL",Документалка 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fl1001.bozztv.com/ushba28/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINOZAL",Документалка 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fl1001.bozztv.com/ushba29/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINOZAL",Документалка 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fl1001.bozztv.com/ushba38/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINOZAL",Retrovision Motor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fl1001.bozztv.com/ushba-rvisionmotor/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINOZAL",Retrovision Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fl1001.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINOZAL",Retrovision Classic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fl1001.bozztv.com/ushba-rvisionclassic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINOZAL",Retrovision Кинопанорама
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fl1001.bozztv.com/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINOZAL",SPOOPS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fl1001.bozztv.com/ushba46/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINOZAL",Кинозалы 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fl1001.bozztv.com/ushba13/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINOZAL",Кинозалы 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fl1001.bozztv.com/ushba14/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINOZAL",Кинозалы 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINOZAL",Кинозалы 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fl1001.bozztv.com/ushba26/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINOZAL",Кинозалы 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fl1001.bozztv.com/ushba-films-b/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINOZAL",Кинозалы 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fl1001.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINOZAL",Кинозалы 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fl1001.bozztv.com/ushba-films-d/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINOZAL",Кинозалы 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fl1001.bozztv.com/ushba-films-e/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINOZAL",Кинозалы 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fl1001.bozztv.com/ushba-films-f/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINOZAL",Кинозалы 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fl1001.bozztv.com/ushba-films-g/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINOZAL",Кинозалы 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fl1001.bozztv.com/ushba-films-h/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINOZAL",Кинозалы 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fl1001.bozztv.com/ushba-films-j/index.m3u8
+#EXTINF:-1 group-title="KINOZAL",Кинозалы 14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fl1001.bozztv.com/ushba-films-m/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINOZAL",Кинозалы 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fl1001.bozztv.com/ushba-films-p/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINOZAL",Кинозалы 16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fl1001.bozztv.com/ushba-films-t/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINOZAL",Кинозалы 17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fl1001.bozztv.com/ushba-films-yz/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINOZAL",Кинозалы 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fl1001.bozztv.com/ushba-films-n/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINOZAL",Кинозалы 19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fl1001.bozztv.com/ushba-films-qr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINOZAL",Кинозалы 20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fl1001.bozztv.com/ushba-films-uv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINOZAL",Кинозалы 21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fl1001.bozztv.com/ushba-films-o/index.m3u8
+#EXTINF:-1 group-title="KINOZAL",Кинозалы 22
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fl1001.bozztv.com/ushba-films-s/index.m3u8
+#EXTINF:-1 group-title="KINOZAL",Кинозалы 23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fl1001.bozztv.com/ushba-films-w/index.m3u8
+#EXTINF:-1 group-title="KINOZAL",Кинозалы 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fl1001.bozztv.com/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINOZAL",Кинозалы 25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fl1001.bozztv.com/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINOZAL",Кинозалы 26
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fl1001.bozztv.com/ushba-rfilrms-b/index.m3u8
+#EXTINF:-1 group-title="KINOZAL",Кинозалы 27
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fl1001.bozztv.com/ushba-rfilrms-c/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINOZAL",Кинозалы 29
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fl1001.bozztv.com/ushba-rfilrms-e/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINOZAL",Кинозалы 30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fl1001.bozztv.com/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINOZAL",Кинозалы 31
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fl1001.bozztv.com/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINOZAL",Кинозалы 32
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fl1001.bozztv.com/ushba-rfilrms-k/index.m3u8
+#EXTINF:-1 group-title="KINOZAL",Кинозалы 33
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fl1001.bozztv.com/ushba-rfilrms-p/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINOZAL",Кинозалы 34
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fl1001.bozztv.com/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINOZAL",Кинозалы 35
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fl1001.bozztv.com/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINOZAL",Кинозалы 36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fl1001.bozztv.com/ushba64/index.m3u8
+#EXTINF:-1 group-title="KINOZAL",Кинозалы 37
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fl1001.bozztv.com/ushba65/index.m3u8
+#EXTINF:-1 group-title="KINOZAL",Gameplay
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fl1001.bozztv.com/ushba31/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINOZAL",Gameplay трейлеры
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fl1001.bozztv.com/ushba44/index.m3u8
+#EXTINF:-1 group-title="Радиостанции",A'lo FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/player.raddio.net/radio_stations/stations/play-stream?id=385158
+#EXTINF:-1 group-title="Радиостанции",TRUCK FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/truckfm.rafail1982.uz:8000/64
+#EXTINF:-1 group-title="Радиостанции",Oriat FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dono.rafail1982.uz:8000/fm
+#EXTINF:-1 group-title="Радиостанции",QALBIM NAVOSI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/live.qalbimnavosi.uz/qalbimnavosi
+#EXTINF:-1 group-title="Радиостанции",MARKAZ FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/mediamarkaz.com:8000/radiomarkaz
+#EXTINF:-1 group-title="Радиостанции",ORIAT DONO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dono.rafail1982.uz:8000/dono
+#EXTINF:-1 group-title="Радиостанции",NRJ Trance
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/101s1.rafail1982.uz/stream/trust/mp3/128/19
+#EXTINF:-1 group-title="Радиостанции",COVER FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/rr-covers.hostingradio.ru/rrcovers96.aacp
+#EXTINF:-1 group-title="Радиостанции",Руки Вверх!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/101s1.rafail1982.uz/stream/pro/aac/64/163
+#EXTINF:-1 group-title="Радиостанции",RUKI VVERH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/radiorecord.rafail1982.uz/rv96.aacp
+#EXTINF:-1 group-title="Радиостанции",Юрий Шатунов и Ласковый Май
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/101s1.rafail1982.uz/stream/pro/aac/64/119
+#EXTINF:-1 group-title="Радиостанции",Авторадио. Дискотека СССР
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/101s1.rafail1982.uz/stream/pro/aac/64/144
+#EXTINF:-1 group-title="Радиостанции",SANDRA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/101s1.rafail1982.uz/stream/pro/aac/64/179
+#EXTINF:-1 group-title="Радиостанции",MODERN TALKING
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/101s1.rafail1982.uz/stream/pro/aac/64/115
+#EXTINF:-1 group-title="Радиостанции",PINK FLOYD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/101s1.rafail1982.uz/stream/pro/aac/64/53
+#EXTINF:-1 group-title="Радиостанции",Radio Legends
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/ssl.audio1.meway.tv/proxy/radiolegends?mp=/stream
+#EXTINF:-1 group-title="Радиостанции",Радио Dendy-Collection
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/sergeisam.fvds.ru:4485/radio
+#EXTINF:-1 group-title="Радиостанции",SIM - ENIGMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/sim.md:8000/enigma
+#EXTINF:-1 group-title="Радиостанции",TRANCE 21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/mscp3.live-streams.nl:8020/radio
+#EXTINF:-1 group-title="Радиостанции",EURODANCE 90S
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/harddanceradio.ddns.is74.ru:8000/eurodance
+#EXTINF:-1 group-title="Радиостанции",90S DISCOTECH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/radiorecord.rafail1982.uz/technopop96.aacp
+#EXTINF:-1 group-title="Радиостанции",SD90
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/radiorecord.rafail1982.uz/sd9096.aacp
+#EXTINF:-1 group-title="Радиостанции",1980 FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/radiorecord.rafail1982.uz/198096.aacp
+#EXTINF:-1 group-title="Радиостанции",TRANCE VIBE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dfm-trance.hostingradio.ru/trance96.aacp
+#EXTINF:-1 group-title="Радиостанции",EURODANCE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/radiorecord.rafail1982.uz/eurodance96.aacp
+#EXTINF:-1 group-title="Радиостанции",SYNTHWAVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/radiorecord.rafail1982.uz/synth96.aacp
+#EXTINF:-1 group-title="Радиостанции",SMOOTH JAZZ USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/live.radiomediapanel.com:8018/stream
+#EXTINF:-1 group-title="Радиостанции",101 SMOOTH JAZZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/ais-sa5.cdnstream1.com/b48071_128mp3
+#EXTINF:-1 group-title="Радиостанции",SMOOTH JAZZ PLANET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/ais-edge114-dal02.cdnstream.com:80/1258_128
+#EXTINF:-1 group-title="Радиостанции",SMOOTH JAZZ 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/edge2.peta.live365.net/b75154_128mp3
+#EXTINF:-1 group-title="Радиостанции",TECHNO VIBE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/radiorecord.rafail1982.uz/techno96.aacp
+#EXTINF:-1 group-title="Радиостанции",DISCO FUNK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/radiorecord.rafail1982.uz/discofunk96.aacp
+#EXTINF:-1 group-title="Радиостанции",FUNKY RADIO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/funkyradio.streamingmedia.it:8001/audio.aac
+#EXTINF:-1 group-title="Радиостанции",COSTA DEL MAR - FUNKY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/radio4.cdm-radio.com:8008/stream64k-AAC-Funk_autodj
+#EXTINF:-1 group-title="Радиостанции",24/7 SYNTHWAVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/ec6.yesstreaming.net:1740/stream
+#EXTINF:-1 group-title="Радиостанции",80-90S DANCE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/myradio24.org/dance80
+#EXTINF:-1 group-title="Радиостанции",WOW CHILLOUT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/stream.vyshka24.ru/wowchillout
+#EXTINF:-1 group-title="Радиостанции",KISS FM DIGITAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/online.kissfm.ua/KissFM_Digital_HD
+#EXTINF:-1 group-title="Радиостанции",RADIO JAZZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/online.radiojazz.ua/RadioJazz_Light_HD
+#EXTINF:-1 group-title="Радиостанции",TRANCE IN STAR RADIO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/listen7.myradio24.com/tisradio
+#EXTINF:-1 group-title="LIST3",Первый канал HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 group-title="LIST3",360°
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
+#EXTINF:-1 group-title="LIST3",Липецкое время
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/serv25.vintera.tv:8081/liptime/liptime/chunks.m3u8
+#EXTINF:-1 group-title="LIST3",Телеканал ГИС Самара
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/tvsamaragis.tk/new/new/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="LIST3",Loupe 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+#EXTINF:-1 group-title="LIST3",Королёв ТВ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/ai5dhpwuk8j.a.trbcdn.net/livemaster/lr4wy_live-b9nqfoyk6i9.smil/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",Волга
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",4 канал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",Новый век
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",Прима
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",Loupe TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/d2dw21aq0j0l5c.cloudfront.net/playlist_1920x1080.m3u8
+#EXTINF:-1 group-title="LIST3",DSTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/46.249.95.140:8081/hls/data.m3u8
+#EXTINF:-1 group-title="LIST3",Euro Indie Music Chart TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",88 STEREO TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",Vuemme TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/5db313b643fd8.streamlock.net:1935/HITTV/HITTV/chunklist.m3u8
+#EXTINF:-1 group-title="LIST3",Afrobeats TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="LIST3",Ocko Star
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="LIST3",ÓČKO HITY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="LIST3",Жар Птица
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
+#EXTINF:-1 group-title="LIST3",Reload Radio Music Power HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
+#EXTINF:-1 group-title="LIST3",Trace Urban HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="LIST3",On Air TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/chunklist_w1284330867.m3u8
+#EXTINF:-1 group-title="LIST3",Otto FM TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/streaming.bitonlive.net:8080/hls/ottofm2/22_21/index.m3u8
+#EXTINF:-1 group-title="LIST3",PowerTürk TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",Kronehit TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 group-title="LIST3",Первый музыкальный
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1 group-title="LIST3",Muzzik Cafe&Club
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",Muzzik HipHop
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",Muzzik Jeka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/muzzik-live.morescreens.com/mts-4/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",Muzzik Mediteraneo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",Muzzik OKK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/muzzik-live.morescreens.com/mts-2/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",Muzzik Rock&Roll
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/muzzik-live.morescreens.com/mts-1/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",Muzzik TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",Muzzik Worldwide
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/muzzik-live.morescreens.com/mts-5/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",NRG 91 Music HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/tv.nrg91.gr:1935/onweb/live/master.m3u8
+#EXTINF:-1 group-title="LIST3",Радио Шансон
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
+#EXTINF:-1 group-title="LIST3",Meidan TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",Moto America TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/stream.ads.ottera.tv/playlist.m3u8?network_id=2457
+#EXTINF:-1 group-title="LIST3",Dubai Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 group-title="LIST3",КРЫМ 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/mr2live.1tvcrimea.ru:8080/24tvcrimea.m3u8
+#EXTINF:-1 group-title="LIST3",1 არხი განათლება
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="LIST3",1+1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/myott.top/stream/1VGPHYLZTH/172.m3u8
+#EXTINF:-1 group-title="LIST3",1+1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/myott.tv/stream/MEITIIUJNS/172.m3u8
+#EXTINF:-1 group-title="LIST3",101 დალმატინელი 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/server2.digipluslive.com/digitv-videos/ch35977/1286.mp4
+#EXTINF:-1 group-title="LIST3",12 канал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/12channel.bonus-tv.ru/cdn/omskchannel/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",12 канал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/12channel.bonus-tv.ru/cdn/12channel/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="LIST3",1mus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/rtmp.one.by:1200
+#EXTINF:-1 group-title="LIST3",1TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+#EXTINF:-1 group-title="LIST3",1TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8?token=tva.org.ua
+#EXTINF:-1 group-title="LIST3",1TVGeorgia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="LIST3",2 Radio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/tv.cdn.xsg.ge/gpb-radio2/tracks-a1/mono.m3u8?token=tva.org.ua
+#EXTINF:-1 group-title="LIST3",2+2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/myott.top/stream/1VGPHYLZTH/173.m3u8
+#EXTINF:-1 group-title="LIST3",2+2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/myott.tv/stream/MEITIIUJNS/173.m3u8
+#EXTINF:-1 group-title="LIST3",2TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/tv.cdn.xsg.ge/gpb-2tv/index.m3u8
+#EXTINF:-1 group-title="LIST3",2TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8?token=tva.org.ua
+#EXTINF:-1 group-title="LIST3",30A Darcizzle Offshore
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/30a-tv.com/darcizzle.m3u8
+#EXTINF:-1 group-title="LIST3",30A Investment Pitch
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/www.30a-tv.com/InvPit.m3u8
+#EXTINF:-1 group-title="LIST3",30A Investment Pitch
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/30a-tv.com/feeds/xodglobal/30atv.m3u8
+#EXTINF:-1 group-title="LIST3",30A Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/30a-tv.com/music.m3u8
+#EXTINF:-1 group-title="LIST3",30A Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/30a-tv.com/music.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="LIST3",30A Sidewalks
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/30a-tv.com/sidewalks.m3u8
+#EXTINF:-1 group-title="LIST3",30A The Beach Show
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/30a-tv.com/beachy.m3u8
+#EXTINF:-1 group-title="LIST3",30A TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/30a-tv.com/my999.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="LIST3",Europa Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/hls-01-regions.emgsound.ru/11_msk/96/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",Europa Plus TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/myott.top/stream/1VGPHYLZTH/184.m3u8
+#EXTINF:-1 group-title="LIST3",Europa Plus TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/myott.tv/stream/MEITIIUJNS/184.m3u8
+#EXTINF:-1 group-title="LIST3",EWTN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/visualradio/index.m3u8
+#EXTINF:-1 group-title="LIST3",Extrema TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",Exxxotica HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/myott.tv/stream/MEITIIUJNS/57.m3u8
+#EXTINF:-1 group-title="LIST3",Family Feud
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/live-content.xumo.com/170/content/XM00UVIHRILCPE/21427120/4.m3u8
+#EXTINF:-1 group-title="LIST3",Farra Play
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/159.203.148.226/live/farra.m3u8
+#EXTINF:-1 group-title="LIST3",Fashion TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
+#EXTINF:-1 group-title="LIST3",Fashion TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",Fashion TV Czech&Slovak
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/lb.streaming.sk/fashiontv/stream/playlist.m3u8?token=AnonymousTV
+#EXTINF:-1 group-title="LIST3",Fashion TV Paris
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",Fashion TV PG16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
+#EXTINF:-1 group-title="LIST3",Fashion TV PG16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8
+#EXTINF:-1 group-title="LIST3",FashionTV Czech&Slovak
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",Fetish
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/ch.iptvmate.net/2a1f1a25ce79551d84833fc9e260fff2.m3u8
+#EXTINF:-1 group-title="LIST3",Fetish HD 720
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1 group-title="LIST3",Fickt mein Arschloch
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/ovhv39.twincdn.com/videos/34/34229/34229_720p.mp4
+#EXTINF:-1 group-title="LIST3",FilmBox Arthouse
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/myott.top/stream/1VGPHYLZTH/308.m3u8
+#EXTINF:-1 group-title="LIST3",FilmBox Arthouse
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/myott.tv/stream/MEITIIUJNS/308.m3u8
+#EXTINF:-1 group-title="LIST3",FilmBox Baltic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/myott.top/stream/1VGPHYLZTH/307.m3u8
+#EXTINF:-1 group-title="LIST3",FilmBox Baltic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/myott.tv/stream/MEITIIUJNS/307.m3u8
+#EXTINF:-1 group-title="LIST3",FILMUADRAMA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/myott.top/stream/1VGPHYLZTH/273.m3u8
+#EXTINF:-1 group-title="LIST3",FILMUADRAMA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/myott.tv/stream/MEITIIUJNS/273.m3u8
+#EXTINF:-1 group-title="LIST3",Ontario Parliamentary Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",Ontario Parliamentary Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",Open Rotterdam
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/ms2.mx-cd.net/tv/141-573555/OPEN_Rotterdam.smil/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",Oriat Dono
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/oriat.mediabay.uz/oriatdono.m3u8
+#EXTINF:-1 group-title="LIST3",Oriat FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/oriat.mediabay.uz/oriatfm.m3u8
+#EXTINF:-1 group-title="LIST3",ORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/ms7.mx-cd.net/tv/200-1006554/ORTS_TV.smil/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",Otto FM TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/streaming.bitonlive.net:8080/hls/ottofm2/index.m3u8
+#EXTINF:-1 group-title="LIST3",OVAA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/tv.tuva.ru/ovaa/index.m3u8
+#EXTINF:-1 group-title="LIST3",Pac 12 Insider
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/pac12-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",Palestine Satellite Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/pbc.furrera.ps/palestinehd/index.m3u8
+#EXTINF:-1 group-title="LIST3",Palitranews
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/live.palitranews.ge/hls/palitratv/index.m3u8
+#EXTINF:-1 group-title="LIST3",Paramount Comedy HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/myott.tv/stream/MEITIIUJNS/196.m3u8
+#EXTINF:-1 group-title="LIST3",Paramount Сhannel HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/myott.top/stream/1VGPHYLZTH/219.m3u8
+#EXTINF:-1 group-title="LIST3",Paramount Сhannel HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/myott.tv/stream/MEITIIUJNS/219.m3u8
+#EXTINF:-1 group-title="LIST3",Pardesi TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="LIST3",Pardesi TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/stream.pardesitv.online/pardesi/index.m3u8
+#EXTINF:-1 group-title="LIST3",Parnian TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/live2.parnian.tv/hls/live/play.m3u8
+#EXTINF:-1 group-title="LIST3",Parnian TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/live2.parnian.tv/hls/.m3u8
+#EXTINF:-1 group-title="LIST3",Party 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/hls-01-radiorecord.hostingradio.ru/record-party/64/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",Party Tyme Karaoke
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/stream-us-east-1.getpublica.com/playlist.m3u8?network_id=64
+#EXTINF:-1 group-title="LIST3",Payam-e-Afghan TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8
+#EXTINF:-1 group-title="LIST3",Payvand TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",PBS KET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist.m3u8
+#EXTINF:-1 group-title="LIST3",PBS KET 68.1 Louisville KY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",PBS Kids 68.2 Kentucky
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",PBS Kids Florida
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
+#EXTINF:-1 group-title="LIST3",Pearl TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/epsilon-c1.liux.tv/ua-1plus1/mono.m3u8
+#EXTINF:-1 group-title="LIST3",Peter Pan პიტერ პენი
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/server2.digipluslive.com/digitv-videos/ch35977/1180.mp4
+#EXTINF:-1 group-title="LIST3",Philippines CCTN 47
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
+#EXTINF:-1 group-title="LIST3",Play TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",Playboy TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/myott.tv/stream/MEITIIUJNS/56.m3u8
+#EXTINF:-1 group-title="LIST3",Supreme Master TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/lbs-us1.suprememastertv.com/720p.m3u8
+#EXTINF:-1 group-title="LIST3",Swamiji TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",Syri TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/live.syri.tv:6969/live/syriblue/hd/23.ts
+#EXTINF:-1 group-title="LIST3",BBC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/plbl.m9.lfstrm.tv/detskij_mir/normal/1/index.m3u8
+#EXTINF:-1 group-title="LIST3",Taevas TV7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/vod.tv7.fi:1935/tv7-ee/tv7-ee.stream_240p/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",TAG TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/cdn11.live247stream.com/tag/tv/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",Taivas TV7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/vod.tv7.fi:1935/tv7-fi/tv7-fi.stream_240p/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",Tankee
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/stream-us-east-1.getpublica.com/playlist.m3u8?app_bundle=com.plexapp.desktop&app_domain=app.plex.tv&app_name=plex&content_series=5f12332eeca6a20040b328e5&content_title=MorUy57ijWhGe4ixZb_T&coppa=1&custom4=plex&device_make=Windows&device_model=Firefox&did=df8e1a36-847d-5096-86a7-3803ed330ede&gdpr=1&h=691&live=1&network_id=39&us_privacy=1---&w=1224
+#EXTINF:-1 group-title="LIST3",Tanzania IBN TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/138.68.138.119:8080/low/5a8993709ea19/index.m3u8
+#EXTINF:-1 group-title="LIST3",Tastemade
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",TBD.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
+#EXTINF:-1 group-title="LIST3",TBN BALTIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dc.tbnbaltia.eu:8088/dvr/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="LIST3",TBN Baltia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
+#EXTINF:-1 group-title="LIST3",TD Ameritrade Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/tdameritrade-distro.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",TD Ameritrade Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
+
+#EXTINF:-1 group-title="LIST3",Tele 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_xias5bqq/format/applehttp/protocol/https/a.m3u8
+#EXTINF:-1 group-title="LIST3",Tele Abruzzo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",Tele M1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_ljzy3evp/format/applehttp/protocol/https/a.m3u8
+#EXTINF:-1 group-title="LIST3",Tele Pavia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/wms.shared.streamshow.it/telepavia/telepavia/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",Tele Quattro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/wms.shared.streamshow.it/telequattro/telequattro/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",Tele Uno
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",Telechiara
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",Telefoggia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/wms.shared.streamshow.it/telefoggia/mp4:telefoggia/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",TELEMAGAZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/123tv-mx1.flex-cdn.net/index.m3u8
+#EXTINF:-1 group-title="LIST3",TeleMia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/playerssl.telemia.tv/fileadmin/hls/TelemiaHD/telemia85_mediachunks.m3u8
+#EXTINF:-1 group-title="LIST3",Telemolise
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/185.202.128.1:1935/TelemoliseStream/telemoliseTV.stream/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",Telemundo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/umemsjwk.ottclub.xyz/iptv/QADW8SXFVALFQA/1080/index.m3u8
+#EXTINF:-1 group-title="LIST3",Telepacífico
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",telePAVIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/wms.shared.streamshow.it/telepavia/mp4:telepavia/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",telePAVIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
+#EXTINF:-1 group-title="LIST3",Teleromagna 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/livetr.teleromagna.it/teleromagna/live/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",Teletricolore
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",Teleunion
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",Televizia OSEM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",Televízia OSEM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",Telewizja Toruń
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/217.173.176.107:1935/live/ngrp:tvk.stream_mobile/chunks.m3u8
+#EXTINF:-1 group-title="LIST3",teve.cat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/limited35.todostreaming.es/live/mitjans-livestream.m3u8
+#EXTINF:-1 group-title="LIST3",TG Junior
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/stream-us-east-1.getpublica.com/playlist.m3u8?network_id=31
+#EXTINF:-1 group-title="LIST3",TGRT Belgesel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/cdn22.streampartner.nl:1935/tvellef/livestream/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",TGRT Haber
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",Thai PBS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",The 360 Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/www.filmon.com/vr-streams/4136.high/playlist.m3u8
+#EXTINF:-1 group-title="LIST3",The Archive
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/stream-us-east-1.getpublica.com/playlist.m3u8?network_id=74
+#EXTINF:-1 group-title="LIST3",The Beach Show
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/30a-tv.com/beachy.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="LIST3",The X-Files
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/87.117.231.9/iptv/5EFPAVRVRYHGRU/11055/index.m3u8?anonymous_tv
+#EXTINF:-1 group-title="LIST3",The Young Turks
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
+#EXTINF:-1 group-title="LIST3",Кизилюрт
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/185.78.112.46:8077/KTV/index.m3u8
+#EXTINF:-1 group-title="LIST3",Кино 1 International
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 group-title="LIST3",Кино 1 International
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; x86_64) YaBrowser/24.4
+http:/autopilot.catcast.tv/content/38617/index.m3u8
