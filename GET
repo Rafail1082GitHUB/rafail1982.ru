@@ -131,6 +131,74 @@ http:/dmi3y-tv.ru/hls/CH_RATNIK.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ратник HD.png" group-title="Российские" tvg-id="350",Ратник HD
 #EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
 http:/dmi3y-tv.ru/hls/CH_RATNIKHD.m3u8
+
+#EXTINF:-1 tvg-logo="http://kharkov-z.ru/z-logo-line.png" group-title="ZETA",Радио Харьков Z
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://node1.craftradio.ru:8000/215_55AE795B
+#EXTINF:-1 tvg-logo="http://kharkov-z.ru/z-logo-line.png" group-title="ZETA",ТВ Харьков Z
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://212.193.53.254/app/potok/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mirbelogorya.ru/mb.png" group-title="ZETA",Мир Белогорья
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+https://tvbelgorod.ru:90/mirbelogorya/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.okcdn.ru/videoPreview?id=3976082754233&type=37&idx=13&tkn=1FjeHKFXomixlD3m7CW3V6gjhCs&fn=external_8" group-title="ZETA",Известия Приосколья
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+https://tvbelgorod.ru:90/izvestiya/index.m3u8
+#EXTINF:-1 group-title="ZETA",Брянская Губерния
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BRYANSK_BRGRUBER/variant.m3u8
+#EXTINF:-1 tvg-logo="https://www.wifire.ru/uploads/tv_channels/463.png" group-title="ZETA",TV Губерния
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gWqw4N5/45571caf9d64821ea16f7883ac62a930.png" group-title="ZETA",Известия Воронеж
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA/variant.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/krasnodar.png" group-title="ZETA",Краснодар HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/vmeste-rf.png" group-title="ZETA",ВМЕСТЕ:РФ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
+#EXTINF:-1 group-title="ZETA",Дума ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+https://dumatv.iptv2022.com/tracks-v4a1/mono.m3u8
+#EXTINF:-1 group-title="ZETA",Конгресс ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://live-3.otcnet.ru/congresstv/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/rt-doc.png" group-title="ZETA",RTД
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
+#EXTINF:-1 tvg-logo="http://profi-rus.narod.ru/iptv/logo/1s.png" group-title="ZETA",Союз
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://profi-rus.narod.ru/iptv/logo/2s.png" group-title="ZETA",Спас
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://profi-rus.narod.ru/iptv/logo/5m.png" group-title="ZETA",Муз Союз
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/ege-tv.png" group-title="ZETA",ЕГЭ ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://tv.streams.baikal-telecom.net:8080/RT_DOC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/univer-tv.png" group-title="ZETA",UNIVER HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://cdn.universmotri.ru/live/univer.sdp_1080p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/prosveschenie.png" group-title="ZETA",Просвещение
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://radiopotok.ru/f/station_webp/512/2351.webp" group-title="ZETA",Za Жизнь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+https://rz-life.ru:8443/stream
+#EXTINF:-1 tvg-logo="https://www.radiogrom.com/paint_new/logo_big/radio-z-belgorod-logo.jpg" group-title="ZETA",Радио Z
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+https://node1.craftradio.ru:8003/201_EFA53E54
+#EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/radio-pika.png" group-title="ZETA",Радио Пика
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+https://radio.pika-fm.ru:8443/pika.fm
+#EXTINF:-1 tvg-logo="https://rusmir.media/lhb-ico-block__img/images/journal_svg.svg" group-title="ZETA",Русский Мир
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+https://a5.radioheart.ru:9043/RH4272
+
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Известия.png" group-title="Новости" tvg-id="286",Известия
 #EXTVLCOPT:http-user-agent=Donate BTC 1DTHEThzjtd7epkBCdVRfaKgDoCqsznzre
 http:/85.234.33.63/stream/c11.m3u8
