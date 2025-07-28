@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.one/epg.xml; https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/epg_lite.xml; https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/epg_lite_gabbarit.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/epg_lite.xml; https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/epg_lite_gabbarit.xml"
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/NEXO.png" group-title="NEXO",NEXO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://rafail1982.uz/nexo2.mp4
