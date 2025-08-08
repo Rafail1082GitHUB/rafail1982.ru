@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Неизвестная Россия.png" group-title="Российские",Неизвестная Россия
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Российские",Первый канал Евразия
-#EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
-http://sc.id-tv.kz/1KanalEvraziya_34_35.m3u8
 #EXTINF:-1 group-title="Российские",Неизвестная Россия
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 https://cdn.ntv.ru/unknown_russia/playlist.m3u8
@@ -92,9 +89,6 @@ http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist
 #EXTINF:-1 group-title="Российские",Дагестан
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
-#EXTINF:-1 group-title="Российские",Евразия
-#EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
-https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
 #EXTINF:-1 group-title="Российские",Евразия Орск
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 https://live2-orsk.cdnvideo.ru/orsk-infochhd/infochhd/playlist.m3u8
@@ -242,9 +236,6 @@ https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Российские",ТВЦ HD
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 http://ad-hls-tvc.cdnvideo.ru/tvc-p222/smil:tvc.smil/playlist.m3u8
-#EXTINF:-1 group-title="Российские",Телеканал ГИС Самара
-#EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
-https://tvsamaragis.tk/new/new/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Российские",ТОЛК
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 https://live-tolknews.cdnvideo.ru/tolknews/stream/tracks-v1a1/mono.m3u8
@@ -545,9 +536,6 @@ http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 #EXTINF:-1 group-title="Российские",Радио Шансон ТВ
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
-#EXTINF:-1 group-title="Российские",Россия Региональные 1 (Вайнах)
-#EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
-http://live.chechensoft.ru:1935/vainahtv/vaynahtv/playlist.m3u8
 #EXTINF:-1 group-title="Российские",Самара ГИС
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 http://45.67.57.9:8080/new/new/tracks-v1a1/index.m3u8
@@ -584,9 +572,6 @@ http://v4.proofix.ru:80/7tv-live/index.m3u8
 #EXTINF:-1 group-title="Российские",Вопросы и ответы
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 http://178.212.71.253:8000/play/97/index.m3u8
-#EXTINF:-1 group-title="Российские",Девятка
-#EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
-http://devyatka.iptv2022.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Российские",Домашний Int
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 http://178.124.152.238:8088/dom
@@ -1301,18 +1286,12 @@ http://77.235.1.19:8000/play/a04b/index.m3u8
 #EXTINF:-1 group-title="Детские",O!
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 http://77.235.1.19:8000/play/a057/index.m3u8
-#EXTINF:-1 group-title="Детские",PBS Kids Florida
-#EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
-https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
 #EXTINF:-1 group-title="Детские",Peter Pan პიტერ პენი
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 http://server2.digipluslive.com/digitv-videos/ch35977/1180.mp4
 #EXTINF:-1 group-title="Детские",Spacetoon
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
-#EXTINF:-1 group-title="Детские",Детское кино Int
-#EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
-https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 group-title="Детские",Детский мир
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 http://178.124.152.238:8088/detmir
@@ -1331,9 +1310,6 @@ https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 #EXTINF:-1 group-title="Детские",СТС Kids
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 http://195.26.83.96:7006/play/a00z/index.m3u8
-#EXTINF:-1 group-title="Детские",Nickelodeon Spain
-#EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
-http://185.189.225.150:85/nickelodeon/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТС Kids.png" group-title="Детские",СТС Kids
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 http://31.148.48.15/STS_Kids_HD/index.m3u8
@@ -1619,9 +1595,6 @@ http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/92319/hls/pl.m3u8
 #EXTINF:-1 group-title="Музыкальные",Viasat Serial
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 http://rr3.vipshara-iptv.com/~109e1a3c05fcad5b22d13b9453dc0db5122/72094/hls/pl.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/RTG TV.png" group-title="Познавательные",RTG TV
-#EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
-http://195.26.83.96:7007/play/a00n/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Зоо ТВ.png" group-title="Познавательные",Зоо ТВ
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 http://31.148.48.15/Zoo_TV/tracks-v1a1/mono.m3u8?token=default
@@ -1739,24 +1712,12 @@ https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
 #EXTINF:-1 group-title="Познавательные",Galaxy TV
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 http://195.26.83.96:7007/play/a00j/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Nano
-#EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
-http://194.143.148.28:8080/NanoTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные",RTG
-#EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
-http://195.26.83.96:7007/play/a00n/index.m3u8
-#EXTINF:-1 group-title="Познавательные",RTG
-#EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
-http://194.143.148.28:8080/RTG_HD/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Top Secret
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 http://178.124.152.238:8088/sovsec
 #EXTINF:-1 group-title="Познавательные",Беларусь 3
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Познавательные",ЕГЭ ТВ
-#EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
-http://tv.streams.baikal-telecom.net:8080/RT_DOC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Живая Планета
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 http://178.212.71.253:8000/play/114/index.m3u8
@@ -2360,9 +2321,6 @@ http://185.57.68.33/237/mpegts
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Channel 240.png" group-title="Другие",Channel 240
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 http://185.57.68.33/240/mpegts
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/RTG.png" group-title="Другие",RTG
-#EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
-http://31.148.48.15/RTG/tracks-v1a1/mono.m3u8?token=default
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Бокс ТВ.png" group-title="Другие",Бокс ТВ
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 http://31.148.48.15/Boks_TV/tracks-v1a1/mono.m3u8?token=default
@@ -2378,12 +2336,6 @@ http://77.235.1.19:8000/play/a04d/index.m3u8
 #EXTINF:-1 group-title="Другие",Ocean
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 http://77.235.1.19:8000/play/a06b/index.m3u8
-#EXTINF:-1 group-title="Другие",RTG HD
-#EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
-http://77.235.1.19:8000/play/a05j/index.m3u8
-#EXTINF:-1 group-title="Другие",RTG TV
-#EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
-http://77.235.1.19:8000/play/a05x/index.m3u8
 #EXTINF:-1 group-title="Другие",Ru TV
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 http://77.235.1.19:8000/play/a078/index.m3u8
@@ -2750,15 +2702,6 @@ https://lbs-us1.suprememastertv.com/720p.m3u8
 #EXTINF:-1 group-title="Другие",Swamiji TV
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Другие",TBN BALTIA
-#EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
-http://dc.tbnbaltia.eu:8088/dvr/tracks-v1a1/rewind-21600.m3u8
-#EXTINF:-1 group-title="Другие",TBN BALTIA
-#EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
-http://dc.tbnbaltia.eu:8088/dvr/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Другие",TBN Baltia
-#EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
-http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
 #EXTINF:-1 group-title="Другие",TD Ameritrade Network
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
@@ -2876,12 +2819,6 @@ https://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Другие",Univer TV
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
-#EXTINF:-1 group-title="Другие",V2Beat TV Live
-#EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
-https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
-#EXTINF:-1 group-title="Другие",Vibee TV
-#EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
-https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 group-title="Другие",Vouli Tileorasi
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 https://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
@@ -3673,15 +3610,9 @@ http://v4.proofix.ru/0mir/index.m3u8
 #EXTINF:-1 group-title="Хобби и увлечения",ОХОТА И РЫБАЛКА
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 http://178.212.71.253:8000/play/93/index.m3u8
-#EXTINF:-1 group-title="Хобби и увлечения",Приключения
-#EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
-http://tvip.btk.teleos.ru:8081/chid142/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби и увлечения",Светлое ТВ
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 http://176.107.219.20:9000/play/a009/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Nano.png" group-title="Хобби и увлечения",Nano
-#EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
-http://dmi3y-tv.ru/hls/CH_NANOTVHD.m3u8
 #EXTINF:-1 group-title="Информационные",Известия
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 http://77.235.1.19:8000/play/a06f/index.m3u8
