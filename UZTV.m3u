@@ -1,336 +1,170 @@
-#EXTM3U url-tvg="http://epg.one/epg.xml,http://epg.cdntv.online/lite.xml.gz"
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/nexo.png" group-title="NEXO",NEXO
-http://rafail1982.uz/nexo2.mp4 
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/nexo.png" group-title="NEXO",NEXO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13) ExoPlayer/2.19.1
-http://rafail1982.uz/nexo2.mp4
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ.png" group-title="Российские",НТВ
-http://a001z.rafail1982.uz/1023/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТВЦ.png" group-title="Российские",ТВЦ
-http://a001z.rafail1982.uz/1025/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Звезда.png" group-title="Российские",Звезда
-http://a001z.rafail1982.uz/1050/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1.png" group-title="Российские",Россия 1
-http://a001z.rafail1982.uz/1020/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия-24.png" group-title="Российские",Россия-24
-http://a001z.rafail1982.uz/1021/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Euronews Россия.png" group-title="Российские",Euronews Россия
-http://a001z.rafail1982.uz/1024/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТВЦ HD.png" group-title="Российские",ТВЦ HD
-http://a001z.rafail1982.uz/1281/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый канал HD.png" group-title="Российские",Первый канал HD
-http://a001z.rafail1982.uz/1214/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир HD.png" group-title="Российские",Мир HD
-http://a001z.rafail1982.uz/1218/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир 24 HD.png" group-title="Российские",Мир 24 HD
-http://a001z.rafail1982.uz/1219/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ Мир.png" group-title="Российские",НТВ Мир
-http://a001b.rafail1982.uz/1434/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/РБК HD.png" group-title="Российские",РБК HD
-http://a001b.rafail1982.uz/1438/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/uzbekistan.png" group-title="Узбекские",O'zbekiston
-http://a001z.rafail1982.uz/1001/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Yoshlar HD UZ.png" group-title="Узбекские",Yoshlar HD UZ
-http://a001z.rafail1982.uz/1002/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Toshkent UZ.png" group-title="Узбекские",Toshkent UZ
-http://a001z.rafail1982.uz/1003/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Sport UZ HD.png" group-title="Узбекские",Sport UZ HD
-http://a001z.rafail1982.uz/1004/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Dunyo bo`ylab UZ.png" group-title="Узбекские",Dunyo bo`ylab UZ
-http://a001z.rafail1982.uz/1006/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Bolajon.png" group-title="Узбекские",Bolajon
-http://a001z.rafail1982.uz/1007/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Kinoteatr HD UZ.png" group-title="Узбекские",Kinoteatr HD UZ
-http://a001z.rafail1982.uz/1009/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/uzbekistan.png" group-title="Узбекские",Futbol
-http://a001z.rafail1982.uz/1010/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/My5 UZ.png" group-title="Узбекские",My5 UZ
-http://a001z.rafail1982.uz/1012/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Mahalla UZ.png" group-title="Узбекские",Mahalla UZ
-http://a001z.rafail1982.uz/1013/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Milliy TV HD UZ.png" group-title="Узбекские",Milliy TV HD UZ
-http://a001z.rafail1982.uz/1014/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/uzbekistan.png" group-title="Узбекские",Uzreport
-http://a001z.rafail1982.uz/1015/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Zo'r TV HD UZ.png" group-title="Узбекские",Zo'r TV HD UZ
-http://a001z.rafail1982.uz/1016/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/uzbekistan.png" group-title="Узбекские",Sevimli
-http://a001z.rafail1982.uz/1017/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/uzbekistan.png" group-title="Узбекские",Sevimli
-http://a001z.rafail1982.uz/1056/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/uzbekistan.png" group-title="Узбекские",IKBOL
-http://a001z.rafail1982.uz/1282/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/uzbekistan.png" group-title="Узбекские",Isteklol TV
-http://a001z.rafail1982.uz/1283/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/uzbekistan.png" group-title="Узбекские",ntv
-http://a001z.rafail1982.uz/1284/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Taraqqiyot TV UZ.png" group-title="Узбекские",Taraqqiyot TV UZ
-http://a001z.rafail1982.uz/1204/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Aqlvoy TV UZ.png" group-title="Узбекские",Aqlvoy TV UZ
-http://a001z.rafail1982.uz/1205/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Dasturxon TV UZ.png" group-title="Узбекские",Dasturxon TV UZ
-http://a001z.rafail1982.uz/1206/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ozbekiston Tarixi HD UZ.png" group-title="Узбекские",Ozbekiston Tarixi HD UZ
-http://a001z.rafail1982.uz/1209/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/uzbekistan.png" group-title="Узбекские",Lux TV
-http://a001z.rafail1982.uz/1210/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Biz Cinema UZ.png" group-title="Узбекские",Biz TV UZ
-http://a001z.rafail1982.uz/1211/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Biz Music HD UZ.png" group-title="Узбекские",Biz Music HD UZ
-http://a001z.rafail1982.uz/1212/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Biz Cinema UZ.png" group-title="Узбекские",Biz Cinema UZ
-http://a001z.rafail1982.uz/1213/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Milliy TV HD UZ.png" group-title="Узбекские",Milliy TV HD UZ
-http://a001z.rafail1982.uz/1216/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/My5 UZ.png" group-title="Узбекские",My5 UZ
-http://a001z.rafail1982.uz/1217/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Nurafshon TV UZ.png" group-title="Узбекские",Nurafshon TV UZ
-http://a001z.rafail1982.uz/1220/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Renessans TV UZ.png" group-title="Узбекские",Renessans TV UZ
-http://a001z.rafail1982.uz/1221/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/uzbekistan.png" group-title="Узбекские",S Music
-http://a001z.rafail1982.uz/1245/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ruxsor TV UZ.png" group-title="Узбекские",Ruxsor TV UZ
-http://a001z.rafail1982.uz/1260/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/uzb.png" group-title="Узбекские",FARG'ONA
-http://a001b.rafail1982.uz/1458/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/uzb.png" group-title="Узбекские",XORAZM
-http://a001b.rafail1982.uz/1464/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/uzb.png" group-title="Узбекские",QARAQALPAQSTAN
-http://a001b.rafail1982.uz/1467/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/uzb.png" group-title="Узбекские",LIVE TV
-http://a001b.rafail1982.uz/1475/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/uzb.png" group-title="Узбекские",S MUSIC
-http://a001b.rafail1982.uz/1476/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/uzb.png" group-title="Узбекские",SEVIMLIJON
-http://a001b.rafail1982.uz/1477/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/uzb.png" group-title="Узбекские",TTV KINO
-http://a001b.rafail1982.uz/1486/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/uzb.png" group-title="Узбекские",TTV
-http://a001b.rafail1982.uz/1494/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/uzb.png" group-title="Узбекские",MAKON
-http://a001b.rafail1982.uz/1497/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/uzb.png" group-title="Узбекские",CINEMA
-http://a001b.rafail1982.uz/1498/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/KHL HD.png" group-title="Спортивные",KHL HD
-http://a001z.rafail1982.uz/1028/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Планета.png" group-title="Спортивные",Матч! Планета
-http://a001z.rafail1982.uz/1049/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Setanta Sports 1 HD.png" group-title="Спортивные",Setanta Sports 1 HD
-http://a001z.rafail1982.uz/1263/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Setanta Sports 2 HD.png" group-title="Спортивные",Setanta Sports 2 HD
-http://a001z.rafail1982.uz/1264/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Trace Sport Stars HD.png" group-title="Спортивные",Trace Sport Stars HD
-http://a001z.rafail1982.uz/1274/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Viju+ Sport.png" group-title="Спортивные",Viju+ Sport
-http://a001z.rafail1982.uz/1229/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/MMA-TV.com HD.png" group-title="Спортивные",MMA-TV.com HD
-http://a001z.rafail1982.uz/1226/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Планета.png" group-title="Спортивные",Матч! Планета
-http://a001z.rafail1982.uz/1243/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/KHL HD.png" group-title="Спортивные",KHL HD
-http://a001b.rafail1982.uz/1422/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Eurosport 1 HD.png" group-title="Спортивные",Eurosport 1 HD
-http://a001b.rafail1982.uz/1439/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Детский мир HD.png" group-title="Детские",Детский мир HD
-http://a001z.rafail1982.uz/1032/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Уникум HD.png" group-title="Детские",Уникум HD
-http://a001z.rafail1982.uz/1033/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Карусель HD.png" group-title="Детские",Карусель HD
-http://a001z.rafail1982.uz/1034/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/В гостях у сказки HD.png" group-title="Детские",В гостях у сказки HD
-http://a001z.rafail1982.uz/1270/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Duck TV.png" group-title="Детские",Duck TV
-http://a001z.rafail1982.uz/1271/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мама.png" group-title="Детские",Мама
-http://a001z.rafail1982.uz/1244/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мульт HD orig.png" group-title="Детские",Мульт HD orig
-http://a001z.rafail1982.uz/1246/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Капитан Фантастика HD.png" group-title="Детские",Капитан Фантастика HD
-http://a001b.rafail1982.uz/1406/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Рыжий.png" group-title="Детские",Рыжий
-http://a001b.rafail1982.uz/1407/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Смайл ТВ.png" group-title="Детские",Смайл ТВ
-http://a001b.rafail1982.uz/1425/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТС Kids HD.png" group-title="Детские",СТС Kids HD
-http://a001b.rafail1982.uz/1437/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мультиландия HD.png" group-title="Детские",Мультиландия HD
-http://a001b.rafail1982.uz/1440/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Tiji TV.png" group-title="Детские",Tiji TV
-http://a001b.rafail1982.uz/1441/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Gulli.png" group-title="Детские",Gulli
-http://a001b.rafail1982.uz/1445/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Телекафе.png" group-title="Фильмовые",Телекафе
-http://a001z.rafail1982.uz/1035/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ретро.png" group-title="Фильмовые",Ретро
-http://a001z.rafail1982.uz/1047/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Наше Новое Кино HD.png" group-title="Фильмовые",Наше Новое Кино HD
-http://a001z.rafail1982.uz/1051/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Дом Кино.png" group-title="Фильмовые",Дом Кино
-http://a001z.rafail1982.uz/1054/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинохит HD.png" group-title="Фильмовые",Кинохит HD
-http://a001z.rafail1982.uz/1055/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинопоказ HD.png" group-title="Фильмовые",Кинопоказ HD
-http://a001z.rafail1982.uz/1057/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Дорама HD.png" group-title="Фильмовые",Дорама HD
-http://a001z.rafail1982.uz/1273/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Киносвидание HD.png" group-title="Фильмовые",Киносвидание HD
-http://a001z.rafail1982.uz/1203/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинопремьера HD.png" group-title="Фильмовые",Кинопремьера HD
-http://a001z.rafail1982.uz/1207/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Viju TV1000 Action HD.png" group-title="Фильмовые",Viju TV1000 Action HD
-http://a001z.rafail1982.uz/1225/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Cinema HD.png" group-title="Фильмовые",Cinema HD
-http://a001z.rafail1982.uz/1227/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинокомедия HD.png" group-title="Фильмовые",Кинокомедия HD
-http://a001z.rafail1982.uz/1232/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Киномикс HD.png" group-title="Фильмовые",Киномикс HD
-http://a001z.rafail1982.uz/1233/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Киносемья HD.png" group-title="Фильмовые",Киносемья HD
-http://a001z.rafail1982.uz/1234/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Киносерия HD.png" group-title="Фильмовые",Киносерия HD
-http://a001z.rafail1982.uz/1235/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кухня HD.png" group-title="Фильмовые",Кухня HD
-http://a001z.rafail1982.uz/1236/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мужское Кино HD.png" group-title="Фильмовые",Мужское Кино HD
-http://a001z.rafail1982.uz/1237/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТВ3 HD.png" group-title="Фильмовые",ТВ3 HD
-http://a001b.rafail1982.uz/1435/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Hollywood HD.png" group-title="Фильмовые",Hollywood HD
-http://a001b.rafail1982.uz/1443/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Bollywood HD.png" group-title="Фильмовые",Bollywood HD
-http://a001b.rafail1982.uz/1444/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Авто Плюс HD.png" group-title="Хобби и увлечения",Авто Плюс HD
-http://a001z.rafail1982.uz/1036/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Охота и рыбалка.png" group-title="Хобби и увлечения",Охота и рыбалка
-http://a001z.rafail1982.uz/1038/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Загородный.png" group-title="Хобби и увлечения",Загородный
-http://a001z.rafail1982.uz/1044/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/HDL.png" group-title="Хобби и увлечения",HDL
-http://a001z.rafail1982.uz/1222/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Живи Активно HD.png" group-title="Хобби и увлечения",Живи Активно HD
-http://a001b.rafail1982.uz/1405/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Доктор HD.png" group-title="Хобби и увлечения",Доктор HD
-http://a001b.rafail1982.uz/1409/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Загородный.png" group-title="Хобби и увлечения",Загородный
-http://a001b.rafail1982.uz/1410/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Охотник и рыболов HD.png" group-title="Хобби и увлечения",Охотник и рыболов HD
-http://a001b.rafail1982.uz/1413/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый космический HD.png" group-title="Хобби и увлечения",Первый космический HD
-http://a001b.rafail1982.uz/1415/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Инсайт ТВ UHD.png" group-title="Хобби и увлечения",Инсайт ТВ UHD
-http://a001b.rafail1982.uz/1416/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ЖИВИ! HD.png" group-title="Хобби и увлечения",ЖИВИ! HD
-http://a001b.rafail1982.uz/1419/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Приключения HD.png" group-title="Хобби и увлечения",Приключения HD
-http://a001b.rafail1982.uz/1420/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Драйв HD.png" group-title="Хобби и увлечения",Драйв HD
-http://a001b.rafail1982.uz/1421/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Глазами Туриста HD.png" group-title="Хобби и увлечения",Глазами Туриста HD
-http://a001b.rafail1982.uz/1423/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Наша сибирь HD.png" group-title="Хобби и увлечения",Наша сибирь HD
-http://a001b.rafail1982.uz/1424/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Домашние Животные.png" group-title="Хобби и увлечения",Домашние Животные
-http://a001b.rafail1982.uz/1426/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Усадьба HD.png" group-title="Хобби и увлечения",Усадьба HD
-http://a001b.rafail1982.uz/1427/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Здоровое ТВ.png" group-title="Хобби и увлечения",Здоровое ТВ
-http://a001b.rafail1982.uz/1428/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Авто 24 HD.png" group-title="Хобби и увлечения",Авто 24 HD
-http://a001b.rafail1982.uz/1430/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Т24.png" group-title="Познавательные",Т24
-http://a001z.rafail1982.uz/1037/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Discovery Channel HD.png" group-title="Познавательные",Discovery Channel HD
-http://a001z.rafail1982.uz/1039/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Discovery Science.png" group-title="Познавательные",Discovery Science
-http://a001z.rafail1982.uz/1040/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/National Geographic HD.png" group-title="Познавательные",National Geographic HD
-http://a001z.rafail1982.uz/1041/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/NatGeo Wild HD.png" group-title="Познавательные",NatGeo Wild HD
-http://a001z.rafail1982.uz/1042/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Viju Explore HD.png" group-title="Познавательные",Viju Explore HD
-http://a001z.rafail1982.uz/1045/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Viju History HD.png" group-title="Познавательные",Viju History HD
-http://a001z.rafail1982.uz/1046/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия-Культура.png" group-title="Познавательные",Россия-Культура
-http://a001z.rafail1982.uz/1048/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Viju Nature HD.png" group-title="Познавательные",Viju Nature HD
-http://a001z.rafail1982.uz/1228/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Da Vinci HD.png" group-title="Познавательные",Da Vinci HD
-http://a001z.rafail1982.uz/1231/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/365 дней ТВ.png" group-title="Познавательные",365 дней ТВ
-http://a001z.rafail1982.uz/1242/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Моя Планета HD.png" group-title="Познавательные",Моя Планета HD
-http://a001z.rafail1982.uz/1247/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Наука HD.png" group-title="Познавательные",Наука HD
-http://a001z.rafail1982.uz/1248/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Живая Планета.png" group-title="Познавательные",Живая Планета
-http://a001z.rafail1982.uz/1250/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/В мире животных HD.png" group-title="Познавательные",В мире животных HD
-http://a001b.rafail1982.uz/1404/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Живая природа HD.png" group-title="Познавательные",Живая природа HD
-http://a001b.rafail1982.uz/1411/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Арсенал HD.png" group-title="Познавательные",Арсенал HD
-http://a001b.rafail1982.uz/1414/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Zooпарк HD.png" group-title="Познавательные",Zooпарк HD
-http://a001b.rafail1982.uz/1417/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/МУЗ-ТВ HD.png" group-title="Музыкальные",МУЗ-ТВ HD
-http://a001z.rafail1982.uz/1063/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/uzbekistan.png" group-title="Музыкальные",MYDAYTV
-http://a001z.rafail1982.uz/1265/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/1HD.png" group-title="Музыкальные",1HD
-http://a001z.rafail1982.uz/1267/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТНТ Music HD.png" group-title="Музыкальные",ТНТ Music HD
-http://a001z.rafail1982.uz/1272/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Музыка Первого.png" group-title="Музыкальные",Музыка Первого
-http://a001z.rafail1982.uz/1201/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/RU TV HD.png" group-title="Музыкальные",RU TV HD
-http://a001z.rafail1982.uz/1202/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ля-минор ТВ.png" group-title="Музыкальные",Ля-минор ТВ
-http://a001z.rafail1982.uz/1238/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/TRT Muzik TR.png" group-title="Турецкие",TRT Muzik TR
-http://a001z.rafail1982.uz/1208/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/TRT HABER HD.png" group-title="Турецкие",TRT HABER HD
-http://a001z.rafail1982.uz/1257/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/TRT AVAZ.png" group-title="Турецкие",TRT AVAZ
-http://a001z.rafail1982.uz/1258/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/France 24.png" group-title="ЕВРОПА",France 24
-http://a001z.rafail1982.uz/1241/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/BBC World News.png" group-title="ЕВРОПА",BBC World News
-http://a001z.rafail1982.uz/1251/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/FOX NEWS CHANNEL FHD.png" group-title="ЕВРОПА",FOX NEWS CHANNEL FHD
-http://a001z.rafail1982.uz/1252/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/CGTN.png" group-title="ЕВРОПА",CGTN
-http://a001z.rafail1982.uz/1253/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Bloomberg HT.png" group-title="ЕВРОПА",Bloomberg HT
-http://a001z.rafail1982.uz/1255/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/CNBC.png" group-title="ЕВРОПА",CNBC
-http://a001z.rafail1982.uz/1256/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/CNN CA.png" group-title="ЕВРОПА",CNN CA
-http://a001z.rafail1982.uz/1259/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/DEUTSCHE WELLE ENGLISH.png" group-title="ЕВРОПА",DEUTSCHE WELLE ENGLISH
-http://a001b.rafail1982.uz/1418/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/English Club TV HD.png" group-title="ЕВРОПА",English Club TV HD
-http://a001b.rafail1982.uz/1442/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Сарафан.png" group-title="Развлекательные",Сарафан
-http://a001z.rafail1982.uz/1249/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/8 канал - Красноярск.png" group-title="Развлекательные",8 канал
-http://a001z.rafail1982.uz/1262/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Вопросы и ответы.png" group-title="Развлекательные",Вопросы и ответы
-http://a001b.rafail1982.uz/1429/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Домашний.png" group-title="Развлекательные",Домашний
-http://a001b.rafail1982.uz/1436/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/tatar.png" group-title="Татарстан",Туган Тел
-http://a001z.rafail1982.uz/1261/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/24 KZ.png" group-title="Казахстанские",24 KZ
-http://a001b.rafail1982.uz/1408/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Qazaqstan.png" group-title="Казахстанские",Qazaqstan
-http://a001b.rafail1982.uz/1431/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Al Jazeera.png" group-title="ARABIC",Al Jazeera
-http://a001b.rafail1982.uz/1433/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/AL JAZEERA ENGLISH.png" group-title="ARABIC",AL JAZEERA ENGLISH
-http://a001b.rafail1982.uz/1447/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino.png" group-title="АЗИЯ",KBS
-http://a001b.rafail1982.uz/1448/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/NHK World TV.png" group-title="АЗИЯ",NHK World TV
-http://a001b.rafail1982.uz/1449/tracks-v1a1/mono.m3u8
+#EXTM3U url-tvg="http://epg.one/epg.xml; http://epg.cdntv.online/lite.xml; http://iptvx.one/EPG"
+
+#EXTINF:-1 group-title="Узбекские",O'zbekiston 1 UZ
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://s8.rafail1982.uz/1001/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 group-title="Узбекские",Yoshlar
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://s8.rafail1982.uz/1002/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 group-title="Узбекские",Toshkent UZ
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://s8.rafail1982.uz/1003/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 group-title="Узбекские",Sport UZ HD
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://s8.rafail1982.uz/1004/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 group-title="Узбекские",Uzbekistan 24
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+https://st1.uzdigital.tv/Uzb24/tracks-v1a1a2/mono.m3u8
+#EXTINF:-1 group-title="Узбекские",Madaniyat va Ma'rifat UZ
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://s8.rafail1982.uz/1005/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Узбекские",Dunyo bo`ylab UZ
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://s8.rafail1982.uz/1006/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 group-title="Узбекские",Bolajon
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://s8.rafail1982.uz/1007/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 group-title="Узбекские",Kinoteatr HD UZ
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://s8.rafail1982.uz/1009/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 group-title="Узбекские",Navo
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://s8.rafail1982.uz/1008/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 group-title="Узбекские",Mahalla UZ
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://s8.rafail1982.uz/1013/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 group-title="Узбекские",Oilaviy
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+https://st1.uzdigital.tv/TTV_Musiqa/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Узбекские",Ozbekiston 24 HD UZ
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://s8.rafail1982.uz/1011/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 group-title="Узбекские",UzReport TV HD
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://s8.rafail1982.uz/1015/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 group-title="Узбекские",My5 UZ
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://s8.rafail1982.uz/1217/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 group-title="Узбекские",Milliy TV HD UZ
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://s8.rafail1982.uz/1014/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 group-title="Узбекские",Zo'r TV HD UZ
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://s8.rafail1982.uz/1016/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 group-title="Узбекские",Sevimli TV HD
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://s8.rafail1982.uz/1056/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 group-title="Узбекские",Futbol TV
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://s8.rafail1982.uz/1018/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 group-title="Российские",Первый канал FHD
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 group-title="Российские",Россия 1
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://s8.rafail1982.uz/1020/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 group-title="Российские",НТВ
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://s8.rafail1982.uz/1023/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 group-title="Российские",Матч ТВ FHD
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://178.212.71.253:8002/play/a00k/index.m3u8?token=test
+#EXTINF:-1 group-title="Российские",Звезда
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://s8.rafail1982.uz/1050/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 group-title="Российские",National Geographic HD
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://s8.rafail1982.uz/1041/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 group-title="Российские",Охота и рыбалка
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://s8.rafail1982.uz/1038/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 group-title="Российские",Discovery Channel HD
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://s8.rafail1982.uz/1039/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 group-title="Российские",Eurosport 1 HD
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://185.189.225.157/EuroSport1/index.m3u8
+#EXTINF:-1 group-title="Российские",France 24
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://s8.rafail1982.uz/1241/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 group-title="Российские",Россия-24
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://s8.rafail1982.uz/1021/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 group-title="Российские",Карусель HD
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://s8.rafail1982.uz/1034/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 group-title="Российские",Кинохит HD
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://s8.rafail1982.uz/1055/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 group-title="Российские",Кинопремьера HD
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://s8.rafail1982.uz/1207/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 group-title="Российские",ТВ3 HD
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://s8.rafail1982.uz/1435/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Российские",Музыка Первого
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://s8.rafail1982.uz/1201/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 group-title="Российские",МУЗ-ТВ HD
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://s8.rafail1982.uz/1063/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 group-title="Российские",Телекафе
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://s8.rafail1982.uz/1035/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 group-title="Российские",NatGeo Wild HD
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://s8.rafail1982.uz/1042/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 group-title="Российские",Матч! Арена
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://87.120.142.11:18000/Match!Arena
+#EXTINF:-1 group-title="Российские",Матч! Футбол 1
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://77.235.1.19:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="Российские",Disney
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://s8.rafail1982.uz/1032/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 group-title="Российские",Киносвидание HD
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://s8.rafail1982.uz/1203/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 group-title="Российские",Дом Кино
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://s8.rafail1982.uz/1054/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 group-title="Российские",Россия-Культура
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://s8.rafail1982.uz/1048/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 group-title="Российские",TV 1000
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://s8.rafail1982.uz/1227/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 group-title="Российские",TV 1000 Русское кино
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://s8.rafail1982.uz/1051/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 group-title="Российские",Viasat History
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://s8.rafail1982.uz/1045/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 group-title="Российские",Viasat Explorer
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://s8.rafail1982.uz/1046/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 group-title="Российские",Индийское кино
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://s8.rafail1982.uz/1444/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Российские",Матч! Футбол 2
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://77.235.1.19:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="Российские",Fashion TV
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://s8.rafail1982.uz/1265/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 group-title="Российские",Авто плюс HD
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://s8.rafail1982.uz/1036/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 group-title="Российские",Матч Игра
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://87.120.142.11:18000/Match!Igra
+#EXTINF:-1 group-title="Российские",Ретро
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://s8.rafail1982.uz/1047/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 group-title="Российские",Футбол 1 HD
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://178.217.72.66:8080/Match_Futbol_1_HD/video.m3u8
+#EXTINF:-1 group-title="Российские",RU TV HD
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://s8.rafail1982.uz/1202/tracks-v1a1a1/mono.m3u8
