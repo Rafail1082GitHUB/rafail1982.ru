@@ -233,9 +233,7 @@ http:/fl1001.bozztv.com/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/480p.png" catchup="shift" catchup-days="7" timeshift="6" group-title="Развлекательные",480p
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http:/85.187.13.40:18000/tntint
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/GagsNetwork.png" catchup="shift" catchup-days="7" timeshift="6" group-title="Развлекательные" tvg-id="1332",GagsNetwork
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http:/91.205.199.3:80/gagsnetwork/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/SD REXD1.png" catchup="shift" catchup-days="7" timeshift="6" group-title="Развлекательные",SD REXD1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http:/195.26.83.96:7029/play/a008
