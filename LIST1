@@ -3,867 +3,432 @@
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/nexo.png" group-title="NEXO",NEXO
 #EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
 http://rafail1982.uz/nexo2.mp4
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/CHD-TV Rock.png" group-title="LIST1",CHD-TV Rock
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://194.26.229.213/chdtv_rock/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СоюзМультфильм.png" group-title="LIST1",СоюзМультфильм
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://194.26.229.213/souzmultfilm/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/MTV.png" group-title="LIST1",MTV
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://fl5.moveonjoy.com/MTV/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кулинар ТВ.png" group-title="LIST1",Кулинар ТВ
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Russischer Jahrmarkt.png" group-title="LIST1",Russischer Jahrmarkt
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://api.alpaca.t62a.com/hls/9104/stream0.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Kaufbei TV.png" group-title="LIST1",Kaufbei TV
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://api.alpaca.t62a.com/hls/9112/stream0.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/OnlineTV.png" group-title="LIST1",OnlineTV
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://185.221.213.254:8080/Okko/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Viva HD.png" group-title="LIST1",Viva HD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://132544.edgevideo.ru/streams/132544_713325/1325441080/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Крик-ТВ.png" group-title="LIST1",Крик-ТВ
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://cdn-01.bonus-tv.ru:80/kriktv_edge/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Просвещение.png" group-title="LIST1",Просвещение
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://cdn-01.bonus-tv.ru:80/prosveschenie_edge/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Arirang Korea.png" group-title="LIST1",Arirang Korea
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/9 ВОЛНА.png" group-title="LIST1",9 ВОЛНА
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://185.46.48.18:80/asvtv/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Осетия Иристон.png" group-title="LIST1",Осетия Иристон
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://185.46.48.18:80/iriston/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Dancehits 80.png" group-title="LIST1",Dancehits 80
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://dancehits80.denvs.ru:8080/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТВОЕ ТВ HD.png" group-title="LIST1",ТВОЕ ТВ HD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://tvoetv.space:8080/tvoetv/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Волга.png" group-title="LIST1",Волга
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/4 канал.png" group-title="LIST1",4 канал
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Прима.png" group-title="LIST1",Прима
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ Хит.png" group-title="LIST1",НТВ Хит
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://95.142.88.250:80/NTV_hit/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Nat Geo Wild HD.png" group-title="LIST1",Nat Geo Wild HD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://95.142.88.250:80/Nat_Geo_Wild_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Discovery Channel HD.png" group-title="LIST1",Discovery Channel HD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://95.142.88.250:80/Discovery_Channel_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/National Geographic HD.png" group-title="LIST1",National Geographic HD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://95.142.88.250:80/National_Geographic_Channel_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/HD Life.png" group-title="LIST1",HD Life
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://95.142.88.250:80/HDL/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Живая планета.png" group-title="LIST1",Живая планета
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://95.142.88.250:80/Jivaya_planeta/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Galaxy HD.png" group-title="LIST1",Galaxy HD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://95.142.88.250:80/Tayny_Galaktiki/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ocean TV.png" group-title="LIST1",Ocean TV
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://95.142.88.250:80/ocean_tv/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мужское кино HD.png" group-title="LIST1",Мужское кино HD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://95.142.88.250:80/muzhskoe_kino_hd/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Любимое кино.png" group-title="LIST1",Любимое кино
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://95.142.88.250:80/lubimoe_kino/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Киносвидание.png" group-title="LIST1",Киносвидание
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://95.142.88.250:80/Kinosvidanie/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Киномикс HD.png" group-title="LIST1",Киномикс HD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://95.142.88.250:80/kinomix_hd/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Киносат.png" group-title="LIST1",Киносат
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://95.142.88.250:80/Kinoman/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинеко.png" group-title="LIST1",Кинеко
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://95.142.88.250:80/Kineko/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Shot TV.png" group-title="LIST1",Shot TV
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://95.142.88.250:80/SHOT_TV/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Bollywood.png" group-title="LIST1",Bollywood
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://95.142.88.250:80/Bollywood/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Amedia Premium HD.png" group-title="LIST1",Amedia Premium HD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://95.142.88.250:80/Amedia_Premium_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Amedia Hit HD.png" group-title="LIST1",Amedia Hit HD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://95.142.88.250:80/Amedia_Hit_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Timeless Dizi Channel.png" group-title="LIST1",Timeless Dizi Channel
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://95.142.88.250:80/Timeless_Dizi_Channel/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/КВН ТВ.png" group-title="LIST1",КВН ТВ
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://95.142.88.250:80/KVN_TV/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Сарафан.png" group-title="LIST1",Сарафан
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://95.142.88.250:80/sarafan/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Bolt.png" group-title="LIST1",Bolt
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://95.142.88.250:80/Bolt/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Супергерои.png" group-title="LIST1",Супергерои
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://95.142.88.250:80/SuperGeroi/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Nick Jr.png" group-title="LIST1",Nick Jr
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://95.142.88.250:80/Nick_Jr./index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Бокс ТВ.png" group-title="LIST1",Бокс ТВ
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://95.142.88.250:80/Boks_TV/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/MMA-TV.COM.png" group-title="LIST1",MMA-TV.COM
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://95.142.88.250:80/MMA-TV.com/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Удар.png" group-title="LIST1",Удар
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://95.142.88.250:80/udar_hd/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/KHL Prime HD.png" group-title="LIST1",KHL Prime HD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://95.142.88.250:80/KHL_TV/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Наука 2.0.png" group-title="LIST1",Наука 2.0
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://178.124.152.238:8088/nauka
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Авто 24.png" group-title="LIST1",Авто 24
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://178.124.152.238:8088/auto24
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Cinema Космос ТВ HD BY.png" group-title="LIST1",Cinema Космос ТВ HD BY
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://178.124.152.238:8088/cinema
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Детский мир.png" group-title="LIST1",Детский мир
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://178.124.152.238:8088/detmir
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кухня ТВ.png" group-title="LIST1",Кухня ТВ
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://178.124.152.238:8088/kuhnya
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ностальгия.png" group-title="LIST1",Ностальгия
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://178.124.152.238:8088/nostalgia
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Перец.png" group-title="LIST1",Перец
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://178.124.152.238:8088/perec
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Совершенно Секретно.png" group-title="LIST1",Совершенно Секретно
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://178.124.152.238:8088/sovsec
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/КХЛ.png" group-title="LIST1",КХЛ
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://178.124.152.238:8088/khl
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/D1.png" group-title="LIST1",D1
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://m3u8.ott.blue/watch/7494/video.m3u8?geo=auto&token=94450098895765784220366841698509
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Дождь HD.png" group-title="LIST1",Дождь HD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://m3u8.ott.blue/watch/7319/video.m3u8?geo=auto&token=94450098895765784220366841698509
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Banovina TV.png" group-title="LIST1",Banovina TV
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://video.radio-banovina.hr:1935/live/myStream/chunklist_w1164976177.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Fresh HD AM.png" group-title="LIST1",Fresh HD AM
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://freshtv-live.ru/FreshTV/tracks-v1a1a1/mono.m3u8?token=livestream
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Stingray Classic Rock.png" group-title="LIST1",Stingray Classic Rock
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Stingray Classica.png" group-title="LIST1",Stingray Classica
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Stingray CMusic.png" group-title="LIST1",Stingray CMusic
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Stingray DJAZZ.png" group-title="LIST1",Stingray DJAZZ
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Stingray Easy Listening.png" group-title="LIST1",Stingray Easy Listening
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Stingray Flashback 70s.png" group-title="LIST1",Stingray Flashback 70s
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Stingray Hit List.png" group-title="LIST1",Stingray Hit List
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Stingray Holiday Hits.png" group-title="LIST1",Stingray Holiday Hits
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Stingray Hot Country.png" group-title="LIST1",Stingray Hot Country
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Stingray Karaoke.png" group-title="LIST1",Stingray Karaoke
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Stingray Nothin' But 90s.png" group-title="LIST1",Stingray Nothin' But 90s
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Stingray Remember the 80s.png" group-title="LIST1",Stingray Remember the 80s
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Stingray Rock Alternative.png" group-title="LIST1",Stingray Rock Alternative
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Stingray Romance Latino.png" group-title="LIST1",Stingray Romance Latino
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Stingray Smooth Jazz.png" group-title="LIST1",Stingray Smooth Jazz
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Stingray Soul Storm.png" group-title="LIST1",Stingray Soul Storm
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Stingray The Spa.png" group-title="LIST1",Stingray The Spa
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Stingray Today's KPOP.png" group-title="LIST1",Stingray Today's KPOP
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Stingray Today's Latin Pop.png" group-title="LIST1",Stingray Today's Latin Pop
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Stingray Urban Beat.png" group-title="LIST1",Stingray Urban Beat
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Now 80's.png" group-title="LIST1",Now 80's
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Radio Ibiza TV.png" group-title="LIST1",Radio Ibiza TV
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/chunklist_w1014685428.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Vuemme TV.png" group-title="LIST1",Vuemme TV
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://5db313b643fd8.streamlock.net:1935/HITTV/HITTV/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Super Six.png" group-title="LIST1",Super Six
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://5db313b643fd8.streamlock.net:443/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Kiss Kiss TV HD.png" group-title="LIST1",Kiss Kiss TV HD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Kiss Kiss Napoli HD.png" group-title="LIST1",Kiss Kiss Napoli HD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Европа Плюс ТВ.png" group-title="LIST1",Европа Плюс ТВ
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://livetv.mylifeisgood.net.ru/channels/europaplustv24.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Afrobeats TV.png" group-title="LIST1",Afrobeats TV
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://stream.ecable.tv/afrobeats/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Company TV.png" group-title="LIST1",Company TV
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/playlist_slita.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Persiana Music.png" group-title="LIST1",Persiana Music
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://musichls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый музыкальный.png" group-title="LIST1",Первый музыкальный
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://hz1.teleport.cc/HLS/HD.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/NRG 91 Music HD.png" group-title="LIST1",NRG 91 Music HD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://tv.nrg91.gr:1935/onweb/live/master.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Радио Шансон.png" group-title="LIST1",Радио Шансон
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матур ТВ.png" group-title="LIST1",Матур ТВ
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Meidan TV HD.png" group-title="LIST1",Meidan TV HD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/30A MUSIC TV.png" group-title="LIST1",30A MUSIC TV
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://30a-tv.com/feeds/720p/6.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/COMPANY TV HD.png" group-title="LIST1",COMPANY TV HD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://5929b138b139d.streamlock.net/CompanyTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Viasat History.png" group-title="LIST1",Viasat History
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://185.161.224.211/dash/Viasat_History_SD78905ty.ism/playlist.mpd
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Discovery Channel HD.png" group-title="LIST1",Discovery Channel HD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://185.161.224.211/dash/Discovery_Channel_HDqwer456y.ism/playlist.mpd
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ностальгия.png" group-title="LIST1",Ностальгия
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://185.161.224.211/dash/Nostalgiya_SDhdj020060.ism/playlist.mpd
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Авто плюс.png" group-title="LIST1",Авто плюс
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://185.161.224.211/dash/Avto_Plus_SDngbg23480d.ism/playlist.mpd
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кухня ТВ.png" group-title="LIST1",Кухня ТВ
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://185.161.224.211/dash/Kuxnya_TV_SDlao150.ism/playlist.mpd
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/TLC HD.png" group-title="LIST1",TLC HD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://185.161.224.211/dash/TLC_HDerre2468.ism/playlist.mpd
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Беларусь 24.png" group-title="LIST1",Беларусь 24
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://185.161.224.211/dash/Mir_Uvleceniy_SDsddffg34.ism/playlist.mpd
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинопремьера HD.png" group-title="LIST1",Кинопремьера HD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://185.161.224.211/dash/Kinopremiera_HDsdhjop567.ism/playlist.mpd
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Киносвидание.png" group-title="LIST1",Киносвидание
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://185.161.224.211/dash/Kinosvidaniye_SDdho39d.ism/playlist.mpd
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мужское кино.png" group-title="LIST1",Мужское кино
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://185.161.224.211/dash/Mujskoye_Kino_SDpoiu876.ism/playlist.mpd
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Киномикс.png" group-title="LIST1",Киномикс
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://185.161.224.211/dash/Kinomix_SDvbbvbv3.ism/playlist.mpd
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Родное кино.png" group-title="LIST1",Родное кино
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://185.161.224.211/dash/Rodnoe_Kino_SDqw45yu.ism/playlist.mpd
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинокомедия.png" group-title="LIST1",Кинокомедия
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://185.161.224.211/dash/Kinokomediya_SDdfdf678h.ism/playlist.mpd
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТВ.png" group-title="LIST1",СТВ
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://ngtrk.dc.beltelecom.by/ctv/ctv.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ОСН.png" group-title="LIST1",ОСН
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Silk Way.png" group-title="LIST1",Silk Way
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Sochi Live HD.png" group-title="LIST1",Sochi Live HD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Brodilo TV.png" group-title="LIST1",Brodilo TV
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://brodilo.tv/brodilotv.m3u
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/This is Bulgaria HD.png" group-title="LIST1",This is Bulgaria HD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HD.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ +7.png" group-title="LIST1",НТВ +7
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://cdn.ntv.ru/ntv7/tracks-v1a1a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ Хит.png" group-title="LIST1",НТВ Хит
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://cdn.ntv.ru/th_hit/tracks-v1a1a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ Право.png" group-title="LIST1",НТВ Право
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://cdn.ntv.ru/th_pravo/tracks-v1a1a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Тел+ Астрахань.png" group-title="LIST1",Тел+ Астрахань
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://streaming.astrakhan.ru/telplushd/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Волжский Плюс FHD.png" group-title="LIST1",Волжский Плюс FHD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://flussonic.powernet.com.ru:8080/volplus/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/12 КАНАЛ (ОМСК).png" group-title="LIST1",12 КАНАЛ (ОМСК)
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТРК 555 HD.png" group-title="LIST1",ТРК 555 HD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://trk555.tv:8888/live
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Осетия-Ирыстон.png" group-title="LIST1",Осетия-Ирыстон
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://catchup.videoline.ru/iriston/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Белгород 24.png" group-title="LIST1",Белгород 24
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/С1 Сургут 86.png" group-title="LIST1",С1 Сургут 86
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://sitv.ru/hls/s86512.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Univer TV HD.png" group-title="LIST1",Univer TV HD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://cdn.universmotri.ru/live/smil:univer.smil/chunklist_w911267907_b3628000_slru.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Миллет.png" group-title="LIST1",Миллет
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://live.trkmillet.ru/millet/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/С1 Сургут HD.png" group-title="LIST1",С1 Сургут HD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://sitv.ru/vgtrk/stv.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Эхо ТВ 24.png" group-title="LIST1",Эхо ТВ 24
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://stream.novouralsk-news.ru/echotv24/echotv24-576p.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Байкал Универ ТВ.png" group-title="LIST1",Байкал Универ ТВ
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://stream01.bgu.ru/1/1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Тосно ТВ.png" group-title="LIST1",Тосно ТВ
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://tosnotv.ru/hlsshare/video.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Тротек.png" group-title="LIST1",Тротек
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://trotek.keenetic.pro/play.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Архыз 24.png" group-title="LIST1",Архыз 24
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Север.png" group-title="LIST1",Север
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://live2.mediacdn.ru/sr1/sever/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/БелРос.png" group-title="LIST1",БелРос
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://live3.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Алмазный край.png" group-title="LIST1",Алмазный край
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://stream.almaz-media.tv:8080/hls/720.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Теледом ТВ HD.png" group-title="LIST1",Теледом ТВ HD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Аист ТВ.png" group-title="LIST1",Аист ТВ
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТС HD.png" group-title="LIST1",НТС HD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ника ТВ.png" group-title="LIST1",Ника ТВ
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир Premium HD.png" group-title="LIST1",Мир Premium HD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Наш Дом.png" group-title="LIST1",Наш Дом
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://85.234.33.63/stream/c11.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Хузур ТВ.png" group-title="LIST1",Хузур ТВ
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Легендарный 24.png" group-title="LIST1",Легендарный 24
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://sevas.1tvcrimea.ru/legendarniy24.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Info Channel HD.png" group-title="LIST1",Info Channel HD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://194.143.148.28:8080/infochannel/mpegts
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Моя Планета.png" group-title="LIST1",Моя Планета
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://194.143.148.28:8080/Nauka20/mpegts
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Моя планета HD.png" group-title="LIST1",Моя планета HD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://194.143.148.28:8080/Moya_Planeta/mpegts
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Арена.png" group-title="LIST1",Матч! Арена
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://194.143.148.28:8080/MatchArena/mpegts
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый HD.png" group-title="LIST1",Первый HD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТНТ4 HD.png" group-title="LIST1",ТНТ4 HD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ Хит.png" group-title="LIST1",НТВ Хит
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://livetv.mylifeisgood.net.ru/channels/ntvhit24.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ Право.png" group-title="LIST1",НТВ Право
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://livetv.mylifeisgood.net.ru/channels/ntvpravo24.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Загородный Int.png" group-title="LIST1",Загородный Int
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТС HD.png" group-title="LIST1",СТС HD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://livetv.mylifeisgood.net.ru/channels/sts.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТС Love.png" group-title="LIST1",СТС Love
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://livetv.mylifeisgood.net.ru/channels/stslove.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Сапфир.png" group-title="LIST1",Сапфир
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://livetv.mylifeisgood.net.ru/channels/saphire.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/TV1000 HD.png" group-title="LIST1",TV1000 HD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://livetv.mylifeisgood.net.ru/channels/viju-tv1000.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Trash.png" group-title="LIST1",Trash
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Санкт-Петербург.png" group-title="LIST1",Санкт-Петербург
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://livetv.mylifeisgood.net.ru/channels/78saintpetersburg.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Bridge TV Classic.png" group-title="LIST1",Bridge TV Classic
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://livetv.mylifeisgood.net.ru/channels/bridgeclassictv.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Bridge TV Русский хит.png" group-title="LIST1",Bridge TV Русский хит
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://livetv.mylifeisgood.net.ru/channels/bridgerushittv.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Bridge TV Шлягер.png" group-title="LIST1",Bridge TV Шлягер
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://livetv.mylifeisgood.net.ru/channels/bridgetvshlyager.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Смайлик ТВ.png" group-title="LIST1",Смайлик ТВ
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://livetv.mylifeisgood.net.ru/channels/smile.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый канал (+1).png" group-title="LIST1",Первый канал (+1)
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+
+
+#EXTINF:-1 group-title="Российские",Первый канал (+1)
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый канал (+4).png" group-title="LIST1",Первый канал (+4)
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+#EXTINF:-1 group-title="Российские",Первый канал (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый канал (+5).png" group-title="LIST1",Первый канал (+5)
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+#EXTINF:-1 group-title="Российские",Первый канал (+5)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_5/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый канал (+6).png" group-title="LIST1",Первый канал (+6)
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+#EXTINF:-1 group-title="Российские",Первый канал (+6)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый канал (+7).png" group-title="LIST1",Первый канал (+7)
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+#EXTINF:-1 group-title="Российские",Первый канал (+7)
 https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый канал (+8).png" group-title="LIST1",Первый канал (+8)
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+#EXTINF:-1 group-title="Российские",Первый канал (+8)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ (+2).png" group-title="LIST1",НТВ (+2)
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+#EXTINF:-1 group-title="Российские",Первый канал HD
+https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
+#EXTINF:-1 group-title="Российские",НТВ (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ (+4).png" group-title="LIST1",НТВ (+4)
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+#EXTINF:-1 group-title="Российские",НТВ (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Рифей-ТВ.png" group-title="LIST1",Рифей-ТВ
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_REFEY_PERM/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия К (+4).png" group-title="LIST1",Россия К (+4)
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+#EXTINF:-1 group-title="Российские",НТВ Хит
+http://95.142.88.250:80/NTV_hit/index.m3u8
+#EXTINF:-1 group-title="Российские",НТВ Право
+https://livetv.mylifeisgood.net.ru/channels/ntvpravo24.m3u8
+#EXTINF:-1 group-title="Российские",Россия К (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_4/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия К (+7).png" group-title="LIST1",Россия К (+7)
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+#EXTINF:-1 group-title="Российские",Россия К (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТНТ (+2).png" group-title="LIST1",ТНТ (+2)
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+#EXTINF:-1 group-title="Российские",ТНТ (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТНТ (+4).png" group-title="LIST1",ТНТ (+4)
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+#EXTINF:-1 group-title="Российские",ТНТ (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТНТ (+7).png" group-title="LIST1",ТНТ (+7)
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+#EXTINF:-1 group-title="Российские",ТНТ (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТНТ4.png" group-title="LIST1",ТНТ4
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+#EXTINF:-1 group-title="Российские",ТНТ4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТНТ4 (+2).png" group-title="LIST1",ТНТ4 (+2)
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_2/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТНТ4 (+4)ТНТ4 (+7).png" group-title="LIST1",ТНТ4 (+4)ТНТ4 (+7)
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_7/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/2x2 (+2).png" group-title="LIST1",2x2 (+2)
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СОЛНЦЕ (+2).png" group-title="LIST1",СОЛНЦЕ (+2)
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СОЛНЦЕ (+4).png" group-title="LIST1",СОЛНЦЕ (+4)
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТС (+7).png" group-title="LIST1",СТС (+7)
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТС Love.png" group-title="LIST1",СТС Love
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Супер (+7).png" group-title="LIST1",Супер (+7)
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Сургут 24.png" group-title="LIST1",Сургут 24
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SURGUT24/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТВЦ +4.png" group-title="LIST1",ТВЦ +4
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ю (+2).png" group-title="LIST1",Ю (+2)
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/МИР (+2).png" group-title="LIST1",МИР (+2)
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/МИР (+7).png" group-title="LIST1",МИР (+7)
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Москва. Доверие.png" group-title="LIST1",Москва. Доверие
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/МУЗ ТВ (+4).png" group-title="LIST1",МУЗ ТВ (+4)
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/МУЗ ТВ (+7).png" group-title="LIST1",МУЗ ТВ (+7)
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/12 канал HD.png" group-title="LIST1",12 канал HD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Норд ТВ (Новодвинск).png" group-title="LIST1",Норд ТВ (Новодвинск)
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_NORDTV/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/5 канал +7.png" group-title="LIST1",5 канал +7
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/6 ТВ.png" group-title="LIST1",6 ТВ
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_6TV/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/TMTV.png" group-title="LIST1",TMTV
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_KZN_TMTV/variant.m3u8?version2
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/UGRA TRAVEL.png" group-title="LIST1",UGRA TRAVEL
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ариг Ус 24 HD.png" group-title="LIST1",Ариг Ус 24 HD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ARIGUS/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/АТВ-Ставрополь.png" group-title="LIST1",АТВ-Ставрополь
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_STAVR_ATV/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТВ 24 (Северодвинск).png" group-title="LIST1",СТВ 24 (Северодвинск)
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_STV24/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Барс плюс.png" group-title="LIST1",Барс плюс
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_IVAN_BARS/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Башкортостан 24.png" group-title="LIST1",Башкортостан 24
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://s45177.cdn.ngenix.net/hls/CH_R02_BASHKORTOSTAN24/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Белгород 24.png" group-title="LIST1",Белгород 24
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_BELG_BELGOROD24/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Брянская Губерния HD.png" group-title="LIST1",Брянская Губерния HD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BRYANSK_BRGRUBER/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Вариант V.png" group-title="LIST1",Вариант V
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_VLAD_VARIANT_V/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ветта 24 Пермь.png" group-title="LIST1",Ветта 24 Пермь
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VETTA24_PERM/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ветта-24.png" group-title="LIST1",Ветта-24
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VETTA24_PERM/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Волга.png" group-title="LIST1",Волга
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_VOLGA/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Время Н.png" group-title="LIST1",Время Н
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R04_VREMYAN/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Всё ТВ.png" group-title="LIST1",Всё ТВ
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://s72169.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ВТК 41" group-title="LIST1",ВТК 41 "Аргус"
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_ARGUS/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Губерния 33 HD.png" group-title="LIST1",Губерния 33 HD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VLAD_GUBERNIA33/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Дзержинск ТВ.png" group-title="LIST1",Дзержинск ТВ
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_DZERZHINSK/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ДОН 24 HD.png" group-title="LIST1",ДОН 24 HD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STH_RD_DON24/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ивановское общественное телевидение.png" group-title="LIST1",Ивановское общественное телевидение
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_IVAN_IOT/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Инфо 24 HD.png" group-title="LIST1",Инфо 24 HD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SHINFO_URAL_KRG/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Информационная служба Югры.png" group-title="LIST1",Информационная служба Югры
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_PERVIYSOVETSKIY/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кавказ 24.png" group-title="LIST1",Кавказ 24
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_STAVR_KAVKAZ24/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/КТВ-Город.png" group-title="LIST1",КТВ-Город
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VRZH_CTVGOROD/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кубань 24.png" group-title="LIST1",Кубань 24
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кузбасс 1.png" group-title="LIST1",Кузбасс 1
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KEM_GTRK/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Лен ТВ 24.png" group-title="LIST1",Лен ТВ 24
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Майдан.png" group-title="LIST1",Майдан
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_OTT_VLG_KZN_MAIDAN/variant.m3u8?version2
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Майкопское Телевидение.png" group-title="LIST1",Майкопское Телевидение
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_OTT_STH_KRDAR_MAYKOP/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матур ТВ.png" group-title="LIST1",Матур ТВ
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://s45177.cdn.ngenix.net/hls/CH_R02_MATURTV/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/МИГ ТВ.png" group-title="LIST1",МИГ ТВ
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MIG_TV_URAL_YNF/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир Белогорья.png" group-title="LIST1",Мир Белогорья
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BELG_MIR_BLG/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мордовия-24.png" group-title="LIST1",Мордовия-24
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R02_MORDOVIY24/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Муравленко 24.png" group-title="LIST1",Муравленко 24
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_MURAVLENKO_24/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Народное телевидение Мордовии.png" group-title="LIST1",Народное телевидение Мордовии
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R01_NTM/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Национальное ТВ Чувашии.png" group-title="LIST1",Национальное ТВ Чувашии
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_NATIONALTV/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Наш дом.png" group-title="LIST1",Наш дом
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R03_NASHDOM/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Север (Нарьян-Мар).png" group-title="LIST1",Север (Нарьян-Мар)
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_SEVER/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Котлас ТВ (Арх. область).png" group-title="LIST1",Котлас ТВ (Арх. область)
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_KOTLASTV/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Санкт-Петербург.png" group-title="LIST1",Санкт-Петербург
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Наши города.png" group-title="LIST1",Наши города
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NGOR_URAL_SUR/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ННТВ.png" group-title="LIST1",ННТВ
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Новгородское областное телевидение.png" group-title="LIST1",Новгородское областное телевидение
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Новое время (Радужный).png" group-title="LIST1",Новое время (Радужный)
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_RADUZNYI/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТС Иркутск.png" group-title="LIST1",НТС Иркутск
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_RENTVIRK/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Область 45 HD.png" group-title="LIST1",Область 45 HD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBLAST45/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Объектив 59 HD.png" group-title="LIST1",Объектив 59 HD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBJECTIVE59/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ОРТ-Планета (Оренбург).png" group-title="LIST1",ОРТ-Планета (Оренбург)
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R03_ORTPLANET/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ОТВ-Владивосток.png" group-title="LIST1",ОТВ-Владивосток
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_OTV/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ОТС HD.png" group-title="LIST1",ОТС HD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый городской (Киров).png" group-title="LIST1",Первый городской (Киров)
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R03_PERVYGORODSKOY/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый Тульский HD.png" group-title="LIST1",Первый Тульский HD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_TULA_PERV_TUL/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Прима-ТВ.png" group-title="LIST1",Прима-ТВ
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Регион 29.png" group-title="LIST1",Регион 29
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_PRAVDASEVERA/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Русский Север.png" group-title="LIST1",Русский Север
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Русь (Кострома).png" group-title="LIST1",Русь (Кострома)
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-ct-kostroma-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_KOSTROMA_RUS/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/С1 Сургут HD.png" group-title="LIST1",С1 Сургут HD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_C1_URAL_SUR/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Саратов-24.png" group-title="LIST1",Саратов-24
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R01_SARATOV24/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Татарстан 24.png" group-title="LIST1",Татарстан 24
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R02_EFIR24/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Сочи24 HD.png" group-title="LIST1",Сочи24 HD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТВ-Байкал.png" group-title="LIST1",СТВ-Байкал
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_UUDE_STVBAYKAL/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТВ-Губерния.png" group-title="LIST1",ТВ-Губерния
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_VRZH_TVGUBERNIYA/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Тивиком HD.png" group-title="LIST1",Тивиком HD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_TIVICOM/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТК Центр Красноярск.png" group-title="LIST1",ТК Центр Красноярск
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_CENTRKRSN/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТКР Рязань.png" group-title="LIST1",ТКР Рязань
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-ct-ryaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_RYAZ_TKP/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТНВ-Планета.png" group-title="LIST1",ТНВ-Планета
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_TNV/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТНР24.png" group-title="LIST1",ТНР24
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNR24/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Толпар ТВ.png" group-title="LIST1",Толпар ТВ
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://s45177.cdn.ngenix.net/hls/CH_R02_TOLPAR/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Удмуртия.png" group-title="LIST1",Удмуртия
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R03_MYUDMURTIA/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ул. Правда.png" group-title="LIST1",Ул. Правда
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R01_ULPRAVDA/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Хамдан.png" group-title="LIST1",Хамдан
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_ELISTA_HAMDAN/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Югорск ТВ.png" group-title="LIST1",Югорск ТВ
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_YUGORSKTV/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Югра.png" group-title="LIST1",Югра
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_URAL_SUR/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Шаян ТВ.png" group-title="LIST1",Шаян ТВ
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://s45177.cdn.ngenix.net/hls/CH_R03_SHAYNTV/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Экспресс HD.png" group-title="LIST1",Экспресс HD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R01_EXPRESS/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Юрган.png" group-title="LIST1",Юрган
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-nw-komi-htlive.cdn.ngenix.net/hls/CH_R01_YURGAN/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Якутия 24.png" group-title="LIST1",Якутия 24
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://s34351.cdn.ngenix.net/hls/CH_R14_OTT_DV_YKT_YKT/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ямал-Регион.png" group-title="LIST1",Ямал-Регион
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Сити Эдем - КиноМистика.png" group-title="LIST1",Сити Эдем - КиноМистика
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://v2.catcast.tv/content/40783/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Сити Эдем - КиноНовелла.png" group-title="LIST1",Сити Эдем - КиноНовелла
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://autopilot.catcast.tv/content/46209/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/A21 Network.png" group-title="LIST1",A21 Network
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://autopilot.catcast.tv/content/37909/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/HGTN.png" group-title="LIST1",HGTN
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://v2.catcast.tv/content/34251/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Телеканал Андийцы.png" group-title="LIST1",Телеканал Андийцы
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://v2.catcast.tv/content/34114/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/NM Television.png" group-title="LIST1",NM Television
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://tv.a21network.ru/content/40650/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! HD.png" group-title="LIST1",Матч! HD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+#EXTINF:-1 group-title="Российские",ТНТ4 HD
+https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
+#EXTINF:-1 group-title="Российские",СТС HD
+https://livetv.mylifeisgood.net.ru/channels/sts.m3u8
+#EXTINF:-1 group-title="Российские",СТС Love
+https://livetv.mylifeisgood.net.ru/channels/stslove.m3u8
+#EXTINF:-1 group-title="Российские",РЕН ТВ
+http://example.com/rentv.m3u8
+#EXTINF:-1 group-title="Российские",Пятый канал
+http://example.com/5channel.m3u8
+#EXTINF:-1 group-title="Российские",ТВ Центр
+http://example.com/tvc.m3u8
+#EXTINF:-1 group-title="Российские",Мир
+http://example.com/mirtv.m3u8
+#EXTINF:-1 group-title="Российские",Звезда
+http://example.com/zvezda.m3u8
+#EXTINF:-1 group-title="Российские",МУЗ ТВ
+http://example.com/muztv.m3u8
+
+#######################
+### Детские каналы ###
+#######################
+#EXTINF:-1 group-title="Детские",СоюзМультфильм
+http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:-1 group-title="Детские",Карусель
+http://example.com/karusel.m3u8
+#EXTINF:-1 group-title="Детские",Мульт
+http://example.com/multtv.m3u8
+#EXTINF:-1 group-title="Детские",Детский мир
+http://178.124.152.238:8088/detmir
+#EXTINF:-1 group-title="Детские",Nick Jr
+http://95.142.88.250:80/Nick_Jr./index.m3u8
+#EXTINF:-1 group-title="Детские",Смайлик ТВ
+https://livetv.mylifeisgood.net.ru/channels/smile.m3u8
+
+########################
+### Спортивные ###
+########################
+#EXTINF:-1 group-title="Спорт",Матч ТВ
+http://example.com/matchtv.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Арена
+http://194.143.148.28:8080/MatchArena/mpegts
+#EXTINF:-1 group-title="Спорт",Матч! HD
 https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Беларусь 5.png" group-title="LIST1",Беларусь 5
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+#EXTINF:-1 group-title="Спорт",КХЛ ТВ
+http://95.142.88.250:80/KHL_TV/index.m3u8
+#EXTINF:-1 group-title="Спорт",КХЛ
+http://178.124.152.238:8088/khl
+#EXTINF:-1 group-title="Спорт",Бокс ТВ
+http://95.142.88.250:80/Boks_TV/index.m3u8
+#EXTINF:-1 group-title="Спорт",MMA-TV.COM
+http://95.142.88.250:80/MMA-TV.com/index.m3u8
+#EXTINF:-1 group-title="Спорт",Удар
+http://95.142.88.250:80/udar_hd/index.m3u8
+
+########################
+### Фильмовые ###
+########################
+#EXTINF:-1 group-title="Фильмы",Киномикс HD
+http://95.142.88.250:80/kinomix_hd/index.m3u8
+#EXTINF:-1 group-title="Фильмы",Любимое кино
+http://95.142.88.250:80/lubimoe_kino/index.m3u8
+#EXTINF:-1 group-title="Фильмы",Киносвидание
+http://95.142.88.250:80/Kinosvidanie/index.m3u8
+#EXTINF:-1 group-title="Фильмы",Мужское кино HD
+http://95.142.88.250:80/muzhskoe_kino_hd/index.m3u8
+#EXTINF:-1 group-title="Фильмы",TV1000 HD
+https://livetv.mylifeisgood.net.ru/channels/viju-tv1000.m3u8
+#EXTINF:-1 group-title="Фильмы",Кинокомедия
+http://185.161.224.211/dash/Kinokomediya_SDdfdf678h.ism/playlist.mpd
+#EXTINF:-1 group-title="Фильмы",Кинопремьера HD
+http://185.161.224.211/dash/Kinopremiera_HDsdhjop567.ism/playlist.mpd
+
+########################
+### Музыкальные ###
+########################
+#EXTINF:-1 group-title="Музыка",MTV
+http://fl5.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 group-title="Музыка",Viva HD
+https://132544.edgevideo.ru/streams/132544_713325/1325441080/index.m3u8
+#EXTINF:-1 group-title="Музыка",Европа Плюс ТВ
+https://livetv.mylifeisgood.net.ru/channels/europaplustv24.m3u8
+#EXTINF:-1 group-title="Музыка",Bridge TV Classic
+https://livetv.mylifeisgood.net.ru/channels/bridgeclassictv.m3u8
+#EXTINF:-1 group-title="Музыка",Bridge TV Русский хит
+https://livetv.mylifeisgood.net.ru/channels/bridgerushittv.m3u8
+#EXTINF:-1 group-title="Музыка",Bridge TV Шлягер
+https://livetv.mylifeisgood.net.ru/channels/bridgetvshlyager.m3u8
+#EXTINF:-1 group-title="Музыка",Радио Шансон
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
+
+########################
+### Познавательные ###
+########################
+#EXTINF:-1 group-title="Познавательные",Наука 2.0
+http://178.124.152.238:8088/nauka
+#EXTINF:-1 group-title="Познавательные",Моя Планета
+http://194.143.148.28:8080/Nauka20/mpegts
+#EXTINF:-1 group-title="Познавательные",Моя планета HD
+http://194.143.148.28:8080/Moya_Planeta/mpegts
+#EXTINF:-1 group-title="Познавательные",Живая планета
+http://95.142.88.250:80/Jivaya_planeta/index.m3u8
+#EXTINF:-1 group-title="Познавательные",HD Life
+http://95.142.88.250:80/HDL/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Galaxy HD
+http://95.142.88.250:80/Tayny_Galaktiki/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Ocean TV
+http://95.142.88.250:80/ocean_tv/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Viasat History
+http://185.161.224.211/dash/Viasat_History_SD78905ty.ism/playlist.mpd
+#EXTINF:-1 group-title="Познавательные",Discovery Channel HD
+http://185.161.224.211/dash/Discovery_Channel_HDqwer456y.ism/playlist.mpd
+#EXTINF:-1 group-title="Познавательные",National Geographic HD
+http://95.142.88.250:80/National_Geographic_Channel_HD/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Nat Geo Wild HD
+http://95.142.88.250:80/Nat_Geo_Wild_HD/index.m3u8
+#EXTINF:-1 group-title="Познавательные",TLC HD
+http://185.161.224.211/dash/TLC_HDerre2468.ism/playlist.mpd
+
+########################
+### Новостные ###
+########################
+#EXTINF:-1 group-title="Новости",Дождь HD
+https://m3u8.ott.blue/watch/7319/video.m3u8?geo=auto&token=94450098895765784220366841698509
+#EXTINF:-1 group-title="Новости",РБК
+http://example.com/rbc.m3u8
+#EXTINF:-1 group-title="Новости",Совершенно Секретно
+http://178.124.152.238:8088/sovsec
+#EXTINF:-1 group-title="Новости",Info Channel HD
+http://194.143.148.28:8080/infochannel/mpegts
+#EXTINF:-1 group-title="Новости",Беларусь 24
+http://185.161.224.211/dash/Mir_Uvleceniy_SDsddffg34.ism/playlist.mpd
+
+########################
+### Региональные ###
+########################
+#EXTINF:-1 group-title="Региональные",12 КАНАЛ (ОМСК)
+https://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Региональные",ТРК 555 HD
+http://trk555.tv:8888/live
+#EXTINF:-1 group-title="Региональные",Осетия-Ирыстон
+https://catchup.videoline.ru/iriston/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 group-title="Региональные",Белгород 24
+https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
+#EXTINF:-1 group-title="Региональные",С1 Сургут 86
+https://sitv.ru/hls/s86512.m3u8
+#EXTINF:-1 group-title="Региональные",С1 Сургут HD
+https://sitv.ru/vgtrk/stv.m3u8
+#EXTINF:-1 group-title="Региональные",Эхо ТВ 24
+http://stream.novouralsk-news.ru/echotv24/echotv24-576p.m3u8
+#EXTINF:-1 group-title="Региональные",Байкал Универ ТВ
+https://stream01.bgu.ru/1/1/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Тосно ТВ
+https://tosnotv.ru/hlsshare/video.m3u8
+#EXTINF:-1 group-title="Региональные",Архыз 24
+http://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Север
+https://live2.mediacdn.ru/sr1/sever/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Региональные",Алмазный край
+https://stream.almaz-media.tv:8080/hls/720.m3u8
+#EXTINF:-1 group-title="Региональные",Аист ТВ
+https://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",НТС HD
+https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/chunklist.m3u8
+#EXTINF:-1 group-title="Региональные",Ника ТВ
+https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Санкт-Петербург
+https://livetv.mylifeisgood.net.ru/channels/78saintpetersburg.m3u8
+#EXTINF:-1 group-title="Региональные",Волга
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",4 канал
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Прима
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Волжский Плюс FHD
+http://flussonic.powernet.com.ru:8080/volplus/index.fmp4.m3u8
+#EXTINF:-1 group-title="Региональные",Тел+ Астрахань
+https://streaming.astrakhan.ru/telplushd/tracks-v1a1a1/mono.m3u8
+
+########################
+### Белорусские ###
+########################
+#EXTINF:-1 group-title="Белорусские",Беларусь 5
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Беларусь 5.png" group-title="LIST1",Беларусь 5
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+#EXTINF:-1 group-title="Белорусские",Беларусь 5
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТАРТ HD.png" group-title="LIST1",СТАРТ HD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+#EXTINF:-1 group-title="Белорусские",СТВ
+https://ngtrk.dc.beltelecom.by/ctv/ctv.stream/chunklist.m3u8
+
+########################
+### Казахстанские ###
+########################
+#EXTINF:-1 group-title="Казахстан",Silk Way
+https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
+
+########################
+### Турецкие ###
+########################
+#EXTINF:-1 group-title="Турецкие",Timeless Dizi Channel
+http://95.142.88.250:80/Timeless_Dizi_Channel/index.m3u8
+
+########################
+### Арабские ###
+########################
+#EXTINF:-1 group-title="ARABIC",Хузур ТВ
+https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/tracks-v1a1a1/mono.m3u8
+
+########################
+### Развлекательные ###
+########################
+#EXTINF:-1 group-title="Развлекательные",Кухня ТВ
+http://178.124.152.238:8088/kuhnya
+#EXTINF:-1 group-title="Развлекательные",Ностальгия
+http://178.124.152.238:8088/nostalgia
+#EXTINF:-1 group-title="Развлекательные",Перец
+http://178.124.152.238:8088/perec
+#EXTINF:-1 group-title="Развлекательные",Кулинар ТВ
+http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
+#EXTINF:-1 group-title="Развлекательные",Russischer Jahrmarkt
+https://api.alpaca.t62a.com/hls/9104/stream0.m3u8
+#EXTINF:-1 group-title="Развлекательные",Kaufbei TV
+http://api.alpaca.t62a.com/hls/9112/stream0.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТВОЕ ТВ HD
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Сапфир
+https://livetv.mylifeisgood.net.ru/channels/saphire.m3u8
+#EXTINF:-1 group-title="Развлекательные",Trash
+https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
+#EXTINF:-1 group-title="Развлекательные",Загородный Int
+https://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
+
+########################
+### Хобби и увлечения ###
+########################
+#EXTINF:-1 group-title="Хобби",Авто 24
+http://178.124.152.238:8088/auto24
+#EXTINF:-1 group-title="Хобби",Авто плюс
+http://185.161.224.211/dash/Avto_Plus_SDngbg23480d.ism/playlist.mpd
+#EXTINF:-1 group-title="Хобби",КВН ТВ
+http://95.142.88.250:80/KVN_TV/index.m3u8
+#EXTINF:-1 group-title="Хобби",Сарафан
+http://95.142.88.250:80/sarafan/index.m3u8
+#EXTINF:-1 group-title="Хобби",Bolt
+http://95.142.88.250:80/Bolt/index.m3u8
+#EXTINF:-1 group-title="Хобби",Супергерои
+http://95.142.88.250:80/SuperGeroi/index.m3u8
+
+########################
+### Музыкальные радио ###
+########################
+#EXTINF:-1 group-title="Радио",Stingray Classic Rock
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Радио",Stingray Classica
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Радио",Stingray CMusic
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Радио",Stingray DJAZZ
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Радио",Stingray Easy Listening
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Радио",Stingray Flashback 70s
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Радио",Stingray Hit List
+https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Радио",Stingray Holiday Hits
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Радио",Stingray Hot Country
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Радио",Stingray Karaoke
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Радио",Stingray Nothin' But 90s
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Радио",Stingray Remember the 80s
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Радио",Stingray Rock Alternative
+https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Радио",Stingray Romance Latino
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Радио",Stingray Smooth Jazz
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Радио",Stingray Soul Storm
+https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Радио",Stingray The Spa
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Радио",Stingray Today's KPOP
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Радио",Stingray Today's Latin Pop
+https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Радио",Stingray Urban Beat
+https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Радио",Now 80's
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Радио",Radio Ibiza TV
+https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/chunklist_w1014685428.m3u8
+#EXTINF:-1 group-title="Радио",Первый музыкальный
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1 group-title="Радио",NRG 91 Music HD
+http://tv.nrg91.gr:1935/onweb/live/master.m3u8
+#EXTINF:-1 group-title="Радио",30A MUSIC TV
+https://30a-tv.com/feeds/720p/6.m3u8
+#EXTINF:-1 group-title="Радио",Afrobeats TV
+https://stream.ecable.tv/afrobeats/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 group-title="Радио",Persiana Music
+https://musichls.persiana.live/hls/stream.m3u8
+
+########################
+### Другие ###
+########################
+#EXTINF:-1 group-title="Другие",CHD-TV Rock
+http://194.26.229.213/chdtv_rock/index.m3u8
+#EXTINF:-1 group-title="Другие",OnlineTV
+http://185.221.213.254:8080/Okko/index.m3u8
+#EXTINF:-1 group-title="Другие",Крик-ТВ
+http://cdn-01.bonus-tv.ru:80/kriktv_edge/index.m3u8
+#EXTINF:-1 group-title="Другие",Просвещение
+http://cdn-01.bonus-tv.ru:80/prosveschenie_edge/index.m3u8
+#EXTINF:-1 group-title="Другие",Arirang Korea
+https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
+#EXTINF:-1 group-title="Другие",Dancehits 80
+http://dancehits80.denvs.ru:8080/index.m3u8
+#EXTINF:-1 group-title="Другие",D1
+https://m3u8.ott.blue/watch/7494/video.m3u8?geo=auto&token=94450098895765784220366841698509
+#EXTINF:-1 group-title="Другие",Banovina TV
+http://video.radio-banovina.hr:1935/live/myStream/chunklist_w1164976177.m3u8
+#EXTINF:-1 group-title="Другие",Fresh HD AM
+https://freshtv-live.ru/FreshTV/tracks-v1a1a1/mono.m3u8?token=livestream
+#EXTINF:-1 group-title="Другие",Vuemme TV
+http://5db313b643fd8.streamlock.net:1935/HITTV/HITTV/chunklist.m3u8
+#EXTINF:-1 group-title="Другие",Super Six
+https://5db313b643fd8.streamlock.net:443/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
+#EXTINF:-1 group-title="Другие",Kiss Kiss TV HD
+https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Другие",Kiss Kiss Napoli HD
+https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Другие",COMPANY TV HD
+https://5929b138b139d.streamlock.net/CompanyTV/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Другие",Company TV
+https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/playlist_slita.m3u8
+#EXTINF:-1 group-title="Другие",Матур ТВ
+https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+#EXTINF:-1 group-title="Другие",Meidan TV HD
+http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Другие",ОСН
+https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
+#EXTINF:-1 group-title="Другие",Sochi Live HD
+http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
+#EXTINF:-1 group-title="Другие",Brodilo TV
+https://brodilo.tv/brodilotv.m3u
+#EXTINF:-1 group-title="Другие",This is Bulgaria HD
+https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HD.m3u8
+#EXTINF:-1 group-title="Другие",НТВ +7
+https://cdn.ntv.ru/ntv7/tracks-v1a1a1/playlist.m3u8
+#EXTINF:-1 group-title="Другие",Univer TV HD
+https://cdn.universmotri.ru/live/smil:univer.smil/chunklist_w911267907_b3628000_slru.m3u8
+#EXTINF:-1 group-title="Другие",Миллет
+http://live.trkmillet.ru/millet/index.m3u8
+#EXTINF:-1 group-title="Другие",БелРос
+https://live3.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
+#EXTINF:-1 group-title="Другие",Алмазный край
+https://stream.almaz-media.tv:8080/hls/720.m3u8
+#EXTINF:-1 group-title="Другие",Теледом ТВ HD
+https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
+#EXTINF:-1 group-title="Другие",Аист ТВ
+https://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Другие",Ника ТВ
+https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Другие",Мир Premium HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="Другие",Наш Дом
+http://85.234.33.63/stream/c11.m3u8
+#EXTINF:-1 group-title="Другие",Хузур ТВ
+https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 group-title="Другие",Легендарный 24
+https://sevas.1tvcrimea.ru/legendarniy24.m3u8
+#EXTINF:-1 group-title="Другие",СТАРТ HD
 https://livetv.mylifeisgood.net.ru/channels/startlive.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Horse and Country TV.png" group-title="LIST1",Horse and Country TV
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://hnc-free-viewlift.amagi.tv/playlist720_lp.m3u8
+
+#EXTINF:-1 group-title="Другие",Сити Эдем - КиноМистика
+https://v2.catcast.tv/content/40783/index.m3u8
+#EXTINF:-1 group-title="Другие",Сити Эдем - КиноНовелла
+https://autopilot.catcast.tv/content/46209/index.m3u8
+#EXTINF:-1 group-title="Другие",A21 Network
+https://autopilot.catcast.tv/content/37909/index.m3u8
+#EXTINF:-1 group-title="Другие",HGTN
+https://v2.catcast.tv/content/34251/index.m3u8
+#EXTINF:-1 group-title="Другие",Телеканал Андийцы
+https://v2.catcast.tv/content/34114/index.m3u8
+#EXTINF:-1 group-title="Другие",NM Television
+https://tv.a21network.ru/content/40650/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://kharkov-z.ru/z-logo-line.png" group-title="ZETA",ТВ Харьков Z
 #EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
 http://212.193.53.254/app/potok/playlist.m3u8
