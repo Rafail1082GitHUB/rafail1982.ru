@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.one/epg.xml; http://epg.cdntv.online/lite.xml; https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/epg_lite_gabbarit.xml"<script src="/inclusive1.js"></script>
+#EXTM3U url-tvg="http://epg.one/epg.xml; https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/epg_lite.xml.gz; https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/epg_lite_gabbarit.xml.gz"<script src="/inclusive1.js"></script>
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Неизвестная Россия.png" group-title="Российские",Неизвестная Россия
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
@@ -83,9 +83,6 @@ https://hls-alaniatv.cdnvideo.ru/alaniatv/alania1/playlist.m3u8
 #EXTINF:-1 group-title="Российские",Алмазный край
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 https://stream.almaz-media.tv:8080/hls/720.m3u8
-#EXTINF:-1 group-title="Российские",Волга
-#EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
-http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
 #EXTINF:-1 group-title="Российские",Дагестан
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
@@ -257,9 +254,6 @@ https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Российские",Эхо ТВ 24
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 http://stream.novouralsk-news.ru/echotv24/echotv24-576p.m3u8
-#EXTINF:-1 group-title="Российские",ЮУрГУ-ТВ
-#EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
-https://tvrlive.susu.ru/1800k/playlist.m3u8
 #EXTINF:-1 group-title="Российские",1 канал
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
@@ -1115,9 +1109,6 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Bahrain Sports 1.png" group-title="Спортивные",Bahrain Sports 1
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/football.png" group-title="Спортивные",OnlineTV
-#EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
-http://185.221.213.254:8080/Okko/index.m3u8
 #EXTINF:-1 tvg-logo="http://i120.fastpic.org/big/2022/1002/60/2f8a8f9c961b16485098b28ba00c7b60.png" group-title="Спортивные",UFC Network
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 http://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
@@ -1193,18 +1184,12 @@ http://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Конный Мир HD.png" group-title="Спортивные",Конный Мир HD
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 http://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Polsat Sport 1.png" group-title="Спортивные",Polsat Sport 1
-#EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
-http://185.236.229.62:9981/play/a07n
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Polsat Sport 2.png" group-title="Спортивные",Polsat Sport 2
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 http://185.236.229.62:9981/play/a07q
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Polsat Sport 3.png" group-title="Спортивные",Polsat Sport 3
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 http://185.236.229.62:9981/play/a06m
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Polsat Sport Fight.png" group-title="Спортивные",Polsat Sport Fight
-#EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
-http://185.236.229.62:9981/play/a06l
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Extreme Sports.png" group-title="Спортивные",Extreme Sports
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 http://188.113.190.15/39/tracks-v1a1/index.m3u8
@@ -1613,9 +1598,6 @@ http://77.235.1.19:8000/play/a05i/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Моя Планета
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 http://77.235.1.19:8000/play/a00z/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Глазами Туриста HD
-#EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
-http://77.235.1.19:8000/play/a05h/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Tastemade
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
@@ -1781,7 +1763,6 @@ http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 group-title="Развлекательные",Amedia Hit HD
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 http://77.235.1.19:8000/play/a05f/index.m3u8
-
 #EXTINF:-1 group-title="Развлекательные",КВН ТВ
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 http://77.235.1.19:8000/play/a06t/index.m3u8
@@ -1848,9 +1829,6 @@ https://sitv.ru/hls/s86512.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/С1 Сургут HD.png" group-title="Региональные",С1 Сургут HD
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 https://sitv.ru/vgtrk/stv.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ЮГРА.png" group-title="Региональные",ЮГРА
-#EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
-https://live-ugratv.cdnvideo.ru/ugratv/ugratv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Запад 24 HD.png" group-title="Региональные",Запад 24 HD
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 http://live-vestikaliningrad.cdnvideo.ru/vestikaliningrad/vestikaliningrad.sdp/playlist.m3u8
@@ -1965,12 +1943,6 @@ http://dmi3y-tv.ru/hls/region/CH_SEVER_NAO.m3u8
 #EXTINF:-1 group-title="Региональные",Север HD Нарьян-Мар
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 http://dmi3y-tv.ru/hls/region/CH_SEVERHD_NAO.m3u8
-#EXTINF:-1 group-title="Региональные",Волга Нижний Новгород
-#EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
-http://dmi3y-tv.ru/hls/region/CH_VOLGA_NN.m3u8
-#EXTINF:-1 group-title="Региональные",Волга HD Нижний Новгород
-#EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
-http://dmi3y-tv.ru/hls/region/CH_VOLGAHD_NN.m3u8
 #EXTINF:-1 group-title="Региональные",Нижний Новгород 24 Нижний Новгород
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 http://dmi3y-tv.ru/hls/smotrim/region/CH_NN24_NN.m3u8
@@ -2055,9 +2027,6 @@ http://dmi3y-tv.ru/hls/region/CH_NOVIY_VEK_TAMB.m3u8
 #EXTINF:-1 group-title="Региональные",Новый век HD720 Тамбов
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 http://dmi3y-tv.ru/hls/region/CH_NOVIY_VEKHD720_TAMB.m3u8
-#EXTINF:-1 group-title="Региональные",Югра HD Тюмень
-#EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
-http://dmi3y-tv.ru/hls/smotrim/region/CH_UGRAHD_TUM.m3u8
 #EXTINF:-1 group-title="Региональные",Матур ТВ HD Уфа
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 http://dmi3y-tv.ru/hls/region/CH_MATURTVHD_UFA.m3u8
@@ -2199,18 +2168,12 @@ http://dmi3y-tv.ru/hls/region/CH_NVCHD_DV_YKT.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/rus.png" group-title="Региональные",Байкал Универ ТВ
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 http://stream01.bgu.ru/1/1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/rus.png" group-title="Региональные",ЮУрГУ-ТВ
-#EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
-http://tvrlive.susu.ru/1800k/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/rus.png" group-title="Региональные",Осетия-Ирыстон
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 http://catchup.videoline.ru/iriston/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/rus.png" group-title="Региональные",С1 Сургут HD
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 http://sitv.ru/vgtrk/stv.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/rus.png" group-title="Региональные",ЮГРА
-#EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
-http://live-ugratv.cdnvideo.ru/ugratv/ugratv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/rus.png" group-title="Региональные",Алания 24
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 http://hls-alaniatv.cdnvideo.ru/alaniatv/alania1/playlist.m3u8
@@ -2340,9 +2303,6 @@ http://77.235.1.19:8000/play/a078/index.m3u8
 #EXTINF:-1 group-title="Другие",SHOT TV
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 http://77.235.1.19:8000/play/a075/index.m3u8
-#EXTINF:-1 group-title="Другие",TESTMULTI
-#EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
-http://77.235.1.19:8000/play/a08i/index.m3u8
 #EXTINF:-1 group-title="Другие",TV XXI
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 http://77.235.1.19:8000/play/a010/index.m3u8
@@ -2574,9 +2534,6 @@ http://5a44e5b800a41.streamlock.net:1935/liveVLR3/mp4:Klasika/playlist.m3u8
 #EXTINF:-1 group-title="Другие",Local Now PhilidelphiaLocAll
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 http://tv.geniusnet.sk:8081/localltv/pl.m3u8
-#EXTINF:-1 group-title="Другие",Maan News
-#EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
-http://htvmada.mada.ps:8888/maannews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Другие",Meer TV
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 https://593aed234297b.streamlock.net/meervandaag/meervandaag/playlist.m3u8
@@ -2586,9 +2543,6 @@ http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Другие",Miras
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 https://alpha.tv.online.tm/legacyhls/ch003_720/index.m3u8
-#EXTINF:-1 group-title="Другие",Mission TV
-#EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
-http://stream.missiontv.com:1935/live/missiontv_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Другие",Mohabat TV
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
@@ -2715,9 +2669,6 @@ http://wms.shared.streamshow.it/telepavia/telepavia/playlist.m3u8
 #EXTINF:-1 group-title="Другие",Tele Quattro
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 http://wms.shared.streamshow.it/telequattro/telequattro/playlist.m3u8
-#EXTINF:-1 group-title="Другие",Tele Uno
-#EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
-http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 #EXTINF:-1 group-title="Другие",Telechiara
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
@@ -2949,9 +2900,6 @@ https://tvbelgorod.ru:90/izvestiya/index.m3u8
 #EXTINF:-1 tvg-id="kuban-24" tvg-logo="https://iptvx.one/picons/kuban-24.png" group-title="ZETA",Кубань 24 (Краснодар)
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
-#EXTINF:-1 tvg-id="kongresstv" group-title="ZETA", Конгресс ТВ
-#EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
-http://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 tvg-id="univer-tv" tvg-logo="https://iptvx.one/picons/univer-tv.png" group-title="ZETA",UNIVER HD
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 http://cdn.universmotri.ru/live/univer.sdp_1080p/playlist.m3u8
@@ -3575,9 +3523,6 @@ http://stream.vyshka24.ru/wowchillout
 http://listen7.myradio24.com/tisradio
 
 http://epg.one/epg.xml; https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/epg_lite.xml; https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/epg_lite_gabbarit.xml"
-#EXTINF:-1 group-title="Хобби и увлечения",Аппетитный
-#EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
-http://77.235.1.19:8000/play/a031/index.m3u8
 #EXTINF:-1 group-title="Хобби и увлечения",Охота и Рыбалка
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 8.1.0; Mobile) AIMP/3.0
 http://77.235.1.19:8000/play/a071/index.m3u8
