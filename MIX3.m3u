@@ -642,6 +642,113 @@ https://edge53.dc.beltelecom.by/ont/_definst_/ont/chunklist_w741300442.m3u8
 #EXTINF:-1 group-title="Российские",ПРНК
 #EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
 https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.usue.ru/public/files/loaded/66277511c4ea8.png" tvg-id="no_epg_news" group-title="ОПЛОТ", Оплот ТВ
+http://31.133.36.244:8000/23
+
+#EXTINF:-1 tvg-logo="https://tvtvtv.ru/icons/oplot_2.png" tvg-id="no_epg_news" group-title="ОПЛОТ", Оплот 2
+http://31.133.36.244:8000/24
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/0d/70/9f/0d709f2a8fd4540c47bfdfec4317fe1d.jpg?nii=t" tvg-id="no_epg_news" group-title="ОПЛОТ", Юнион
+https://streaming.televizor-24-tochka.ru/live/27-req_offset_28000000-req_window_0-1k_v5.m3u8
+
+#EXTINF:-1 tvg-logo="https://s00.yaplakal.com/pics/pics_original/3/4/2/5599243.png" tvg-id="no_epg_news" group-title="ОПЛОТ", Новороссия ТВ
+http://31.133.36.244:8000/25
+
+#EXTINF:-1 group-title="ОПЛОТ", Луганск 24 
+https://streaming.televizor-24-tochka.ru/live/29.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/nts-sevastopol.png" tvg-id="nts-sevastopol" group-title="ОПЛОТ", НТС Севастополь
+http://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/sever.png" tvg-id="sever" group-title="ОПЛОТ", Север 
+http://live2.mediacdn.ru/sr1/sever/playlist_hdhigh.m3u8
+
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Радио Харьков Z.png" group-title="ОПЛОТ",Радио Харьков Z
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://node1.craftradio.ru:8000/215_55AE795B
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТВ Харьков Z.png" group-title="ОПЛОТ",ТВ Харьков Z
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://212.193.53.254/app/potok/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/News Front TV.png" group-title="ОПЛОТ",News Front TV
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+https://tv.2kita.com/stream/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир Белогорья.png" group-title="ОПЛОТ",Мир Белогорья
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+https://tvbelgorod.ru:90/mirbelogorya/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Известия Приосколья.png" group-title="ОПЛОТ",Известия Приосколья
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+https://tvbelgorod.ru:90/izvestiya/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Белгород 24.png" group-title="ОПЛОТ",Белгород 24
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Брянская Губерния.png" group-title="ОПЛОТ",Брянская Губерния
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BRYANSK_BRGRUBER/variant.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/TV Губерния.png" group-title="ОПЛОТ",TV Губерния
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Известия Воронеж.png" group-title="ОПЛОТ",Известия Воронеж
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA/variant.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Краснодар HD.png" group-title="ОПЛОТ",Краснодар HD
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кубань 24 (Краснодар).png" group-title="ОПЛОТ",Кубань 24 (Краснодар)
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ВМЕСТЕ:РФ.png" group-title="ОПЛОТ",ВМЕСТЕ:РФ
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ Дума ТВ.png" group-title="ОПЛОТ", Дума ТВ
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+https://dumatv.iptv2022.com/tracks-v4a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ Конгресс ТВ.png" group-title="ОПЛОТ", Конгресс ТВ
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://live-3.otcnet.ru/congresstv/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/RTД.png" group-title="ОПЛОТ",RTД
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ОТР.png" group-title="ОПЛОТ",ОТР
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://31.210.208.171:8080/otr/index.m3u8?token=+W2MSER
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Союз.png" group-title="ОПЛОТ",Союз
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Спас.png" group-title="ОПЛОТ",Спас
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Радость Моя.png" group-title="ОПЛОТ",Радость Моя
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Муз Союз.png" group-title="ОПЛОТ",Муз Союз
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ЕГЭ ТВ.png" group-title="ОПЛОТ",ЕГЭ ТВ
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://tv.streams.baikal-telecom.net:8080/RT_DOC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мособр TV HD.png" group-title="ОПЛОТ",Мособр TV HD
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://retj.educom.ru/mosobrtv/tv1/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/UNIVER HD.png" group-title="ОПЛОТ",UNIVER HD
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://cdn.universmotri.ru/live/univer.sdp_1080p/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Просвещение.png" group-title="ОПЛОТ",Просвещение
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Za Жизнь.png" group-title="ОПЛОТ",Za Жизнь
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+https://rz-life.ru:8443/stream
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Радио Z.png" group-title="ОПЛОТ",Радио Z
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+https://node1.craftradio.ru:8003/201_EFA53E54
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Радио Пика.png" group-title="ОПЛОТ",Радио Пика
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+https://radio.pika-fm.ru:8443/pika.fm
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Русский Мир.png" group-title="ОПЛОТ",Русский Мир
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+https://a5.radioheart.ru:9043/RH4272
+
 #EXTINF:-1 group-title="Развлекательные",MTV
 #EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
 http://fl5.moveonjoy.com/MTV/index.m3u8
@@ -2932,60 +3039,7 @@ http://31.148.48.15/Russkiy_Bestseller/tracks-v1a1/mono.m3u8?token=default
 #EXTINF:-1 group-title="Другие",Твое ТВ Юмор HD
 #EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
 http://84.38.180.145:8080/tvoetv/index.m3u8
-#EXTINF:-1 group-title="ZETA",Брянская Губерния
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BRYANSK_BRGRUBER/variant.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/vmeste-rf.png" group-title="ZETA",ВМЕСТЕ:РФ
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
-#EXTINF:-1 group-title="ZETA",Конгресс ТВ
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://live-3.otcnet.ru/congresstv/index.m3u8
-#EXTINF:-1 tvg-logo="http://profi-rus.narod.ru/iptv/logo/1s.png" group-title="ZETA",Союз
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://profi-rus.narod.ru/iptv/logo/5m.png" group-title="ZETA",Муз Союз
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/univer-tv.png" group-title="ZETA",UNIVER HD
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://cdn.universmotri.ru/live/univer.sdp_1080p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/prosveschenie.png" group-title="ZETA",Просвещение
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="http://kharkov-z.ru/z-logo-line.png" group-title="ZETA",Радио Харьков Z
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://node1.craftradio.ru:8000/215_55AE795B
-#EXTINF:-1 tvg-logo="http://kharkov-z.ru/z-logo-line.png" group-title="ZETA",ТВ Харьков Z
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://212.193.53.254/app/potok/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://mirbelogorya.ru/mb.png" group-title="ZETA",Мир Белогорья
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://tvbelgorod.ru:90/mirbelogorya/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.okcdn.ru/videoPreview?id=3976082754233&type=37&idx=13&tkn=1FjeHKFXomixlD3m7CW3V6gjhCs&fn=external_8" group-title="ZETA",Известия Приосколья
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://tvbelgorod.ru:90/izvestiya/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gWqw4N5/45571caf9d64821ea16f7883ac62a930.png" group-title="ZETA",Известия Воронеж
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA/variant.m3u8
-#EXTINF:-1 tvg-logo="https://radiopotok.ru/f/station_webp/512/2351.webp" group-title="ZETA",Za Жизнь
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rz-life.ru:8443/stream
-#EXTINF:-1 tvg-logo="https://www.radiogrom.com/paint_new/logo_big/radio-z-belgorod-logo.jpg" group-title="ZETA",Радио Z
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://node1.craftradio.ru:8003/201_EFA53E54
-#EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/radio-pika.png" group-title="ZETA",Радио Пика
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://radio.pika-fm.ru:8443/pika.fm
-#EXTINF:-1 tvg-logo="https://rusmir.media/lhb-ico-block__img/images/journal_svg.svg" group-title="ZETA",Русский Мир
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://a5.radioheart.ru:9043/RH4272
-#EXTINF:-1 group-title="ZETA",Белгород 24
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kuban-24.png" group-title="ZETA",Кубань 24 (Краснодар)
-#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
-https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
+
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/turkey.png" group-title="Турецкие",Akit TV
 #EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
 http://akittv-live.ercdn.net/akittv/akittv.m3u8
