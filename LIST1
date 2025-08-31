@@ -1,7 +1,10 @@
 #EXTM3U url-tvg="http://epg.one/epg.xml; https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/epg_lite.xml.gz; https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/epg_lite_gabbarit.xml.gz"<script src="/inclusive1.js"></script>
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/nexo.png" group-title="NEXO",NEXO
-#EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 10; Mobile) AIMP/3.0
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/favicon.png" group-title="NEXO",NEXO
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
 http://rafail1982.uz/nexo2.mp4
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/favicon.png" group-title="NEXO",NexoIPTV
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://rafail1982.uz/NexoIPTV.mp4
 #EXTINF:-1 group-title="Российские",Первый канал (+1)
 #EXTVLCOPT:http-user-agent=BASS/2.4 (compatible; Linux; Android 10; Mobile) AIMP/3.0
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8
