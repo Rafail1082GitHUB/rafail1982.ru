@@ -1,4 +1,12 @@
 #EXTM3U url-tvg="http://epg.one/epg.xml; https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/epg_lite.xml; https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/epg_lite_gabbarit.xml"
+
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/favicon.png" group-title="NEXO",NEXO
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://rafail1982.uz/nexo2.mp4
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/favicon.png" group-title="NEXO",NexoIPTV
+#EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
+http://rafail1982.uz/NexoIPTV.mp4
+
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Конгресс ТВ.png" group-title="Эфирные",Конгресс ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://live-3.otcnet.ru/congresstv/index.m3u8
