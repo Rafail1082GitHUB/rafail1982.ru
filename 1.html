@@ -1,0 +1,1196 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="../logo/update.png" rel="icon" type="image/x-icon" />
+    <title>Админ-панель M3U плейлистов</title>
+    <style>
+        :root {
+    --primary-color: #3498db;
+    --secondary-color: #2980b9;
+    --success-color: #2ecc71;
+    --danger-color: #e74c3c;
+    --warning-color: #f39c12;
+    --light-color: #ecf0f1;
+    --dark-color: #34495e;
+    --text-color: #2c3e50;
+    --border-radius: 4px;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: #f5f7fa;
+    color: var(--text-color);
+    line-height: 1.6;
+    padding: 15px;
+    min-width: 320px;
+    transition: background-color 0.5s ease;
+}
+
+body.activity-pulse {
+    background-color: #f0f8ff;
+}
+
+.container {
+    max-width: 100%;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    overflow: hidden;
+    position: relative;
+    transition: box-shadow 0.3s ease;
+}
+
+.container.activity-pulse {
+    box-shadow: 0 0 25px rgba(52, 152, 219, 0.3);
+}
+
+header {
+    text-align: center;
+    margin-bottom: 25px;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 15px;
+    position: relative;
+}
+
+h1 {
+    color: var(--dark-color);
+    margin-bottom: 10px;
+    font-size: 1.5rem;
+}
+
+.description {
+    color: #7f8c8d;
+    font-size: 1rem;
+}
+
+/* Стили для электронных часов */
+.digital-clock {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    font-family: 'Courier New', monospace;
+    font-weight: bold;
+    background: #2c3e50;
+    padding: 8px 12px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+}
+
+.clock-digits {
+    display: flex;
+    gap: 2px;
+}
+
+.digit {
+    display: inline-block;
+    color: #e74c3c;
+    background: #111;
+    padding: 4px 6px;
+    border-radius: 4px;
+    font-size: 1.2rem;
+    min-width: 20px;
+    text-align: center;
+    transition: all 0.3s ease;
+}
+
+.digit.activity-pulse {
+    background: #2c3e50;
+    color: #3498db;
+}
+
+.colon {
+    color: #e74c3c;
+    font-size: 1.2rem;
+    margin: 0 2px;
+    animation: blink 1s infinite;
+}
+
+.colon.activity-pulse {
+    animation: blink-fast 0.5s infinite;
+}
+
+@keyframes blink {
+    0%, 50% { opacity: 1; }
+    51%, 100% { opacity: 0.3; }
+}
+
+@keyframes blink-fast {
+    0%, 50% { opacity: 1; }
+    51%, 100% { opacity: 0.1; }
+}
+
+/* Стили для мигающего светодиода */
+.led-indicator {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    width: 12px;
+    height: 12px;
+    background-color: #2ecc71;
+    border-radius: 50%;
+    box-shadow: 0 0 10px #2ecc71;
+    animation: led-blink 1s infinite;
+    z-index: 100;
+}
+
+.led-indicator.activity-pulse {
+    animation: led-blink-fast 0.5s infinite;
+}
+
+@keyframes led-blink {
+    0%, 50% { 
+        opacity: 1;
+        box-shadow: 0 0 10px #2ecc71, 0 0 20px #2ecc71;
+    }
+    51%, 100% { 
+        opacity: 0.3;
+        box-shadow: 0 0 5px #2ecc71;
+    }
+}
+
+@keyframes led-blink-fast {
+    0%, 50% { 
+        opacity: 1;
+        box-shadow: 0 0 15px #2ecc71, 0 0 30px #2ecc71;
+    }
+    51%, 100% { 
+        opacity: 0.2;
+        box-shadow: 0 0 5px #2ecc71;
+    }
+}
+
+/* Индикатор активности */
+.activity-indicator {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    background: rgba(46, 204, 113, 0.9);
+    color: white;
+    padding: 5px 10px;
+    border-radius: 4px;
+    font-size: 0.8rem;
+    z-index: 1000;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.activity-indicator.visible {
+    opacity: 1;
+}
+
+.controls {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.btn {
+    padding: 8px 16px;
+    border: none;
+    border-radius: var(--border-radius);
+    cursor: pointer;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    font-size: 0.9rem;
+    white-space: nowrap;
+}
+
+.btn-primary {
+    background-color: var(--primary-color);
+    color: white;
+}
+
+.btn-primary:hover {
+    background-color: var(--secondary-color);
+}
+
+.btn-success {
+    background-color: var(--success-color);
+    color: white;
+}
+
+.btn-success:hover {
+    background-color: #27ae60;
+}
+
+.btn-danger {
+    background-color: var(--danger-color);
+    color: white;
+}
+
+.btn-danger:hover {
+    background-color: #c0392b;
+}
+
+.btn-warning {
+    background-color: var(--warning-color);
+    color: white;
+}
+
+.btn-warning:hover {
+    background-color: #e67e22;
+}
+
+.playlist-form {
+    background-color: var(--light-color);
+    padding: 15px;
+    border-radius: var(--border-radius);
+    margin-bottom: 25px;
+}
+
+.form-group {
+    margin-bottom: 12px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: 600;
+    font-size: 0.9rem;
+}
+
+input, select {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: var(--border-radius);
+    font-size: 0.9rem;
+}
+
+.playlist-list {
+    margin-top: 25px;
+    overflow-x: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+    min-width: 800px;
+}
+
+th, td {
+    padding: 10px 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    font-size: 0.9rem;
+    word-break: break-word;
+}
+
+th {
+    background-color: var(--light-color);
+    font-weight: 600;
+    position: sticky;
+    left: 0;
+}
+
+tr:hover {
+    background-color: #f9f9f9;
+}
+
+.status {
+    display: inline-block;
+    padding: 4px 8px;
+    border-radius: 20px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    white-space: nowrap;
+}
+
+.status-active {
+    background-color: #d4edda;
+    color: #155724;
+}
+
+.status-paused {
+    background-color: #fff3cd;
+    color: #856404;
+}
+
+.actions {
+    display: flex;
+    gap: 6px;
+    flex-wrap: wrap;
+}
+
+.action-btn {
+    padding: 4px 8px;
+    border: none;
+    border-radius: var(--border-radius);
+    cursor: pointer;
+    font-size: 0.75rem;
+    white-space: nowrap;
+}
+
+.edit-btn {
+    background-color: var(--warning-color);
+    color: white;
+}
+
+.delete-btn {
+    background-color: var(--danger-color);
+    color: white;
+}
+
+.update-btn {
+    background-color: var(--success-color);
+    color: white;
+}
+
+.timer-info {
+    font-size: 0.8rem;
+    color: #7f8c8d;
+    margin-top: 3px;
+}
+
+.next-update {
+    font-weight: 600;
+    color: var(--primary-color);
+}
+
+footer {
+    margin-top: 30px;
+    text-align: center;
+    color: #7f8c8d;
+    font-size: 0.8rem;
+    border-top: 1px solid #eee;
+    padding-top: 15px;
+}
+
+/* Стили для длинных URL */
+td a {
+    word-break: break-all;
+    display: inline-block;
+    max-width: 200px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+/* Адаптивность для очень маленьких экранов */
+@media (max-width: 768px) {
+    body {
+        padding: 10px;
+    }
+    
+    .container {
+        padding: 15px;
+    }
+    
+    h1 {
+        font-size: 1.3rem;
+    }
+    
+    .description {
+        font-size: 0.9rem;
+    }
+    
+    .digital-clock {
+        position: relative;
+        top: auto;
+        right: auto;
+        justify-content: center;
+        margin: 10px auto;
+        width: fit-content;
+    }
+    
+    .led-indicator {
+        top: 10px;
+        right: 10px;
+    }
+    
+    .controls {
+        flex-direction: column;
+        align-items: stretch;
+    }
+    
+    .btn {
+        width: 100%;
+        margin-bottom: 5px;
+    }
+    
+    .playlist-form {
+        padding: 10px;
+    }
+    
+    table {
+        font-size: 0.8rem;
+    }
+    
+    th, td {
+        padding: 8px 10px;
+    }
+    
+    .actions {
+        flex-direction: column;
+        gap: 4px;
+    }
+    
+    .action-btn {
+        width: 100%;
+        text-align: center;
+    }
+}
+
+@media (max-width: 480px) {
+    h1 {
+        font-size: 1.2rem;
+    }
+    
+    .description {
+        font-size: 0.85rem;
+    }
+    
+    .digital-clock {
+        transform: scale(0.9);
+    }
+    
+    .digit {
+        font-size: 1rem;
+        padding: 3px 5px;
+        min-width: 18px;
+    }
+    
+    th, td {
+        padding: 6px 8px;
+        font-size: 0.8rem;
+    }
+    
+    .status {
+        font-size: 0.7rem;
+        padding: 3px 6px;
+    }
+    
+    .timer-info {
+        font-size: 0.75rem;
+    }
+}
+    </style>
+</head>
+<body>
+    <!-- Индикатор активности -->
+    <div class="activity-indicator" id="activityIndicator">Активен</div>
+    
+    <div class="container">
+        <!-- Мигающий светодиод -->
+        <div class="led-indicator" id="ledIndicator"></div>
+        
+        <header>
+            <h1>Админ-панель M3U плейлистов</h1>
+            <p class="description">Управление самообновляемыми плейлистами с настройкой интервалов обновления</p>
+            
+            <!-- Электронные часы -->
+            <div class="digital-clock" id="digitalClock">
+                <div class="clock-digits">
+                    <span class="digit" id="hours1">0</span>
+                    <span class="digit" id="hours2">0</span>
+                </div>
+                <span class="colon">:</span>
+                <div class="clock-digits">
+                    <span class="digit" id="minutes1">0</span>
+                    <span class="digit" id="minutes2">0</span>
+                </div>
+                <span class="colon">:</span>
+                <div class="clock-digits">
+                    <span class="digit" id="seconds1">0</span>
+                    <span class="digit" id="seconds2">0</span>
+                </div>
+            </div>
+        </header>
+        
+        <div class="controls">
+            <button class="btn btn-primary" id="addPlaylistBtn">Добавить плейлист</button>
+            <button class="btn btn-success" id="updateAllBtn">Обновить все плейлисты</button>
+            <button class="btn btn-danger" id="clearAllBtn">Остановить все таймеры</button>
+            <button class="btn btn-warning" id="keepAliveBtn">Поддерживать активность: ВКЛ</button>
+        </div>
+        
+        <div class="playlist-form" id="playlistForm" style="display: none;">
+            <h3 id="formTitle">Добавить новый плейлист</h3>
+            <div class="form-group">
+                <label for="playlistName">Название плейлиста</label>
+                <input type="text" id="playlistName" placeholder="Введите название плейлиста">
+            </div>
+            <div class="form-group">
+                <label for="playlistUrl">URL M3U плейлиста</label>
+                <input type="text" id="playlistUrl" placeholder="Введите URL плейлиста">
+            </div>
+            <div class="form-group">
+                <label for="fileName">Имя файла на хостинге</label>
+                <input type="text" id="fileName" placeholder="Введите имя файла (например: myplaylist.m3u)">
+                <small style="color: #666;">Файл будет сохранен в папке /playlists/</small>
+            </div>
+            <div class="form-group">
+                <label for="updateInterval">Интервал обновления</label>
+                <select id="updateInterval">
+                    <option value="300000">Каждые 5 минут</option>
+                    <option value="3600000">Каждый час</option>
+                    <option value="10800000">Каждые 3 часа</option>
+                    <option value="14400000">Каждые 4 часа</option>
+                    <option value="28800000">Каждые 8 часов</option>
+                    <option value="57600000">Каждые 16 часов</option>
+                    <option value="86400000">Каждые 24 часа</option>
+                    <option value="0">Вручную</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <button class="btn btn-success" id="savePlaylistBtn">Сохранить плейлист</button>
+                <button class="btn btn-danger" id="cancelPlaylistBtn">Отмена</button>
+            </div>
+        </div>
+        
+        <div class="playlist-list">
+            <h2>Список плейлистов</h2>
+            <div id="statusMessage" style="display: none; padding: 10px; margin: 10px 0; border-radius: 4px;"></div>
+            <table id="playlistTable">
+                <thead>
+                    <tr>
+                        <th>Название</th>
+                        <th>URL плейлиста</th>
+                        <th>Файл на хостинге</th>
+                        <th>Интервал обновления</th>
+                        <th>Статус</th>
+                        <th>Следующее обновление</th>
+                        <th>Действия</th>
+                    </tr>
+                </thead>
+                <tbody id="playlistTableBody">
+                    <!-- Данные будут добавлены через JavaScript -->
+                </tbody>
+            </table>
+        </div>
+        
+        <footer>
+            <p>Админ-панель для управления M3U плейлистами &copy; 2023</p>
+        </footer>
+    </div>
+
+    <script>
+    // Конфигурация API
+    const API_URL = 'save_playlist.php';
+    const DATA_URL = 'playlist_data.php';
+    
+    // Переменные для хранения данных
+    let playlists = [];
+    let timers = {};
+    let editIndex = -1;
+    let keepAliveActive = true;
+    let activityPulseInterval = null;
+
+    // Элементы DOM
+    const playlistForm = document.getElementById('playlistForm');
+    const formTitle = document.getElementById('formTitle');
+    const playlistNameInput = document.getElementById('playlistName');
+    const playlistUrlInput = document.getElementById('playlistUrl');
+    const fileNameInput = document.getElementById('fileName');
+    const updateIntervalSelect = document.getElementById('updateInterval');
+    const savePlaylistBtn = document.getElementById('savePlaylistBtn');
+    const cancelPlaylistBtn = document.getElementById('cancelPlaylistBtn');
+    const addPlaylistBtn = document.getElementById('addPlaylistBtn');
+    const updateAllBtn = document.getElementById('updateAllBtn');
+    const clearAllBtn = document.getElementById('clearAllBtn');
+    const keepAliveBtn = document.getElementById('keepAliveBtn');
+    const playlistTableBody = document.getElementById('playlistTableBody');
+    const statusMessage = document.getElementById('statusMessage');
+    const activityIndicator = document.getElementById('activityIndicator');
+
+    // Элементы для часов
+    const hours1 = document.getElementById('hours1');
+    const hours2 = document.getElementById('hours2');
+    const minutes1 = document.getElementById('minutes1');
+    const minutes2 = document.getElementById('minutes2');
+    const seconds1 = document.getElementById('seconds1');
+    const seconds2 = document.getElementById('seconds2');
+    const digitalClock = document.getElementById('digitalClock');
+    const ledIndicator = document.getElementById('ledIndicator');
+
+    /**
+     * Функция для поддержания активности страницы
+     */
+    function startKeepAlive() {
+        if (!keepAliveActive) return;
+        
+        // 1. Периодическое изменение заголовка (минимальный эффект)
+        let titleChanged = false;
+        const originalTitle = document.title;
+        
+        // 2. Создание фонового запроса каждые 30 секунд
+        const keepAliveInterval = setInterval(() => {
+            if (!keepAliveActive) {
+                clearInterval(keepAliveInterval);
+                return;
+            }
+            
+            // Минимальный fetch запрос к текущей странице
+            fetch(window.location.href, {
+                method: 'HEAD',
+                cache: 'no-cache'
+            }).catch(() => {
+                // Игнорируем ошибки, главное - был запрос
+            });
+            
+            // Мигание индикатора активности
+            showActivityIndicator();
+            
+        }, 30000);
+        
+        // 3. Анимация активности каждые 10 секунд
+        activityPulseInterval = setInterval(() => {
+            if (!keepAliveActive) {
+                clearInterval(activityPulseInterval);
+                return;
+            }
+            
+            // Активируем пульсацию интерфейса
+            activatePulseEffect();
+            
+        }, 10000);
+        
+        return () => {
+            clearInterval(keepAliveInterval);
+            clearInterval(activityPulseInterval);
+        };
+    }
+
+    /**
+     * Показать индикатор активности
+     */
+    function showActivityIndicator() {
+        activityIndicator.classList.add('visible');
+        setTimeout(() => {
+            activityIndicator.classList.remove('visible');
+        }, 2000);
+    }
+
+    /**
+     * Активировать эффект пульсации
+     */
+    function activatePulseEffect() {
+        // Добавляем классы анимации
+        document.body.classList.add('activity-pulse');
+        digitalClock.classList.add('activity-pulse');
+        ledIndicator.classList.add('activity-pulse');
+        
+        // Анимируем цифры часов
+        const digits = [hours1, hours2, minutes1, minutes2, seconds1, seconds2];
+        digits.forEach(digit => digit.classList.add('activity-pulse'));
+        
+        // Убираем анимацию через 1 секунду
+        setTimeout(() => {
+            document.body.classList.remove('activity-pulse');
+            digitalClock.classList.remove('activity-pulse');
+            ledIndicator.classList.remove('activity-pulse');
+            digits.forEach(digit => digit.classList.remove('activity-pulse'));
+        }, 1000);
+    }
+
+    /**
+     * Переключение режима поддержания активности
+     */
+    function toggleKeepAlive() {
+        keepAliveActive = !keepAliveActive;
+        
+        if (keepAliveActive) {
+            keepAliveBtn.textContent = 'Поддерживать активность: ВКЛ';
+            keepAliveBtn.classList.remove('btn-danger');
+            keepAliveBtn.classList.add('btn-warning');
+            startKeepAlive();
+            showStatus('Режим поддержания активности включен', 'success');
+        } else {
+            keepAliveBtn.textContent = 'Поддерживать активность: ВЫКЛ';
+            keepAliveBtn.classList.remove('btn-warning');
+            keepAliveBtn.classList.add('btn-danger');
+            if (activityPulseInterval) {
+                clearInterval(activityPulseInterval);
+            }
+            showStatus('Режим поддержания активности выключен', 'warning');
+        }
+    }
+
+    /**
+     * Функция для обновления электронных часов
+     */
+    function updateDigitalClock() {
+        const now = new Date();
+        const hours = now.getHours().toString().padStart(2, '0');
+        const minutes = now.getMinutes().toString().padStart(2, '0');
+        const seconds = now.getSeconds().toString().padStart(2, '0');
+        
+        hours1.textContent = hours[0];
+        hours2.textContent = hours[1];
+        minutes1.textContent = minutes[0];
+        minutes2.textContent = minutes[1];
+        seconds1.textContent = seconds[0];
+        seconds2.textContent = seconds[1];
+    }
+
+    /**
+     * Показать сообщение о статусе
+     */
+    function showStatus(message, type = 'success') {
+        statusMessage.textContent = message;
+        statusMessage.style.display = 'block';
+        statusMessage.style.backgroundColor = type === 'success' ? '#d4edda' : 
+                                            type === 'error' ? '#f8d7da' : '#fff3cd';
+        statusMessage.style.color = type === 'success' ? '#155724' : 
+                                   type === 'error' ? '#721c24' : '#856404';
+        statusMessage.style.border = type === 'success' ? '1px solid #c3e6cb' : 
+                                    type === 'error' ? '1px solid #f5c6cb' : '1px solid #ffeaa7';
+        
+        setTimeout(() => {
+            statusMessage.style.display = 'none';
+        }, 5000);
+    }
+
+    /**
+     * Загрузить данные плейлистов с сервера
+     */
+    async function loadPlaylistsFromServer() {
+        try {
+            const response = await fetch(DATA_URL + '?action=load');
+            const result = await response.json();
+            
+            if (!response.ok) {
+                throw new Error(result.error || 'Server error');
+            }
+            
+            return result.playlists || [];
+        } catch (error) {
+            console.error('Error loading playlists:', error);
+            return [];
+        }
+    }
+
+    /**
+     * Сохранить данные плейлистов на сервер
+     */
+    async function savePlaylistsToServer(playlistsData) {
+        try {
+            const response = await fetch(DATA_URL, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({
+                    action: 'save',
+                    playlists: playlistsData
+                })
+            });
+            
+            const result = await response.json();
+            
+            if (!response.ok) {
+                throw new Error(result.error || 'Server error');
+            }
+            
+            return result;
+        } catch (error) {
+            console.error('Error saving playlists:', error);
+            throw error;
+        }
+    }
+
+    /**
+     * Отправить запрос на сохранение плейлиста
+     */
+    async function savePlaylistToServer(playlist) {
+        try {
+            const response = await fetch(API_URL, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({
+                    url: playlist.url,
+                    filename: playlist.fileName
+                })
+            });
+            
+            const result = await response.json();
+            
+            if (!response.ok) {
+                throw new Error(result.error || 'Server error');
+            }
+            
+            return result;
+        } catch (error) {
+            console.error('Error saving playlist:', error);
+            throw error;
+        }
+    }
+
+    /**
+     * Обновить плейлист
+     */
+    async function updatePlaylist(index) {
+        const playlist = playlists[index];
+        
+        try {
+            showStatus(`Обновление плейлиста "${playlist.name}"...`, 'info');
+            
+            const result = await savePlaylistToServer(playlist);
+            
+            // Обновляем время последнего обновления
+            const now = new Date();
+            playlists[index].lastUpdate = now.toISOString();
+            playlists[index].lastSize = result.file_size;
+            
+            // Если установлен интервал, рассчитываем следующее обновление
+            if (playlist.interval > 0) {
+                const nextUpdate = new Date(now.getTime() + playlist.interval);
+                playlists[index].nextUpdate = nextUpdate.toISOString();
+                
+                // Обновляем таймер
+                if (timers[index]) {
+                    clearInterval(timers[index]);
+                    timers[index] = setInterval(() => {
+                        updatePlaylist(index);
+                    }, playlist.interval);
+                }
+            }
+            
+            await saveToServer();
+            updatePlaylistTable();
+            
+            showStatus(`Плейлист "${playlist.name}" успешно обновлен! Размер: ${(result.file_size / 1024).toFixed(2)} KB`, 'success');
+            
+        } catch (error) {
+            console.error('Error updating playlist:', error);
+            showStatus(`Ошибка при обновлении "${playlist.name}": ${error.message}`, 'error');
+        }
+    }
+
+    function showPlaylistForm() {
+        playlistForm.style.display = 'block';
+        editIndex = -1;
+        formTitle.textContent = 'Добавить новый плейлист';
+        clearForm();
+    }
+
+    function hidePlaylistForm() {
+        playlistForm.style.display = 'none';
+        clearForm();
+    }
+
+    function clearForm() {
+        playlistNameInput.value = '';
+        playlistUrlInput.value = '';
+        fileNameInput.value = '';
+        updateIntervalSelect.value = '10800000';
+    }
+
+    async function savePlaylist() {
+        const name = playlistNameInput.value.trim();
+        const url = playlistUrlInput.value.trim();
+        const fileName = fileNameInput.value.trim();
+        const interval = parseInt(updateIntervalSelect.value);
+        
+        if (!name || !url || !fileName) {
+            alert('Пожалуйста, заполните все поля');
+            return;
+        }
+        
+        const playlist = {
+            name,
+            url,
+            fileName,
+            interval,
+            lastUpdate: null,
+            nextUpdate: null,
+            status: 'active',
+            lastSize: null
+        };
+        
+        if (editIndex === -1) {
+            playlists.push(playlist);
+        } else {
+            playlists[editIndex] = playlist;
+            if (timers[editIndex]) {
+                clearInterval(timers[editIndex]);
+                delete timers[editIndex];
+            }
+        }
+        
+        await saveToServer();
+        updatePlaylistTable();
+        hidePlaylistForm();
+        
+        if (interval > 0) {
+            startTimer(editIndex === -1 ? playlists.length - 1 : editIndex);
+        }
+        
+        // Автоматически обновляем плейлист при создании
+        setTimeout(() => {
+            updatePlaylist(editIndex === -1 ? playlists.length - 1 : editIndex);
+        }, 1000);
+    }
+
+    function editPlaylist(index) {
+        const playlist = playlists[index];
+        playlistNameInput.value = playlist.name;
+        playlistUrlInput.value = playlist.url;
+        fileNameInput.value = playlist.fileName;
+        updateIntervalSelect.value = playlist.interval.toString();
+        
+        editIndex = index;
+        formTitle.textContent = 'Редактировать плейлист';
+        playlistForm.style.display = 'block';
+    }
+
+    async function deletePlaylist(index) {
+        if (confirm('Вы уверены, что хотите удалить этот плейлист?')) {
+            if (timers[index]) {
+                clearInterval(timers[index]);
+                delete timers[index];
+            }
+            
+            playlists.splice(index, 1);
+            await saveToServer();
+            updatePlaylistTable();
+            restartAllTimers();
+        }
+    }
+
+    async function updateAllPlaylists() {
+        for (let i = 0; i < playlists.length; i++) {
+            await updatePlaylist(i);
+            // Задержка между обновлениями чтобы не перегружать сервер
+            await new Promise(resolve => setTimeout(resolve, 1000));
+        }
+    }
+
+    async function togglePlaylistStatus(index) {
+        const playlist = playlists[index];
+        
+        if (playlist.status === 'active') {
+            if (timers[index]) {
+                clearInterval(timers[index]);
+                delete timers[index];
+            }
+            playlists[index].status = 'paused';
+            playlists[index].nextUpdate = null;
+        } else {
+            if (playlist.interval > 0) {
+                startTimer(index);
+            }
+            playlists[index].status = 'active';
+        }
+        
+        await saveToServer();
+        updatePlaylistTable();
+    }
+
+    async function clearAllTimers() {
+        Object.values(timers).forEach(timer => clearInterval(timer));
+        timers = {};
+        
+        playlists.forEach(playlist => {
+            playlist.status = 'paused';
+            playlist.nextUpdate = null;
+        });
+        
+        await saveToServer();
+        updatePlaylistTable();
+        showStatus('Все таймеры остановлены', 'info');
+    }
+
+    function startTimer(index) {
+        const playlist = playlists[index];
+        
+        if (playlist.interval <= 0) return;
+        
+        if (timers[index]) {
+            clearInterval(timers[index]);
+        }
+        
+        // Рассчитываем время до следующего обновления
+        const now = new Date();
+        let nextUpdateTime;
+        
+        if (playlist.nextUpdate && new Date(playlist.nextUpdate) > now) {
+            // Если есть запланированное обновление в будущем
+            nextUpdateTime = new Date(playlist.nextUpdate).getTime() - now.getTime();
+        } else {
+            // Иначе используем стандартный интервал
+            nextUpdateTime = playlist.interval;
+            const nextUpdate = new Date(now.getTime() + playlist.interval);
+            playlists[index].nextUpdate = nextUpdate.toISOString();
+        }
+        
+        // Запускаем таймер
+        timers[index] = setInterval(() => {
+            updatePlaylist(index);
+        }, playlist.interval);
+        
+        playlists[index].status = 'active';
+        
+        // Сохраняем изменения
+        saveToServer();
+        updatePlaylistTable();
+        
+        console.log(`Таймер запущен для плейлиста "${playlist.name}". Интервал: ${playlist.interval}ms`);
+    }
+
+    function restartAllTimers() {
+        Object.values(timers).forEach(timer => clearInterval(timer));
+        timers = {};
+        
+        playlists.forEach((playlist, index) => {
+            if (playlist.status === 'active' && playlist.interval > 0) {
+                startTimer(index);
+            }
+        });
+    }
+
+    function formatInterval(interval) {
+        if (interval === 0) return 'Вручную';
+        
+        const minutes = interval / (1000 * 60);
+        const hours = interval / (1000 * 60 * 60);
+        
+        if (minutes < 60) {
+            return `Каждые ${minutes} ${getMinutesText(minutes)}`;
+        } else if (hours < 24) {
+            return `Каждые ${hours} ${getHoursText(hours)}`;
+        } else {
+            const days = hours / 24;
+            return `Каждые ${days} ${getDaysText(days)}`;
+        }
+    }
+    
+    function getMinutesText(minutes) {
+        if (minutes === 1) return 'минуту';
+        if (minutes < 5) return 'минуты';
+        return 'минут';
+    }
+    
+    function getHoursText(hours) {
+        if (hours === 1) return 'час';
+        if (hours < 5) return 'часа';
+        return 'часов';
+    }
+    
+    function getDaysText(days) {
+        if (days === 1) return 'день';
+        if (days < 5) return 'дня';
+        return 'дней';
+    }
+
+    function formatDate(dateString) {
+        if (!dateString) return 'Не запланировано';
+        
+        const date = new Date(dateString);
+        return date.toLocaleString('ru-RU');
+    }
+
+    function formatFileSize(bytes) {
+        if (!bytes) return '';
+        if (bytes < 1024) return bytes + ' B';
+        if (bytes < 1048576) return (bytes / 1024).toFixed(2) + ' KB';
+        return (bytes / 1048576).toFixed(2) + ' MB';
+    }
+
+    function updatePlaylistTable() {
+        playlistTableBody.innerHTML = '';
+        
+        if (playlists.length === 0) {
+            playlistTableBody.innerHTML = '<tr><td colspan="7" style="text-align: center;">Нет добавленных плейлистов</td></tr>';
+            return;
+        }
+        
+        playlists.forEach((playlist, index) => {
+            const row = document.createElement('tr');
+            
+            row.innerHTML = `
+                <td>${playlist.name}</td>
+                <td><a href="${playlist.url}" target="_blank">${playlist.url}</a></td>
+                <td>${playlist.fileName} ${playlist.lastSize ? `<div class="timer-info">Размер: ${formatFileSize(playlist.lastSize)}</div>` : ''}</td>
+                <td>${formatInterval(playlist.interval)}</td>
+                <td><span class="status ${playlist.status === 'active' ? 'status-active' : 'status-paused'}">${playlist.status === 'active' ? 'Активен' : 'Приостановлен'}</span></td>
+                <td>
+                    ${formatDate(playlist.nextUpdate)}
+                    ${playlist.lastUpdate ? `<div class="timer-info">Последнее обновление: ${formatDate(playlist.lastUpdate)}</div>` : ''}
+                </td>
+                <td>
+                    <div class="actions">
+                        <button class="action-btn update-btn" onclick="updatePlaylist(${index})">Обновить</button>
+                        <button class="action-btn edit-btn" onclick="editPlaylist(${index})">Изменить</button>
+                        <button class="action-btn ${playlist.status === 'active' ? 'btn-danger' : 'btn-success'}" onclick="togglePlaylistStatus(${index})">${playlist.status === 'active' ? 'Пауза' : 'Запуск'}</button>
+                        <button class="action-btn delete-btn" onclick="deletePlaylist(${index})">Удалить</button>
+                    </div>
+                </td>
+            `;
+            
+            playlistTableBody.appendChild(row);
+        });
+    }
+
+    async function saveToServer() {
+        await savePlaylistsToServer(playlists);
+    }
+
+    async function loadFromServer() {
+        playlists = await loadPlaylistsFromServer();
+        
+        // Перезапускаем все таймеры для активных плейлистов
+        playlists.forEach((playlist, index) => {
+            // Если плейлист активен и имеет интервал обновления
+            if (playlist.status === 'active' && playlist.interval > 0) {
+                // Проверяем, не нужно ли обновить плейлист сразу
+                const now = new Date();
+                if (playlist.nextUpdate && new Date(playlist.nextUpdate) <= now) {
+                    // Если время следующего обновления уже прошло, обновляем сразу
+                    setTimeout(() => {
+                        updatePlaylist(index);
+                    }, 1000);
+                }
+                
+                // Запускаем таймер
+                startTimer(index);
+            }
+        });
+    }
+
+    // Обработчики событий
+    addPlaylistBtn.addEventListener('click', showPlaylistForm);
+    savePlaylistBtn.addEventListener('click', savePlaylist);
+    cancelPlaylistBtn.addEventListener('click', hidePlaylistForm);
+    updateAllBtn.addEventListener('click', updateAllPlaylists);
+    clearAllBtn.addEventListener('click', clearAllTimers);
+    keepAliveBtn.addEventListener('click', toggleKeepAlive);
+
+    // Инициализация часов
+    updateDigitalClock();
+    setInterval(updateDigitalClock, 1000);
+
+    // Запуск поддержания активности
+    startKeepAlive();
+
+    // Инициализация данных
+    loadFromServer().then(() => {
+        updatePlaylistTable();
+    });
+
+    // Сделаем функции глобальными
+    window.updatePlaylist = updatePlaylist;
+    window.editPlaylist = editPlaylist;
+    window.deletePlaylist = deletePlaylist;
+    window.togglePlaylistStatus = togglePlaylistStatus;
+</script>
+</body>
+</html>
