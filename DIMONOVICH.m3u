@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.one/epg.xml.gz; http://epg.cdntv.online/full.xml.gz; https://iptvx.one/epg/epg.xml; http://gabbarit.dtm-play.com/epg_1.xml"
+#EXTM3U url-tvg="http://epg.one/epg.xml; https://iptvx.one/EPG_NOARCH; http://epg.cdntv.online/lite.xml; http://178.63.47.178/epg.xml; https://epg.klimedia.pro"
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/NEXO.png" group-title="NEXO",NEXO
 #EXTVLCOPT:http-user-agent=Go-http-client/1.1
 http://rafail1982.uz/nexo2.mp4
@@ -1583,9 +1583,6 @@ http://194.158.218.123:8880/ZdorovoeTV/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/edu2.png" group-title="Познавательные",Неизвестная Россия
 #EXTVLCOPT:http-user-agent=Go-http-client/1.1
 http://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/edu2.png" group-title="Познавательные",Наука 2.0 HD
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
-http://95.156.76.230:33001/udp/230.4.34.100:1234
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/edu2.png" group-title="Познавательные",Просвещение
 #EXTVLCOPT:http-user-agent=Go-http-client/1.1
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
@@ -1730,9 +1727,6 @@ http://31.148.48.15/Zhivi/tracks-v1a1/mono.m3u8?token=default
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/enter.png" group-title="Развлекательные",Кулинар
 #EXTVLCOPT:http-user-agent=Go-http-client/1.1
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/enter.png" group-title="Развлекательные",Зал суда
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
-http://95.156.76.230:33001/udp/230.4.34.6:1234
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Открытый мир.png" group-title="Развлекательные",Открытый мир
 #EXTVLCOPT:http-user-agent=Go-http-client/1.1
 http://v4.proofix.ru/0mir/index.m3u8
@@ -2075,18 +2069,9 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="Международные",МИР 24 HD
 #EXTVLCOPT:http-user-agent=Go-http-client/1.1
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир 24.png" group-title="Международные",Мир 24
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
-http://178.212.71.253:8000/play/23/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/БелРос.png" group-title="Международные",БелРос
 #EXTVLCOPT:http-user-agent=Go-http-client/1.1
 http://live3.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
-#EXTINF:-1 group-title="Международные",ТРО
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
-http://178.212.71.253:8000/play/37/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Индия.png" group-title="Международные",Индия
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
-http://178.212.71.253:8000/play/59/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Кинозалы 1
 #EXTVLCOPT:http-user-agent=Go-http-client/1.1
 http://fl1001.bozztv.com/ushba13/tracks-v1a1/mono.m3u8
@@ -2285,9 +2270,6 @@ http://catchup.videoline.ru/cinema/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",FMC
 #EXTVLCOPT:http-user-agent=Go-http-client/1.1
 http://hls.goodgame.ru/hls/187741.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Start World
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
-http://95.156.76.230:33001/udp/230.4.34.66:1234
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",ITV Cinema
 #EXTVLCOPT:http-user-agent=Go-http-client/1.1
 http://iptv.itv.uz/hls/live/t/UAcSEExX5UamlFqFOIaXIA/e/1767191403/4000/index.m3u8
@@ -2579,9 +2561,6 @@ http://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="Спортивные",Телеканал Футбол
 #EXTVLCOPT:http-user-agent=Go-http-client/1.1
 http://217.19.214.39:8200/hls/77/live1.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="Спортивные",Fast&FunBox
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
-http://95.156.76.230:33001/udp/230.4.34.86:1234
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="Спортивные",QazSport
 #EXTVLCOPT:http-user-agent=Go-http-client/1.1
 http://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv_720/playlist.m3u8
