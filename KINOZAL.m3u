@@ -1,398 +1,805 @@
-#EXTM3U url-tvg="http://epg.one/epg.xml,http://epg.cdntv.online/lite.xml.gz"
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",1FILMAX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTM3U url-tvg="http://epg.one/epg.xml; https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/epg_lite.xml.gz; https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/epg_lite_gabbarit.xml.gz"
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/favicon.png" group-title="NEXO",NEXO
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://rafail1982.uz/nexo2.mp4
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/favicon.png" group-title="NEXO",NexoIPTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://rafail1982.uz/NexoIPTV.mp4
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",.Sci-Fi
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.124.179.122:8088/Sci-Fi/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кино 1 International.png" group-title="Фильмовые",Кино 1 International
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Мир сериала
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://31.148.48.15/Mir_Seriala/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Сити Эдем — Теленовелла
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://autopilot.catcast.tv/content/46209/index.m3u8?password=promolive
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Amedia Premium.png" group-title="Фильмовые",Amedia Premium
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://195.18.23.20:8000/play/3/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Bollywood HD.png" group-title="Фильмовые",Bollywood HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8002/play/a00t/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/FAN HD.png" group-title="Фильмовые",FAN HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://31.148.48.15/Fan/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",KinoLiving HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://95.85.109.219:7000/play/a05x
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Red Premium HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://95.85.109.219:7000/play/a06e
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Red Thriller HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://95.85.109.219:7000/play/a06h
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Saga TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8001/play/144/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Родное кино
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://185.161.224.211/dash/Rodnoe_Kino_SDqw45yu.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",VIP Serial HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://185.161.224.211/dash/MGM_HDqwervbyu78.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Русский иллюзион.png" group-title="Фильмовые",Русский иллюзион
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://sc.id-tv.kz:443/RusIlluzion_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Русский Детектив
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/45/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Дом Кино.png" group-title="Фильмовые",Дом Кино
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/99/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мосфильм. Золотая коллекция.png" group-title="Фильмовые",Мосфильм. Золотая коллекция
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/124/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Родное Кино.png" group-title="Фильмовые",Родное Кино
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/136/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Победа.png" group-title="Фильмовые",Победа
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/129/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Киноужас
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/133/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НСТ.png" group-title="Фильмовые",НСТ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/100/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Русский Бестселер
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/115/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Дом Кино.png" group-title="Фильмовые",Дом Кино
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://31.148.48.15/Dom_Kino/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Дом Кино Премиум HD.png" group-title="Фильмовые",Дом Кино Премиум HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://31.148.48.15/Dom_Kino_Premium_HD/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Еврокино.png" group-title="Фильмовые",Еврокино
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://31.148.48.15/Evrokino/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Кинопоказ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://31.148.48.15/Kinopokaz/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",1FILMAX
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://195.9.195.3:8080/hls/204708.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",2FILMAX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",2FILMAX
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://195.9.195.3:8080/hls/204717.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-id="6005" tvg-rec="48" catchup="default",ВидеоКассета VHS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://132544.edgevideo.ru/streams/132544_806129/1325441080/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",ВидеоКассета Киномир
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",ВидеоКассета Киномир
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-id="877" tvg-rec="48" catchup="default",ФАНТАСТИКА HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://92.53.64.197:5050/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Ведьмак HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://92.53.64.197:5050/IPTVPLAYVEDMAK.tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Десятое Королевство HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://92.53.64.197:5050/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",ПАМЯТЬ HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://92.53.64.197:5050/IPTVPLAYPAMYAT.tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-id="5172" tvg-rec="48" catchup="default",УЖАСТИК HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://92.53.64.197:5050/IPTVPLAYUZHASTIK.tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",PROMO HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://92.53.64.197:5050/IPTVPLAYPROMO.tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",МультСказки HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://92.53.64.197:5050/IPTVPLAYMultSkazki.tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Смотрим Кино и сериалы
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-id="2001" tvg-rec="48" catchup="default",Alpha Games
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Alpha Games
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://hls.goodgame.ru:8080/hls/205115.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Film TV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://hls.goodgame.ru:8080/hls/163253.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-id="244" tvg-rec="48" catchup="default",СТРК HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",СТРК HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://sochinskayatrk.ru/hdtv/hls/CTPK_HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",SCR TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",SCR TV HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://hls.goodgame.ru/hls/61358.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",TDM TV - WWW
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",TDM TV - WWW
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://hls.goodgame.ru:8080/hls/192005.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Мультики и Сказки HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Мультики и Сказки HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://hls.goodgame.ru/hls/198446.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-id="4585" tvg-rec="48" catchup="default",Первый автомобильный
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Первый автомобильный
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://hls.goodgame.ru/hls/206355.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Шоу Бенни Хилла
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://fl1001.bozztv.com/ushba62/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Мистер Бин
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://fl1001.bozztv.com/ushba45/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Star Media
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Star Media
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://fl1001.bozztv.com/ushba4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Документалка 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Документалка 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://fl1001.bozztv.com/ushba28/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Документалка 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Документалка 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://fl1001.bozztv.com/ushba29/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Документалка 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Документалка 3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://fl1001.bozztv.com/ushba38/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Retrovision
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Retrovision
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://fl1001.bozztv.com/ushba-rvision/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Retrovision Motor
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://fl1001.bozztv.com/ushba-rvisionmotor/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Retrovision Movies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Retrovision Movies
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://fl1001.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Retrovision Classic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Retrovision Classic
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://fl1001.bozztv.com/ushba-rvisionclassic/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Retrovision Кинопанорама
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Retrovision Кинопанорама
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://fl1001.bozztv.com/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",SPOOPS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",SPOOPS
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://fl1001.bozztv.com/ushba46/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Кинозалы 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Кинозалы 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://fl1001.bozztv.com/ushba13/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Кинозалы 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Кинозалы 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://fl1001.bozztv.com/ushba14/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Кинозалы 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Кинозалы 3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Кинозалы 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Кинозалы 4
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://fl1001.bozztv.com/ushba26/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Кинозалы 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Кинозалы 5
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://fl1001.bozztv.com/ushba-films-b/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Кинозалы 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Кинозалы 6
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://fl1001.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Кинозалы 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Кинозалы 7
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://fl1001.bozztv.com/ushba-films-d/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Кинозалы 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Кинозалы 8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://fl1001.bozztv.com/ushba-films-e/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Кинозалы 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Кинозалы 9
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://fl1001.bozztv.com/ushba-films-f/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Кинозалы 10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Кинозалы 10
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://fl1001.bozztv.com/ushba-films-g/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Кинозалы 11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Кинозалы 11
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://fl1001.bozztv.com/ushba-films-h/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Кинозалы 13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Кинозалы 13
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://fl1001.bozztv.com/ushba-films-j/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Кинозалы 14
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Кинозалы 14
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://fl1001.bozztv.com/ushba-films-m/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Кинозалы 15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Кинозалы 15
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://fl1001.bozztv.com/ushba-films-p/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Кинозалы 16
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Кинозалы 16
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://fl1001.bozztv.com/ushba-films-t/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Кинозалы 17
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Кинозалы 17
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://fl1001.bozztv.com/ushba-films-yz/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Кинозалы 18
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Кинозалы 18
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://fl1001.bozztv.com/ushba-films-n/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Кинозалы 19
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Кинозалы 19
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://fl1001.bozztv.com/ushba-films-qr/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Кинозалы 20
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Кинозалы 20
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://fl1001.bozztv.com/ushba-films-uv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Кинозалы 21
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Кинозалы 21
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://fl1001.bozztv.com/ushba-films-o/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Кинозалы 22
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Кинозалы 22
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://fl1001.bozztv.com/ushba-films-s/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Кинозалы 23
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Кинозалы 23
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://fl1001.bozztv.com/ushba-films-w/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Кинозалы 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Кинозалы 24
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://fl1001.bozztv.com/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Кинозалы 25
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Кинозалы 25
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://fl1001.bozztv.com/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Кинозалы 26
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://fl1001.bozztv.com/ushba-rfilrms-b/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Кинозалы 27
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Кинозалы 27
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://fl1001.bozztv.com/ushba-rfilrms-c/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Кинозалы 28
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Кинозалы 28
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://fl1001.bozztv.com/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Кинозалы 29
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Кинозалы 29
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://fl1001.bozztv.com/ushba-rfilrms-e/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Кинозалы 30
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Кинозалы 30
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://fl1001.bozztv.com/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Кинозалы 31
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Кинозалы 31
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://fl1001.bozztv.com/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Кинозалы 32
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Кинозалы 32
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://fl1001.bozztv.com/ushba-rfilrms-k/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Кинозалы 33
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Кинозалы 33
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://fl1001.bozztv.com/ushba-rfilrms-p/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Кинозалы 34
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Кинозалы 34
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://fl1001.bozztv.com/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Кинозалы 35
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Кинозалы 35
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://fl1001.bozztv.com/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Кинозалы 36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Кинозалы 36
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://fl1001.bozztv.com/ushba64/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Кинозалы 37
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Кинозалы 37
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://fl1001.bozztv.com/ushba65/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Gameplay
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Gameplay
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://fl1001.bozztv.com/ushba31/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Gameplay трейлеры
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Gameplay трейлеры
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://fl1001.bozztv.com/ushba44/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-id="1283" tvg-rec="48" catchup="default",CTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://bl.rutube.ru/livestream/f785d738a845cc80658e887843a18ed9/index.m3u8?s=CSFxeQYoZ0qPSuLh_FBkbA&e=1745139816&scheme=https
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Comedy Hub
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://bl.rutube.ru/livestream/dcc02ed1ff97923541c6d4c030c54c65/index.m3u8?s=l-SzBcLwT_6uRLseQNybiw&e=1745139814&scheme=https
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",EPL - Английская Премьер-лига
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://bl.rutube.ru/livestream/411a1cd7ea784305f398adc4bb1aa859/index.m3u8?s=rDszywJ-vHw-E5mYyIP5ng&e=1745139845&scheme=https
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Ethereum Премиум Эфир
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://bl.rutube.ru/livestream/275d07d9601eeefbddfc2af30764ee86/index.m3u8?s=Hu8wvC1lv6o8aFZOS5Z_TA&e=1745139841&scheme=https
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",HollyWood Movies На Русском языке
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://bl.rutube.ru/livestream/6a91d8da3a2040b829adda18dc4fbd94/index.m3u8?s=g8YG1MZ-BjcUjYQisic1bw&e=1745139815&scheme=https
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",MARVEL TV на Русском
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://bl.rutube.ru/livestream/06cad29bbb9ae5f5a06add7676579f76/index.m3u8?s=gQGgk14Itw7iaNFkOpdKCA&e=1745139815&scheme=https
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Monster Jam TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://bl.rutube.ru/livestream/fd9203319665cd24b42dba17d541fc31/index.m3u8?s=_rbksEQNARwo93me4OcO4g&e=1745139845&scheme=https
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-id="8680" tvg-rec="48" catchup="default",Moonbug Kids TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://bl.rutube.ru/livestream/2b06a5c4c688fdc05014acb4cba83de0/index.m3u8?s=pZPxOhFtkFtQc1EGSuSC8g&e=1745139860&scheme=https
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Motorsport.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://bl.rutube.ru/livestream/933050ee348d066aab30edd75f4fce01/index.m3u8?s=6fmv_XHFdDpBKVZVxlNo-Q&e=1745139851&scheme=https
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Mr.Bean Cartoon
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://bl.rutube.ru/livestream/0e9e44725d5d5ab7ee92c10b40215419/index.m3u8?s=4luSo8c-wDTLutCnxh-7eg&e=1745139819&scheme=https
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-id="311" tvg-rec="48" catchup="default",NGR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://bl.rutube.ru/livestream/b6a6363e54ea4d1ff246aec379d40214/index.m3u8?s=l2Jk1hegV1aFi41aKtAoPw&e=1745139827&scheme=https
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Netflix TV на Русском
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://bl.rutube.ru/livestream/44ec3da94f343d8fb34b90b2dfdbee2c/index.m3u8?s=j_Mp4pORmbfstFnkpg_rPg&e=1745139839&scheme=https
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",TENNIS+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://bl.rutube.ru/livestream/b4bc015e3b636f9133c504f8f1a739eb/index.m3u8?s=RAZpsHYPe-F_touMW2DVJQ&e=1745139848&scheme=https
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Актуальные события ТМК в прямом эфире
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://bl.rutube.ru/livestream/740503607d216b5d467694a1e8fb39a8/index.m3u8?s=9F-LCdiobV13X4k1XfG5YA&e=1745139876&scheme=https
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Вестник Надыма
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://bl.rutube.ru/livestream/d8857b5b4c4fa78869a13f5e3ca9d4c4/index.m3u8?s=PTot0tmTYRaqXjsErxv1sw&e=1745139868&scheme=https
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Киножелезо. Фильмы и сериалы в эфире
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=V9z42bYq9h9p0iV-ELHhqQ&e=1745139838&scheme=https
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Кинолаффка. Фильмы и сериалы в эфире
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=2N7Bcp2mpjwqPsJRS7RkQA&e=1745139838&scheme=https
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Кинолента 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://bl.rutube.ru/livestream/23c568b69e0eada33560850484223739/index.m3u8?s=Chea-3Agdy_hEygozU5WKw&e=1745139813&scheme=https
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Национальный Жилищный Канал
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://bl.rutube.ru/livestream/5f378f373c88dcebd6549bb0c84d623f/index.m3u8?s=4oen45grQNpqt6WdBH-1cg&e=1745139799&scheme=https
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-id="6717" tvg-rec="48" catchup="default",Fresh Series HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://bl.rutube.ru/livestream/3c9bfbee3fc2a97cbd0e7363f73bb80e/index.m3u8?s=hGrwm1ww-AETMFfGVl5PqQ&e=1745139841&scheme=https
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-id="6830" tvg-rec="48" catchup="default",KLI Киносерия
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://bl.rutube.ru/livestream/9130347345aa2a6e8b73380ce98f9b00/index.m3u8?s=UWsSHVm6uCsm6ew07MCp_w&e=1745139818&scheme=https
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Сериалы на Русском TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://bl.rutube.ru/livestream/0c827406f4e9b1cbe3c2757237288501/index.m3u8?s=Zjpr9uPzvnp7r5b-YiFVVQ&e=1745139842&scheme=https
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-id="1487" tvg-rec="48" catchup="default",Среда
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://bl.rutube.ru/livestream/5fa486bf465c8735fff9f41b372610cc/index.m3u8?s=Aix2-yA3jfqWwJAq14tkAA&e=1745139868&scheme=https
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Твой 2007
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://bl.rutube.ru/livestream/348ebaac61a382f2028e9a1b06f4f2b6/index.m3u8?s=0RncPUnaZ68wYhunB-o7sg&e=1745139814&scheme=https
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Ужас TV Фильмы на Русском
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://bl.rutube.ru/livestream/696bffe7b7be44aa1c64fda33c2cff5c/index.m3u8?s=AAJmhZar4t30d1Dr0N0rlw&e=1745139839&scheme=https
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Фильмы на Русском MIX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://bl.rutube.ru/livestream/5cba95431cbe796297c0fceb54d8edbd/index.m3u8?s=HV-m97lpRprNMHcvRUrE9A&e=1745139841&scheme=https
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-rec="48" catchup="default",Фильмы получившие Оскар на Русском языке
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://bl.rutube.ru/livestream/3b0fa3a71bd3f9c4857313447d32109f/index.m3u8?s=udQD0sQFfYkDDTVl7CgqHA&e=1745139815&scheme=https
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="KINOZAL" tvg-id="1479" tvg-rec="48" catchup="default",KLI DRAMA HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://bl.rutube.ru/livestream/b895807523d756c82bd64c800edc93c6/index.m3u8?s=5-if2YMzwn4tupofimk5hA&e=1745139839&scheme=https
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/BCU Кинозал Premiere 2 HD.png" group-title="KINOZAL" tvg-id="4737" tvg-rec="48" catchup="default",BCU Кинозал Premiere 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://taptv.ru/channel/G6B09HYE43K4LIK3AK/11016.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/BCU Кинозал Premiere 3 HD.png" group-title="KINOZAL" tvg-id="4738" tvg-rec="48" catchup="default",BCU Кинозал Premiere 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://taptv.ru/channel/G6B09HYE43K4LIK3AK/11017.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/BCU СССР HD.png" group-title="KINOZAL" tvg-id="4747" tvg-rec="48" catchup="default",BCU СССР HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://taptv.ru/channel/G6B09HYE43K4LIK3AK/11026.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/BCU Action HD.png" group-title="KINOZAL" tvg-id="4748" tvg-rec="48" catchup="default",BCU Action HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://taptv.ru/channel/G6B09HYE43K4LIK3AK/11027.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/BCU Catastrophe HD.png" group-title="KINOZAL" tvg-id="4749" tvg-rec="48" catchup="default",BCU Catastrophe HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://taptv.ru/channel/G6B09HYE43K4LIK3AK/11028.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/BCU Cinema HD.png" group-title="KINOZAL" tvg-id="4750" tvg-rec="48" catchup="default",BCU Cinema HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://taptv.ru/channel/G6B09HYE43K4LIK3AK/11029.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/BCU Cinema+ HD.png" group-title="KINOZAL" tvg-id="4751" tvg-rec="48" catchup="default",BCU Cinema+ HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://taptv.ru/channel/G6B09HYE43K4LIK3AK/11030.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/BCU Fantastic HD.png" group-title="KINOZAL" tvg-id="4753" tvg-rec="48" catchup="default",BCU Fantastic HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://taptv.ru/channel/G6B09HYE43K4LIK3AK/11032.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/BCU Kinorating HD.png" group-title="KINOZAL" tvg-id="4758" tvg-rec="48" catchup="default",BCU Kinorating HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://taptv.ru/channel/G6B09HYE43K4LIK3AK/11037.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/BCU Marvel HDR.png" group-title="KINOZAL" tvg-id="8964" tvg-rec="48" catchup="default",BCU Marvel HDR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://taptv.ru/channel/G6B09HYE43K4LIK3AK/11038.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/BCU Premiere HD.png" group-title="KINOZAL" tvg-id="4760" tvg-rec="48" catchup="default",BCU Premiere HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://taptv.ru/channel/G6B09HYE43K4LIK3AK/11039.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/BCU Romantic HD.png" group-title="KINOZAL" tvg-id="4761" tvg-rec="48" catchup="default",BCU Romantic HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://taptv.ru/channel/G6B09HYE43K4LIK3AK/11040.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/BCU Russian HD.png" group-title="KINOZAL" tvg-id="4762" tvg-rec="48" catchup="default",BCU Russian HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://taptv.ru/channel/G6B09HYE43K4LIK3AK/11041.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/BCU VHS HD.png" group-title="KINOZAL" tvg-id="4763" tvg-rec="48" catchup="default",BCU VHS HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://taptv.ru/channel/G6B09HYE43K4LIK3AK/11042.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/BCU Media HD.png" group-title="KINOZAL" tvg-id="4764" tvg-rec="48" catchup="default",BCU Media HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://taptv.ru/channel/G6B09HYE43K4LIK3AK/11043.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/BCU Ultra 4K.png" group-title="KINOZAL" tvg-id="4766" tvg-rec="48" catchup="default",BCU Ultra 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://taptv.ru/channel/G6B09HYE43K4LIK3AK/11045.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/BCU RuSerial HD.png" group-title="KINOZAL" tvg-id="4767" tvg-rec="48" catchup="default",BCU RuSerial HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://taptv.ru/channel/G6B09HYE43K4LIK3AK/11046.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/BCU Сваты HD.png" group-title="KINOZAL" tvg-id="4768" tvg-rec="48" catchup="default",BCU Сваты HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://taptv.ru/channel/G6B09HYE43K4LIK3AK/11047.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/BCU Criminal HD.png" group-title="KINOZAL" tvg-id="4769" tvg-rec="48" catchup="default",BCU Criminal HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://taptv.ru/channel/G6B09HYE43K4LIK3AK/11048.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/BCU Premiere Ultra 4K.png" group-title="KINOZAL" tvg-id="5561" tvg-rec="48" catchup="default",BCU Premiere Ultra 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://taptv.ru/channel/G6B09HYE43K4LIK3AK/15023.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/BCU Marvel HD.png" group-title="KINOZAL" tvg-id="5514" tvg-rec="48" catchup="default",BCU Marvel HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://taptv.ru/channel/G6B09HYE43K4LIK3AK/15025.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/BCU Comedy HD.png" group-title="KINOZAL" tvg-id="5515" tvg-rec="48" catchup="default",BCU Comedy HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://taptv.ru/channel/G6B09HYE43K4LIK3AK/15026.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/BCU Reality HD.png" group-title="KINOZAL" tvg-id="6131" tvg-rec="48" catchup="default",BCU Reality HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://taptv.ru/channel/G6B09HYE43K4LIK3AK/16082.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/BCU Reality OLD.png" group-title="KINOZAL" tvg-id="6067" tvg-rec="48" catchup="default",BCU Reality OLD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://taptv.ru/channel/G6B09HYE43K4LIK3AK/16083.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/BCU Survival HD.png" group-title="KINOZAL" tvg-id="6175" tvg-rec="48" catchup="default",BCU Survival HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://taptv.ru/channel/G6B09HYE43K4LIK3AK/17019.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/BCU Survival OLD.png" group-title="KINOZAL" tvg-id="6164" tvg-rec="48" catchup="default",BCU Survival OLD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://taptv.ru/channel/G6B09HYE43K4LIK3AK/17020.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/BCU Cosmo HD.png" group-title="KINOZAL" tvg-id="6176" tvg-rec="48" catchup="default",BCU Cosmo HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://taptv.ru/channel/G6B09HYE43K4LIK3AK/17021.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/BCU TruMotion HD.png" group-title="KINOZAL" tvg-id="6198" tvg-rec="48" catchup="default",BCU TruMotion HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://taptv.ru/channel/G6B09HYE43K4LIK3AK/17054.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/BCU Romantic OLD.png" group-title="KINOZAL" tvg-id="4761" tvg-rec="48" catchup="default",BCU Romantic OLD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://taptv.ru/channel/G6B09HYE43K4LIK3AK/18052.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/BCU Multserial HD.png" group-title="KINOZAL" tvg-id="4746" tvg-rec="48" catchup="default",BCU Multserial HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://taptv.ru/channel/G6B09HYE43K4LIK3AK/11025.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/BCU Kids HD.png" group-title="KINOZAL" tvg-id="4756" tvg-rec="48" catchup="default",BCU Kids HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://taptv.ru/channel/G6B09HYE43K4LIK3AK/11035.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/BCU Kids+ HD.png" group-title="KINOZAL" tvg-id="4757" tvg-rec="48" catchup="default",BCU Kids+ HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://taptv.ru/channel/G6B09HYE43K4LIK3AK/11036.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/BCU Kids 4K.png" group-title="KINOZAL" tvg-id="4756" tvg-rec="48" catchup="default",BCU Kids 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://taptv.ru/channel/G6B09HYE43K4LIK3AK/17023.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/BCU Little HD.png" group-title="KINOZAL" tvg-id="6848" tvg-rec="48" catchup="default",BCU Little HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://taptv.ru/channel/G6B09HYE43K4LIK3AK/19425.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/BCU Russia 90s HD.png" group-title="KINOZAL" tvg-id="8769" tvg-rec="48" catchup="default",BCU Russia 90s HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://taptv.ru/channel/G6B09HYE43K4LIK3AK/31658.m3u8
-
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Amedia 1.png" group-title="Фильмовые",Amedia 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://sc.id-tv.kz/A1.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Amedia 2.png" group-title="Фильмовые",Amedia 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://sc.id-tv.kz/A2.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Dizi
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://194.158.222.36:6086
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Viju+ comedy HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://87.246.54.249:8085/Viju_Comedy/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Viju+ megahit HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://87.246.54.249:8085/Viju_Megahit/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Viju+ premiere HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://87.246.54.249:8085/Viju_Premiere/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Иллюзион+.png" group-title="Фильмовые",Иллюзион+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://31.148.48.15:80/Illusion_plus/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кино ТВ.png" group-title="Фильмовые",Кино ТВ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ретро.png" group-title="Фильмовые",Ретро
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/90/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Кино 1 Int.
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Мир сериала
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://31.148.48.15:80/Mir_Seriala/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ Сериал.png" group-title="Фильмовые",НТВ Сериал
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://cdn2.ntv.ru/th_serial/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ Хит.png" group-title="Фильмовые",НТВ Хит
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://cdn2.ntv.ru/th_hit/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Феникс плюс кино HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Зал 1.png" group-title="Фильмовые",Зал 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDg4MTg1MywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0Mjc3MDUzLCJzZXNzaW9uX2lkIjoiZDQ5NWJmMzdkMzA1NWMxNDRlNjhkYWU4YjY0OGM4ZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KcnS7a2Hun9IzvzRuKF-URjY_58O8CG-x-a6AWHQ2FE
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Зал 2.png" group-title="Фильмовые",Зал 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://stream-msk-16.ott.tricolor.tv/dtv/id929_MSKSG-PVR-1--Kinozal_2/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDg4MTg1MywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0Mjc3MDUzLCJzZXNzaW9uX2lkIjoiZDQ5NWJmMzdkMzA1NWMxNDRlNjhkYWU4YjY0OGM4ZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KcnS7a2Hun9IzvzRuKF-URjY_58O8CG-x-a6AWHQ2FE
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Зал 3.png" group-title="Фильмовые",Зал 3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://stream-msk-15.ott.tricolor.tv/dtv/id977_MSKSG-PVR-1--Kinozal_3/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDg4MTg1MywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0Mjc3MDUzLCJzZXNzaW9uX2lkIjoiZDQ5NWJmMzdkMzA1NWMxNDRlNjhkYWU4YjY0OGM4ZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KcnS7a2Hun9IzvzRuKF-URjY_58O8CG-x-a6AWHQ2FE
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Зал 5.png" group-title="Фильмовые",Зал 5
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://stream-msk-16.ott.tricolor.tv/dtv/id925_MSKSG-PVR-1--Kinozal_5/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDg4MTg1MywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0Mjc3MDUzLCJzZXNzaW9uX2lkIjoiZDQ5NWJmMzdkMzA1NWMxNDRlNjhkYWU4YjY0OGM4ZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KcnS7a2Hun9IzvzRuKF-URjY_58O8CG-x-a6AWHQ2FE
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Зал 6.png" group-title="Фильмовые",Зал 6
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://live-mirror-17.ott.tricolor.tv/dtv/id978_MSKSG-PVR-1--Kinozal_6/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDg4MTg1MywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0Mjc3MDUzLCJzZXNzaW9uX2lkIjoiZDQ5NWJmMzdkMzA1NWMxNDRlNjhkYWU4YjY0OGM4ZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KcnS7a2Hun9IzvzRuKF-URjY_58O8CG-x-a6AWHQ2FE
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Зал 7.png" group-title="Фильмовые",Зал 7
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://stream-msk-15.ott.tricolor.tv/dtv/id928_MSKSG-PVR-1--Kinozal_7/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDg4MTg1MywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0Mjc3MDUzLCJzZXNzaW9uX2lkIjoiZDQ5NWJmMzdkMzA1NWMxNDRlNjhkYWU4YjY0OGM4ZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KcnS7a2Hun9IzvzRuKF-URjY_58O8CG-x-a6AWHQ2FE
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Зал 8.png" group-title="Фильмовые",Зал 8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://stream-msk-15.ott.tricolor.tv/dtv/id907_MSKSG-PVR-1--Kinozal_8/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDg4MTg1MywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0Mjc3MDUzLCJzZXNzaW9uX2lkIjoiZDQ5NWJmMzdkMzA1NWMxNDRlNjhkYWU4YjY0OGM4ZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KcnS7a2Hun9IzvzRuKF-URjY_58O8CG-x-a6AWHQ2FE
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Зал 9.png" group-title="Фильмовые",Зал 9
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://live-mirror-15.ott.tricolor.tv/dtv/id908_MSKSG-PVR-1--Kinozal_9/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDg4MTg1MywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0Mjc3MDUzLCJzZXNzaW9uX2lkIjoiZDQ5NWJmMzdkMzA1NWMxNDRlNjhkYWU4YjY0OGM4ZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KcnS7a2Hun9IzvzRuKF-URjY_58O8CG-x-a6AWHQ2FE
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Зал 10.png" group-title="Фильмовые",Зал 10
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://stream-msk-10.ott.tricolor.tv/dtv/id905_MSKSG-PVR-1--Kinozal_10/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDg4MTg1MywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0Mjc3MDUzLCJzZXNzaW9uX2lkIjoiZDQ5NWJmMzdkMzA1NWMxNDRlNjhkYWU4YjY0OGM4ZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KcnS7a2Hun9IzvzRuKF-URjY_58O8CG-x-a6AWHQ2FE
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Зал 11.png" group-title="Фильмовые",Зал 11
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://stream-msk-16.ott.tricolor.tv/dtv/id976_MSKSG-PVR-1--Kinozal_11/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDg4MTg1MywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0Mjc3MDUzLCJzZXNzaW9uX2lkIjoiZDQ5NWJmMzdkMzA1NWMxNDRlNjhkYWU4YjY0OGM4ZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KcnS7a2Hun9IzvzRuKF-URjY_58O8CG-x-a6AWHQ2FE
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Зал 12.png" group-title="Фильмовые",Зал 12
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://stream-msk-14.ott.tricolor.tv/dtv/id906_MSKSG-PVR-1--Kinozal_12/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDg4MTg1MywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0Mjc3MDUzLCJzZXNzaW9uX2lkIjoiZDQ5NWJmMzdkMzA1NWMxNDRlNjhkYWU4YjY0OGM4ZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KcnS7a2Hun9IzvzRuKF-URjY_58O8CG-x-a6AWHQ2FE
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Зал 17
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://stream-msk-19.ott.tricolor.tv/dtv/id995_MSKSG-PVR-1--Kinopokaz_2/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDg4MTg1MywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0Mjc3MDUzLCJzZXNzaW9uX2lkIjoiZDQ5NWJmMzdkMzA1NWMxNDRlNjhkYWU4YjY0OGM4ZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KcnS7a2Hun9IzvzRuKF-URjY_58O8CG-x-a6AWHQ2FE
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Зал 18
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://stream-msk-19.ott.tricolor.tv/dtv/id996_MSKSG-PVR-1--Kinopokaz_3/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDg4MTg1MywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0Mjc3MDUzLCJzZXNzaW9uX2lkIjoiZDQ5NWJmMzdkMzA1NWMxNDRlNjhkYWU4YjY0OGM4ZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KcnS7a2Hun9IzvzRuKF-URjY_58O8CG-x-a6AWHQ2FE
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Зал 19
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://stream-msk-19.ott.tricolor.tv/dtv/id997_MSKSG-PVR-1--Kinopokaz_9/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDg4MTg1MywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0Mjc3MDUzLCJzZXNzaW9uX2lkIjoiZDQ5NWJmMzdkMzA1NWMxNDRlNjhkYWU4YjY0OGM4ZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KcnS7a2Hun9IzvzRuKF-URjY_58O8CG-x-a6AWHQ2FE
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Зал 20
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://live-mirror-19.ott.tricolor.tv/dtv/id1006_MSKSG-PVR-1--kinozal_20_hd/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDg4MTg1MywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0Mjc3MDUzLCJzZXNzaW9uX2lkIjoiZDQ5NWJmMzdkMzA1NWMxNDRlNjhkYWU4YjY0OGM4ZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KcnS7a2Hun9IzvzRuKF-URjY_58O8CG-x-a6AWHQ2FE
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Зал 21
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://live-mirror-18.ott.tricolor.tv/dtv/id1007_MSKSG-PVR-1--kinozal_21_sd/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDg4MTg1MywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0Mjc3MDUzLCJzZXNzaW9uX2lkIjoiZDQ5NWJmMzdkMzA1NWMxNDRlNjhkYWU4YjY0OGM4ZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KcnS7a2Hun9IzvzRuKF-URjY_58O8CG-x-a6AWHQ2FE
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Зал 22
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://live-mirror-18.ott.tricolor.tv/dtv/id1008_MSKSG-PVR-1--kinozal_22_sd/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDg4MTg1MywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0Mjc3MDUzLCJzZXNzaW9uX2lkIjoiZDQ5NWJmMzdkMzA1NWMxNDRlNjhkYWU4YjY0OGM4ZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KcnS7a2Hun9IzvzRuKF-URjY_58O8CG-x-a6AWHQ2FE
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Зал 23
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://live-mirror-18.ott.tricolor.tv/dtv/id1009_MSKSG-PVR-1--kinozal_23_sd/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDg4MTg1MywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0Mjc3MDUzLCJzZXNzaW9uX2lkIjoiZDQ5NWJmMzdkMzA1NWMxNDRlNjhkYWU4YjY0OGM4ZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KcnS7a2Hun9IzvzRuKF-URjY_58O8CG-x-a6AWHQ2FE
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Зал 24
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://live-mirror-18.ott.tricolor.tv/dtv/id1012_MSKSG-PVR-1--Kinozal24_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDg4MTg1MywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0Mjc3MDUzLCJzZXNzaW9uX2lkIjoiZDQ5NWJmMzdkMzA1NWMxNDRlNjhkYWU4YjY0OGM4ZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KcnS7a2Hun9IzvzRuKF-URjY_58O8CG-x-a6AWHQ2FE
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Зал 25
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://live-mirror-18.ott.tricolor.tv/dtv/id1013_MSKSG-PVR-1--Kinozal25_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDg4MTg1MywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0Mjc3MDUzLCJzZXNzaW9uX2lkIjoiZDQ5NWJmMzdkMzA1NWMxNDRlNjhkYWU4YjY0OGM4ZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KcnS7a2Hun9IzvzRuKF-URjY_58O8CG-x-a6AWHQ2FE
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Зал 26
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://live-mirror-18.ott.tricolor.tv/dtv/id1014_MSKSG-PVR-1--Kinozal26_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDg4MTg1MywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0Mjc3MDUzLCJzZXNzaW9uX2lkIjoiZDQ5NWJmMzdkMzA1NWMxNDRlNjhkYWU4YjY0OGM4ZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KcnS7a2Hun9IzvzRuKF-URjY_58O8CG-x-a6AWHQ2FE
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Зал 27
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://live-mirror-19.ott.tricolor.tv/dtv/id1015_MSKSG-PVR-1--Kinozal27_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDg4MTg1MywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0Mjc3MDUzLCJzZXNzaW9uX2lkIjoiZDQ5NWJmMzdkMzA1NWMxNDRlNjhkYWU4YjY0OGM4ZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KcnS7a2Hun9IzvzRuKF-URjY_58O8CG-x-a6AWHQ2FE
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Зал 28
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://live-mirror-19.ott.tricolor.tv/dtv/id1016_MSKSG-PVR-1--Kinozal28_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDg4MTg1MywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0Mjc3MDUzLCJzZXNzaW9uX2lkIjoiZDQ5NWJmMzdkMzA1NWMxNDRlNjhkYWU4YjY0OGM4ZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KcnS7a2Hun9IzvzRuKF-URjY_58O8CG-x-a6AWHQ2FE
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Зал 29
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://live-mirror-18.ott.tricolor.tv/dtv/id1017_MSKSG-PVR-1--Kinozal29_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDg4MTg1MywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0Mjc3MDUzLCJzZXNzaW9uX2lkIjoiZDQ5NWJmMzdkMzA1NWMxNDRlNjhkYWU4YjY0OGM4ZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KcnS7a2Hun9IzvzRuKF-URjY_58O8CG-x-a6AWHQ2FE
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Зал 30
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://live-mirror-19.ott.tricolor.tv/dtv/id1018_MSKSG-PVR-1--Kinozal30_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDg4MTg1MywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0Mjc3MDUzLCJzZXNzaW9uX2lkIjoiZDQ5NWJmMzdkMzA1NWMxNDRlNjhkYWU4YjY0OGM4ZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KcnS7a2Hun9IzvzRuKF-URjY_58O8CG-x-a6AWHQ2FE
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Зал 31
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://live-mirror-19.ott.tricolor.tv/dtv/id1037_MSKSG-PVR-1--Kinozal_31/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDg4MTg1MywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0Mjc3MDUzLCJzZXNzaW9uX2lkIjoiZDQ5NWJmMzdkMzA1NWMxNDRlNjhkYWU4YjY0OGM4ZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KcnS7a2Hun9IzvzRuKF-URjY_58O8CG-x-a6AWHQ2FE
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Зал 32
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://live-mirror-20.ott.tricolor.tv/dtv/id1038_MSKSG-PVR-1--Kinozal_32/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDg4MTg1MywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0Mjc3MDUzLCJzZXNzaW9uX2lkIjoiZDQ5NWJmMzdkMzA1NWMxNDRlNjhkYWU4YjY0OGM4ZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KcnS7a2Hun9IzvzRuKF-URjY_58O8CG-x-a6AWHQ2FE
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Зал 33
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://live-mirror-18.ott.tricolor.tv/dtv/id1035_MSKSG-PVR-1--Kinozal_33/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDg4MTg1MywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0Mjc3MDUzLCJzZXNzaW9uX2lkIjoiZDQ5NWJmMzdkMzA1NWMxNDRlNjhkYWU4YjY0OGM4ZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KcnS7a2Hun9IzvzRuKF-URjY_58O8CG-x-a6AWHQ2FE
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",A2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://31148.rafail1982.uz/A2/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Cinema.png" group-title="Фильмовые",Cinema
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://catchup.videoline.ru/cinema/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",City Eden KinoAction
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://cityeden.catcast.tv/content/41333/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",City Eden KinoArt
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://cityeden.catcast.tv/content/38398/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",City Eden KinoAsia
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://cityeden.catcast.tv/content/34393/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",City Eden KinoDetektiv
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://cityeden.catcast.tv/content/41327/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",City Eden KinoDok
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://cityeden.catcast.tv/content/38354/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",City Eden KinoDrama
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://cityeden.catcast.tv/content/45269/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",City Eden KinoFantastika
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://cityeden.catcast.tv/content/45268/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",City Eden KinoKlassika
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://cityeden.catcast.tv/content/34185/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",City Eden KinoKomediya
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://cityeden.catcast.tv/content/41331/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",City Eden KinoMistika
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://cityeden.catcast.tv/content/40783/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",City Eden KinoSemya
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://v2.catcast.tv/content/38128/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",City Eden TeleNovella
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://cityeden.catcast.tv/content/46209/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Detskoe kino International
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://autopilot.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Dom kino Premium
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://31148.rafail1982.uz/Dom_Kino_Premium_HD/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Evrokino
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://31148.rafail1982.uz/Evrokino/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Feniks plus Kino
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://31148.rafail1982.uz/Feniks_plus_kino/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Illusion+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://31148.rafail1982.uz/Illusion_plus/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Kineko
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://194.143.148.28:8080/KINEKO/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Kino 24
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Kinopokaz
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://31148.rafail1982.uz/Kinopokaz/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Kino TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://vod.tuva.ru/kinotv/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Lyubimoe Indijskoe Kino
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://v2.catcast.tv/content/41596/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Malder Megahit
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://v2.catcast.tv/content/47689/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Patriot
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://catchup.videoline.ru/asvtv/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Pro100TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Russkiy Bestseller
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://31148.rafail1982.uz/Russkiy_Bestseller/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Russkiy Detektiv
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://31148.rafail1982.uz/Russkiy_Detektiv/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Russkiy roman
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://31148.rafail1982.uz/Russkiy_Roman_HD/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Smotrim Chestnyy Detektiv
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",START Air
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/START World.png" group-title="Фильмовые",START World
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",VHS TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://v2.catcast.tv/content/47609/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i.postimg.cc/25VcB58T/auto-x2-1.jpg",INFOПосмотри!!!
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://github.com/Dimonovich/TV/releases/download/v1.0.0/1.mp4
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Bollywood HD.png" group-title="Фильмовые",Bollywood HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://193.27.209.122/bollywood/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Дорама HD.png" group-title="Фильмовые",Дорама HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://193.27.209.122/dorama/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Sci-Fi
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://188.237.47.212:6001
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Black
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://188.237.47.212:6007
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",VIASAT Kino Comedy HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://ukr2.ukrainske.tv/493/video.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Мужское кино
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://157.90.0.245:8070/muzhskoe_kino/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",TV1000 Русское кино
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://213.169.39.30:5006
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i.postimg.cc/J4wRwcQn/i-TV-Cinema-Logo.png",ITV Cinema
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://iptv.itv.uz/hls/live/t/UAcSEExX5UamlFqFOIaXIA/e/1767191403/4000/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Star Family HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://84.245.224.71/StarFamilyHD/mono.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Star Cinema HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://84.245.224.71/StarCinemaHD/mono.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Bolt HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://84.245.224.71/BoltHD/mono.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Дом кино
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://flussonic.salomtv.uz/domkino/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Русский детектив.png" group-title="Фильмовые",Русский детектив
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://flussonic.salomtv.uz/russkiy_detektiv/video.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",TV1000 Action
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://flussonic.salomtv.uz/vijuTV1000action/video.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",TV1000
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://live-erostv.cdnvideo.ru/erostv/erostv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Дом Кино Премиум
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://85.11.144.6:6060/play/a07v/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Viasat Kino Comedy
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://ukr.ukrainske.tv/493/keytvainua/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Дорама.png" group-title="Фильмовые",Дорама
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://95.67.12.82:9046
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",TV1000 action
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i.postimg.cc/mDMCsgNL/1.png",IPTVPLAY ВЕДЬМАК
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i.postimg.cc/D06WvJWn/1.png",IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i.postimg.cc/3N8Rc8tq/1.png",IPTVPLAY ИНТЕРНЫ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i.ibb.co/pbxx3Sd/Fantastika.png",IPTVPLAY ФАНТАСТИКА
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i.ibb.co/7gj4dQM/Pamyat.png",IPTVPLAY ПАМЯТЬ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i.ibb.co/LZkQq0x/Uzhastik.png",IPTVPLAY УЖАСТИК
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i.postimg.cc/v8KFj826/1.png",IPTVPLAY Великая Отечественная HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мосфильм. Золотая коллекция.png" group-title="Фильмовые",Мосфильм. Золотая коллекция
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://5.8.11.96:8099/mosfilmhd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Cinema.png" group-title="Фильмовые",Cinema
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Cinema.png" group-title="Фильмовые",Cinema
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Русский Роман
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://vod.tuva.ru/rusroman/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Еврокино.png" group-title="Фильмовые",Еврокино
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://vod.tuva.ru/eurokino/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Amedia 1.png" group-title="Фильмовые",Amedia 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://iptv46.mcx-ix.ru:8077/amedia/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Amedia Hit HD.png" group-title="Фильмовые",Amedia Hit HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://iptv46.mcx-ix.ru:8077/amedia_hit_hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Amedia Premium HD.png" group-title="Фильмовые",Amedia Premium HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://iptv46.mcx-ix.ru:8077/amedia_premium_hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Bollywood HD.png" group-title="Фильмовые",Bollywood HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://iptv46.mcx-ix.ru:8077/BollywoodHD/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Дом Кино.png" group-title="Фильмовые",Дом Кино
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://iptv46.mcx-ix.ru:8077/dom_kino/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Дорама.png" group-title="Фильмовые",Дорама
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://iptv46.mcx-ix.ru:8077/Dorama/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Иллюзион+.png" group-title="Фильмовые",Иллюзион+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://iptv46.mcx-ix.ru:8077/illusion_plus_hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинеко.png" group-title="Фильмовые",Кинеко
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://iptv46.mcx-ix.ru:8077/fox/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинеко HD.png" group-title="Фильмовые",Кинеко HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://iptv46.mcx-ix.ru:8077/fox_hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кино ТВ.png" group-title="Фильмовые",Кино ТВ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://iptv46.mcx-ix.ru:8077/kino-tv/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кино ТВ HD.png" group-title="Фильмовые",Кино ТВ HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://iptv46.mcx-ix.ru:8077/kino_tv_hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинокомедия.png" group-title="Фильмовые",Кинокомедия
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://iptv46.mcx-ix.ru:8077/komediya/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ИНДИЙСКОЕ КИНО.png" group-title="Фильмовые",ИНДИЙСКОЕ КИНО
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://iptv46.mcx-ix.ru:8077/indiya/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",КИНОМИКС HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://iptv46.mcx-ix.ru:8077/kinomix/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",КИНОПОКАЗ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://iptv46.mcx-ix.ru:8077/kinopokaz/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинопремьера HD.png" group-title="Фильмовые",Кинопремьера HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://iptv46.mcx-ix.ru:8077/premiera/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/КИНОСВИДАНИЕ.png" group-title="Фильмовые",КИНОСВИДАНИЕ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://iptv46.mcx-ix.ru:8077/kinosvidanie/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",КИНОСЕМЬЯ HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://iptv46.mcx-ix.ru:8077/kinosemya/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Мужское кино HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://iptv46.mcx-ix.ru:8077/muzhskoe-kino_hd/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Наше новое кино
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://iptv46.mcx-ix.ru:8077/nashe-novoe-kino/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Киносерия.png" group-title="Фильмовые",Киносерия
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://iptv46.mcx-ix.ru:8077/mnogo-tv/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/КИНОУЖАС.png" group-title="Фильмовые",КИНОУЖАС
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://iptv46.mcx-ix.ru:8077/kinoujas/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинохит.png" group-title="Фильмовые",Кинохит
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://iptv46.mcx-ix.ru:8077/kinohit/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мосфильм. Золотая коллекция.png" group-title="Фильмовые",Мосфильм. Золотая коллекция
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://iptv46.mcx-ix.ru:8077/mosfilm/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ностальгия.png" group-title="Фильмовые",Ностальгия
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://iptv46.mcx-ix.ru:8077/nostalgia/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",ПОБЕДА HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://iptv46.mcx-ix.ru:8077/pobeda_hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Родное Кино.png" group-title="Фильмовые",Родное Кино
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://iptv46.mcx-ix.ru:8077/nashe-kino/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",РУССКИЙ БЕСТСЕЛЛЕР
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://iptv46.mcx-ix.ru:8077/rus-bestseller/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",РУССКИЙ ДЕТЕКТИВ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://iptv46.mcx-ix.ru:8077/rus-detective/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Русский Иллюзион.png" group-title="Фильмовые",Русский Иллюзион
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://iptv46.mcx-ix.ru:8077/RusskiyIllusion/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",РУССКИЙ РОМАН
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://iptv46.mcx-ix.ru:8077/rus-roman/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Русский роман HD.png" group-title="Фильмовые",Русский роман HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://iptv46.mcx-ix.ru:8077/russki_roman_hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Русский иллюзион.png" group-title="Фильмовые",Русский иллюзион
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://185.46.16.239:8000/Russkiy_Illyuzion
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Иллюзион+.png" group-title="Фильмовые",Иллюзион+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://185.46.16.239:8000/Illyuzion+
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кино ТВ.png" group-title="Фильмовые",Кино ТВ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://185.46.16.239:8000/Kino_TV
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Еврокино.png" group-title="Фильмовые",Еврокино
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://185.46.16.239:8000/Yevrokino
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НАШЕ НОВОЕ КИНО.png" group-title="Фильмовые",НАШЕ НОВОЕ КИНО
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://185.46.16.239:8000/Nickelodeon
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Русский роман.png" group-title="Фильмовые",Русский роман
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://185.46.16.239:8000/Russkiy_roman
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Cinema.png" group-title="Фильмовые",Cinema
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://185.46.16.239:8000/Cinema
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинокомедия.png" group-title="Фильмовые",Кинокомедия
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://185.46.16.239:8000/Fox_HD
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Киномикс.png" group-title="Фильмовые",Киномикс
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://185.46.16.239:8000/Fox_Life_HD
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Amedia Premium HD.png" group-title="Фильмовые",Amedia Premium HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://217.21.34.160:38007/amediapremium/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Любимое кино
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://217.21.34.160:38007/lubimoekino/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Мир сериала
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://217.21.34.160:38007/mirseriala/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/TV XXI.png" group-title="Фильмовые",TV XXI
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://217.21.34.160:38007/tv-xxi/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",TV1000 Action
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://46.8.46.14/actiontv/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",TV1000
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://46.8.46.14/tv1000/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",VIP COMEDY
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://46.8.46.14/vipcomedy/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",VIP MEGAHIT HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://46.8.46.14/vipmegahit/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/FX.png" group-title="Фильмовые",FX
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://46.8.46.14/FOX/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Русский Бестселлер
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://46.8.46.14/rubestseller/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Русский Роман HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://46.8.46.14/ruroman/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Победа.png" group-title="Фильмовые",Победа
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://46.8.46.14/Pobeda/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Романтичное HD.png" group-title="Фильмовые",Романтичное HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://46.8.46.14/Romantichnoe_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Hollywood.png" group-title="Фильмовые",Hollywood
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://46.8.46.14/amc/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/КИНОСВИДАНИЕ.png" group-title="Фильмовые",КИНОСВИДАНИЕ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://46.8.46.14/kinosvid/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Киносемья.png" group-title="Фильмовые",Киносемья
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://46.8.46.14/kinosemya/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Родное Кино.png" group-title="Фильмовые",Родное Кино
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://46.8.46.14/rodkino/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/КИНОХИТ.png" group-title="Фильмовые",КИНОХИТ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://46.8.46.14/kinohit/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Киносерия.png" group-title="Фильмовые",Киносерия
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://46.8.46.14/kinoseria/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/КИНОМИКС.png" group-title="Фильмовые",КИНОМИКС
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://46.8.46.14/kinomix/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Индийское Кино.png" group-title="Фильмовые",Индийское Кино
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://46.8.46.14/indiatv/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Любимое Кино.png" group-title="Фильмовые",Любимое Кино
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://46.8.46.14/Nashe_Lubimoe_Kino/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Cinema.png" group-title="Фильмовые",Cinema
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://46.8.46.14/cinema/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кино ТВ HD.png" group-title="Фильмовые",Кино ТВ HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://46.8.46.14/kinotv/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Мир сериала
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://46.8.46.14/MirSeriala/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ретро.png" group-title="Фильмовые",Ретро
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://46.8.46.14/retro/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Еврокино.png" group-title="Фильмовые",Еврокино
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://46.8.46.14/eurokino/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Дом Кино.png" group-title="Фильмовые",Дом Кино
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://46.8.46.14/domkino/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/TV XXI.png" group-title="Фильмовые",TV XXI
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://46.8.46.14/TV21/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Amedia 2.png" group-title="Фильмовые",Amedia 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://46.8.46.14/A2/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",TV1000
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://87.246.54.249:8085/TV1000/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинохит HD.png" group-title="Фильмовые",Кинохит HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://87.246.54.249:8085/KinoHit/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Киномикс HD.png" group-title="Фильмовые",Киномикс HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://87.246.54.249:8085/Kinomiks/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Киносемья HD.png" group-title="Фильмовые",Киносемья HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://87.246.54.249:8085/kinosemia/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Мир сериала
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://87.246.54.249:8085/MirSeriala/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Наше новое кино
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://87.246.54.249:8085/NasheKino/index.m3u8
