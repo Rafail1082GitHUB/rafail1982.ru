@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.one/epg.xml; https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/epg_lite.xml.gz; https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/epg_lite_gabbarit.xml.gz"
+#EXTM3U url-tvg="http://epg.one/epg.xml; http://gabbarit.drm-play.com/epg_lite.xml.gz; http://epg.cdntv.online/lite.xml; http://epg.it999.ru/epg.xml.gz; http://iptv-content.rv77.pw/guide-lite.xml"
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/favicon.png" group-title="NEXO",NEXO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://rafail1982.uz/nexo2.mp4
@@ -68,7 +68,7 @@ http://dmi3y-tv.ru/hls/CH_MIR24HD.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир HD.png" group-title="Российские",Мир HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://dmi3y-tv.ru/hls/T2/CH_MIRHD.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир +2.png" group-title="Российские",Мир +2
+#EXTINF:-1 group-title="Российские",Мир +2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://dmi3y-tv.ru/hls/T2/CH_MIR_2.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир +4.png" group-title="Российские",Мир +4
@@ -308,9 +308,6 @@ http://dagestan.mediacdn.ru/cdn/dagestan/tracks-v3a1/index.m3u8
 #EXTINF:-1 group-title="Российские",Дагестан ТВ [FHD]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://dagestan.mediacdn.ru/cdn/dagestan/tracks-v2a1/index.m3u8
-#EXTINF:-1 group-title="Российские",Известия ТВ HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 group-title="Российские",Известия ТВ [FHD]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
@@ -353,9 +350,6 @@ https://live-vestinn.cdnvideo.ru/vestinn/nn24/playlist.m3u8
 #EXTINF:-1 group-title="Российские",Ника TV (Калуга)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Российские",Самара ГИС
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://45.67.57.9:8080/new/new/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Российские",Север ТВ (Нарьян-Мар)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://live2.mediacdn.ru/sr1/sever/playlist.m3u8
@@ -575,6 +569,9 @@ http://dmi3y-tv.ru/hls/blrus/CH_1INFORMATSYONNYHD.m3u8
 #EXTINF:-1 group-title="Беларусь",БелРос
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://dmi3y-tv.ru/hls/blrus/CH_BELROS.m3u8
+#EXTINF:-1 group-title="Беларусь",СТВ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ngtrk.dc.beltelecom.by/ctv/ctv.stream/chunklist.m3u8
 #EXTINF:-1 group-title="ОПЛОТ",НТС Севастополь
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/chunklist.m3u8
@@ -791,15 +788,9 @@ http://138.201.250.184/eurosport1/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Eurosport 1 HD.png" group-title="Спортивные",Eurosport 1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://178.134.1.158:8081/eurosport/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Eurosport 1 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://185.189.225.157/EuroSport1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Eurosport 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://138.201.250.184/eurosport2/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Eurosport 2 HD [ES]
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://185.189.225.157/EuroSport2/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Setanta Sports 1 Georgia
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://94.43.1.138:8081/setanta1/index.m3u8
@@ -1430,18 +1421,6 @@ http://45.159.74.22/DomKino/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мосфильм. Золотая коллекция.png" group-title="Кино и сериалы",Мосфильм. Золотая коллекция
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://178.134.1.158:8081/mosfilm/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",SeleCaoTV 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://132544.edgevideo.ru/streams/132544_951371/playlist.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",SeleCaoTV 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://132544.edgevideo.ru/streams/132544_954167/playlist.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",SCRIPACH TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://132544.edgevideo.ru/streams/132544_935537/1325441080/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",KinoMix
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://132544.edgevideo.ru/streams/132544_940640/1325441080/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",KTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u
@@ -1451,24 +1430,6 @@ https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Logovo Films
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://stream.ushba.tv/akamaiushba/ushba-films-a/tracks-v1a1/mono.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кино и сериалы",Techno Dance Music
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://132544.edgevideo.ru/streams/132544_931193/1325441080/index.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кино и сериалы",RETRO Music Hits
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://132544.edgevideo.ru/streams/132544_931325/1325441080/index.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кино и сериалы",SeriesTV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://132544.edgevideo.ru/streams/132544_931337/1325441080/index.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кино и сериалы",WWW 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://132544.edgevideo.ru/streams/132544_931349/1325441080/index.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кино и сериалы",FMC 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://132544.edgevideo.ru/streams/132544_931346/1325441080/index.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кино и сериалы",МУЛЬТИКИ И СКАЗКИ
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://132544.edgevideo.ru/streams/132544_931352/132544720/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Смотрим Кино и сериалы
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
@@ -1718,12 +1679,6 @@ http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
 #EXTINF:-1 group-title="Детские",Уникум
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://188.113.190.15/41/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",VIVA TV Russia
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://132544.edgevideo.ru/streams/132544_713325/1325441080/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",TMF RUS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://132544.edgevideo.ru/streams/132544_932351/1325441080/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",Новое Радио
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
@@ -1739,9 +1694,6 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыкальные",Deluxe Rap
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:-1 group-title="Музыкальные",CARAC1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные",CHD-TV Rock
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://194.26.229.213/chdtv_rock/index.m3u8
@@ -2105,6 +2057,12 @@ https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
 #EXTINF:-1 group-title="Разное",Univer TV HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cdn.universmotri.ru/live/smil:univer.smil/chunklist_w911267907_b3628000_slru.m3u8
+#EXTINF:-1 group-title="Разное", Радио МСМ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://tv.streams.baikal-telecom.net/MCM/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Разное", Радио Спутник
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
 #EXTINF:-1 group-title="Региональные",1 Республиканский
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://streaming.televizor-24-tochka.ru/live/27.m3u8
@@ -2849,12 +2807,6 @@ http://109.126.27.2:6484/v24/index.m3u8
 #EXTINF:-1 group-title="Региональные",Енисей
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
-#EXTINF:-1 group-title="Разное", Радио МСМ
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://tv.streams.baikal-telecom.net/MCM/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Разное", Радио Спутник
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kazakhstan.png" group-title="Казахстанские" tvg-id="1146",КТК
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://89.218.30.37/ktklive/live.hq/playlist.m3u8
@@ -2864,9 +2816,6 @@ http://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kazakhstan.png" group-title="Казахстанские" tvg-id="232",Новое телевидение
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
-#EXTINF:-1 group-title="Беларусь",СТВ
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://ngtrk.dc.beltelecom.by/ctv/ctv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/turkey.png" group-title="Казахстанские",Akit TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://akittv-live.ercdn.net/akittv/akittv.m3u8
@@ -3131,7 +3080,3 @@ http://185.105.4.151:8080/_defapp_/ittihad/index.m3u8
 #EXTINF:-1 group-title="ARABIC",Al Mamlaka TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist.m3u8
-
-
-
-
