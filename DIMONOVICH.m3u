@@ -1,709 +1,709 @@
-#EXTM3U url-tvg="http://epg.one/epg.xml; https://iptvx.one/EPG_NOARCH; http://epg.cdntv.online/lite.xml; http://178.63.47.178/epg.xml; https://epg.klimedia.pro"
+#EXTM3U url-tvg="http://epg.one/epg.xml; http://gabbarit.drm-play.com/epg_lite.xml.gz; http://epg.cdntv.online/lite.xml; http://epg.it999.ru/epg.xml.gz; http://iptv-content.rv77.pw/guide-lite.xml"
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Российские",РОССИЯ РТР HD720
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТВ3.png" group-title="Российские",ТВ3
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://178.212.71.253:8000/play/15/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/2x2.png" group-title="Российские",2x2
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://178.212.71.253:8000/play/113/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Соловьев Live.png" group-title="Российские",Соловьев Live
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://178.212.71.253:8000/play/111/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Российские",Точка РФ
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://178.212.71.253:8000/play/61/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Российские",ЦТВ
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://178.212.71.253:8000/play/41/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Российские",Светлое ТВ
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://176.107.219.20:9000/play/a009/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Российские",7 TV
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://v4.proofix.ru:80/7tv-live/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Российские",Brics TV
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Калейдоскоп ТВ.png" group-title="Российские",Калейдоскоп ТВ
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Российские",Восток 24
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Российские",Арис 24
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Российские",Волгоград 24
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Дождь.png" group-title="Российские",Дождь
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Нано ТВ HD.png" group-title="Российские",Нано ТВ HD
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://s1.tv-nano.com/Nano_rec/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Российские",Премиальное HDПрима
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Российские",12 канал
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Leomax 24.png" group-title="Российские",Leomax 24
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Российские",Ингушетия ТВ
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Российские",Просвещение
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Российские",Север
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://live2.mediacdn.ru/sr1/sever/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Российские",Север
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://live.mediacdn.ru/sr1/sever/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Российские",ТНВ-Планета (Казань)
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/oplot2.png" group-title="ОПЛОТ",НТС Севастополь
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/oplot2.png" group-title="ОПЛОТ",Север
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://live2.mediacdn.ru/sr1/sever/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/oplot2.png" group-title="ОПЛОТ",Радио Харьков Z
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://node1.craftradio.ru:8000/215_55AE795B
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/oplot2.png" group-title="ОПЛОТ",ТВ Харьков Z
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://212.193.53.254/app/potok/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Белгород 24.png" group-title="ОПЛОТ",Белгород 24
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/oplot2.png" group-title="ОПЛОТ",Краснодар HD
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/oplot2.png" group-title="ОПЛОТ",ВМЕСТЕ:РФ
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/oplot2.png" group-title="ОПЛОТ",Конгресс ТВ
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/oplot2.png" group-title="ОПЛОТ",Просвещение
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/oplot2.png" group-title="ОПЛОТ",Соловьев Live HD
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/boy.png" group-title="Детские",Чип и Дейл
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мама.png" group-title="Детские",Мама
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://178.212.71.253:8000/play/86/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мама.png" group-title="Детские",Мама
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://31.148.48.15/Mama/tracks-v1a1/mono.m3u8?token=default
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",CHD-TV Rock
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://194.26.229.213/chdtv_rock/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Viva HD.png" group-title="Музыкальные",Viva HD
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://132544.edgevideo.ru/streams/132544_713325/1325441080/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",9 ВОЛНА
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://185.46.48.18:80/asvtv/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",OF-TV
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",AFN Music
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",7X MUSIC
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://stream.e2is.in/hls/7xMusic.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",88 STEREO TV
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Vuemme TV
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://5db313b643fd8.streamlock.net:1935/HITTV/HITTV/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Ocko Expres
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Ocko Star
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",ÓČKO HITY
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Power Love
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Muzzik OKK
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://muzzik-live.morescreens.com/mts-2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Muzzik Vision HD
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://muzzik-live.morescreens.com/mts-3/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Muzzik Worldwide
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Muzzik TV
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://muzzik-live.morescreens.com/mts-6/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/1HD.png" group-title="Музыкальные",1HD
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://178.212.71.253:8000/play/60/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Новое Радио
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Радио Страна HD
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Наше радио
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://nashe2.hostingradio.ru/nashe-128.mp3
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Antenne Bayern
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://mp3channels.webradio.antenne.de/antenne
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/1HD.png" group-title="Музыкальные",1HD
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://91.247.68.229:8000/play/eee/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Шансон-ТВ
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",MTV 90's
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://45.88.92.3:80/tr3_MTVRocks_SD/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",OF-TV
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",AFN Music
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",7X MUSIC
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://stream.e2is.in/hls/7xMusic.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Fresh HD AM.png" group-title="Музыкальные",Fresh HD AM
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Stingray Classic Rock
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Stingray CMusic
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Stingray Easy Listening
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Stingray Hit List
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Stingray Holiday Hits
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Stingray Karaoke
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Stingray Nothin' But 90s
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Stingray Remember the 80s
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Stingray Romance Latino
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Stingray The Spa
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Stingray Today's KPOP
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Stingray Today's Latin Pop
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",XITE 80s Flashback
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://d1n314cytqn9r3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bklagqy82v0pr/XITE_80s_Flashback.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB320000647
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",XITE 90s Throwback
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB3200007AK
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",XITE Celebrates
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://dt1s4l2cmiyit.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fcwpee1h7t5cs/XITE_Celebrates.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD350003932
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",XITE Icons
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://d13bxksjj2abuy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yxuum05f6hop9/XITE_Icons.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300005EX
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",K-POP by CJ ENM
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://d3kmrn2mstrnk5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7ppcp3lxg7oer/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US39000038W
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Persiana Nostalgia
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://noshls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",PERSIANA SONNATI TV
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sonhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Power Love
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Muzzik Worldwide
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Muzzik TV
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Muzzik ZZ TV
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Muzzik Tik Tak
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Best of Dance TV
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",QMUSIC
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",30A MUSIC TV
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://30a-tv.com/feeds/720p/6.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/edu2.png" group-title="Познавательные",Просвещение
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://cdn-01.bonus-tv.ru:80/prosveschenie_edge/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/edu2.png" group-title="Познавательные",Живая природа
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://178.212.71.253:8000/play/79/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Живая Планета.png" group-title="Познавательные",Живая Планета
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://178.212.71.253:8000/play/114/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Драйв.png" group-title="Познавательные",Драйв
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://178.212.71.253:8000/play/92/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Вопросы и ответы.png" group-title="Познавательные",Вопросы и ответы
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://178.212.71.253:8000/play/97/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Живая природа HD.png" group-title="Познавательные",Живая природа HD
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://178.212.71.253:8002/play/a00o/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Живая Планета.png" group-title="Познавательные",Живая Планета
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://31.148.48.15/Zhivaya_Planeta/tracks-v1a1/mono.m3u8?token=default
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/edu2.png" group-title="Познавательные",Живая природа
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://178.212.71.253:8002/play/a00o/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/edu2.png" group-title="Познавательные",Просвещение
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/edu2.png" group-title="Познавательные",Better Life Nature Channel
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/edu2.png" group-title="Познавательные",Christmas Vibes
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://dncz365xf783h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-oyu72upgsjm7m/SONO62.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US2900003NN
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/edu2.png" group-title="Познавательные",Cozy Vibes
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://d2esizdt2xkmhp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qw5vkd4gzoaia/SONO60.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US2900005NW
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/edu2.png" group-title="Познавательные",Holiday Fireplace Vibes
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://docds5gyr3599.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wadxll2goooqs/SONO61.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US2900002P8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/edu2.png" group-title="Познавательные",Lakeside Bonfire Vibes
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://d3g3rx9h9f2rda.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-72r7p9fkdd2kx/SONO55.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US14000136J
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/edu2.png" group-title="Познавательные",Stingray Holidayscapes
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://d10cyxntpn0bwm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-udbgiwo3vva3o/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3500038R6
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/edu2.png" group-title="Познавательные",Stingray Spa
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://d9rd4243pcy92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e4dxftqz7hlvi/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3500013DG
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/edu2.png" group-title="Познавательные",Storm Vibes
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://df7ah0yzgl23k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tbhefwc1hszs2/SONO50.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US1400014N9
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/edu2.png" group-title="Познавательные",ZenLIFE by Stingray
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://d27toxk63drks3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pibqoi1zv0ree/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3500027DS
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/enter.png" group-title="Развлекательные",OnlineTV
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://185.221.213.254:8080/Okko/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/enter.png" group-title="Развлекательные",ТВОЕ ТВ HD
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/enter.png" group-title="Развлекательные",Суббота
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://178.212.71.253:8000/play/75/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Продвижение.png" group-title="Развлекательные",Продвижение
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://178.212.71.253:8000/play/140/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/2x2.png" group-title="Развлекательные",2x2
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://31.148.48.15/2x2/tracks-v1a1/mono.m3u8?token=default
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/enter.png" group-title="Развлекательные",Кулинар
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Продвижение.png" group-title="Развлекательные",Продвижение
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Осетия Иристон.png" group-title="Региональные",Осетия Иристон
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://185.46.48.18:80/iriston/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Волга.png" group-title="Региональные",Волга
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/rus.png" group-title="Региональные",Прима
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/rus.png" group-title="Региональные",12 КАНАЛ
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/rus.png" group-title="Региональные",Миллет
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://live.trkmillet.ru/millet/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/rus.png" group-title="Региональные",Краснодар HD
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/rus.png" group-title="Региональные",Таврия ТВ
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://tavr.mediacdn.ru/cdn/tavria/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Грозный.png" group-title="Региональные",Грозный
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/rus.png" group-title="Региональные",Тверской Проспект Регион
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://stream.fastlnk.ru:88/Tverskojj_prospekt/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/rus.png" group-title="Региональные",НВК Саха HD
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/rus.png" group-title="Региональные",Аист ТВ
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/rus.png" group-title="Региональные",Ника ТВ
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/rus.png" group-title="Региональные",Наш Дом
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://85.234.33.63/stream/c11.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Москва Доверие.png" group-title="Региональные",Москва Доверие
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://178.212.71.253:8000/play/53/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Наша Тема.png" group-title="Региональные",Наша Тема
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://178.212.71.253:8000/play/73/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/rus.png" group-title="Региональные",Байкал Универ ТВ
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://stream01.bgu.ru/1/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/rus.png" group-title="Региональные",12 КАНАЛ (ОМСК)
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/rus.png" group-title="Региональные",ТРК 555 HD
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://trk555.tv:8888/live
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/rus.png" group-title="Региональные",С1 Сургут 86
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sitv.ru/hls/s86512.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/rus.png" group-title="Региональные",Краснодар HD
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/rus.png" group-title="Региональные",Запад 24 HD
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://live-vestikaliningrad.cdnvideo.ru/vestikaliningrad/vestikaliningrad.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/rus.png" group-title="Региональные",Таврия ТВ
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tavr.mediacdn.ru/cdn/tavria/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Грозный.png" group-title="Региональные",Грозный
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/rus.png" group-title="Региональные",Алмазный край
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://stream.almaz-media.tv:8080/hls/720.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый Тульский.png" group-title="Региональные",Первый Тульский
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://5.164.24.83/tula/1tv_hi/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/rus.png" group-title="Региональные",Щелковское ТВ
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://stream0.tv41.ru/live.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Теледом ТВ HD.png" group-title="Региональные",Теледом ТВ HD
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/rus.png" group-title="Региональные",НВК Саха HD
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/rus.png" group-title="Региональные",Аист ТВ
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/rus.png" group-title="Региональные",Ника ТВ
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/rus.png" group-title="Региональные",12 Канал
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
 #EXTINF:-1 group-title="Мода",Мода 5
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://fl1001.bozztv.com/ushba-m9/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Международные",h1 HD
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://45.11.139.43:8555/h1/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Nor Hayastan.png" group-title="Международные",Nor Hayastan
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://45.11.139.43:8555/norhayastan/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Кинозалы 12
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://fl1001.bozztv.com/ushba-films-i/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Русский Роман
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://178.212.71.253:8000/play/42/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Русский Детектив
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://178.212.71.253:8000/play/45/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НСТ.png" group-title="Фильмовые",НСТ
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://178.212.71.253:8000/play/100/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинокомедия.png" group-title="Фильмовые",Кинокомедия
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://178.212.71.253:8000/play/85/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Родное Кино.png" group-title="Фильмовые",Родное Кино
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://178.212.71.253:8000/play/136/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Кино и сериалы
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/КИНОКОМЕДИЯ.png" group-title="Фильмовые",КИНОКОМЕДИЯ
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://178.212.71.253:8002/play/a00j/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Bollywood HD.png" group-title="Фильмовые",Bollywood HD
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://178.212.71.253:8002/play/a00t/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Кинопоказ
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://31.148.48.15/Kinopokaz/tracks-v1a1/mono.m3u8?token=default
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Кинозалы 4
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://162.212.179.43/ushba26/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Кинозалы 5
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://162.212.179.43/ushba-films-b/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Кинозалы 8
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://162.212.179.43/ushba-films-e/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Кинозалы 10
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://162.212.179.43/ushba-films-g/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Кинозалы 12
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://162.212.179.43/ushba-films-i/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Кинозалы 19
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://162.212.179.43/ushba-films-qr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",Родное кино
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://185.161.224.211/dash/Rodnoe_Kino_SDqw45yu.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинокомедия.png" group-title="Фильмовые",Кинокомедия
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://185.161.224.211/dash/Kinokomediya_SDdfdf678h.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",VIP Serial HD
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://185.161.224.211/dash/MGM_HDqwervbyu78.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="Спортивные",Motorvision TV
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="Спортивные",Русский Экстрим
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://178.212.71.253:8000/play/118/index.m3u8
 #EXTINF:-1 group-title="Покупки",Витрина
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://178.212.71.253:8000/play/32/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТРК Круг.png" group-title="Другие",ТРК Круг
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr/krugod/krugod/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/360 Новости.png" group-title="Другие",360 Новости
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Galaxy.png" group-title="Другие",Galaxy
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://195.26.83.96:7007/play/a00j/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/favicon.png" group-title="Другие",Channel 9104
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://api.alpaca.t62a.com/hls/9104/stream0.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/favicon.png" group-title="Другие",Kaufbei TV
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://api.alpaca.t62a.com/hls/9111/stream0.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/favicon.png" group-title="Другие",Channel 9112
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://api.alpaca.t62a.com/hls/9112/stream0.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/favicon.png" group-title="Другие",Channel 40
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://185.57.68.33/40/mpegts
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/favicon.png" group-title="Другие",Channel 237
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://185.57.68.33/237/mpegts
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/favicon.png" group-title="Другие",Channel 240
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://185.57.68.33/240/mpegts
 #EXTINF:-1 group-title="Узбекские",TTV Musiqa
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://st1.uzdigital.tv/TTV_Musiqa/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Узбекские",Milliy
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://milliy.tv/hls/index.m3u8
 #EXTINF:-1 group-title="Хобби и увлечения",Культ Медиа
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://213.108.175.226/telplushd/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Shopping Live.png" group-title="Хобби и увлечения",Shopping Live
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Bollywood HD.png" group-title="TEST ⓵",Bollywood HD
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://193.27.209.122/bollywood/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Nat Geo Wild HD.png" group-title="TEST ⓵",Nat Geo Wild HD
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://188.237.47.212:6005
 #EXTINF:-1 group-title="TEST ⓵",Скиф ТВ
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://95.46.208.8:24432/skif
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Baby Time.png" group-title="TEST (VPN)",Baby Time
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://185.221.213.254/live/stream3.php?q=OWWGT5_z5DqjdLW9cndeOmc5aO6pnRbuSajO28AMNZlvQmeXQ_iWHp0Fz7MTnr3Oug7p6sHgeRtqTpR_WNEipjpEyv53G58Wj1Rgv9ETCR2JV3w3LyhyhHvewwSEDBXT&token=MjIyMjoyMjIyMjI=
 #EXTINF:-1 group-title="TEST (VPN)",Вкус
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://185.221.213.254/live/stream3.php?q=OWWGT5_z5DqjdLW9cndeOmc5aO6pnRbuSajO28AMNZnFb4iJ1Qqz9GhIHTeL4yM1l2znOI0P3E3qK6ZJZpdLTxJI2L3yFRy96n1gw-7mc-c3-houtWFSgQ0Blyh5QuU6&token=MjIyMjoyMjIyMjI=
 #EXTINF:-1 group-title="TEST (VPN)", Пингвин Лоло
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TEST (VPN)", Мамонтёнок
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TEST (VPN)", Про100 ТВ
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Про бизнес
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://176.107.219.20:9000/play/a003/index.m3u8
 #EXTINF:-1 group-title="Oracle Corporation_2",Viasat Nature
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://158.101.222.193:88/georgia_play.php?id=viasatnat
 #EXTINF:-1 group-title="Oracle Corporation_2",Точка РФ
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://158.101.222.193:88/georgia_play.php?id=hdlife
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Оружие.png" group-title="Oracle Corporation_2",Оружие
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://158.101.222.193:88/georgia_play.php?id=oruzhie
 #EXTINF:-1 group-title="Oracle Corporation_2",Феникс+Кино
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинокомедия.png" group-title="Oracle Corporation_2",Кинокомедия
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://158.101.222.193:88/georgia_play.php?id=kinokomediya
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мужской.png" group-title="Oracle Corporation_2",Мужской
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://158.101.222.193:88/georgia_play.php?id=muzhskoy
 #EXTINF:-1 group-title="Oracle Corporation_2",Da vinci
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://158.101.222.193:88/georgia_play.php?id=davinci
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Marao.png" group-title="Oracle Corporation_2",Marao
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://158.101.222.193:88/georgia_play.php?id=marao
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Agrotv HD GE.png" group-title="Oracle Corporation_2",Agrotv HD GE
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://158.101.222.193:88/georgia_play.php?id=agrotv
 #EXTINF:-1 group-title="Oracle Corporation_2",caucasia HD
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://158.101.222.193:88/georgia_play.php?id=caucasia
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Comedy Arkhi.png" group-title="Oracle Corporation_2",Comedy Arkhi
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://158.101.222.193:88/georgia_play.php?id=comedy
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/GDS TV GE.png" group-title="Oracle Corporation_2",GDS TV GE
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://158.101.222.193:88/georgia_play.php?id=gttv
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Imedi TV GE.png" group-title="Oracle Corporation_2",Imedi TV GE
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://158.101.222.193:88/georgia_play.php?id=imedihd
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/POS TV HD GE.png" group-title="Oracle Corporation_2",POS TV HD GE
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://158.101.222.193:88/georgia_play.php?id=postv
 #EXTINF:-1 group-title="Digital TV",Atameken Business
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://sc.id-tv.kz/Atameken.m3u8
 #EXTINF:-1 group-title="Digital TV",Caspian News
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://sc.id-tv.kz/CaspianNews.m3u8
 #EXTINF:-1 group-title="Digital TV",DW Europe
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://sc.id-tv.kz/DW.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НСТ.png" group-title="Digital TV",НСТ
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://sc.id-tv.kz/NSTV.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/31 канал KZ.png" group-title="Digital TV",31 канал KZ
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://sc.id-tv.kz/31Kanal_34_35.m3u8
 #EXTINF:-1 group-title="Digital TV",El Arna
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://sc.id-tv.kz/ElArna_34_35.m3u8
 #EXTINF:-1 group-title="📺 Usba TV",Приколы 2
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://fl1001.bozztv.com/ushba20/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Usba TV",Шоу Бенни Хилла
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://fl1001.bozztv.com/ushba62/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Usba TV",Мистер Бин
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://fl1001.bozztv.com/ushba45/index.m3u8
 #EXTINF:-1 group-title="📺 Usba TV",Документалка 3
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://fl1001.bozztv.com/ushba38/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Usba TV",Танцы 1
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://fl1001.bozztv.com/ushba17/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Usba TV",Кинозалы 4
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://fl1001.bozztv.com/ushba26/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Usba TV",Кинозалы 5
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://fl1001.bozztv.com/ushba-films-b/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Usba TV",Кинозалы 8
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://fl1001.bozztv.com/ushba-films-e/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Usba TV",Кинозалы 10
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://fl1001.bozztv.com/ushba-films-g/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Usba TV",Кинозалы 12
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://fl1001.bozztv.com/ushba-films-i/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Usba TV",Кинозалы 19
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://fl1001.bozztv.com/ushba-films-qr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Usba TV",Музыка 6
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://fl1001.bozztv.com/ushba-mafia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Usba TV",Мода 4
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://fl1001.bozztv.com/ushba-m8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Usba TV",Мода 5
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://fl1001.bozztv.com/ushba-m9/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="С сайтов",ОНТ HD
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://edge53.dc.beltelecom.by/ont/_definst_/ont/chunklist_w741300442.m3u8
 #EXTINF:-1 group-title="С сайтов",Новое Телевидение
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://live.zhanafm.kz:8181/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Дождь HD.png" group-title="С сайтов",Дождь HD
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)",Запад 24
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)",Восток 24
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)",Сибирь 24
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)",Краснодар
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)",Тивиком
-#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://stream.trafjam.ru/tvcom/studio/tracks-v1a1/rewind-43200.m3u8
