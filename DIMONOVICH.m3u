@@ -1,4 +1,34 @@
 #EXTM3U url-tvg="http://epg.one/epg.xml; http://gabbarit.drm-play.com/epg_lite.xml.gz; http://epg.cdntv.online/lite.xml; http://epg.it999.ru/epg.xml.gz; http://iptv-content.rv77.pw/guide-lite.xml"
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/NEXO.png" group-title="NEXO",NEXO
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://rafail1982.uz/nexo2.mp4
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/IPTV.png" group-title="NEXO",IPTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://rafail1982.uz/IPTV.mp4
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/NexoIPTV.png" group-title="NEXO",NexoIPTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://rafail1982.uz/NexoIPTV.mp4
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/ES/Candy (Jazz-Funk Cover)_v2.png" group-title="NEXO",Candy (Jazz-Funk Cover)_v2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://rafail1982.uz/ES/Candy (Jazz-Funk Cover)_v2.mp4
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/ES/Пастух (Pan Flute Cover)_v2.png" group-title="NEXO",Пастух (Pan Flute Cover)_v2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://rafail1982.uz/ES/Пастух (Pan Flute Cover)_v2.mp4
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/ES/Parisienne days(Fender guitar)_v1.png" group-title="NEXO",Parisienne days(Fender guitar)_v1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://rafail1982.uz/ES/Parisienne days(Fender guitar)_v1.mp4
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/ES/Horizon (Fender Guitar Cov.)_v1.png" group-title="NEXO",Horizon (Fender Guitar Cov.)_v1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://rafail1982.uz/ES/Horizon (Fender Guitar Cov.)_v1.mp4
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/ES/Sorrow (Guitar Solo Cover)_v1.png" group-title="NEXO",Sorrow (Guitar Solo Cover)_v1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://rafail1982.uz/ES/Sorrow (Guitar Solo Cover)_v1.mp4
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/ES/Fading Light_2.png" group-title="NEXO",Fading Light (Vocal Version)_v2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://rafail1982.uz/ES/Fading Light (Vocal Version)_v2.mp4
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/ES/Never Leav (Country Cover)_v2.png" group-title="NEXO",Never Leav (Country Cover)_v2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://rafail1982.uz/ES/Never Leav (Country Cover)_v2.mp4
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Российские",РОССИЯ РТР
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f.m3u8
