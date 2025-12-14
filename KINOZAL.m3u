@@ -395,15 +395,6 @@ http://github.com/Dimonovich/TV/releases/download/v1.0.0/1.mp4
 #EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i.postimg.cc/J4wRwcQn/i-TV-Cinema-Logo.png",ITV Cinema
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://iptv.itv.uz/hls/live/t/UAcSEExX5UamlFqFOIaXIA/e/1767191403/4000/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Star Family HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://84.245.224.71/StarFamilyHD/mono.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Star Cinema HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://84.245.224.71/StarCinemaHD/mono.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Bolt HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://84.245.224.71/BoltHD/mono.m3u8
 #EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i.postimg.cc/mDMCsgNL/1.png",IPTVPLAY ВЕДЬМАК
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
@@ -440,15 +431,6 @@ http://185.46.16.239:8000/Yevrokino
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Cinema.png" group-title="Фильмовые",Cinema
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://185.46.16.239:8000/Cinema
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",Любимое кино
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://217.21.34.160:38007/lubimoekino/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/TV XXI.png" group-title="Фильмовые",TV XXI
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://217.21.34.160:38007/tv-xxi/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",VIP COMEDY
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://46.8.46.14/vipcomedy/index.m3u8
 #EXTINF:-1 group-title="Фильмовые" tvg-logo="http://rafail1982.uz/logo/kino2.png",VIP MEGAHIT HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://46.8.46.14/vipmegahit/index.m3u8
