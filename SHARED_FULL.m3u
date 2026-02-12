@@ -1,4 +1,28 @@
 #EXTM3U url-tvg="http://epg.one/epg.xml; http://uztv.su/uploads/channelsarch/channels.xml; https://epg.iptvx.one/epg_noarch.xml.gz; http://gabbarit.drm-play.com/epg_lite.xml.gz; http://epg.cdntv.online/lite.xml; http://epg.it999.ru/epg.xml.gz; http://iptv-content.rv77.pw/guide-lite.xml"
+#EXTINF:-1 vokka-id="4521" tvg-id="TV4" tvg-name="TV4" tvg-logo="https://taurerassets.xyz/tv_content/images/tv4hd.png" group-title="Vokka Production",TV4 HD
+#EXTVLCOPT:http-user-agent=http-User-Agent
+https://dvr3.vokkavideo.xyz/TV4HD/index.m3u8
+#EXTINF:-1 vokka-id="4918" tvg-id="TV4" tvg-name="TV4" tvg-logo="https://taurerassets.xyz/tv_content/images/tv4sd.png" group-title="Vokka Production",TV4 SD
+#EXTVLCOPT:http-user-agent=http-User-Agent
+https://dvr3.vokkavideo.xyz/TV4SD/index.m3u8
+#EXTINF:-1 vokka-id="3857" tvg-id="HTV" tvg-name="HTV" tvg-logo="https://taurerassets.xyz/tv_content/images/htvhd.png" group-title="Vokka Production",HTV HD
+#EXTVLCOPT:http-user-agent=http-User-Agent
+https://dvr3.vokkavideo.xyz/HTVHD/index.m3u8
+#EXTINF:-1 vokka-id="9481" tvg-id="alphacinema" tvg-name="alphacinema" tvg-logo="https://taurerassets.xyz/tv_content/images/alphacinemahd.png" group-title="alpha Production",alpha Cinema HD
+#EXTVLCOPT:http-user-agent=http-User-Agent
+https://dvr3.vokkavideo.xyz/ALPHACINEMAHD/index.m3u8
+#EXTINF:-1 vokka-id="1193" tvg-id="alphamoretime" tvg-name="alphamoretime" tvg-logo="https://taurerassets.xyz/tv_content/images/alphamoretimehd.png" group-title="alpha Production",alpha Moretime HD
+#EXTVLCOPT:http-user-agent=http-User-Agent
+https://dvr3.vokkavideo.xyz/ALPHAMORETIMEHD/index.m3u8
+#EXTINF:-1 vokka-id="3918" tvg-id="alphafunny" tvg-name="alphafunny" tvg-logo="https://taurerassets.xyz/tv_content/images/alphafunnyhd.png" group-title="alpha Production",alpha Funny HD
+#EXTVLCOPT:http-user-agent=http-User-Agent
+https://dvr3.vokkavideo.xyz/ALPHAFUNNYHD/index.m3u8
+#EXTINF:-1 vokka-id="1175" tvg-id="15plusmusic" tvg-name="15plusmusic" tvg-logo="https://taurerassets.xyz/tv_content/images/15plusmusichd.png" group-title="alpha Production",15+ Music HD
+#EXTVLCOPT:http-user-agent=http-User-Agent
+https://dvr3.vokkavideo.xyz/CRINGETVHD/index.m3u8
+#EXTINF:-1 vokka-id="8571" tvg-id="newrussian" tvg-name="newrussian" tvg-logo="https://taurerassets.xyz/tv_content/images/newrussianhd.png" group-title="alpha Production",Новый Русский HD
+#EXTVLCOPT:http-user-agent=http-User-Agent
+https://dvr3.vokkavideo.xyz/NEWRUSSIAHD/index.m3u8
 #EXTINF:-1 group-title="Эфирные",Неизвестная Россия
 #EXTVLCOPT:http-user-agent=http-User-Agent
 https://cdn.ntv.ru/unknown_russia/playlist.m3u8
