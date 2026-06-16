@@ -1,0 +1,1708 @@
+#EXTM3U url-tvg="http://epg.one/epg.xml; http://rafail1982.uz/uzbekistan1.xml; http://uztv.su/uploads/channelsarch/channels.xml; https://iptvx.one/EPG_NOARCH; http://gabbarit.drm-play.com/epg_lite.xml.gz; http://epg.cdntv.online/lite.xml; http://epg.it999.ru/epg.xml; http://iptv-content.rv77.pw/guide-lite.xml" tvg-shift="+5" refresh="86400"
+#EXTINF:-1 group-title="KINO+📺",ЕВРОКИНО sd
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://176.118.197.101/Evrokino/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",viju+ Comedy HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://185.46.16.239:8000/VIP_Comedy
+#EXTINF:-1 group-title="KINO+📺",Kino TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://vod.tuva.ru/kinotv/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",viju+ Premiere HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://185.46.16.239:8000/VIP_Premiere
+#EXTINF:-1 group-title="KINO+📺",Евро кино
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://31.148.48.15/Evrokino/tracks-v1a1/mono.m3u8?token=iptv.org.ua
+#EXTINF:-1 group-title="KINO+📺",viju TV1000 action
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Иллюзион plus
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://176.118.197.101/Illuzion+/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Кино ТВ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://185.46.16.239:8000/Kino_TV
+#EXTINF:-1 group-title="KINO+📺",viju+ Megahit HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://185.46.16.239:8000/VIP_Megahit
+#EXTINF:-1 group-title="KINO+📺",Иллюзион+
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://185.46.16.239:8000/Illyuzion+
+#EXTINF:-1 group-title="KINO+📺",Киномикс HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://vod.splay.uz/live_splay/original/KinomiksHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺",ЕВРОКИНО
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://vod.tuva.ru/eurokino/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Кинохит hd
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://vod.splay.uz/live_splay/original/Kinoxit/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺",Kineko
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://31.148.48.15/Kineko/index.m3u8?token=iptv.org.ua
+#EXTINF:-1 group-title="KINO+📺",Кино Kомедия HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://vod.splay.uz/live_splay/original/Kinokomediya/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺",КИНОСАТ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://5.188.221.43:8080/play/kinosat
+#EXTINF:-1 group-title="KINO+📺",КИНОСЕРИЯ HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://vod.splay.uz/live_splay/original/Kinoseriya/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",НСТ SD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://vod.tuva.ru/nst/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Кино 1 International
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 group-title="KINO+📺", A1 720x576
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://31.148.48.15/A1/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",НСТ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",КИНОСЕМЬЯ hd
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://vod.splay.uz/live_splay/original/Kinosemya/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺",СТС
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://5.188.221.43:8080/play/sts
+#EXTINF:-1 group-title="KINO+📺",Домашний
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://5.188.221.43:8080/play/domashniy
+#EXTINF:-1 group-title="KINO+📺",Film UA Drama
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://88.99.215.227/FilmUADrama/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Че!
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://5.188.221.43:8080/play/che
+#EXTINF:-1 group-title="KINO+📺",ТV 3
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://5.188.221.43:8080/play/tv3
+#EXTINF:-1 group-title="KINO+📺",Че
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://176.118.197.101/Che/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",ТV3
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://176.118.197.101/TB3/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",РОМАН
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://vod.tuva.ru/rusroman/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Пятница
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://5.188.221.43:8080/play/Pyatnica
+#EXTINF:-1 group-title="KINO+📺",Иллюзион
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://185.46.16.239:8000/Russkiy_Illyuzion
+#EXTINF:-1 group-title="KINO+📺",Премьера hd
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://vod.splay.uz/live_splay/original/Kinopremera/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺",Ретро sd
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://176.118.197.101/Retro/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",viju TV1000 R Kino
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://stream8.cinerama.uz/blocked/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",ТВ 1000HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://vod.splay.uz/live_splay/original/TV1000/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺",STAR CINEMA HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
+#EXTINF:-1 group-title="KINO+📺",Киносвидание HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://vod.splay.uz/live_splay/original/Kinosvidanie/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺",TNT International
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
+#EXTINF:-1 group-title="KINO+📺",Domashniy International
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
+#EXTINF:-1 group-title="Инет",ТНТ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://185.46.16.239:8000/TNT
+#EXTINF:-1 group-title="Инет",Моя планета HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://185.46.16.239:8000/Planeta_HD
+#EXTINF:-1 group-title="Инет",Доктор
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://185.46.16.239:8000/Doktor
+#EXTINF:-1 group-title="KINO+📺",STS International
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
+#EXTINF:-1 group-title="Инет",Живая планета
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://185.46.16.239:8000/Zhivaya_Planeta
+#EXTINF:-1 group-title="Инет",Домашний
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://185.46.16.239:8000/Domashniy
+#EXTINF:-1 group-title="Инет",ТВ3
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://185.46.16.239:8000/TV3
+#EXTINF:-1 group-title="Инет",Наука 2.0
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://185.46.16.239:8000/Nauka_2.0
+#EXTINF:-1 group-title="KINO+📺",Бел 3 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus3.smil/chunklist_b5160000_sleng.m3u8
+#EXTINF:-1 group-title="Инет",Пес и Ко
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://185.46.16.239:8000/Pes_i_Ko
+#EXTINF:-1 group-title="Инет",СТС
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://185.46.16.239:8000/STS
+#EXTINF:-1 group-title="Инет",Пятница
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://185.46.16.239:8000/Pyatnitsa
+#EXTINF:-1 group-title="Инет",Ю
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://185.46.16.239:8000/YU_TV
+#EXTINF:-1 group-title="Инет",Драйв
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://185.46.16.239:8000/Drayv
+#EXTINF:-1 group-title="KINO+📺",TNT4 International+4
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
+#EXTINF:-1 group-title="KINO+📺",Peretz International
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8
+#EXTINF:-1 group-title="Инет",Еврокино
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://185.46.16.239:8000/Yevrokino
+#EXTINF:-1 group-title="Инет",НАШЕ НОВОЕ КИНО
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://185.46.16.239:8000/Nickelodeon
+#EXTINF:-1 group-title="Инет",Роман
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://185.46.16.239:8000/Russkiy_roman
+#EXTINF:-1 group-title="Инет",Кинокомедия
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://185.46.16.239:8000/Fox_HD
+#EXTINF:-1 group-title="Инет",Киномикс
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://185.46.16.239:8000/Fox_Life_HD
+#EXTINF:-1 group-title="Инет",МузТВ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://185.46.16.239:8000/Muz_TV
+#EXTINF:-1 group-title="Инет",Cinema
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://185.46.16.239:8000/Cinema
+#EXTINF:-1 group-title="Инет",ТНТ Music
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://185.46.16.239:8000/Nashe_TV
+#EXTINF:-1 group-title="Инет",Шансон ТВ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://185.46.16.239:8000/Shanson
+#EXTINF:-1 group-title="Инет",Уникум
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://185.46.16.239:8000/Detskiy
+#EXTINF:-1 group-title="Инет",Мульт HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://185.46.16.239:8000/Mir_24
+#EXTINF:-1 group-title="Инет",Мульт
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://185.46.16.239:8000/Mult
+#EXTINF:-1 group-title="Инет",КАРУСЕЛЬ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://185.46.16.239:8000/Karusel
+#EXTINF:-1 group-title="Инет",В гостях у сказки HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://185.46.16.239:8000/V_gostyakh_u_skazki
+#EXTINF:-1 group-title="Инет",Солнце
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://185.46.16.239:8000/Disney_Channel
+#EXTINF:-1 group-title="Инет",Супергерои
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://185.46.16.239:8000/National_Geographic_HD
+#EXTINF:-1 group-title="Инет",Матч ТВ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://185.46.16.239:8000/Match_TV
+#EXTINF:-1 group-title="Инет",Ani
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://185.46.16.239:8000/Ani
+#EXTINF:-1 group-title="KINO+📺",Ностальгия
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
+#EXTINF:-1 group-title="Инет", Арена
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://185.46.16.239:8000/Match_Arena
+#EXTINF:-1 group-title="Инет", Игра
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://185.46.16.239:8000/Match_Igra
+#EXTINF:-1 group-title="Инет", Страна
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://185.46.16.239:8000/Match_Nash_Sport
+#EXTINF:-1 group-title="Инет",Бокс ТВ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://185.46.16.239:8000/Eurosport_1
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",ЗЖ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://185.57.68.33/40/index.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Моя Планета
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://vod.tuva.ru/myplanet/index.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Наука 2.0
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://vod.tuva.ru/nauka2/index.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Рыбалка
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://iptv.prosto.tv:7000/ch344/video.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Матч ТВ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://tv.tuva.ru/machtv/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",SETANTA SPORT 2 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",X-Stream
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://iptv.prosto.tv:7000/ch313/video.m3u8?secret=cledwwov
+#EXTINF:-1 group-title="SPORT 🏆",Матч ТВ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://31.131.141.195:8000/play/1030/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Eurosport 1 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Матч ТВ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://5.188.221.43:8080/play/match
+#EXTINF:-1 group-title="SPORT 🏆",SETANTA SPORT 1 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Motorvision TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+#EXTINF:-1 group-title="SPORT 🏆",Eurosport 2 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://vod.splay.uz/live_splay/original/Eurosport2HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Беларусь 5 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",CT SPORT HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",SPORT 1 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",SPORT 2 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://88.212.15.19/live/test_sport_2/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Eurosport 1 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://178.134.1.158:8081/eurosport/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",AYM HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4610
+#EXTINF:-1 group-title="SPORT 🏆",Turkmen Sport
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="Oracle Corporation_2",Уникум
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://158.101.222.193:88/georgia_play.php?id=unikum
+#EXTINF:-1 group-title="SPORT 🏆",Real Madrid
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",CANAL MOTOR
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",UFC Network
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Red Bull TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORT 🏆",Euro Sport 1 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://169.150.223.25/Eurosport1HD/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://stream-msk-14.ott.tricolor.tv/dtv/id794_MSKSG-PVR-1--Nash_khokkey1/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Euro Sport 2 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://169.150.223.25/Eurosport2HD/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Fight Network HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://169.150.223.25/FightNetwork/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 3
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://stream-msk-05.ott.tricolor.tv/dtv/id728_MSKSG-PVR-1--Nash_khokkey3/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",RAI 1 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://169.150.223.25/Rai1/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Rai 3 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://169.150.223.25/Rai3/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",RAI 2 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://169.150.223.25/Rai2/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Rai Sport HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://169.150.223.25/RaiSport/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Bein EXTRAS
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",ViP Sport 8 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://de.seetv.cc/play/5016/F153046F2E99D25/video.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",ViP Sport 10 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://de.seetv.cc/play/5018/F153046F2E99D25/video.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Sports Grid
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://sportsgrid-tribal.amagi.tv/playlist1080p.m3u8
+#EXTINF:0 tvg-name="Setanta Sports 1 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Setanta Sports 1 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/942/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Матч Премьер HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Матч Премьер HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/250/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Матч! Арена HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Матч! Арена HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/146/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Матч! Планета" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Матч! Планета
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/14/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Setanta Sports+ Ukraine" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Setanta Sports+ Ukraine
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/9957/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Матч Футбол 1" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Матч Футбол 1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/54/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Setanta Sports HD MD" group-title="TEST-SPORT 🏆",Setanta Sports HD MD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/11008/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Матч! Игра" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Матч! Игра
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/153/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Матч! HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Матч! HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/397/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Матч! Боец HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Матч! Боец HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/30/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Megogo Спорт HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",M Спорт HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/1001/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Матч Арена" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Матч Арена
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/136/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Суспільне Спорт" group-title="TEST-SPORT 🏆",Суспільне Спорт
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/316/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Setanta Sports Ukraine" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Setanta Sports Ukraine
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/1434/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Setanta Sports Premium HD" group-title="TEST-SPORT 🏆",Setanta Sports Premium HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/1650/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Матч! Футбол 1 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Матч! Футбол 1 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/260/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Матч! Футбол 2 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Матч! Футбол 2 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/271/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Матч ТВ" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Матч ТВ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/5/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Матч! Футбол 3 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Матч! Футбол 3 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/329/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="DiviSport" group-title="TEST-SPORT 🏆",DiviSport
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/315/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Dynamo Kyiv TV" group-title="TEST-SPORT 🏆",Dynamo Kyiv TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/8797/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Футбол HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Футбол HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/3920/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Окко Футбол HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Окко Футбол HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/7338/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Старт Триумф HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Старт Триумф HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/7375/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Окко Спорт HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Окко Спорт HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/7337/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Viju+ Sport" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Viju+ Sport
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/77/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Конный мир HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Конный мир HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/394/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Viju+ Sport HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Viju+ Sport HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/198/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="KHL Prime" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",KHL Prime
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/177/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Sport 1 UA" group-title="TEST-SPORT 🏆",Sport 1 UA
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/2638/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Мяч" group-title="TEST-SPORT 🏆",Мяч
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/1763/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="КХЛ" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",КХЛ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/149/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Мир Баскетбола" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Мир Баскетбола
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/8831/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Sport 3 UA HD" group-title="TEST-SPORT 🏆",Sport 3 UA HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/2640/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Авто Плюс" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Авто Плюс
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/29/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Extreme Sports" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Extreme Sports
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/53/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Sport 4 UA" group-title="TEST-SPORT 🏆",Sport 4 UA
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/2641/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Sport 2 UA" group-title="TEST-SPORT 🏆",Sport 2 UA
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/2639/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Спортивный" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Спортивный
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/6159/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="UDAR" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",UDAR
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/4111/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Авто 24" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Авто 24
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/256/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Xsport HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Xsport HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/480/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="UFC ТВ HD" group-title="TEST-SPORT 🏆",UFC ТВ HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/1777/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="MAINCAST SPORT " group-title="TEST-SPORT 🏆",MAINCAST SPORT
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/1994/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="FightBox" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",FightBox
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/8790/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="MMA-TV HD" group-title="TEST-SPORT 🏆",MMA-TV HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/3795/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="TRACE Sport Stars" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",TRACE Sport Stars
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/9907/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Sport+ Qazaqstan" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Sport+ Qazaqstan
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/1844/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Русский Экстрим" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Р Экстрим
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/345/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Fast&FunBox" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Fast&FunBox
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/8792/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Equalympic HD" group-title="TEST-SPORT 🏆",Equalympic HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/8788/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Q Arena" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Q Arena
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/1842/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="BeIN Sport 4 HD" group-title="TEST-SPORT 🏆",BeIN Sport 4 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/1104/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="UPL.TV HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",U.TV HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/523/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Q Sport League" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Q Sport League
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/1843/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="QazSport" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",QazSport
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/1841/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="BOX_SPORT_LIVE_3_HD" group-title="TEST-SPORT 🏆",BOX_SPORT_LIVE_3_HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/51015/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="BOX_SPORT_LIVE_7_HD" group-title="TEST-SPORT 🏆",BOX_SPORT_LIVE_7_HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/51019/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="BeIN Sport 3 HD" group-title="TEST-SPORT 🏆",BeIN Sport 3 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/1103/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="BeIN EXTRAS" group-title="TEST-SPORT 🏆",BeIN EXTRAS
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/1686/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="TNT Sport 2 HD" group-title="TEST-SPORT 🏆",TNT Sport 2 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/923/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="TNT Sport 3 HD" group-title="TEST-SPORT 🏆",TNT Sport 3 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/934/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Sky Sport Bundesliga HD" group-title="TEST-SPORT 🏆",Sky Sport Bundesliga HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/836/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Football Live 3" group-title="TEST-SPORT 🏆",Football Live 3
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/1706/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Football Live 4" group-title="TEST-SPORT 🏆",Football Live 4
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/1707/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="DAZN 1 DE" group-title="TEST-SPORT 🏆",DAZN 1 DE
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/803/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Football Live 1" group-title="TEST-SPORT 🏆",Football Live 1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/1704/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Movistar Formula 1" group-title="TEST-SPORT 🏆",Movistar Formula 1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/1121/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Football Live 5" group-title="TEST-SPORT 🏆",Football Live 5
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/1708/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Football Live 6" group-title="TEST-SPORT 🏆",Football Live 6
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/1709/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Football Live 7" group-title="TEST-SPORT 🏆",Football Live 7
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/1710/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Football Live 9" group-title="TEST-SPORT 🏆",Football Live 9
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/1712/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Football Live 8" group-title="TEST-SPORT 🏆",Football Live 8
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/1711/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Football Live 10" group-title="TEST-SPORT 🏆",Football Live 10
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/1713/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Football Live 11" group-title="TEST-SPORT 🏆",Football Live 11
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/1714/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 3" group-title="TEST-SPORT 🏆",VIP Sport 3
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/5011/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 1" group-title="TEST-SPORT 🏆",VIP Sport 1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/5009/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Football Live 12" group-title="TEST-SPORT 🏆",Football Live 12
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/1715/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 11" group-title="TEST-SPORT 🏆",VIP Sport 11
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/5019/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Football Live 13" group-title="TEST-SPORT 🏆",Football Live 13
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/1716/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 6" group-title="TEST-SPORT 🏆",VIP Sport 6
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/5015/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="ViP Sport 15" group-title="TEST-SPORT 🏆",ViP Sport 15
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/5023/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="FintGa 2" group-title="TEST-SPORT 🏆",FintGa 2
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/5029/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="ViP Sport 17" group-title="TEST-SPORT 🏆",ViP Sport 17
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/5025/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="betking live 1" group-title="TEST-SPORT 🏆",betking live 1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/5026/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Pimple 1" group-title="TEST-SPORT 🏆",Pimple 1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/5032/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="FintGa 4" group-title="TEST-SPORT 🏆",FintGa 4
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/5031/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="betking live 2" group-title="TEST-SPORT 🏆",betking live 2
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/5027/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="FintGa 3" group-title="TEST-SPORT 🏆",FintGa 3
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/5030/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Pimple 2" group-title="TEST-SPORT 🏆",Pimple 2
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/5033/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Pimple 4" group-title="TEST-SPORT 🏆",Pimple 4
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/5035/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="BOX SportCast Live 4 HD" group-title="TEST-SPORT 🏆",BOX SportCast Live 4 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/4227/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="BOX Be ON Edge 2 Live HD" group-title="TEST-SPORT 🏆",BOX Be ON Edge 2 Live HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/4214/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",СоюзМультфильм
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",Чип и Дейл
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:0 tvg-name="Pimple 5" group-title="TEST-SPORT 🏆",Pimple 5
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/5036/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Pimple 3" group-title="TEST-SPORT 🏆",Pimple 3
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/5034/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",2x2
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://5.188.221.43:8080/play/2x2
+#EXTINF:-1 group-title="CHILDREN'S",Детское кино International
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",Солнце
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://5.188.221.43:8080/play/disney
+#EXTINF:-1 group-title="CHILDREN'S",Карусель
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://5.188.221.43:8080/play/karusel
+#EXTINF:0 tvg-name="BOX SportCast Live 8 HD" group-title="TEST-SPORT 🏆",BOX SportCast Live 8 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/4234/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Diema Sport HD" group-title="TEST-SPORT 🏆",Diema Sport HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/51002/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="BOX SportCast Live 6 HD" group-title="TEST-SPORT 🏆",BOX SportCast Live 6 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/4232/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="МУЗИКА 🎶",Наше Радіо
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://online.nasheradio.ua/NasheRadio
+#EXTINF:0 tvg-name="BOX SportCast Live 7 HD" group-title="TEST-SPORT 🏆",BOX SportCast Live 7 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/4233/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="МУЗИКА 🎶",Nashe Radio UktTop100
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://online.nasheradio.ua/NasheRadio_Ukr_HD
+#EXTINF:0 tvg-name="BOX SportCast Live 5 HD" group-title="TEST-SPORT 🏆",BOX SportCast Live 5 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/4228/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="МУЗИКА 🎶",Высоцкий
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ic7.101.ru:8000/stream/pro/aac/64/58
+#EXTINF:-1 group-title="CHILDREN'S",HGTN
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://v2.catcast.tv/content/34251/index.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",Carousel International
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
+#EXTINF:-1 group-title="МУЗИКА 🎶",Музыка 1 International
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://kino-1.catcast.tv/content/37745/index.m3u8
+#EXTINF:-1 group-title="МУЗИКА 🎶",Наше Радіо Live
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://online.nasheradio.ua/NasheRadio_Live
+#EXTINF:-1 group-title="МУЗИКА 🎶", Музыка 2 International
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://kino-1.catcast.tv/content/37742/index.m3u8
+#EXTINF:0 tvg-name="SPORT TV 3 PT" group-title="TEST-SPORT 🏆",SPORT TV 3 PT
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/1970/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="SPORT TV + PT" group-title="TEST-SPORT 🏆",SPORT TV + PT
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/1967/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="МУЗИКА 🎶", Музыка Кино International
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://kino-1.catcast.tv/content/37739/index.m3u8
+#EXTINF:0 tvg-name="BOX SportCast Live 9 HD" group-title="TEST-SPORT 🏆",BOX SportCast Live 9 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/4235/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="SPORT TV 1 PT" group-title="TEST-SPORT 🏆",SPORT TV 1 PT
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/1968/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",Нікчемний Я 4 2024 професійний дубльований
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://calypso.tortuga.tw/content/stream/films/despicable.me.4.2024.bdremux.1080p.ledoyen.dub_102367/hls/1080/index.m3u8
+#EXTINF:-1 group-title="МУЗИКА 🎶",Ocko Star
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="МУЗИКА 🎶",Kronehit TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+#EXTINF:-1 group-title="МУЗИКА 🎶",Euro Indie Music Chart
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:0 tvg-name="DAZN 1 PT" group-title="TEST-SPORT 🏆",DAZN 1 PT
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/1978/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="МУЗИКА 🎶",Stingray Karaoke
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4591
+#EXTINF:0 tvg-name="SPORT TV 5 PT" group-title="TEST-SPORT 🏆",SPORT TV 5 PT
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/1972/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Clarity4K Единоборства" group-title="TEST-SPORT 🏆",Clarity4K Единоборства
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://gr.seetv.cc/play/4611/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="МУЗИКА 🎶",Кино- Последний концерт в Лужниках
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://v2.catcast.tv/videos/ch40908/171120210453_112762/video.mp4
+#EXTINF:-1 group-title="МУЗИКА 🎶",XPTV1 (720p)
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
+#EXTINF:-1 group-title="МУЗИКА 🎶",V2BEAT
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 group-title="МУЗИКА 🎶" ,Stingray Classic Rock
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="МУЗИКА 🎶",Музыка 1 International
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://autopilot.catcast.tv/content/37745/index.m3u8
+#EXTINF:-1 group-title="МУЗИКА 🎶",Музыка 2 International
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://autopilot.catcast.tv/content/37742/index.m3u8
+#EXTINF:-1 group-title="МУЗИКА 🎶" ,Stingray Easy Listening
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="МУЗИКА 🎶" ,Qello Concerts by Stingray
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="МУЗИКА 🎶" ,Stingray DJAZZ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="МУЗИКА 🎶",Radio 51
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
+#EXTINF:-1 group-title="МУЗИКА 🎶" ,Stingray Classica
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="МУЗИКА 🎶" ,Stingray CMusic
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="МУЗИКА 🎶" ,Stingray Hot Country
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="МУЗИКА 🎶" ,Stingray Flashback 70s
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="МУЗИКА 🎶" ,Stingray Holiday Hits
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="МУЗИКА 🎶" ,Stingray Hit List
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="МУЗИКА 🎶" ,Stingray Karaoke
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="МУЗИКА 🎶" ,Stingray Nothin' But 90s
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="МУЗИКА 🎶" ,Stingray Smooth Jazz
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="МУЗИКА 🎶" ,Stingray Urban Beat
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="МУЗИКА 🎶" ,Stingray Pop Adult
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="МУЗИКА 🎶" ,Stingray Romance Latino
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="МУЗИКА 🎶" ,Stingray Remember the 80s
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="МУЗИКА 🎶" ,Stingray Rock Alternative
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="ОБЩИЕ",Russischer Jahrmarkt
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://api.alpaca.t62a.com/hls/9104/stream0.m3u8
+#EXTINF:-1 group-title="Каналы с VPN" , IPTVPLAY ВЕДЬМАК
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="Каналы с VPN" tvg-logo="https://i.postimg.cc/D06WvJWn/1.png", IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="МУЗИКА 🎶" tvg-logo="http://epg.it999.ru/img/5606.png",Fresh HD AM
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
+#EXTINF:-1 group-title="Каналы с VPN",Alpha Cinema
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
+#EXTINF:-1 group-title="МУЗИКА 🎶" ,Stingray The Spa
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Alpha Moretime
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
+#EXTINF:-1 group-title="МУЗИКА 🎶" ,Stingray Today's Latin Pop
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="МУЗИКА 🎶" ,Stingray Soul Storm
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="МУЗИКА 🎶" ,Stingray Today's KPOP
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Кухня",Кулинар ТВ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
+#EXTINF:-1 group-title="РЕЛАКС- расслабление",КАМИН
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=83
+#EXTINF:-1 group-title="Сайт (VPN)",Galaxy
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://193.25.8.59:8000/galaxy
+#EXTINF:-1 group-title="Сайт (VPN)",Моя планета
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://193.25.8.59:8000/myplanet
+#EXTINF:-1 group-title="Tube (VPN)",Суббота
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=q4xsGy8TnfUPFTFDD_3rXw&e=2069025308&scheme=https
+#EXTINF:-1 group-title="Сайт (VPN)",Viasat Nature
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://193.25.8.59:8000/nature
+#EXTINF:-1 group-title="Сайт (VPN)",Охота и рыбалка
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://193.25.8.59:8000/ohota
+#EXTINF:-1 group-title="Сайт (VPN)",Наука 2.0
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://193.25.8.59:8000/nauka
+#EXTINF:-1 group-title="Сайт (VPN)",RTG HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://193.25.8.59:8000/rtg
+#EXTINF:-1 group-title="Tube (VPN)",ТВ3 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=_zWDufDGRenezSm6E8ANzA&e=2069025307&scheme=https
+#EXTINF:-1 group-title="Сайт (VPN)",Поехали!
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://193.25.8.59:8000/360
+#EXTINF:-1 group-title="Сайт (VPN)",DocuBox
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://193.25.8.59:8000/24Doc
+#EXTINF:-1 group-title="Сайт (VPN)", 2x2
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://193.25.8.59:8000/2x2
+#EXTINF:-1 group-title="Сайт (VPN)",Amedia 1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://193.25.8.59:8000/amedia1
+#EXTINF:-1 group-title="Сайт (VPN)",Amedia 2
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://193.25.8.59:8000/amedia2
+#EXTINF:-1 group-title="Сайт (VPN)",Fast & FunBox
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://193.25.8.59:8000/Avto24
+#EXTINF:-1 group-title="Сайт (VPN)",Дом Кино
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://193.25.8.59:8000/domkino
+#EXTINF:-1 group-title="Сайт (VPN)",Домашний
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://193.25.8.59:8000/dom
+#EXTINF:-1 group-title="Сайт (VPN)",Драйв
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://193.25.8.59:8000/drive
+#EXTINF:-1 group-title="Tube (VPN)",2x2
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=eWofWDwQI_B0AFGkcDgoqg&e=2069025308&scheme=https
+#EXTINF:-1 group-title="Tube (VPN)",Большая азия
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://bl.rutube.ru/livestream/495ab964b755baa2c9fc7481a2e40f7d/index.m3u8?s=LZZG87WMw98W8ZuRirIoHg&e=2069025310&scheme=https
+#EXTINF:-1 group-title="Tube (VPN)",Нано ТВ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://bl.rutube.ru/livestream/cf958b6c9ae4504be5fc2c1de358a017/index.m3u8?s=NygiHCjDYcg3tAfEG-Vx-Q&e=2069025311&scheme=https
+#EXTINF:-1 group-title="Tube (VPN)",Кинолаффка
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=8YY90HLlxvMJ4A42o6XEPQ&e=2069025312&scheme=https
+#EXTINF:-1 group-title="Сайт (VPN)",Еврокино
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://193.25.8.59:8000/eurokino
+#EXTINF:-1 group-title="Tube (VPN)",Загородный International
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=nzWYbyLaFbEOV1ssSSfh-g&e=2069025311&scheme=https
+#EXTINF:-1 group-title="Сайт (VPN)",Hollywood
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://193.25.8.59:8000/interaz
+#EXTINF:-1 group-title="Сайт (VPN)",СТС
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://193.25.8.59:8000/ESPN
+#EXTINF:-1 group-title="Сайт (VPN)",Мир сериала
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://193.25.8.59:8000/mirseriala
+#EXTINF:-1 group-title="Сайт (VPN)",Мужской
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://193.25.8.59:8000/muzhskoy
+#EXTINF:-1 group-title="Tube (VPN)",Охотник и рыболов
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=95GWNd5y2E5S5EVm6pL0Dg&e=2069025311&scheme=https
+#EXTINF:-1 group-title="Сайт (VPN)",НСТ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://193.25.8.59:8000/nst
+#EXTINF:-1 group-title="Сайт (VPN)",Усадьба
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://193.25.8.59:8000/usadba
+#EXTINF:-1 group-title="Tube (VPN)",Киножелезо
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=wod11mRaXXM5lbI2SvQ7VA&e=2069025312&scheme=https
+#EXTINF:-1 group-title="Сайт (VPN)",Че
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://193.25.8.59:8000/perec
+#EXTINF:-1 group-title="Сайт (VPN)",Outdoor
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://193.25.8.59:8000/outdoor
+#EXTINF:-1 group-title="Сайт (VPN)",Пятница
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://193.25.8.59:8000/pyatnitsa
+#EXTINF:-1 group-title="Сайт (VPN)",Ретро
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://193.25.8.59:8000/retro
+#EXTINF:-1 group-title="Сайт (VPN)",.Red
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://193.25.8.59:8000/set
+#EXTINF:-1 group-title="Сайт (VPN)",Timeless Dizi Channel
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://193.25.8.59:8000/tlc
+#EXTINF:-1 group-title="Сайт (VPN)",.Sci-Fi
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://193.25.8.59:8000/axn
+#EXTINF:-1 group-title="Сайт (VPN)",Золотая коллекция
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://193.25.8.59:8000/tnv
+#EXTINF:-1 group-title="Сайт (VPN)",TV1000 кино
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://193.25.8.59:8000/TV1000RU
+#EXTINF:-1 group-title="Сайт (VPN)",TV1000
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://193.25.8.59:8000/TV1000
+#EXTINF:-1 group-title="Сайт (VPN)",ТВ3
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://193.25.8.59:8000/tv3
+#EXTINF:-1 group-title="Сайт (VPN)",Ю
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://193.25.8.59:8000/u
+#EXTINF:-1 group-title="Сайт (VPN)",Время
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://193.25.8.59:8000/vremya
+#EXTINF:-1 group-title="Сайт (VPN)",TV XXI
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://193.25.8.59:8000/XXI
+#EXTINF:-1 group-title="Сайт (VPN)",Зоопарк
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://193.25.8.59:8000/zoo
+#EXTINF:-1 group-title="Сайт (VPN)",Карусель
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://193.25.8.59:8000/karusel
+#EXTINF:-1 group-title="Сайт (VPN)",Бобёр
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://193.25.8.59:8000/bober
+#EXTINF:-1 group-title="Сайт (VPN)", Футбол 1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://193.25.8.59:8000/fut
+#EXTINF:-1 group-title="Сайт (VPN)",Европа плюс ТВ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://193.25.8.59:8000/vh1
+#EXTINF:-1 group-title="Сайт (VPN)",KHL HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://193.25.8.59:8000/khl
+#EXTINF:-1 group-title="Сайт (VPN)",Арена
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://193.25.8.59:8000/sport1
+#EXTINF:-1 group-title="Сайт (VPN)",Viasat Sport
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://193.25.8.59:8000/viasatsport
+#EXTINF:-1 group-title="Tube (VPN)",Тайна
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=RAlLKrkj97-hq1uC62S2eQ&e=2069025312&scheme=https
+#EXTINF:-1 group-title="Сайт (VPN)",Роман
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://193.25.8.59:8000/rusroman
+#EXTINF:-1 group-title="Tube (VPN)",БелРос
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://bl.rutube.ru/livestream/46c03b7f1a7255326900f4a60a9b44e0/index.m3u8?s=Oow1sdCF0gO4fALFy3Y4-w&e=2069025317&scheme=https
+#EXTINF:-1 group-title="Сайт (VPN)",Футбол 3
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://193.25.8.59:8000/fut3
+#EXTINF:-1 group-title="♥18+",Private TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://79.127.207.193:80/Private/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",Hustler HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://79.127.207.193:80/Hustler/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",Dorcel HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://79.127.207.193:80/DorcelHD/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",DorcelHD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://169.150.223.25/DorcelHD/index.m3u8
+#EXTINF:-1 group-title="♥18+",Hustler HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://169.150.223.25/Hustler/index.m3u8
+#EXTINF:-1 group-title="♥18+",Private HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://169.150.223.25/Private/index.m3u8
+#EXTINF:-1 group-title="♥18+",FrenchLover
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://169.150.223.25/FrenchLover/index.m3u8
+#EXTINF:-1 group-title="♥18+",BangU
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://169.150.223.25/BangU/index.m3u8
+#EXTINF:-1 group-title="♥18+",RK TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://212.102.38.45/live/test_realitykings_sd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",Brazzers
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://212.102.38.45/live/test_brazzers_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",Leo TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",Desire
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://212.102.38.45/live/test_desire_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",Extasy 4K
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://212.102.38.45/live/test_extasy_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",Dorcel TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://212.102.38.45/live/test_dorcel_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",penthouse1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://185.98.209.11:81/penthouse1/index.m3u8?token=test
+#EXTINF:-1 group-title="♥18+",Eroxxx
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://212.102.38.45/live/test_eroxxx_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",penthouse2
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://185.98.209.11:81/penthouse2/index.m3u8?token=test
+#EXTINF:-1 group-title="♥18+",Erox
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://212.102.38.45/live/test_erox_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",Babes TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://212.102.38.45/live/test_basbes_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",PRIVATE
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://77.46.130.252:99/private
+#EXTINF:-1 group-title="♥18+",DORCEL
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://77.46.130.252:99/dorcel
+#EXTINF:-1 group-title="♥18+",Reality Kings TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",Digital Desire
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",Brazzers TV Europe
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",Dorcel TV HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",Eroxxx HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",Erox
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",Babes TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",Extasy TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",PINK EROTIC 8
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://webtvstream.bhtelecom.ba/pink_erotic8.m3u8
+#EXTINF:-1 group-title="♥18+",PINK EROTIC 3
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://webtvstream.bhtelecom.ba/pink_erotic3.m3u8
+#EXTINF:-1 group-title="♥18+",PINK EROTIC 5
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://webtvstream.bhtelecom.ba/pink_erotic5.m3u8
+#EXTINF:-1 group-title="♥18+",PINK EROTIC 6
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://webtvstream.bhtelecom.ba/pink_erotic6.m3u8
+#EXTINF:-1 group-title="♥18+",PINK EROTIC 7
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://webtvstream.bhtelecom.ba/pink_erotic7.m3u8
+#EXTINF:-1 group-title="♥18+",PINK EROTIC 1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://webtvstream.bhtelecom.ba/pink_erotic1.m3u8
+#EXTINF:-1 group-title="♥18+",PINK EROTIC 4
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://webtvstream.bhtelecom.ba/pink_erotic4.m3u8
+#EXTINF:-1 group-title="♥18+",PINK EROTIC 2
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://webtvstream.bhtelecom.ba/pink_erotic2.m3u8
+#EXTINF:-1 group-title="♥18+",  18+ zamuzhnyaya_no_raskreposhchennaya
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://video2.tizam.cc/files/2284674/zamuzhnyaya_no_raskreposhchennaya.mp4
+#EXTINF:-1 group-title="♥18+",  18+ 5_klyuchey_k_naslazhdeniyu_1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://video2.tizam.cc/files/1570634/5_klyuchey_k_naslazhdeniyu_1_cd.mp4
+#EXTINF:-1 group-title="♥18+",  18+Private 41
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://video1.tizam.cc/films/PrivateMovies41FuckyNewYear.mp4
+#EXTINF:-1 group-title="♥18+",  18+ Anita Dark Forever
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://video1.tizam.cc/films/anita_dark_navsegda.mp4
+#EXTINF:-1 group-title="♥18+",  18+ Кульминация Апокалипсиса
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://video1.tizam.cc/films/Apocalypse-Climax1.mp4
+#EXTINF:-1 group-title="♥18+",  18+ 5 ottenkov
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://video2.tizam.cc/files/2206650/5_ottenkov_privat___5_shades_of_private.mp4
+#EXTINF:-1 group-title="♥18+",  18+ Грязные люди на работе
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://video1.tizam.cc/films/DirtyMenAtWork.mp4
+#EXTINF:-1 group-title="♥18+",Compilation
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 group-title="♥18+",Rough
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 group-title="♥18+",Gangbang
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 group-title="♥18+",Blonde
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 group-title="♥18+",Brunette
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 group-title="♥18+",  18+ распутница
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://video2.tizam.cc/files/2215569/rasputnitsa___la_libertine.mp4
+#EXTINF:-1 group-title="♥18+",  18+ Torn
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://video1.tizam.cc/vk/Torn-Rus.mp4
+#EXTINF:-1 group-title="♥18+",Live Cams
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 group-title="♥18+",Russian
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 group-title="♥18+",Anal
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 group-title="♥18+",Threesome
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 group-title="♥18+",Russian r
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1 group-title="♥18+",Cuckold
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 group-title="♥18+",  18+ розовая тюрьма рус
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://video2.tizam.cc/files/2224405/rozovaya_tyurma___pink_prison__rus.mp4
+#EXTINF:-1 group-title="♥18+",Hardcore
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 group-title="♥18+",Blowjob
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 group-title="♥18+",POV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 group-title="♥18+",  18+ грязные_девушки
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://video1.tizam.cc/files/2492463/filthy_girls.mp4
+#EXTINF:-1 group-title="♥18+",Teen
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 group-title="♥18+",Big Ass
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 group-title="♥18+",Interracial
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 group-title="♥18+",  18+ расположение макета
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://video2.tizam.cc/files/1408676/raspolozhenie_layout__2007.mp4
+#EXTINF:-1 group-title="♥18+",Latina
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 group-title="♥18+",Fetish
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 group-title="♥18+",  18+ Роскошный 4
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://video1.tizam.cc/old_films/Luxurious4.mp4
+#EXTINF:-1 group-title="♥18+",MILF
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 group-title="♥18+",Big Dick
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 group-title="♥18+",Big Tits
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 group-title="♥18+",Pornstar
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 group-title="♥18+",Lesbian
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 group-title="♥18+",  18+ приключения робинзона крузо на острове греха
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://video2.tizam.cc/files/1623843/priklyucheniya_robinzona_kruzo_na_ostrove_greha.mp4
+#EXTINF:-1 group-title="♥18+",  18+ Schone Bescherung
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://video1.tizam.cc/films/Schone-Bescherung.mp4
+#EXTINF:-1 group-title="♥18+",  18+ Путь Рокко к любви
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://video1.tizam.cc/vk/Roccos-Way-To-Love.mp4
+#EXTINF:-1 group-title="♥18+",  18+ Роскошный 2
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://video1.tizam.cc/old_films/Luxurious2.mp4
+#EXTINF:-1 group-title="♥18+",  18+ Роскошный 5
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://video1.tizam.cc/old_films/Luxurious5.mp4
+#EXTINF:-1 group-title="♥18+",  18+ ревность
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://video2.tizam.cc/files/1408706/revnost__jalousie__1994.mp4
+#EXTINF:-1 group-title="♥18+",  18+ Роковая Орхидея 1 RUS
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://video1.tizam.cc/old_films/Fatal-Orchid-RUS.mp4
+#EXTINF:-1 group-title="♥18+",  18+ Роковая Орхидея 2 RUS
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://video1.tizam.cc/old_films/Fatal-Orchid-2-RUS.mp4
+#EXTINF:-1 group-title="♥18+", НЕВЕСТА
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://video2.tizam.cc/files/1940967/la_sposa__s_perevodom.mp4
+#EXTINF:-1 group-title="♥18+",tva-in-ua-4
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://ovhv47.twincdn.com/videos/49/49307/49307_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-in-ua-5
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://ovhv47.twincdn.com/videos/7/7316/7316_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-in-ua-6
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://ovhv47.twincdn.com/videos/7/7318/7318_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-in-ua-12
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://ovhv47.twincdn.com/videos/7/7325/7325_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-in-ua-3
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://ovhv47.twincdn.com/videos/48/48593/48593_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-in-ua-9
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://ovhv47.twincdn.com/videos/7/7322/7322_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-in-ua-8
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://ovhv47.twincdn.com/videos/7/7320/7320_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-in-ua--2
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://ovhv47.twincdn.com/videos/48/48591/48591_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-in-ua-7
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://ovhv47.twincdn.com/videos/7/7319/7319_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-in-ua-1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://ovhv47.twincdn.com/videos/48/48396/48396_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-in-ua-11
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://ovhv47.twincdn.com/videos/7/7324/7324_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-in-ua-10
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://ovhv47.twincdn.com/videos/7/7323/7323_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-in-ua-13
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://ovhv47.twincdn.com/videos/7/7326/7326_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-in-ua-14
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://ovhv47.twincdn.com/videos/7/7327/7327_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-in-ua-18
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://ovhv47.twincdn.com/videos/7/7332/7332_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-in-ua-19
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://ovhv47.twincdn.com/videos/7/7337/7337_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-in-ua-15
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://ovhv47.twincdn.com/videos/7/7328/7328_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-in-ua-20
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://ovhv47.twincdn.com/videos/7/7545/7545_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-in-ua-16
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://ovhv47.twincdn.com/videos/7/7329/7329_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-in-ua-17
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://ovhv47.twincdn.com/videos/7/7331/7331_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-x4
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://ovhv47.twincdn.com/videos/43/43390/43390_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-x9
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://ovhv47.twincdn.com/videos/42/42314/42314_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-xx1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://ovhv47.twincdn.com/videos/43/43392/43392_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-x2
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://ovhv47.twincdn.com/videos/43/43394/43394_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-x1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://ovhv47.twincdn.com/videos/43/43393/43393_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-x3
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://ovhv47.twincdn.com/videos/43/43395/43395_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-x6
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://ovhv47.twincdn.com/videos/43/43397/43397_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-x5
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://ovhv47.twincdn.com/videos/43/43389/43389_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-x11
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://ovhv47.twincdn.com/videos/42/42316/42316_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-x8
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://ovhv47.twincdn.com/videos/42/42313/42313_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-x14
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://ovhv47.twincdn.com/videos/42/42324/42324_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-x17
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://ovhv47.twincdn.com/videos/42/42333/42333_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-x7
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://ovhv47.twincdn.com/videos/43/43398/43398_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-x16
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://ovhv47.twincdn.com/videos/42/42331/42331_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-x12
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://ovhv47.twincdn.com/videos/42/42318/42318_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-x10
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://ovhv47.twincdn.com/videos/42/42315/42315_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-x15
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://ovhv47.twincdn.com/videos/42/42325/42325_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-x18
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://ovhv47.twincdn.com/videos/42/42335/42335_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-x19
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://ovhv47.twincdn.com/videos/42/42339/42339_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-x13
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://ovhv47.twincdn.com/videos/42/42321/42321_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-x22
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://ovhv47.twincdn.com/videos/42/42348/42348_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-x21
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://ovhv47.twincdn.com/videos/42/42347/42347_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-x24 G
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://ovhv47.twincdn.com/videos/45/45395/45395_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="👍♥♥♥ Pornohub",2
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s2.ebacdn.net/videos_ssd2/pornhub/6897cf0e117aa/pornhub_6897cf0e117aa.mp4
+#EXTINF:-1 group-title="♥18+",tva-x23
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://ovhv47.twincdn.com/videos/42/42356/42356_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="👍♥♥♥ Pornohub",5
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s2.ebacdn.net/videos_ssd1/pornhub/68f526e4215b5/pornhub_68f526e4215b5.mp4
+#EXTINF:-1 group-title="♥18+",tva-x20
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://ovhv47.twincdn.com/videos/42/42346/42346_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="👍♥♥♥ Pornohub",9
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s3.ebacdn.net/videos_ssd2/pornhub/684b65c8d1ecb/pornhub_684b65c8d1ecb.mp4
+#EXTINF:-1 group-title="👍♥♥♥ Pornohub",4
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s4.ebacdn.net/videos_ssd3/pornhub/67f7ff294db60/pornhub_67f7ff294db60.mp4
+#EXTINF:-1 group-title="👍♥♥♥ Pornohub",11
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s2.ebacdn.net/videos_ssd2/pornhub/68e7fa1797469/pornhub_68e7fa1797469.mp4
+#EXTINF:-1 group-title="👍♥♥♥ Pornohub",14
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s1.ebacdn.net/videos_ssd1/pornhub/68ca8261cd9b0/pornhub_68ca8261cd9b0.mp4
+#EXTINF:-1 group-title="👍♥♥♥ Pornohub",8
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s1.ebacdn.net/videos_ssd3/pornhub/68cd6aed70fd1/pornhub_68cd6aed70fd1.mp4
+#EXTINF:-1 group-title="👍♥♥♥ Pornohub",10
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s3.ebacdn.net/videos_ssd1/pornhub/68bf28621eddd/pornhub_68bf28621eddd.mp4
+#EXTINF:-1 group-title="👍♥♥♥ Pornohub",12
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s4.ebacdn.net/videos_ssd1/pornhub/688f051571078/pornhub_688f051571078.mp4
+#EXTINF:-1 group-title="👍♥♥♥ Pornohub",13
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s2.ebacdn.net/videos_ssd2/pornhub/68ba0134963cd/pornhub_68ba0134963cd.mp4
+#EXTINF:-1 group-title="👍♥♥♥ Pornohub",15
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s3.ebacdn.net/videos_ssd1/pornhub/688f8dff61589/pornhub_688f8dff61589.mp4
+#EXTINF:-1 group-title="👍♥♥♥ Pornohub",17
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s4.ebacdn.net/videos_ssd1/pornhub/6885fe1a8fb13/pornhub_6885fe1a8fb13.mp4
+#EXTINF:-1 group-title="Cloudflare_Inc",CPS Action HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://hls127.freeott.top:8080/CPS_Action/video.m3u8
+#EXTINF:-1 group-title="👍♥♥♥ Pornohub",19
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s3.ebacdn.net/videos_ssd1/pornhub/685418702ae6b/pornhub_685418702ae6b.mp4
+#EXTINF:-1 group-title="Cloudflare_Inc",CPS Comedy HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://hls127.freeott.top:8080/CPS_Comedy/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",CPS Fiction HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://hls127.freeott.top:8080/CPS_Fiction/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",CPS Drama HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://hls127.freeott.top:8080/CPS_Drama/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",CPS Fresh HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://hls127.freeott.top:8080/CPS_Fresh/video.m3u8
+#EXTINF:-1 group-title="👍♥♥♥ Pornohub",20
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s1.ebacdn.net/videos_ssd3/pornhub/6862390eef44d/pornhub_6862390eef44d.mp4
+#EXTINF:-1 group-title="Cloudflare_Inc",CPS Jackie Chan HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://hls127.freeott.top:8080/CPS_Jackie_Chan/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",CPS Investigation
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://hls127.freeott.top:8080/CPS_Investigation/video.m3u8
+#EXTINF:-1 group-title="👍♥♥♥ Pornohub",16
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s4.ebacdn.net/videos_ssd2/pornhub/68adc162bbcec/pornhub_68adc162bbcec.mp4
+#EXTINF:-1 group-title="👍♥♥♥ Pornohub",18
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s1.ebacdn.net/videos_ssd1/pornhub/64ef9b915ae87/pornhub_64ef9b915ae87.mp4
+#EXTINF:-1 group-title="Cloudflare_Inc",CPS Mix HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://hls127.freeott.top:8080/CPS_Mix/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",CPS Cartoon HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://hls127.freeott.top:8080/CPS_Cartoon/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",CPS Anime HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://hls127.freeott.top:8080/CPS_Anime/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",CPS Fresh UA HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://hls127.freeott.top:8080/CPS_Fresh_UA/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",КИНОСЕРИЯ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",КИНОПОКАЗ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
+#EXTINF:-1 group-title="👍♥♥♥ Pornohub",24
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s4.ebacdn.net/videos_ssd1/pornhub/680f40a25819a/pornhub_680f40a25819a.mp4
+#EXTINF:-1 group-title="Cloudflare_Inc",Кухня ТВ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://hls127.freeott.top:8080/Kuhnya_TV/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Хит HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://hls127.freeott.top:8080/XitHD/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",НСТ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://hls127.freeott.top:8080/HCTV/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Наш Киномир
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Amedia 1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://hls127.freeott.top:8080/Amedia_1/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Amedia 2
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://hls127.freeott.top:8080/Amedia_2_HD/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Про Любовь HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc", Золотая коллекция
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://hls127.freeott.top:8080/Mosfilm/video.m3u8
+#EXTINF:-1 group-title="👍♥♥♥ Pornohub",21
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s3.ebacdn.net/videos_ssd3/pornhub/66b345c77ecd1/pornhub_66b345c77ecd1.mp4
+#EXTINF:-1 group-title="Cloudflare_Inc",Индия
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://hls127.freeott.top:8080/Zee_Russia/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",VIP Megahit
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://hls127.freeott.top:8080/ViP_Megahit/video.m3u8
+#EXTINF:-1 group-title="👍♥♥♥ Pornohub",22
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s1.ebacdn.net/videos_ssd1/pornhub/68d374e700e36/pornhub_68d374e700e36.mp4
+#EXTINF:-1 group-title="👍♥♥♥ Pornohub",23
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s3.ebacdn.net/videos_ssd1/pornhub/67ee54a190b8d/pornhub_67ee54a190b8d.mp4
+#EXTINF:-1 group-title="Cloudflare_Inc",Футбол
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://hls127.freeott.top:8080/Football/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Bolt
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://hls127.freeott.top:8080/Bolt/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",RTG TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://hls127.freeott.top:8080/RTG_TV/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Дикий
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://hls127.freeott.top:8080/Dikiy/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Наука
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://hls127.freeott.top:8080/NAUKA/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Da Vinci
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Бобер
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://hls127.freeott.top:8080/Bober/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Gags Network
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",СТС Kids
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://hls127.freeott.top:8080/STS_Kids/video.m3u8
+#EXTINF:-1 group-title="Internet42 LLC", Bollywood HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://176.118.197.101/Bollywood_HD/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC", Cinema
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://176.118.197.101/Cinema/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC", НСТ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://176.118.197.101/HCT/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC", Дом Кино
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://176.118.197.101/Dom_kino/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC", Кинокомедия
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://176.118.197.101/Kinokomediya/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC", Кинопоказ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://176.118.197.101/Kinopokaz/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC", Родное кино
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://176.118.197.101/RodnoeKino/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC", Киномикс
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://176.118.197.101/Kinomix/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC", Киносерия
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://176.118.197.101/Kinoseria/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC", Комедия
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://176.118.197.101/Komediya/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC", Мир сериала
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://176.118.197.101/MirSeriala/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC", Любимое кино
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://176.118.197.101/LubimoeKino/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC", 2x2
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://176.118.197.101/2x2/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC", СТС
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://176.118.197.101/CTC/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC", Ностальгия
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://176.118.197.101/Nostalgiya/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC", Cartoon Network
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://176.118.197.101/Cartoon_Network/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC", KHL
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://176.118.197.101/KHL/index.m3u8
+#EXTINF:-1 group-title="тест",Amedia
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://45.145.32.13:20440/kinoliving/index.m3u8?token=test
+#EXTINF:-1 group-title="тест",Amedia Premium
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://45.145.32.13:20440/amedia_premium_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="тест",Amedia 2
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://45.145.32.13:20440/kineko/index.m3u8?token=test
+#EXTINF:-1 group-title="тест",Amedia Hit
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://45.145.32.13:20440/mama/index.m3u8?token=test
+#EXTINF:-1 group-title="тест",Bollywood HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://45.145.32.13:20440/bollywood_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="тест",Hollywood HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://45.145.32.13:20440/hollywood_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="тест",Flixsnip
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://45.145.32.13:20440/flixsnip/index.m3u8?token=test
+#EXTINF:-1 group-title="тест",Авто 24
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://45.145.32.13:20440/avto24/index.m3u8?token=test
+#EXTINF:-1 group-title="тест",Домашний
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://45.145.32.13:20440/domashnij/index.m3u8?token=test
+#EXTINF:-1 group-title="тест",Еврокино
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://45.145.32.13:20440/eurokino/index.m3u8?token=test
+#EXTINF:-1 group-title="тест",Мир сериала
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://45.145.32.13:20440/ctc_kids_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="тест",Пятница
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://45.145.32.13:20440/piatnica/index.m3u8?token=test
+#EXTINF:-1 group-title="тест",СТС
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://45.145.32.13:20440/ctc/index.m3u8?token=test
+#EXTINF:-1 group-title="тест",Карусель
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://45.145.32.13:20440/karusel/index.m3u8?token=test
+#EXTINF:-1 group-title="тест",Лапки Live
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://45.145.32.13:20440/unikum/index.m3u8?token=test
+#EXTINF:-1 group-title="тест",Gulli girl
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://45.145.32.13:20440/gulli_girl/index.m3u8?token=test
+#EXTINF:-1 group-title="тест",Travel+Adventure
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://45.145.32.13:20440/travel_adventure/index.m3u8?token=test
+#EXTINF:-1 group-title="тест",Mcm top
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://45.145.32.13:20440/mcm_top/index.m3u8?token=test
+#EXTINF:-1 group-title="тест",MMA TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://45.145.32.13:20440/mmatv/index.m3u8?token=test
+#EXTINF:-1 group-title="тест",Матч HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://45.145.32.13:20440/match_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="тест",sport Игра
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://45.145.32.13:20440/match_igra/index.m3u8?token=test
+#EXTINF:-1 group-title="тест",sport Боец
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://45.145.32.13:20440/match_boets/index.m3u8?token=test
+#EXTINF:-1 group-title="тест",sport Арена
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://45.145.32.13:20440/match_arena/index.m3u8?token=test
+#EXTINF:-1 group-title="тест",sport Игра HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://45.145.32.13:20440/match_igra_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="тест",sport Страна
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://45.145.32.13:20440/match_strana/index.m3u8?token=test
+#EXTINF:-1 group-title="тест",sport Футбол 1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://45.145.32.13:20440/match_football1/index.m3u8?token=test
+#EXTINF:-1 group-title="тест",МузТВ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://45.145.32.13:20440/muz_tv/index.m3u8?token=test
+#EXTINF:-1 group-title="тест",sport Футбол 1 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://45.145.32.13:20440/match_futbol_1_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="тест",sport Футбол 2
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://45.145.32.13:20440/match_football2/index.m3u8?token=test
+#EXTINF:-1 group-title="тест",sport Футбол 2 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://45.145.32.13:20440/match_futbol_2_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="тест",sport Футбол 3
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://45.145.32.13:20440/match_football3/index.m3u8?token=test
+#EXTINF:-1 group-title="тест",sport Футбол 3 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://45.145.32.13:20440/match_futbol_3_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="тест",Мир баскетбола
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://45.145.32.13:20440/mir_basketbola/index.m3u8?token=test
+#EXTINF:-1 group-title="тест",Матч ТВ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://45.145.32.13:20440/match/index.m3u8?token=test
+#EXTINF:-1 group-title="тест",Tiji
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://45.145.32.13:20440/tiji/index.m3u8?token=test

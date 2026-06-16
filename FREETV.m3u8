@@ -1,0 +1,784 @@
+#EXTM3U url-tvg="http://epg.one/epg.xml; http://rafail1982.uz/uzbekistan1.xml; http://uztv.su/uploads/channelsarch/channels.xml; https://iptvx.one/EPG_NOARCH; http://gabbarit.drm-play.com/epg_lite.xml.gz; http://epg.cdntv.online/lite.xml; http://epg.it999.ru/epg.xml; http://iptv-content.rv77.pw/guide-lite.xml" tvg-shift="+5" refresh="86400"
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/rus.png" group-title="Российские",НТВ +1
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://cdn.ntv.ru/ntv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ Право.png" group-title="Российские",НТВ Право
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://cdn.ntv.ru/th_pravo/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ +4.png" group-title="Российские",НТВ +4
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://cdn.ntv.ru/ntv4/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/NEXO.png" group-title="NEXO",NEXO
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://rafail1982.uz/nexo2.mp4
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/NexoIPTV.png" group-title="NEXO",NexoIPTV
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://rafail1982.uz/NexoIPTV.mp4
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/rus.png" group-title="Российские",Неизвестная Россия
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://cdn.ntv.ru/unknown_russia/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ +2.png" group-title="Российские",НТВ +2
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://cdn.ntv.ru/ntv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ HD.png" group-title="Российские",НТВ HD
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://cdn.ntv.ru/ntv0/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ +7.png" group-title="Российские",НТВ +7
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://cdn.ntv.ru/ntv7/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ Сериал.png" group-title="Российские",НТВ Сериал
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://cdn.ntv.ru/th_serial/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ Стиль.png" group-title="Российские",НТВ Стиль
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://cdn.ntv.ru/th_hit/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ Хит.png" group-title="Российские",НТВ Хит
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://cdn.ntv.ru/th_style/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/360.png" group-title="Российские",360
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/360.png" group-title="Российские",360
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/360 HD.png" group-title="Российские",360 HD
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/360 HD.png" group-title="Российские",360 HD
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/360 Новости.png" group-title="Российские",360 Новости
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/2.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/360 Новости.png" group-title="Российские",360 Новости
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/360 Новости HD.png" group-title="Российские",360 Новости HD
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/360 Новости HD.png" group-title="Российские",360 Новости HD
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Вместе-РФ.png" group-title="Российские",Вместе-РФ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Звезда.png" group-title="Российские",Звезда
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Звезда HD.png" group-title="Российские",Звезда HD
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир HD.png" group-title="Российские",Мир HD
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 +2.png" group-title="Российские",Россия 1 +2
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1.png" group-title="Российские",Россия 1
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/rus.png" group-title="Российские",Россия 1 +7
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 +4.png" group-title="Российские",Россия 1 +4
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/rus.png" group-title="Российские",Россия 1 +9
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/rus.png" group-title="Российские",Россия 1 +1
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/rus.png" group-title="Российские",Россия 1 +3
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/3/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир 24 HD.png" group-title="Российские",Мир 24 HD
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 +8.png" group-title="Российские",Россия 1 +8
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/rus.png" group-title="Российские",Россия 1 +5
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир 24.png" group-title="Российские",Мир 24
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://194.143.148.28:8080/Mir24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 +6.png" group-title="Российские",Россия 1 +6
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТВЦ.png" group-title="Российские",ТВЦ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/oplot2.png" group-title="ОПЛОТ",Север
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://live2.mediacdn.ru/sr1/sever/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/oplot2.png" group-title="ОПЛОТ",Радио Харьков Z
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://node1.craftradio.ru:8000/215_55AE795B
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/oplot2.png" group-title="ОПЛОТ",Краснодар HD
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/oplot2.png" group-title="ОПЛОТ",Конгресс ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://live-3.otcnet.ru/congresstv/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/RTД.png" group-title="ОПЛОТ",RTД
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Союз.png" group-title="ОПЛОТ",Союз
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/oplot2.png" group-title="ОПЛОТ",Муз Союз
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ЕГЭ ТВ.png" group-title="ОПЛОТ",ЕГЭ ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://tv.streams.baikal-telecom.net:8080/RT_DOC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/oplot2.png" group-title="ОПЛОТ",UNIVER HD
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://cdn.universmotri.ru/live/univer.sdp_1080p/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Белгород 24.png" group-title="ОПЛОТ",Белгород 24
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/oplot2.png" group-title="ОПЛОТ",Просвещение
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",312 Kino
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/oplot2.png" group-title="ОПЛОТ",TV Губерния
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/oplot2.png" group-title="ОПЛОТ",Радость Моя
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/oplot2.png" group-title="ОПЛОТ",ВМЕСТЕ:РФ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/oplot2.png" group-title="ОПЛОТ",Известия Воронеж
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA/variant.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Брянская Губерния.png" group-title="ОПЛОТ",Брянская Губерния
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BRYANSK_BRGRUBER/variant.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kino2.png" group-title="Фильмовые",ОК ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://v4.proofix.ru/okino-tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/КИНО ТВ.png" group-title="Фильмовые",КИНО ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинеко.png" group-title="Фильмовые",Кинеко
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://31.148.48.15/Kineko/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/oplot2.png" group-title="ОПЛОТ",News Front TV
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://tv.2kita.com/stream/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",10 канал
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://live-10chanel.cdnvideo.ru/10chanel/streamtr_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",12 Канал
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://gtrkomsk-live.cdnvideo.ru/gtrkomsk/gtrkomsk.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",12 Канал HD
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",11 канал
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://85.234.33.63/stream/c11.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",4 канал Екатеринбург
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/oplot2.png" group-title="ОПЛОТ",Кубань 24
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/oplot2.png" group-title="ОПЛОТ",Радио Z
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://node1.craftradio.ru:8003/201_EFA53E54
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Феникс плюс Кино.png" group-title="Фильмовые",Феникс плюс Кино
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://188.113.190.15/24/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",12 Канал
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://12channel.bonus-tv.ru/cdn/12channel/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",8 Канал
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://v4.proofix.ru:80/8tv-russia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",GLN 24
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://serv25.vintera.tv:8081/gelendzhik/stream_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",8 Канал Новосибирск
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://live-8knsk.cdnvideo.ru/8knsk/stream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Sochi 24
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",OVAA TV
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://tv.tuva.ru/ovaa/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Sochi Live
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",TV Губерния
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",TV Аист
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://141.101.205.134:8080/hls/tvaist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Арис 24
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Аист ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",41 Регион
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://s14131.cdn.ngenix.net/hls/CH_R02_OTT_DV_KAM_41REG_OTT/variant.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",АСТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://dpoiyvp3kma.a.trbcdn.net/astv24/astv24.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",АТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://hls.atvmedia.ru/atv800.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Архыз 24.png" group-title="Региональные",Архыз 24
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://live.mediacdn.ru/sr1/arhis24/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",АТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://hls.atvmedia.ru/atv.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Архыз 24 HD
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://live.mediacdn.ru/sr1/arhis24/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",6ТВ Хабаровск
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_6TV/variant.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/БСТ.png" group-title="Региональные",БСТ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://bsttv.bonus-tv.ru:80/cdn/bst/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",6ТВ Хабаровск
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_6TVKMS/variant.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",8 канал Владивосток
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_OTT8KANAL/variant.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",ВТК 41 Аргус
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://4kfp3cm483g.a.trbcdn.net/livemaster/753nqiuemp_VTC-41/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/БСТ HD.png" group-title="Региональные",БСТ HD
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://bsttv.bonus-tv.ru:80/cdn/hdbst/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Ветта 24
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Байкал Универ ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://stream01.bgu.ru:8081/1/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Вестник Надыма
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://0werof7ib0p.a.trbcdn.net/livemaster/6r10qa9k6d_trknadym.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Башкортостан 24.png" group-title="Региональные",Башкортостан 24
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://109.233.169.137/540/b24-540.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Башкортостан 24 HD.png" group-title="Региональные",Башкортостан 24 HD
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://109.233.169.137/hls/b24-hls.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Волга.png" group-title="Региональные",Волга
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1024x576@1272/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Волга.png" group-title="Региональные",Волга
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",ДимГрад 24
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://live-3.otcnet.ru/dimgrad/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Девятка ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://devyatka.iptv2022.com/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Енисей
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Запад 24 HD
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://live-vestikaliningrad.cdnvideo.ru/vestikaliningrad/vestikaliningrad.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Волга 24
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://live-nntv2.cdnvideo.ru/nntv2/vremyan/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Известия.png" group-title="Региональные",Известия
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://stream.tvbelgorod.ru:8080/izvestiya/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",К16
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Дагестан ТВ HD
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Красная линия ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Колыма Плюс ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://tw2ywfm7jbp.a.trbcdn.net/livemaster/w91n1qa6dh_kolymaplus_live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Дагестан ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdlow.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Краснодар ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Krasnodar/hls/1024x576@1272/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Краснодар ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Krasnodar/hls/1920x1080@4504/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Краснодар ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://live-tvkrasnodar-soc.cdnvideo.ru/tvkrasnodar-soc/social/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Крик ТВ.png" group-title="Региональные",Крик ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://cdn-01.bonus-tv.ru/kriktv_edge/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Крик ТВ.png" group-title="Региональные",Крик ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Грозный ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://edge-tv-ll.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Камчатка 1
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_KAMCHATKA/variant.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Карибу ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://s20441.cdn.ngenix.net/hls/CH_R49_OTTKARIBU/variant.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Колыма Плюс
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_KOLYMA/variant.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Мамонт ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://live-saha.cdnvideo.ru/saha2/mamont_live.smil/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Мамонт ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://live-saha.cdnvideo.ru/saha2/mamont_live.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир Белогорья.png" group-title="Региональные",Мир Белогорья
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://stream.tvbelgorod.ru:8080/mirbelogorya/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Мордовия 24
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",НВК Саха
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://live-saha.cdnvideo.ru/saha2/saha_live.smil/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Матур ТВ HD
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://213.59.128.165:8080/Matur_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Мамонт ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://live-saha.cdnvideo.ru/saha/mamont/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Муром ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://62.76.73.38/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",НВК Саха HD
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://live-saha.cdnvideo.ru/saha2/saha_live.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",ННТ Махачкала
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://iptv46.mcx-ix.ru:8077/nnttv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Нижний Новгород 24
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://live-vestinn.cdnvideo.ru/vestinn/nn24/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",НВК Саха HD
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Новое ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",ННТ Махачкала HD
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://iptv46.mcx-ix.ru:8077/nnttv_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Ника TV
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Новый Век
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1024x576@1200/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Новый Век HD
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",ОТВ Прим
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",ННТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://live-nntv2.cdnvideo.ru/nntv2/cfd99gu0ai_nntv_tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",ОТС
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_OTC_ap1f55f482a2df2bede07c661806c4eb/hls/1024x576@1272/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",ОТС HD
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_OTC_ap1f55f482a2df2bede07c661806c4eb/hls/1920x1080@4504/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый Псковский.png" group-title="Региональные",Первый Псковский
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://live-3.otcnet.ru/pskov/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Первый Ростовский
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://rost.mediacdn.ru/cdn/rostov1/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Первый Ростовский HD
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://rost.mediacdn.ru/cdn/rostov1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Прима ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1024x576@1272/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Прибой ТВ HD
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://iptv46.mcx-ix.ru:8077/priboy_tv_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Прима ТВ HD
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Продвижение.png" group-title="Региональные",Продвижение
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://origin5.mediacdn.ru/live/prodvizhenie_new/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Продвижение.png" group-title="Региональные",Продвижение
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Kolpashevo/hls/1024x576@1272/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",ОТВ При м
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_OTV/variant.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Продвижение.png" group-title="Региональные",Продвижение
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://83.166.243.97:8081/ltv1TNT/1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",ОТВ Сахалин
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://s14553.cdn.ngenix.net/hls/CH_R65_OTT_DV_SLIN_OTV_SLIN/variant.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Продвижение.png" group-title="Региональные",Продвижение
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://video2.tvkkolpashevo.ru:8060/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",РБК ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://online-video.rbc.ru/spb/3/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Рика ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Сампо ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://iptv-hls.karelia.pro/streams/Sampo360/stream.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Саров 24
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://serv30.vintera.tv:8081/sarov/sarov_stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Саратов 24
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://109.248.11.19:8081/web/c24/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Север ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://live2.mediacdn.ru/sr1/sever/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Продвижение.png" group-title="Региональные",Продвижение
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://188.113.190.13/25/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Свое ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://live.stv24.tv:8080/svoetv/LQ_video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Сибай ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://stvserver.sibaytv.ru:10082/canals/canal1/stream.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",ТВ Студия Факт
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://042auhsnh0x.a.trbcdn.net/livemaster/lezlkenzbx_TV_Studia_Fakt/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",ТВК
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",ТИВИСИ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://zrnr369ssda.a.trbcdn.net/livemaster/rpwpuqsjap_tvstv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",ТВЧ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://live.tvchernomorsk.cdnvideo.ru/tvchernomorsk/tvchernomorsk.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",ТКР
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Продвижение.png" group-title="Региональные",Продвижение
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://s34351.cdn.ngenix.net/hls/CH_R14_PROMOYKTS/variant.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",ТВК HD
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://air.tvk6.ru/tvk/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Татарстан 24
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://tele2dvrnat01-02.cdnvideo.ru/stream/TatTVR_tat24_bf1f738079c0cf5c4a67893c16bceda9/hls/1024x576@1272/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Татарстан 24 HD
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://tele2dvrnat01-02.cdnvideo.ru/stream/TatTVR_tat24_bf1f738079c0cf5c4a67893c16bceda9/hls/1920x1080@4504/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Толк ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://live-tolknews.cdnvideo.ru/tolknews/stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Тува 24
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://tv.tuva.ru/tuva24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Тооку ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Тюменское Время
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Экспресс ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://fhtrc6b9861.a.trbcdn.net/livemaster/zolwjjzp0b_testtrk/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Эфир ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://tele2dvrnat01-02.cdnvideo.ru/stream/TatTVR_efir_d7b0c774f668d0652d2f435f03f2ef8a/hls/1024x576@1272/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Эфир ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://tele2dvrnat01-02.cdnvideo.ru/stream/TatTVR_efir_chelny/hls/1024x576@1272/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Эфир ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://tele2dvrnat01-02.cdnvideo.ru/stream/TatTVR_efir_chelny/hls/1280x720@2704/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Тува 24
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://s93498.cdn.ngenix.net/hls/CH_R01_TUVA24/variant.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Эхо ТВ.png" group-title="Региональные",Эхо ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Эхо ТВ 24
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://stream.novouralsk-news.ru/echotv24/echotv24-576p.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Югра ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Якутия 24.png" group-title="Региональные",Якутия 24
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://live-saha.cdnvideo.ru/saha2/yak24rtmp_live.smil/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Учалы ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://s45177.cdn.ngenix.net/hls/CH_R02_UCHALYTV/variant.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Якутия 24 HD
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://live-saha.cdnvideo.ru/saha2/yak24rtmp_live.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Якутия 24 HD
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://live-saha.cdnvideo.ru/saha/yak24rtmp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Хабаровск ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_HABAROVSK/variant.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Региональные",Тында ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://s84942.cdn.ngenix.net/hls/CH_R28_TYNDATV/variant.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/2x2.png" group-title="Детские",2x2
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://31.148.48.15/2x2/tracks-v2a2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",312
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://176.126.166.43:1935/live/312musik/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные",555 Hunt Fishing TV
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные",555 Hunt Fishing TV HD
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://193.169.178.29:8081/podsekaiTV/chanelHD1080/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",МУЗ ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://stream1.cinerama.uz/1200/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Kronehit TV
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1228000.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Kronehit TV HD
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Шансон ТВ.png" group-title="Музыкальные",Шансон ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Новое Радио ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://hls-video01.cdnvideo.ru/video01/video01_480.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Новое Радио ТВ HD
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://hls-video01.cdnvideo.ru/video01/hDvideo01-0O.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/edu2.png" group-title="Познавательные",Первый Космический
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://stream1.cinerama.uz/1415/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/edu2.png" group-title="Познавательные",Viju History
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://stream1.cinerama.uz/1046/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Другие",7 TV
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://v4.proofix.ru:80/7tv-live/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Другие",8 Канал International
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://v4.proofix.ru:80/8tv-europe/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Luxury.png" group-title="Другие",Luxury
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://s1.tv-nano.com/Luxury_rec/tracks-v3a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Luxury HD.png" group-title="Другие",Luxury HD
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://s1.tv-nano.com/Luxury_rec/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Nano.png" group-title="Другие",Nano
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://s1.tv-nano.com/Nano_rec/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Другие",WFC HD
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://live-3.otcnet.ru/wfcrus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Другие",WFC
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://cdn.wfc.tv/cdn/stream-rus-720p.m3u8
+#EXTINF:-1 group-title="Другие",WFC HD
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
+#EXTINF:-1 group-title="Другие",WFC International
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://cdn.wfc.tv/cdn/stream-eng-720p.m3u8
+#EXTINF:-1 group-title="Другие",WFC International HD
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/БелРос.png" group-title="Другие",БелРос
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
+#EXTINF:-1 group-title="Другие",Витрина ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://v4.proofix.ru:80/vitrina-live/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/КТК.png" group-title="Другие",КТК
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://89.218.30.37/ktklive/live.hq/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Калейдоскоп ТВ.png" group-title="Другие",Калейдоскоп ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
+#EXTINF:-1 group-title="Другие",Конгресс ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://live-3.otcnet.ru/congresstv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Другие",Магнат ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://s1.tv-nano.com/Magnat/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/RT.png" group-title="Другие",RT
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://hugh.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist_DVR.m3u8
+#EXTINF:-1 group-title="Другие",Магнат ТВ HD
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://s1.tv-nano.com/Magnat/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Другие",КТК HD
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://89.218.30.37/ktklive/live.hd/playlist.m3u8
+#EXTINF:-1 group-title="Другие",КТК HD
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Другие",МТРК
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://tvcdn01.esilnet.kz/tv/mtrk/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Другие",Мегаполис ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://megapolis.iptv2022.com/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Открытый мир.png" group-title="Другие",Открытый мир
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://v4.proofix.ru/0mir/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Радость моя.png" group-title="Другие",Радость моя
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="Другие",РЖД ТВ HD
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/РЖД ТВ.png" group-title="Другие",РЖД ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Другие",НТМ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:-1 group-title="Другие",Про жизнь
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://27trk.iptv2022.com/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Другие",Страна FM ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Другие",СТВ Беларусь
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Другие",ТНВ Планета
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://planeta.mediacdn.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Другие",Среда ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://iptv46.mcx-ix.ru:8077/sreda/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Другие",СИ ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://lifecam.sigma-ktv.ru/ctv/tracks-v2a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Другие",СИ ТВ HD
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://lifecam.sigma-ktv.ru/ctv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Другие",СИ ТВ Ещё
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://lifecam.sigma-ktv.ru/eshche/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Другие",ТНВ Планета
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://origin5.mediacdn.ru/live/tnvplaneta/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Другие",ТРК Евразия
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8
+#EXTINF:-1 group-title="Другие",ТРК Евразия
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Театр.png" group-title="Другие",Театр
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://195.26.83.96:7005/play/16/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Другие",Честный детектив
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="Другие",Туган Тел HD
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://streamer.rtcommufa.ru:1935/tugantel/hd/playlist.m3u8
+#EXTINF:-1 group-title="Другие",Честный детектив
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Телекафе.png" group-title="Другие",Телекафе
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://31.148.48.15:80/Telekafe/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Другие",ТСТ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://5.183.155.8:88/stream.m3u8
+#EXTINF:-1 group-title="Другие",Тивиком
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://stream.trafjam.ru/tvcom/studio/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Другие",Туган Тел HD
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://213.59.128.165:8080/Tugantel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/MIXM TV.png" group-title="Другие",MIXM TV
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://89.179.247.144/hls/mixm.m3u8
+#EXTINF:-1 group-title="Другие",A21 Network - NM TV
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://tv.a21network.ru/stream/40650/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Другие",A21 Network
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://tv.a21network.ru/stream/37909/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Другие",ЮУрГУ ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://tvrlive.susu.ru/1800k/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир +2.png" group-title="Другие",Мир +2
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
+#EXTINF:-1 group-title="Другие",Первый Медицинский канал
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://rq3qltxnbx1.a.trbcdn.net/livemaster/8hwxnq4s0v_efir0_tcode1080p/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир +7.png" group-title="Другие",Мир +7
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
+#EXTINF:-1 group-title="Другие",Телемикс
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://s91030.cdn.ngenix.net/hls/CH_R25_TMX/variant.m3u8
+#EXTINF:-1 group-title="Другие",Радио Kids FM
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8
+#EXTINF:-1 group-title="Другие",Радио Краснодар
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar2/tvkrasnodarradio/playlist.m3u8
+#EXTINF:-1 group-title="Другие",Радио Мелодия
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://live-mediaaliance2.cdnvideo.ru/mediaaliance2/mediaaliance2/playlist.m3u8
+#EXTINF:-1 group-title="Другие",Радио Город FM
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://www.gorodfm.ru/hls/test.m3u8
+#EXTINF:-1 group-title="Другие",Радио Спутник
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
+#EXTINF:-1 group-title="Другие",Твое ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://tvoetv.space:8080/tvoetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Другие",Твое ТВ Юмор
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://tvoetv.space:8080/tvoetv_humor/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Другие",Радио MCM
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://194.143.148.28:8080/MCM/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Другие",Радио Юмор FM
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://player.humorfm.by/mylive/humStudio-low/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Другие",Страна FM ТВ HD
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8

@@ -1,0 +1,1111 @@
+#EXTM3U url-tvg="http://epg.one/epg.xml; http://rafail1982.uz/uzbekistan1.xml; http://uztv.su/uploads/channelsarch/channels.xml; https://iptvx.one/EPG_NOARCH; http://gabbarit.drm-play.com/epg_lite.xml.gz; http://epg.cdntv.online/lite.xml; http://epg.it999.ru/epg.xml; http://iptv-content.rv77.pw/guide-lite.xml" tvg-shift="+5" refresh="86400"
+#EXTINF:-1 group-title="SMOTRIM",Звезда FD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1.png" group-title="SMOTRIM",Россия 1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://109.207.243.18/2/index.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Звезда FD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Звезда HD.png" group-title="SMOTRIM",Звезда HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Звезда HD.png" group-title="SMOTRIM",Звезда HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Звезда.png" group-title="SMOTRIM",Звезда
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 24.png" group-title="SMOTRIM",Россия 24
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://31.148.48.15:80/Rossiya_24/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый Канал.png" group-title="SMOTRIM",Первый Канал
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://31.148.48.15:80/Pervii_kanal_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1.png" group-title="SMOTRIM",Россия 1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://31.148.48.15:80/Rossiya_1_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Звезда.png" group-title="SMOTRIM",Звезда
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Известия.png" group-title="SMOTRIM",Известия
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Известия HD.png" group-title="SMOTRIM",Известия HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v2a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир 24.png" group-title="SMOTRIM",Мир 24
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://194.143.148.28:8080/Mir24/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Известия.png" group-title="SMOTRIM",Известия
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Известия.png" group-title="SMOTRIM",Известия
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый Канал.png" group-title="SMOTRIM",Первый Канал
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://stream8.cinerama.uz/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Звезда.png" group-title="SMOTRIM",Звезда
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Известия.png" group-title="SMOTRIM",Известия
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Звезда.png" group-title="SMOTRIM",Звезда
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Звезда.png" group-title="SMOTRIM",Звезда
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Кварц ТВ HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://109.94.1.3:8080/25/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Известия.png" group-title="SMOTRIM",Известия
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",360.RU
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/2.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир 24.png" group-title="SMOTRIM",Мир 24
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://cdn4.skygo.mn/live/disk1/MIR/HLSv3-FTA/MIR.m3u8
+#EXTINF:-1 group-title="SMOTRIM",360.RU
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/CBC.png" group-title="SMOTRIM",CBC
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/cbc.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Тюменское время
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo001/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",КРИК-ТВ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",КРИК-ТВ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn-01.bonus-tv.ru:80/kriktv_edge/index.m3u8
+#EXTINF:-1 group-title="SMOTRIM",КРИК-ТВ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",DW Russian
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
+#EXTINF:-1 group-title="SMOTRIM",КРИК-ТВ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn-01.bonus-tv.ru/kriktv_edge/index.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Deutsche Welle Russia
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
+#EXTINF:-1 group-title="SMOTRIM",DW Russian
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/stream05/streamPlaylist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",КРИК-ТВ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир.png" group-title="SMOTRIM",Мир
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир.png" group-title="SMOTRIM",Мир
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир 24.png" group-title="SMOTRIM",Мир 24
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир 24.png" group-title="SMOTRIM",Мир 24
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир 24.png" group-title="SMOTRIM",Мир 24
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир 24.png" group-title="SMOTRIM",Мир 24
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/РБК.png" group-title="SMOTRIM",РБК
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://31.148.48.15:80/RBK/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/РБК.png" group-title="SMOTRIM",РБК
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://e6.online.video.rbc.ru/online2/rbctv_480p/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/РБК.png" group-title="SMOTRIM",РБК
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+#EXTINF:-1 group-title="SMOTRIM",ТАТАРСТАН 24
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://tele2dvrnat01-02.cdnvideo.ru/stream/TatTVR_tat24_bf1f738079c0cf5c4a67893c16bceda9/hls/1920x1080@4504/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",360.RU
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/mono.m3u8
+#EXTINF:-1 group-title="SMOTRIM",360.RU
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",РБК FD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/РБК.png" group-title="SMOTRIM",РБК
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
+#EXTINF:-1 group-title="SMOTRIM",РБК FD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://online-video.rbc.ru/spb/3/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/РБК.png" group-title="SMOTRIM",РБК
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/РБК.png" group-title="SMOTRIM",РБК
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://online-video.rbc.ru/online2/rbctv.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/РБК.png" group-title="SMOTRIM",РБК
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://online.video.rbc.ru/online2/rbctv_1080p/index.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Россия 24 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://77.232.131.211/Rossiya24/index.m3u8
+#EXTINF:-1 group-title="SMOTRIM",9 КАНАЛ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/20.m3u8
+#EXTINF:-1 group-title="SMOTRIM",360.RU
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",360.RU
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="SMOTRIM",РБК FD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://online-video.rbc.ru/spb/rbctv_spb.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/РБК.png" group-title="SMOTRIM",РБК
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://e8-online-video.rbc.ru/online2/rbctvhd_480p/index.m3u8
+#EXTINF:-1 group-title="SMOTRIM",ОСН
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Al Jazeera.png" group-title="SMOTRIM",Al Jazeera
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://live-hls-web-ajm.getaj.net/AJM/01.m3u8
+#EXTINF:-1 group-title="SMOTRIM",ОСН
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://osnmedia.servicecdn.ru/streams/17603_88089/480n/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Al Jazeera.png" group-title="SMOTRIM",Al Jazeera
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://live-hls-web-aja.getaj.net/AJA/01.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Deutsche Welle
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",ОСН HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://osnmedia.servicecdn.ru/streams/17603_88089/720n/index.m3u8
+#EXTINF:-1 group-title="SMOTRIM",ОСН
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
+#EXTINF:-1 group-title="SMOTRIM",France 24 Fr
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Africa 24
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://edge11.vedge.infomaniak.com/livecast/ik:africa24/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",BBC NEWS ARABIC
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv10/b=1604032/main.m3u8
+#EXTINF:-1 group-title="SMOTRIM",BBC News Persian
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv10/b=1604032/main.m3u8
+#EXTINF:-1 group-title="SMOTRIM",BBC News HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Africa News HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/РБК.png" group-title="SMOTRIM",РБК
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://e3-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/РБК.png" group-title="SMOTRIM",РБК
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://e8-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8
+#EXTINF:-1 group-title="SMOTRIM",France 24 Eng
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="SMOTRIM",CNN International HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="SMOTRIM",CCTV14 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://cdn4.skygo.mn/live/disk1/CCTV-14/HLSv3-FTA/CCTV-14.m3u8
+#EXTINF:-1 group-title="SMOTRIM",BBC News HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+#EXTINF:-1 group-title="SMOTRIM",France 24 Esp
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="SMOTRIM",DW Español
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
+#EXTINF:-1 group-title="SMOTRIM",RT Deutsch
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://rt-ger.rttv.com/dvr/rtdeutsch/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="SMOTRIM",RT Balkan
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://rt-srb.rttv.com/dvr/rtbalkan/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="SMOTRIM",НАСТОЯЩЕЕ ВРЕМЯ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
+#EXTINF:-1 group-title="SMOTRIM",RT Deutsch
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",RT France
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://rt-fra.rttv.com/dvr/rtfrance/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="SMOTRIM",RT Español
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="SMOTRIM",RT Español
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",RT العربية
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Arirang Korea FD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Al Jazeera HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Al Jazeera HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
+#EXTINF:-1 group-title="SMOTRIM",RT العربية
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://rt-arb.rttv.com/dvr/rtarab/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="SMOTRIM",ПЯТНИЦА!
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/181.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТС Love.png" group-title="SMOTRIM",СТС Love
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://31148.rafail1982.uz/STS_Love/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТС.png" group-title="SMOTRIM",СТС
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/138.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТС Love.png" group-title="SMOTRIM",СТС Love
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://31.148.48.15:80/STS_Love/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТС Love.png" group-title="SMOTRIM",СТС Love
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/183.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТВЦ.png" group-title="SMOTRIM",ТВЦ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТВЦ.png" group-title="SMOTRIM",ТВЦ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://185.71.81.6:8080/10/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТНТ4.png" group-title="SMOTRIM",ТНТ4
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://31.148.48.15/TNT4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТВЦ.png" group-title="SMOTRIM",ТВЦ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/12ed865707c77a12eeecfa3177775684--tvc-res--vd9221_480p_2--tracks-v1a1--mono.m3u8
+#EXTINF:-1 group-title="SMOTRIM",ЧЕ!
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://31148.rafail1982.uz/Che/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТНТ.png" group-title="SMOTRIM",ТНТ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/135.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТВЦ.png" group-title="SMOTRIM",ТВЦ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/RT News.png" group-title="SMOTRIM",RT News
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://hugh.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist_DVR.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТНТ4.png" group-title="SMOTRIM",ТНТ4
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/106.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТВ3.png" group-title="SMOTRIM",ТВ3
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/136.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Звезда.png" group-title="SMOTRIM",Звезда
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://vod.tuva.ru:8080/zvezda/index.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Мир FD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Мир FD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Мир FD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Звезда.png" group-title="SMOTRIM",Звезда
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://vod.tuva.ru/zvezda/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТВЦ.png" group-title="SMOTRIM",ТВЦ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Мир FD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Мир FD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Voice Of America
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Мир FD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТС.png" group-title="SMOTRIM",СТС
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://94.230.128.107:8080/CTC/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Пятница!.png" group-title="SMOTRIM",Пятница!
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://vod.tuva.ru/friday/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия К.png" group-title="SMOTRIM",Россия К
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://31.148.48.15/TDK/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Пятница!.png" group-title="SMOTRIM",Пятница!
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://vod.tuva.ru/friday/index.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Пятница! International
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый канал.png" group-title="SMOTRIM",Первый канал
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdntv.online/high/47eurvkpm6/608.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Рен ТВ International 1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТС International.png" group-title="SMOTRIM",СТС International
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Домашний International HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый канал.png" group-title="SMOTRIM",Первый канал
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdntv.online/high/47eurvkpm6/1.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТНТ4.png" group-title="SMOTRIM",ТНТ4
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_7/variant.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТНТ International.png" group-title="SMOTRIM",ТНТ International
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Пятница! International
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
+#EXTINF:-1 group-title="SMOTRIM",ТНТ4 International
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
+#EXTINF:-1 group-title="SMOTRIM",РЕН ТВ International HD 1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
+#EXTINF:-1 group-title="SMOTRIM",TV BRICS HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://chibrics.mediacdn.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1.png" group-title="SMOTRIM",Россия 1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://live.chechensoft.ru:1935/vainahtv/vaynahtv/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",TV BRICS HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://engbrics.mediacdn.ru/cdn/brics/english/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТС International.png" group-title="SMOTRIM",СТС International
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
+#EXTINF:-1 group-title="SMOTRIM",TV BRICS HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://espbrics.mediacdn.ru/cdn/brics/spanish/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SMOTRIM",TV BRICS HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://porbrics.mediacdn.ru/cdn/brics/portuguese/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Домашний International
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
+#EXTINF:-1 group-title="SMOTRIM",TV BRICS HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",TV BRICS
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://origin5.mediacdn.ru/live/brics/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТНТ International.png" group-title="SMOTRIM",ТНТ International
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
+#EXTINF:-1 group-title="SMOTRIM",TV BRICS
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://brics.bonus-tv.ru/cdn/brics/russian/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",ТНТ4 International
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
+#EXTINF:-1 group-title="SMOTRIM",TV BRICS HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",ВМЕСТЕ:РФ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",ПРНК HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://serv25.vintera.tv:8081/1pnk/prnk/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",TV BRICS
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/РЖД ТВ.png" group-title="SMOTRIM",РЖД ТВ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",TV BRICS
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/РЖД ТВ.png" group-title="SMOTRIM",РЖД ТВ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",TVM Channel
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn-01.bonus-tv.ru/tvm_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="SMOTRIM",TVM Channel
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn-01.bonus-tv.ru/tvm_edge/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",TV PRO FD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://rtmp.tvpro-online.ru/hls/ch1.m3u8
+#EXTINF:-1 group-title="SMOTRIM",OVAA TV HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://vod.tuva.ru/ovaa/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Санкт-Петербург.png" group-title="SMOTRIM",Санкт-Петербург
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://31.148.48.15:80/Sankt_Peterburg/index.m3u8
+#EXTINF:-1 group-title="SMOTRIM",TV BRICS
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",TV BRICS HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",OVAA TV HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://tv.tuva.ru/ovaa/index.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Сочи24 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",БЕЛАРУСЬ 24
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://178.124.179.122:8080/Belarus24/index.m3u8
+#EXTINF:-1 group-title="SMOTRIM",ВМЕСТЕ:РФ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/РЖД ТВ.png" group-title="SMOTRIM",РЖД ТВ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://hls-tva.cdnvideo.ru/tva/tvahd.sdp/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Беларусь 24.png" group-title="SMOTRIM",Беларусь 24
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://31.148.48.15:80/Belarus_24/index.m3u8
+#EXTINF:-1 group-title="SMOTRIM",БЕЛРОС FD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",БЕЛРОС FD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
+#EXTINF:-1 group-title="SMOTRIM",ЭХО ТВ FD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",КРАСНОДАР
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/БелРос.png" group-title="SMOTRIM",БелРос
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",СТВ FD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://86.57.147.236/HLS/ctvby/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",БЕЛРОС FD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://live.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
+#EXTINF:-1 group-title="SMOTRIM",БЕЛРОС FD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://live3.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТВ HD.png" group-title="SMOTRIM",СТВ HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://edge50.dc.beltelecom.by/ctv/ctv.stream/chunklist_b5160000_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТВ HD.png" group-title="SMOTRIM",СТВ HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТВ HD.png" group-title="SMOTRIM",СТВ HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://edge53.dc.beltelecom.by/ctv/_definst_/ctv.stream/chunklist_w1093126388.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТВ HD.png" group-title="SMOTRIM",СТВ HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТВ HD.png" group-title="SMOTRIM",СТВ HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://ngtrk.dc.beltelecom.by/ctv/_definst_/ctv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТВ HD.png" group-title="SMOTRIM",СТВ HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://edge56.dc.beltelecom.by/ctv/_definst_/ctv.stream/chunklist_w357074489.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТВ HD.png" group-title="SMOTRIM",СТВ HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://edge50.dc.beltelecom.by/ctv/ctv.stream/chunklist_b5160000_sleng.m3u8
+#EXTINF:-1 group-title="SMOTRIM", СТВ HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://edge55.dc.beltelecom.by/ctv/_definst_/ctv.stream/chunklist_w1789650572.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТВ HD.png" group-title="SMOTRIM",СТВ HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://ngtrk.dc.beltelecom.by/ctv/ctv.stream/chunklist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Репортер HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",ITV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn10.live-tv.od.ua:8081/itvrv/abr-lq/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",ITV HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn10.live-tv.od.ua:8081/itvrv/720p/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",ITV HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СК1.png" group-title="SMOTRIM",СК1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr-lq/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",СК1 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",СK1 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Сфера ТВ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn10.live-tv.od.ua:8081/sferarv/sferarv-abr/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Сфера ТВ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn10.live-tv.od.ua:8081/sferarv/360p/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Сфера ТВ HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn10.live-tv.od.ua:8081/sferarv/720p/chunks.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Сфера ТВ HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn10.live-tv.od.ua:8081/sferarv/720p/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Перший міський
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://91.194.79.46:8081/stream2/channel2/chunks.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Перший міський
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://91.194.79.46:8081/stream2/channel2/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Масон ТВ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://195.189.60.253/mason_tv_hd/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТРК Круг.png" group-title="SMOTRIM",ТРК Круг
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr-lq/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Перший міський
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://91.194.79.46:8081/stream1/channel1/chunks.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Закон ТВ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://195.189.60.253/zakon_tv_hd/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТРК Круг.png" group-title="SMOTRIM",ТРК Круг
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn1.live-tv.od.ua:8081/krugod/krugod/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТРК Круг.png" group-title="SMOTRIM",ТРК Круг
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr/krugod/krugod/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Перший міський
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",1+1 International HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/105.m3u8
+#EXTINF:-1 group-title="SMOTRIM",1+1 Марафон HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/172.m3u8
+#EXTINF:-1 group-title="SMOTRIM",EWTN
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Інтер HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/174.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Інтер+ HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/345.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/1+1 Україна HD.png" group-title="SMOTRIM",1+1 Україна HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/219.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Суспiльне Київ HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/439.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Zoom HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/327.m3u8
+#EXTINF:-1 group-title="SMOTRIM",2+2 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/173.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Новий канал HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/157.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ICTV 2 HD.png" group-title="SMOTRIM",ICTV 2 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/368.m3u8
+#EXTINF:-1 group-title="SMOTRIM",ICTV HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/158.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Дім HD.png" group-title="SMOTRIM",Дім HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/383.m3u8
+#EXTINF:-1 group-title="SMOTRIM",К2 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/324.m3u8
+#EXTINF:-1 group-title="SMOTRIM",НТН HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/326.m3u8
+#EXTINF:-1 group-title="SMOTRIM",KVARTAL TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/321.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Суспiльне Культура HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/435.m3u8
+#EXTINF:-1 group-title="SMOTRIM",К1 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/270.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Уніан HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/341.m3u8
+#EXTINF:-1 group-title="SMOTRIM",ОЦЕ HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/329.m3u8
+#EXTINF:-1 group-title="SMOTRIM",36,6 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/331.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТБ HD.png" group-title="SMOTRIM",СТБ HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/156.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Кус-Кус HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/195.m3u8
+#EXTINF:-1 group-title="SMOTRIM",PV+ HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/397.m3u8
+#EXTINF:-1 group-title="SMOTRIM",24 канал HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/145.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Дача HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/370.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Бiгудi.png" group-title="SMOTRIM",Бiгудi
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/340.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Чемодан HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/399.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Мега HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/325.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Масон ТВ HD.png" group-title="SMOTRIM",Масон ТВ HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/346.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Терра
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/402.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Трофей HD.png" group-title="SMOTRIM",Трофей HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/357.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Enter-фільм HD.png" group-title="SMOTRIM",Enter-фільм HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/322.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Фауна.png" group-title="SMOTRIM",Фауна
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/401.m3u8
+#EXTINF:-1 group-title="SMOTRIM",FILMUADRAMA HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/273.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Соль ТВ HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/398.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Наука.png" group-title="SMOTRIM",Наука
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/403.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Bolt HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/73.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/KinoKazka HD.png" group-title="SMOTRIM",KinoKazka HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/167.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Піксель HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/323.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ПлюсПлюс HD.png" group-title="SMOTRIM",ПлюсПлюс HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/339.m3u8
+#EXTINF:-1 group-title="SMOTRIM",6 Соток HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/405.m3u8
+#EXTINF:-1 group-title="SMOTRIM",М1 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/218.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/7 канал.png" group-title="SMOTRIM",7 канал
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/27.m3u8
+#EXTINF:-1 group-title="SMOTRIM",М2 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/330.m3u8
+#EXTINF:-1 group-title="SMOTRIM",InRating HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/147.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/КТК.png" group-title="SMOTRIM",КТК
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://wz-kt.ktk.kz/ktklive/live.lq/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",31 Канал
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/388.m3u8
+#EXTINF:-1 group-title="SMOTRIM",КТК HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://wz-kt.ktk.kz/ktklive/live.hq/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",КТК HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://89.218.30.37/ktklive/live.hq/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Silk Way.png" group-title="SMOTRIM",Silk Way
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
+#EXTINF:-1 group-title="SMOTRIM",КТК HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://89.218.30.37/ktklive/live.hd/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",КТК HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/chunklist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",КТК HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/chunklist_b6128000_slrus.m3u8
+#EXTINF:-1 group-title="SMOTRIM",КТК HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://wz-kt.ktk.kz/ktklive/live.hd/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",МТРК
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Новое телевидение HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",МТРК
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://tvcdn01.oktv.kz/tv/mtrk/index.m3u8
+#EXTINF:-1 group-title="SMOTRIM",МТРК
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://tvcdn01.esilnet.kz/tv/mtrk/index.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Мир Kz
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
+#EXTINF:-1 group-title="SMOTRIM",312 Кино
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Новое телевидение HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://live.zhanafm.kz:8080/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b_output_0.m3u8
+#EXTINF:-1 group-title="SMOTRIM",312 Кино
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://176.126.166.43:1935/live/312kino/chunklist_w164832369.m3u8
+#EXTINF:-1 group-title="SMOTRIM",312 Сериал
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://176.126.166.43:1935/live/312musik/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",312 Сериал
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://176.126.166.43:1935/live/312musik/chunklist_w1516016500.m3u8
+#EXTINF:-1 group-title="SMOTRIM",МАНАС HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://212.42.111.152:8080/hls/manas.m3u8
+#EXTINF:-1 group-title="SMOTRIM",1 არხი HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SMOTRIM",1 არხი განათლება HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SMOTRIM",МТРК
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://tvcdn01.oktv.kz/tv/mtrk/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SMOTRIM",РИКА ТВ HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Солнечный ТВ HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://fl.biztv.media/stv_720_bizstvvietfujeyrah/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Armenia Premium 6 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://timeshift.arpinet.am/255/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="SMOTRIM", LIVETVAZ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://tv.mobyservice.ru/livetv/index.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Мир Kz
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://tvcdn01.oktv.kz/tv/mir/index.m3u8
+#EXTINF:-1 group-title="SMOTRIM",ТДК 42 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://live-tdk42kz.cdnvideo.ru/tdk42kz/tdk42kz_720.smil/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",EL TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://85.132.53.162:1935/live/eltv/chunklist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",LIVETV HD ru
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://tv.mobyservice.ru/livetv/index.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Imedi HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://tv.cdn.xsg.ge/imedihd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ARB 24.png" group-title="SMOTRIM",ARB 24
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
+#EXTINF:-1 group-title="SMOTRIM",1TV GEORGIA HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Semerkand TV HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Luys TV HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",ARB HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
+#EXTINF:-1 group-title="SMOTRIM",ARB Gunes
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ictimai TV.png" group-title="SMOTRIM",Ictimai TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/ictimai-tv.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Formula HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://tv.cdn.xsg.ge/c4635/TVFormula/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Formula HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://c4635.cdn.xsg.ge/c4635/TVFormula/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Space TV.png" group-title="SMOTRIM",Space TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Baku.TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
+#EXTINF:-1 group-title="SMOTRIM",USArmenia HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://livestream.usatv.com/hls/m3u8/USARMENIA_NET1080.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Amga HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Русский Иллюзион.png" group-title="SMOTRIM",Русский Иллюзион
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://31.148.48.15:80/Russkiy_illusion/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ретро.png" group-title="SMOTRIM",Ретро
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/191.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Palitra News
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://live.palitranews.ge/hls/palitratv/index.m3u8
+#EXTINF:-1 group-title="SMOTRIM",КиноСезон HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://stitch.teletarget.ru/vintera/movieseason/1764950731551101ef187a38512cd3d3db48c1eca37527e836ab81636ac589b9/lvl1.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Живая Планета.png" group-title="SMOTRIM",Живая Планета
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/83.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/RTG HD.png" group-title="SMOTRIM",RTG HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://31.148.48.15:80/RTG_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Travel+Adventure.png" group-title="SMOTRIM",Travel+Adventure
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://77.232.131.211/TravelAdventureHD/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Наше HD.png" group-title="SMOTRIM",Наше HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/217.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Китай ТВ HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Наша Тема HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://live-3.otcnet.ru/nashatema/index.m3u8
+#EXTINF:-1 group-title="SMOTRIM",DW العربية
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Terra
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://31.148.48.15/Terra/index.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Terra HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://31.148.48.15/Terra_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Travel+Adventure.png" group-title="SMOTRIM",Travel+Adventure
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/206.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/RT News.png" group-title="SMOTRIM",RT News
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Победа.png" group-title="SMOTRIM",Победа
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://cdn4.skygo.mn/live/disk1/Pobeda/HLSv3-FTA/Pobeda.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Телепутешествия.png" group-title="SMOTRIM",Телепутешествия
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://31148.rafail1982.uz/Teleputeshestviya/index.m3u8
+#EXTINF:-1 group-title="SMOTRIM",360.RU FD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="SMOTRIM",360.RU FD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="SMOTRIM",360.RU
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Logovo Films
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://stream.ushba.tv/akamaiushba/ushba-films-a/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/RT News.png" group-title="SMOTRIM",RT News
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
+#EXTINF:-1 group-title="SMOTRIM",360.RU FD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Nano.png" group-title="SMOTRIM",Nano
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://s1.tv-nano.com/Nano_rec/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Investigation Discovery HD.png" group-title="SMOTRIM",Investigation Discovery HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/205.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Точка.РФ HD.png" group-title="SMOTRIM",Точка.РФ HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/161.m3u8
+#EXTINF:-1 group-title="SMOTRIM",360.RU
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
+#EXTINF:-1 group-title="SMOTRIM",H2 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/65.m3u8
+#EXTINF:-1 group-title="SMOTRIM",RT Док HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://rt-doc.rttv.com/dvr/rtdru/rtdru720.m3u8
+#EXTINF:-1 group-title="SMOTRIM",UNIVER FD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",RT Док HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
+#EXTINF:-1 group-title="SMOTRIM",UNIVER FD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn.universmotri.ru/live/univer.sdp_576p/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",UNIVER FD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn.universmotri.ru/live/smil:mbr.smil/chunklist_b1328000_slru.m3u8
+#EXTINF:-1 group-title="SMOTRIM",RT Док HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",UNIVER HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn.universmotri.ru/live/hq.sdp/chunklist_w1792531.m3u8
+#EXTINF:-1 group-title="SMOTRIM",RT Doc HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="SMOTRIM",UNIVER HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",UNIVER HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn.universmotri.ru/live/univer.sdp_1080p/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",360.RU
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1.m3u8
+#EXTINF:-1 group-title="SMOTRIM",UNIVER HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn.universmotri.ru/live/smil:mbr.smil/chunklist_b3628000_slru.m3u8
+#EXTINF:-1 group-title="SMOTRIM",RT Doc HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",UNIVER HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://cdn.universmotri.ru/live/smil:univer.smil/chunklist_w911267907_b3628000_slru.m3u8
+#EXTINF:-1 group-title="SMOTRIM",360.RU
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
+#EXTINF:-1 group-title="SMOTRIM",RT Doc HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="SMOTRIM",7TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://v4.proofix.ru:80/7tv-live/index.m3u8
+#EXTINF:-1 group-title="SMOTRIM",7TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://v4.proofix.ru/7tv-live/index.m3u8
+#EXTINF:-1 group-title="SMOTRIM", 8 канал
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://v4.proofix.ru/8tv-russia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SMOTRIM",8 Канал
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://v4.proofix.ru/8tv-russia/index.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Тонус
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://31.148.48.15:80/Zdorovie/index.m3u8
+#EXTINF:-1 group-title="SMOTRIM",RT Doc HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Охотник и Рыболов HD.png" group-title="SMOTRIM",Охотник и Рыболов HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/194.m3u8
+#EXTINF:-1 group-title="SMOTRIM",8 канал
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://v4.proofix.ru:80/8tv-russia/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Усадьба.png" group-title="SMOTRIM",Усадьба
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/211.m3u8
+#EXTINF:-1 group-title="SMOTRIM",8 канал International
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://v4.proofix.ru/8tv-europe/index.m3u8
+#EXTINF:-1 group-title="SMOTRIM",8 канал International
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://v4.proofix.ru:80/8tv-europe/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Калейдоскоп ТВ.png" group-title="SMOTRIM",Калейдоскоп ТВ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",360.RU
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ностальгия.png" group-title="SMOTRIM",Ностальгия
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://31.148.48.15:80/Nostalgiya/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мульт HD.png" group-title="SMOTRIM",Мульт HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://31.148.48.15:80/Mult_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мультиландия.png" group-title="SMOTRIM",Мультиландия
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://31.148.48.15:80/Multilandiya/index.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Мульт и музыка
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://31.148.48.15:80/Multimuzika/index.m3u8
+#EXTINF:-1 group-title="SMOTRIM",UNIVER HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",UNIVER HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://cdn.universmotri.ru/live/smil:univer.smil/chunklist_w720990141_b3628000_slru.m3u8
+#EXTINF:-1 group-title="SMOTRIM",UNIVER HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мульт HD.png" group-title="SMOTRIM",Мульт HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/232.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Рыжий.png" group-title="SMOTRIM",Рыжий
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://31.148.48.15:80/Rizhiy/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Рыжий.png" group-title="SMOTRIM",Рыжий
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://31148.rafail1982.uz/Rizhiy/index.m3u8
+#EXTINF:-1 group-title="SMOTRIM",360.RU
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Мульт и музыка
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://ott.watch/stream/6HAPZWKKG3/82.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Шансон ТВ.png" group-title="SMOTRIM",Шансон ТВ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТС Kids HD.png" group-title="SMOTRIM",СТС Kids HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://31148.rafail1982.uz/STS_Kids_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТС Kids HD.png" group-title="SMOTRIM",СТС Kids HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://31.148.48.15:80/STS_Kids_HD/index.m3u8
+#EXTINF:-1 group-title="SMOTRIM",DSTV HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://46.249.95.140:8081/hls/data.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Mr. Bean
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://fl1003.bozztv.com/ushba45/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SMOTRIM",RTL 102.5 Best HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://streamcdng2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/chunklist_b3256000.m3u8
+#EXTINF:-1 group-title="SMOTRIM",КРАСНАЯ ЛИНИЯ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/POWER TV HD.png" group-title="SMOTRIM",POWER TV HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+#EXTINF:-1 group-title="SMOTRIM",Красная Линия
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
