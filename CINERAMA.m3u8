@@ -1,565 +1,184 @@
 #EXTM3U url-tvg="http://epg.one/epg.xml; http://rafail1982.uz/uzbekistan1.xml; http://uztv.su/uploads/channelsarch/channels.xml; https://iptvx.one/EPG_NOARCH; http://gabbarit.drm-play.com/epg_lite.xml.gz; http://epg.cdntv.online/lite.xml; http://epg.it999.ru/epg.xml; http://iptv-content.rv77.pw/guide-lite.xml" tvg-shift="+5" refresh="86400"
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Zo'r TV HD.png" group-title="STREAM-1",Zo'r TV HD
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1016/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинохит.png" group-title="STREAM-1",Кинохит
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1055/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Uz Sport.png" group-title="STREAM-1",Uz Sport
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1004/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/iTV Music.png" group-title="STREAM-1",iTV Music
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/4001/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Qiziq TV.png" group-title="STREAM-1",Qiziq TV
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1291/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1.png" group-title="STREAM-1",Россия 1
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1020/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Наше новое кино.png" group-title="STREAM-1",Наше новое кино
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1051/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТВ3.png" group-title="STREAM-1",ТВ3
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1435/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый.png" group-title="STREAM-1",Первый
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1019/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Retro TV.png" group-title="STREAM-1",Retro TV
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1290/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинопремьера HD.png" group-title="STREAM-1",Кинопремьера HD
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1207/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Киносерия.png" group-title="STREAM-1",Киносерия
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1235/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 24.png" group-title="STREAM-1",Россия 24
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1021/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ.png" group-title="STREAM-1",НТВ
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1023/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Звезда.png" group-title="STREAM-1",Звезда
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
 https://s1.iptv-24.net/1050/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый HD.png" group-title="STREAM-1",Первый HD
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Наше новое кино.png" group-title="STREAM-1",Наше новое кино
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1214/index.m3u8
+https://s1.iptv-24.net/1051/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1.png" group-title="STREAM-1",Россия 1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s1.iptv-24.net/1020/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ.png" group-title="STREAM-1",НТВ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s1.iptv-24.net/1023/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Retro TV.png" group-title="STREAM-1",Retro TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s1.iptv-24.net/1290/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинохит.png" group-title="STREAM-1",Кинохит
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s1.iptv-24.net/1055/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/iTV Cinema.png" group-title="STREAM-1",iTV Cinema
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
 https://s1.iptv-24.net/4000/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/MilliyTV.png" group-title="STREAM-1",MilliyTV
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТВ3.png" group-title="STREAM-1",ТВ3
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1014/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/EuroNews.png" group-title="STREAM-1",EuroNews
+https://s1.iptv-24.net/1435/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Uz Sport.png" group-title="STREAM-1",Uz Sport
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1024/index.m3u8
+https://s1.iptv-24.net/1004/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Родное кино.png" group-title="STREAM-1",Родное кино
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
 https://s1.iptv-24.net/1052/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТВЦ.png" group-title="STREAM-1",ТВЦ
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый HD.png" group-title="STREAM-1",Первый HD
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1025/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мужское кино.png" group-title="STREAM-1",Мужское кино
+https://s1.iptv-24.net/1214/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый.png" group-title="STREAM-1",Первый
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1237/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Киносемья.png" group-title="STREAM-1",Киносемья
+https://s1.iptv-24.net/1019/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/MilliyTV.png" group-title="STREAM-1",MilliyTV
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1234/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Киносвидание.png" group-title="STREAM-1",Киносвидание
+https://s1.iptv-24.net/1014/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 24.png" group-title="STREAM-1",Россия 24
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1203/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Телекафе.png" group-title="STREAM-1",Телекафе
+https://s1.iptv-24.net/1021/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/iTV Music.png" group-title="STREAM-1",iTV Music
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1035/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кухня ТВ.png" group-title="STREAM-1",Кухня ТВ
+https://s1.iptv-24.net/4001/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Zo'r TV HD.png" group-title="STREAM-1",Zo'r TV HD
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1236/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Индийское кино.png" group-title="STREAM-1",Индийское кино
+https://s1.iptv-24.net/1016/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/EuroNews.png" group-title="STREAM-1",EuroNews
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1060/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинокомедия.png" group-title="STREAM-1",Кинокомедия
+https://s1.iptv-24.net/1024/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Qiziq TV.png" group-title="STREAM-1",Qiziq TV
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1232/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/TV1000 Русское кино.png" group-title="STREAM-1",TV1000 Русское кино
+https://s1.iptv-24.net/1291/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Киносерия.png" group-title="STREAM-1",Киносерия
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1059/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Киномикс HD.png" group-title="STREAM-1",Киномикс HD
+https://s1.iptv-24.net/1235/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинопремьера HD.png" group-title="STREAM-1",Кинопремьера HD
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1233/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинопоказ.png" group-title="STREAM-1",Кинопоказ
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1057/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Техно24.png" group-title="STREAM-1",Техно24
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1037/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Bollywood.png" group-title="STREAM-1",Bollywood
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1444/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ретро.png" group-title="STREAM-1",Ретро
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1047/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Hollywood.png" group-title="STREAM-1",Hollywood
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1443/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/TV1000 Action HD.png" group-title="STREAM-1",TV1000 Action HD
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1225/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Cinema TV.png" group-title="STREAM-1",Cinema TV
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1227/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Дорама.png" group-title="STREAM-1",Дорама
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1273/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/TVC International.png" group-title="STREAM-1",TVC International
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1281/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/TV 1000.png" group-title="STREAM-1",TV 1000
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1058/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Дом кино.png" group-title="STREAM-1",Дом кино
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1054/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Nickelodeon HD.png" group-title="STREAM-1",Nickelodeon HD
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1500/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Доктор.png" group-title="STREAM-1",Доктор
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1409/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мультиландия.png" group-title="STREAM-1",Мультиландия
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1440/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Nick Jr.png" group-title="STREAM-1",Nick Jr
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1501/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/NickToons.png" group-title="STREAM-1",NickToons
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1502/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия Культура.png" group-title="STREAM-1",Россия Культура
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1048/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Сарафан ТВ.png" group-title="STREAM-1",Сарафан ТВ
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1249/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Viasat Sport HD.png" group-title="STREAM-1",Viasat Sport HD
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1229/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/MMA TV.png" group-title="STREAM-1",MMA TV
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1226/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Карусель.png" group-title="STREAM-1",Карусель
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1034/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/КХЛ.png" group-title="STREAM-1",КХЛ
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1422/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мульт ТВ.png" group-title="STREAM-1",Мульт ТВ
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1246/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Trace Sport Starts HD.png" group-title="STREAM-1",Trace Sport Starts HD
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1274/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Уникум.png" group-title="STREAM-1",Уникум
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1033/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/В гостях у Сказки.png" group-title="STREAM-1",В гостях у Сказки
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1270/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч Планета.png" group-title="STREAM-1",Матч Планета
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1243/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Точка Отрыва.png" group-title="STREAM-1",Точка Отрыва
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1031/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Eurosport.png" group-title="STREAM-1",Eurosport
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1439/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ducktv HD.png" group-title="STREAM-1",Ducktv HD
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1271/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Капитан Фантастика.png" group-title="STREAM-1",Капитан Фантастика
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1406/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Gulli Girl.png" group-title="STREAM-1",Gulli Girl
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1445/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мама.png" group-title="STREAM-1",Мама
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1244/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/English Club.png" group-title="STREAM-1",English Club
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1442/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Рыжий.png" group-title="STREAM-1",Рыжий
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1407/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Insight TV.png" group-title="STREAM-1",Insight TV
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1416/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Tiji.png" group-title="STREAM-1",Tiji
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1441/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Авто Плюс.png" group-title="STREAM-1",Авто Плюс
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1036/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Drive.png" group-title="STREAM-1",Drive
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1421/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Viasat History.png" group-title="STREAM-1",Viasat History
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1046/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/365 Дней HD.png" group-title="STREAM-1",365 Дней HD
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1242/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Арсенал ТВ.png" group-title="STREAM-1",Арсенал ТВ
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1414/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/История.png" group-title="STREAM-1",История
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1266/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Discovery.png" group-title="STREAM-1",Discovery
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1039/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Nat Geo Wild HD.png" group-title="STREAM-1",Nat Geo Wild HD
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1042/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Авто 24.png" group-title="STREAM-1",Авто 24
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1430/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Наука ТВ.png" group-title="STREAM-1",Наука ТВ
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1248/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Вопросы и Ответы.png" group-title="STREAM-1",Вопросы и Ответы
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1429/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/National Geographic.png" group-title="STREAM-1",National Geographic
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1041/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Наша Сибирь.png" group-title="STREAM-1",Наша Сибирь
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1424/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Viasat Explore.png" group-title="STREAM-1",Viasat Explore
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1045/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТНВ.png" group-title="STREAM-1",ТНВ
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1062/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/В мире животных.png" group-title="STREAM-1",В мире животных
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1404/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Охота и рыбалка.png" group-title="STREAM-1",Охота и рыбалка
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1038/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ZooПарк.png" group-title="STREAM-1",ZooПарк
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1417/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Охотник и рыбалов.png" group-title="STREAM-1",Охотник и рыбалов
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1413/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Живая Планета ТВ.png" group-title="STREAM-1",Живая Планета ТВ
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1250/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Домашние Животные.png" group-title="STREAM-1",Домашние Животные
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1426/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Живая природа.png" group-title="STREAM-1",Живая природа
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1411/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Viasat Nature.png" group-title="STREAM-1",Viasat Nature
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1228/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Усадьба.png" group-title="STREAM-1",Усадьба
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1427/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Приключения.png" group-title="STREAM-1",Приключения
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1420/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Life HD.png" group-title="STREAM-1",Life HD
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1222/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Здоровое ТВ.png" group-title="STREAM-1",Здоровое ТВ
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1428/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Загородный.png" group-title="STREAM-1",Загородный
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1410/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Fashion TV.png" group-title="STREAM-1",Fashion TV
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1053/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Моя планета.png" group-title="STREAM-1",Моя планета
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1247/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Bloomberg.png" group-title="STREAM-1",Bloomberg
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1255/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Живи активно.png" group-title="STREAM-1",Живи активно
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1405/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/CNN.png" group-title="STREAM-1",CNN
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1259/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/NHK World Japan.png" group-title="STREAM-1",NHK World Japan
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1449/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/KBS World HD.png" group-title="STREAM-1",KBS World HD
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1448/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир.png" group-title="STREAM-1",Мир
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1218/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/BBC-World.png" group-title="STREAM-1",BBC-World
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1251/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/TRT HABER.png" group-title="STREAM-1",TRT HABER
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1257/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/CGTN.png" group-title="STREAM-1",CGTN
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1253/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/France24.png" group-title="STREAM-1",France24
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1241/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Глазами Туриста.png" group-title="STREAM-1",Глазами Туриста
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1423/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Космический ТВ.png" group-title="STREAM-1",Космический ТВ
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1415/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/FOX-NEWS.png" group-title="STREAM-1",FOX-NEWS
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1252/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/DW English.png" group-title="STREAM-1",DW English
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1418/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ля Минор.png" group-title="STREAM-1",Ля Минор
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1238/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Живи.png" group-title="STREAM-1",Живи
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1419/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/TRT AVAZ.png" group-title="STREAM-1",TRT AVAZ
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1258/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Qazaqstan TV.png" group-title="STREAM-1",Qazaqstan TV
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1431/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир24.png" group-title="STREAM-1",Мир24
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1219/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Tugan Tel.png" group-title="STREAM-1",Tugan Tel
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1261/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ўзбекистон.png" group-title="STREAM-1",Ўзбекистон
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1001/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Sevimli.png" group-title="STREAM-1",Sevimli
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1017/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Тошкент.png" group-title="STREAM-1",Тошкент
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1003/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Bolajon.png" group-title="STREAM-1",Bolajon
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1007/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Yoshlar.png" group-title="STREAM-1",Yoshlar
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1002/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Renessans TV.png" group-title="STREAM-1",Renessans TV
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1221/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/O'zbekiston 24 HD.png" group-title="STREAM-1",O'zbekiston 24 HD
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1011/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/MY5 HD.png" group-title="STREAM-1",MY5 HD
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1012/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Хабар 24 KZ.png" group-title="STREAM-1",Хабар 24 KZ
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1408/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/MuzTV UZ.png" group-title="STREAM-1",MuzTV UZ
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1063/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Milliy SD.png" group-title="STREAM-1",Milliy SD
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1216/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Музыка первого.png" group-title="STREAM-1",Музыка первого
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1201/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/MYDAYTV.png" group-title="STREAM-1",MYDAYTV
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1265/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ру тв.png" group-title="STREAM-1",Ру тв
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1202/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/DasturxonTV.png" group-title="STREAM-1",DasturxonTV
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1206/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Aqlvoy.png" group-title="STREAM-1",Aqlvoy
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1205/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/BizTV.png" group-title="STREAM-1",BizTV
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1211/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/MY5 SD.png" group-title="STREAM-1",MY5 SD
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1217/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Madaniyat va Ma'rifat.png" group-title="STREAM-1",Madaniyat va Ma'rifat
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1005/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/O'zbekiston tarixi HD.png" group-title="STREAM-1",O'zbekiston tarixi HD
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1209/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Муз-тв.png" group-title="STREAM-1",Муз-тв
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1200/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Taraqqiyot TV.png" group-title="STREAM-1",Taraqqiyot TV
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1204/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/S-Ikbol.png" group-title="STREAM-1",S-Ikbol
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1282/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Uzreport HD.png" group-title="STREAM-1",Uzreport HD
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1015/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Kinoteatr.png" group-title="STREAM-1",Kinoteatr
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1009/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/TRT Music.png" group-title="STREAM-1",TRT Music
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1208/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Mahalla.png" group-title="STREAM-1",Mahalla
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1013/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Biz Music.png" group-title="STREAM-1",Biz Music
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1212/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Biz Cinema.png" group-title="STREAM-1",Biz Cinema
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1213/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Navo.png" group-title="STREAM-1",Navo
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1008/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ruxsor TV.png" group-title="STREAM-1",Ruxsor TV
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/4008/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Gold Television.png" group-title="STREAM-1",Gold Television
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/4007/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Az TV.png" group-title="STREAM-1",Az TV
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1455/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/FTV.png" group-title="STREAM-1",FTV
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1018/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/LUX.TV.png" group-title="STREAM-1",LUX.TV
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1210/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/TTV Kino.png" group-title="STREAM-1",TTV Kino
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1486/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Nurafshon TV.png" group-title="STREAM-1",Nurafshon TV
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1220/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Dunyo bo'ylab.png" group-title="STREAM-1",Dunyo bo'ylab
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1006/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Makon TV.png" group-title="STREAM-1",Makon TV
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1497/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Futbol TV.png" group-title="STREAM-1",Futbol TV
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1010/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ellikqala TV.png" group-title="STREAM-1",Ellikqala TV
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1495/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Jaslar tv.png" group-title="STREAM-1",Jaslar tv
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1490/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/TTV.png" group-title="STREAM-1",TTV
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1494/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Denov TV.png" group-title="STREAM-1",Denov TV
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1499/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/NTV UZ.png" group-title="STREAM-1",NTV UZ
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1284/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/8TV.png" group-title="STREAM-1",8TV
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1262/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/S Cinema.png" group-title="STREAM-1",S Cinema
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1498/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Shifo TV.png" group-title="STREAM-1",Shifo TV
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1469/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Mimi TV.png" group-title="STREAM-1",Mimi TV
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1470/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Muloqot tv.png" group-title="STREAM-1",Muloqot tv
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1285/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Nasaf tv.png" group-title="STREAM-1",Nasaf tv
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/2025/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Istiqlol TV.png" group-title="STREAM-1",Istiqlol TV
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1283/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/CGTN Rus.png" group-title="STREAM-1",CGTN Rus
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1456/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/8TV.png" group-title="STREAM-1",8TV
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1496/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Fergana.png" group-title="STREAM-1",Fergana
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1458/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Qaraqalpaqstan.png" group-title="STREAM-1",Qaraqalpaqstan
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1467/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Andijon.png" group-title="STREAM-1",Andijon
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1457/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Xorazm.png" group-title="STREAM-1",Xorazm
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1464/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Vodiy TV.png" group-title="STREAM-1",Vodiy TV
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/4012/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Surxondaryo.png" group-title="STREAM-1",Surxondaryo
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1463/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Samarqand.png" group-title="STREAM-1",Samarqand
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1468/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Jizzax.png" group-title="STREAM-1",Jizzax
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1465/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Qashqadaryo.png" group-title="STREAM-1",Qashqadaryo
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1461/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Navoi.png" group-title="STREAM-1",Navoi
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1460/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Buxoro.png" group-title="STREAM-1",Buxoro
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1459/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Sirdaryo.png" group-title="STREAM-1",Sirdaryo
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1462/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Jizzax TV.png" group-title="STREAM-1",Jizzax TV
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1488/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Amudaryo TV.png" group-title="STREAM-1",Amudaryo TV
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1491/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Namangan.png" group-title="STREAM-1",Namangan
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://s1.iptv-24.net/1466/index.m3u8
+https://s1.iptv-24.net/1207/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/JTV.png" group-title="1 UZBEKISTAN",JTV
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
 https://stream8.cinerama.uz/blocked/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Solnechniy Tv 1080p.png" group-title="1 UZBEKISTAN",Solnechniy Tv 1080p
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Muloqot Tv.png" group-title="1 UZBEKISTAN",Muloqot Tv
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://fl.biztv.media/stv_720_bizstvvietfujeyrah/tracks-v1a1/mono.m3u8
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Taraqqiyot TV UZ.png" group-title="1 UZBEKISTAN",Taraqqiyot TV UZ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/TTV kino.png" group-title="1 UZBEKISTAN",TTV kino
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Milliy TV UZ.png" group-title="1 UZBEKISTAN",Milliy TV UZ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Makon Tv.png" group-title="1 UZBEKISTAN",Makon Tv
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ATV.png" group-title="1 UZBEKISTAN",ATV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Kinoteatr.png" group-title="1 UZBEKISTAN",Kinoteatr
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Biz Cinema UZ.png" group-title="1 UZBEKISTAN",Biz Cinema UZ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Zor TV HD.png" group-title="1 UZBEKISTAN",Zor TV HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Mening Yurtim FHD UZ.png" group-title="1 UZBEKISTAN",Mening Yurtim FHD UZ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/S Cinema.png" group-title="1 UZBEKISTAN",S Cinema
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Gold Tv.png" group-title="1 UZBEKISTAN",Gold Tv
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Itv cinema.png" group-title="1 UZBEKISTAN",Itv cinema
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ETV.png" group-title="1 UZBEKISTAN",ETV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Nasaf Tv.png" group-title="1 UZBEKISTAN",Nasaf Tv
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Lux TV.png" group-title="1 UZBEKISTAN",Lux TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Qiziq Tv.png" group-title="1 UZBEKISTAN",Qiziq Tv
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/BizTV HD UZ.png" group-title="1 UZBEKISTAN",BizTV HD UZ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/TTV.png" group-title="1 UZBEKISTAN",TTV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="https://veranzo.ru/other/icons/8 канал.png" group-title="2 RUSSIA",8 Канал
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="https://veranzo.ru/other/icons/Первый канал HD.png" group-title="2 RUSSIA",Первый канала HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="https://veranzo.ru/other/icons/Первый канал HD.png" group-title="2 RUSSIA",Первый  канал
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="https://veranzo.ru/other/icons/НТВ HD.png" group-title="2 RUSSIA",НТВ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="https://veranzo.ru/other/icons/ТВ-3.png" group-title="2 RUSSIA",ТВ3
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="https://veranzo.ru/other/icons/ТВ Центр.png" group-title="2 RUSSIA",Твц 1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="https://veranzo.ru/other/icons/Россия 1 HD.png" group-title="2 RUSSIA",Россия 1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="https://veranzo.ru/other/icons/ТВ Центр.png" group-title="2 RUSSIA",Твц 2
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="https://veranzo.ru/other/icons/Родное кино.png" group-title="2 RUSSIA",Родное Кино
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="https://veranzo.ru/other/icons/Звезда.png" group-title="2 RUSSIA",Звезда
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинопремьера.png" group-title="2 RUSSIA",Кинопремьера
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="https://veranzo.ru/other/icons/Т24.png" group-title="2 RUSSIA",Техно 24
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="https://veranzo.ru/other/icons/Россия 24.png" group-title="2 RUSSIA",Россия 24
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинохит.png" group-title="2 RUSSIA",Кинохит
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="https://veranzo.ru/other/icons/Мужское кино.png" group-title="2 RUSSIA",Мужской  кино
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Киносерия.png" group-title="2 RUSSIA",Киносерия
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Киносемья.png" group-title="2 RUSSIA",Киносемья
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Киносвидание.png" group-title="2 RUSSIA",Киносвидание
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="https://veranzo.ru/other/icons/Наше новое кино.png" group-title="2 RUSSIA",Наше Новое Кино
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинопоказ.png" group-title="2 RUSSIA",Кинопоказ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 group-title="",Новый канал
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8

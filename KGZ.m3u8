@@ -1,0 +1,19 @@
+#EXTM3U url-tvg="http://epg.one/epg.xml; http://rafail1982.uz/uzbekistan1.xml; http://uztv.su/uploads/channelsarch/channels.xml; https://iptvx.one/EPG_NOARCH; http://gabbarit.drm-play.com/epg_lite.xml.gz; http://epg.cdntv.online/lite.xml; http://epg.it999.ru/epg.xml; http://iptv-content.rv77.pw/guide-lite.xml" tvg-shift="+5" refresh="86400"
+#EXTINF:-1 tvg-id="312TV.kg@SD" tvg-logo="https://i.ibb.co/S6sZvqk/iLSGi6c.png" group-title="KGZ",312 ТВ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://176.126.166.43:1935/live/312musik/playlist.m3u8
+#EXTINF:-1 tvg-id="ManasTV.kg@SD" tvg-logo="https://i.ibb.co/2Kvcj5Q/manas.jpg" group-title="KGZ",Manas TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://212.42.111.152:8080/hls/manas.m3u8
+#EXTINF:-1 tvg-id="NextTV.kg@SD" group-title="KGZ",Next TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://stream8.cinerama.uz/blocked/index.m3u8
+#EXTINF:-1 tvg-id="312Kino.kg@SD" tvg-logo="https://i.ibb.co/3m9LrLj/k7gIibH.png" group-title="KGZ",312 Кино
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KGZ",Любимый HD/ТНТ4
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-id="CGTNRussian.cn" group-title="KGZ",CGTN Русский
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8

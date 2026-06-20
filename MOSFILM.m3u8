@@ -1,0 +1,7 @@
+#EXTM3U url-tvg="http://epg.one/epg.xml; http://rafail1982.uz/uzbekistan1.xml; http://uztv.su/uploads/channelsarch/channels.xml; https://iptvx.one/EPG_NOARCH; http://gabbarit.drm-play.com/epg_lite.xml.gz; http://epg.cdntv.online/lite.xml; http://epg.it999.ru/epg.xml; http://iptv-content.rv77.pw/guide-lite.xml" tvg-shift="+5" refresh="86400"
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мосфильм. Золотая коллекция.png" group-title="Мосфильм",Мосфильм. Золотая коллекция
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+http://hls127.freeott.top:8080/Mosfilm/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d4zvrXp/image-1.png" group-title="Мосфильм",Сов.Ком
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://stream8.cinerama.uz/blocked/index.m3u8

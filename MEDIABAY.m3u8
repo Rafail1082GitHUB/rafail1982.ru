@@ -1,0 +1,61 @@
+#EXTM3U url-tvg="http://epg.one/epg.xml; http://rafail1982.uz/uzbekistan1.xml; http://uztv.su/uploads/channelsarch/channels.xml; https://iptvx.one/EPG_NOARCH; http://gabbarit.drm-play.com/epg_lite.xml.gz; http://epg.cdntv.online/lite.xml; http://epg.it999.ru/epg.xml; http://iptv-content.rv77.pw/guide-lite.xml" tvg-shift="+5" refresh="86400"
+#EXTINF:-1 group-title="MEDIABAY",Shifo TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://stream1.cinerama.uz/1469/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="MEDIABAY",Surxondaryo
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://stream1.cinerama.uz/1463/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="MEDIABAY" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/fb03d36ad8bd70dd319312b62c961212.webp",MULOQOT.TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://stream9.itv.uz/t/T6SBycjwQuta4ow0xThKdA/e/1759837189/1285/tracks-v1a1/timeshift_rel-2390.m3u8
+#EXTINF:-1 group-title="MEDIABAY" ,MADANIYAT VA MA'RIFAT
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://stream9.itv.uz/t/B1C0JgoGU7OCXD2a-OBX4A/e/1759836838/1005/tracks-v1a1/timeshift_rel-2039.m3u8
+#EXTINF:-1 group-title="MEDIABAY" ,NURAFSHON TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://stream9.itv.uz/t/r8L0OEUaMXmy1shTJ_XIrg/e/1759837077/1220/tracks-v1a1/timeshift_rel-2278.m3u8
+#EXTINF:-1 group-title="MEDIABAY" ,BOLAJON
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://stream9.itv.uz/t/Fvr4tApyS8R0HNxMyF2vUw/e/1759836777/1007/tracks-v1a1/timeshift_rel-1978.m3u8
+#EXTINF:-1 group-title="MEDIABAY" ,JASLAR TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://stream9.itv.uz/t/azFd4857RiAqnCgjTk9TCQ/e/1759837168/1490/tracks-v1a1/timeshift_rel-2370.m3u8
+#EXTINF:-1 group-title="MEDIABAY" tvg-logo="https://i.postimg.cc/J4wRwcQn/i-TV-Cinema-Logo.png",ITV Cinema
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://iptv.itv.uz/hls/live/t/Yv8TO7PtCQ-DJIbxOr9N_g/e/1799038269/4000/index.m3u8
+#EXTINF:-1 group-title="MEDIABAY" ,DUNYA BOYLOB
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://stream9.itv.uz/t/8VbgKKPKztXwZ0Tb6gEgqQ/e/1759837008/1006/tracks-v1a1/timeshift_rel-409.m3u8
+#EXTINF:-1 group-title="MEDIABAY" tvg-id="393" tvg-name="O'zbekiston 24" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/Ozbekiston242.jpg",O'zbekiston 24
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 group-title="MEDIABAY" tvg-id="140" tvg-name="O'zbekiston " tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/12222.jpg",O'zbekiston
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 group-title="MEDIABAY" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b344ce5698ca6e5c26fcd6b392aecce7.webp",SPORT UZ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://stream9.itv.uz/t/EbO9UWuxHhEUHe_q9Bj_0Q/e/1759836672/1004/tracks-v1a1/timeshift_rel-74.m3u8
+#EXTINF:-1 group-title="MEDIABAY" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f744f167d51aa312b72c9a021bc1ac07.webp",TOSHKENT
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://stream9.itv.uz/t/Eyt5nv0EMu3S1tPXNVoSvw/e/1759836609/1003/tracks-v1a1/timeshift_rel-13.m3u8
+#EXTINF:-1 group-title="MEDIABAY" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c4dade9589871e099326cd64dd2b6a2d.webp",MAHALLA
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://stream9.itv.uz/t/JyRow7Dz6x6_aSKUbbRyFw/e/1759836886/1013/tracks-v1a1/timeshift_rel-1488.m3u8
+#EXTINF:-1 group-title="MEDIABAY" tvg-id="395" tvg-name="Zo'rTV " tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/z2.png",Zo'rTV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 group-title="MEDIABAY" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d680f45e0ee6347837af3230cab76359.webp",YOSHLAR
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://stream9.itv.uz/t/7KC1fr88vE2F48JkjhyFeA/e/1759836511/1002/tracks-v1a1/timeshift_rel-512.m3u8
+#EXTINF:-1 group-title="MEDIABAY" ,KINOTEATR
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://stream9.itv.uz/t/Nnp0q4s6iGzREdBWtcRoYg/e/1759836927/1009/tracks-v1a1/timeshift_rel-2128.m3u8
+#EXTINF:-1 group-title="MEDIABAY" ,RUXOR TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://stream9.itv.uz/t/d5tuUfgXkE9sOSwWHlvHEA/e/1759837108/4008/tracks-v1a1/timeshift_rel-2309.m3u8
+#EXTINF:-1 group-title="MEDIABAY" tvg-id="682" tvg-name="Jibek Joly" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/01-2023/790.jpg",Jibek Joly
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 group-title="MEDIABAY" ,GOLD TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://stream9.itv.uz/t/LWeyqOi8EFVESzRykp2BCQ/e/1759837057/4007/tracks-v1a1/timeshift_rel-2258.m3u8

@@ -1,418 +1,64 @@
 #EXTM3U url-tvg="http://epg.one/epg.xml; http://rafail1982.uz/uzbekistan1.xml; http://uztv.su/uploads/channelsarch/channels.xml; https://iptvx.one/EPG_NOARCH; http://gabbarit.drm-play.com/epg_lite.xml.gz; http://epg.cdntv.online/lite.xml; http://epg.it999.ru/epg.xml; http://iptv-content.rv77.pw/guide-lite.xml" tvg-shift="+5" refresh="86400"
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",MIXM TB
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://89.179.247.144/hls/mixm.m3u8
 #EXTINF:-1 group-title="Музыкальные",CHD-TV RU Rock HD
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 http://194.26.229.213/chdtv_ru_rock/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",CHD-TV Rock
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 http://194.26.229.213/chdtv_rock/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",MIXM TB
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",DanceHits 80'
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://89.179.247.144/hls/mixm.m3u8
+http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Russian Musicbox Gold
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 http://stream-msk-10.ott.tricolor.tv/dtv/id901_MSKSG-PVR-1--Music_Box_GOLD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MjQ5MzM2MywiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUxODg4NTYzLCJzZXNzaW9uX2lkIjoiMWZkYTk2MTk2YTg1ZWIzZGNmOGQ0ZTQwZTAwMGUxNjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.X5Tot_pBMjpV11rAD10aqBLkm168F46YX69qAQENQoI
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Шансон-TB
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 http://stream-msk-11.ott.tricolor.tv/dtv/id132_MSKSG-PVR-1--Shanson/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MjQ5MzM2MywiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUxODg4NTYzLCJzZXNzaW9uX2lkIjoiMWZkYTk2MTk2YTg1ZWIzZGNmOGQ0ZTQwZTAwMGUxNjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.X5Tot_pBMjpV11rAD10aqBLkm168F46YX69qAQENQoI
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Vuemme TV
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/MTV 80s.png" group-title="Музыкальные",MTV 80s
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://5db313b643fd8.streamlock.net:1935/HITTV/HITTV/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Power Dance
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Bridge TV Этно
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",PowerTürk TV
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",1HD Music
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",PowerTürk Taptaze
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/MTV 90s.png" group-title="Музыкальные",MTV 90s
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",PowerTürk Slow
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/MTV Hits.png" group-title="Музыкальные",MTV Hits
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",PowerTürk Akustik
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Bridge TV Deluxe
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",NRG 91 Music HD
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Жар-Птица
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://tv.nrg91.gr:1935/onweb/live/master.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",DanceHits 80'
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",9 ВОЛНА
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://dancehits80.denvs.ru:8080/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Радио Шансон
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
+https://s7.iptv-24.net/blocked/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Музыка 2 International.png" group-title="Музыкальные",Музыка 2 International
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 http://kino-1.catcast.tv/content/37742/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Музыка Кино International.png" group-title="Музыкальные",Музыка Кино International
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 http://kino-1.catcast.tv/content/37739/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/о2тв.png" group-title="Музыкальные",о2тв
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Vuemme TV
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://195.26.83.96:7006/play/1/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Bridge TV Deluxe
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://31.148.48.15/Bridge_TV_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/music.png" group-title="Музыкальные",Folk Klub
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Kronehit HD
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Шансон ТВ.png" group-title="Музыкальные",Шансон ТВ
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",7 YOU & ME
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://stream10.xdevel.com/video0s977798-2239/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Stingray CMusic HD
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/92319/hls/pl.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/A1.png" group-title="Музыкальные",A1
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://31.148.48.15/A1/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Afrobeat TV Entertainment
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",AFN TV
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Balle Balle
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://mcncdndigital.com/balleballetv/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Bel RTL
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Bibel TV Musik
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/BRIDGE.png" group-title="Музыкальные",BRIDGE
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://31.148.48.15/Bridge_TV/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",BRIDGE Hits
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://31.148.48.15/Bridge_TV_Dance/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Avang TV
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://hls.avang.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Classica
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f779951372da90007fd45e8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280711-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1c3ac7db-5cfe-4d39-aec3-70a684e58c38
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",CMT Equal Play
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280712-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bd328c28-b23b-4f85-9b18-9d73786f7109
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",California Music Channel
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://cmc-cmctv-cineverse.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",CKNO-FM
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://videostream.jpbgdigital.com/NOWTV.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Deluxe Dance
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",DASDING 90.8
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Couleur 3
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",DMF SD
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Dream Turk
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",DSTV
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://46.249.95.140:8081/hls/data.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",EBS Musika
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://rpn.bozztv.com/ebstv/ebsmusika/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",El Radio 9090 FM
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://9090video.mobtada.com/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Euro Indie Music Chart TV
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Finest TV
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://media.finest.tv/hls/live.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Europa Plus TV.png" group-title="Музыкальные",Europa Plus TV
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://31.148.48.15/Europa_Plus_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",FTV
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://stream8.cinerama.uz/1018/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",First Music Channel
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://rtmp.one.by:1300
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",First Music Channel Russia
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://rtmp.one.by:2300
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",FM ITALIA
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://stream2.xdevel.com/video0s975817-1183/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Hype Visual Radio
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://streammix.alsolnet.com/hyperadio/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Goldstar TV Germany
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6192396135f3910007fc5fc7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad6806-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9ec1275e-0641-49e2-81e6-6d37a37b7bd3
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Kral Pop TV
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Folx Slovenija
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://cdne.folxplay.tv/folx-trz/streams/ch-5/master.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Folx Music Television
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://cdne.folxplay.tv/folx-trz/streams/ch-4/master.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Falastini TV
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Lausitzwelle
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref=
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Littoral FM TV
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",GMTV SD
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://livechannel.mdc.akamaized.net/stitch/livechannel/1341/master1400000.m3u8;session=live_stream_1341
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",La Que Buena Atlanta
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://streamyes.alsolnet.com/quebuenaatlanta/live/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Marutam Music
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://mntv.livebox.co.in/musichls/live.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Isai Aruvi SD
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Med Muzik
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://54.36.110.140/live3/live3.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Makao TV
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",m2o TV
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",MTV Biggest Pop
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=db3aa987-9f35-4664-b523-5fe34623b36c
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",MTV Music Made in Spain Spain
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a26a056d55b30007918d5a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&serverSideAds=false&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",MTV Music
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6245d15062cd1f00070a2338/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1ec342-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a56dace8-66e4-4b9a-a55f-d5348160dae2
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",NEW K-POP
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Now 90s00s Poland
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Music India SD
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://cdn-2.pishow.tv/live/226/master.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Number 1 Ask
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Number 1 TV
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Number 1 Damar
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Number 1 Dance
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Now 70s
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",o2tv SD
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://31.148.48.15/O2_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Now 80s
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",NOW Rock
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Pluto TV Love Songs France
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/619b80acac5329000740c022/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0662e7-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=af267621-bff5-4a9c-8852-07f7c4aef3de
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Pluto TV MTV Latino
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96d351652631e36d4331f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=965&terminate=false&userId=
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Orange Bangla TV SD
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://cdn-4.pishow.tv/live/1499/master.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",One Adria
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://cdne.folxplay.tv/folx-trz/streams/ch-6/master.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",One Music Television
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://cdne.folxplay.tv/folx-trz/streams/ch-3/master.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Persiana Folk
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://sonhls.persiana.live/hls/stream.m3u8
+http://5db313b643fd8.streamlock.net:1935/HITTV/HITTV/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Power Dance
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Power Love
+http://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Kronehit TV
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",PowerTurk Akustik
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",PowerTürk TV
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Persiana Music
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://musichls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",PowerTurk Slow
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",PowerTurk Taptaze
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Radio Contact
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Qello Concerts by Stingray SD
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240d3d466225000827412b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7bb439-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6ba3de05-22ef-4ab2-8d11-c4a6c21d39ba
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Radio Shanson
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Radio Weser TV Bremen
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Qwest TV
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Rararadio
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://58c04fb1d143f.streamlock.net/rararadio/rararadio/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Public Music SD
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://cdn-3.pishow.tv/live/441/master.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Shanson TV
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Radio JND
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://radiojnd.cdn.hostin.cc/radiojnd/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Radio Karolina TV
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Radio Lola TV
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Radio Hit FM TV
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Strana FM
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",RTV Vida
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",RJTV
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://rjtvhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Radio Hit
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://lova.me/hls/hithd.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Stingray Naturescape SD
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812bd9f249444e05d09cc4e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2ac7255b-3bb1-4cd4-80c9-afb0bcb127dd
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Sol Musica
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Trace Latina
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Turkmen Owazy
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://alpha.tv.online.tm/hls/ch005.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Trace Urban
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Steelbird Music SD
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://cdn2.in/SteelbirdMusicTVhls/live.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",TVS Music Network
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://rpn.bozztv.com/gusa/gusa-tvsmusic/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",TDI Radio TV SD
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",T2 TV
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://t2hls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Vevo 2K
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc208-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9c78a281-5d61-4850-8b62-74632f015343
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Vevo '70s
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc205-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=65607a14-91b8-4a2f-acee-142424cbaf0b
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Vevo '80s
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7b8bf927e090007685853/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc206-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e72e853c-9c99-4dda-b7b5-22baedf34c42
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Vevo '90s
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc207-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0728470d-6a7e-40da-b12d-986993b83ec1
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",V2BEAT TV
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Vevo R&B
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce913-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b9489829-fa99-492b-9890-e85a4a467854
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Vevo Retro Rock
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce917-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5b34f49b-bb11-47dd-b65b-7c5074a9925c
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Vevo True School Hip-Hop
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce918-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=90c1dbc6-366d-4ba4-913a-7ff94babe33e
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Vevo Pop
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce912-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=48fd2d58-c66f-492e-90a6-986e95bbc2e9
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Vaanavil TV
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Volksmusik TV
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",XITE
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",ZFM Zoetermeer TV
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://zfmzoetermeer.nl/live/master.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Yo! MTV
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3737-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=32448355-0e6b-41d6-91ca-4bad8ef8310d
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Zo'r TV
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",ZB Music
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://server.zillarbarta.com/zbmusic/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",BRIDGE Classic
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://31.148.48.15/Bridge_TV_Classic/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Zwei Music Television
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://cdne.folxplay.tv/folx-trz/streams/ch-2/master.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",BEATTV
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://tv.beatfm.nl/live.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Persiana Nostalgia
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://noshls.persiana.live/hls/stream.m3u8
+http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 #EXTINF:-1,Tilemousiki SD
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://live20.bozztv.com/akamaissh101/ssh101/tilemousiki/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Музыкальные",Salto Brasa Music
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://salto-streams.nl/hls/sotv1.m3u8
+https://s7.iptv-24.net/blocked/index.m3u8

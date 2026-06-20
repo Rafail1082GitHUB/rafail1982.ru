@@ -1,0 +1,61 @@
+#EXTM3U url-tvg="http://epg.one/epg.xml; http://rafail1982.uz/uzbekistan1.xml; http://uztv.su/uploads/channelsarch/channels.xml; https://iptvx.one/EPG_NOARCH; http://gabbarit.drm-play.com/epg_lite.xml.gz; http://epg.cdntv.online/lite.xml; http://epg.it999.ru/epg.xml; http://iptv-content.rv77.pw/guide-lite.xml" tvg-shift="+5" refresh="86400"
+#EXTINF:-1 group-title="Турецкие",24 TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://stream8.cinerama.uz/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="https://rafail1982.uz/logo/turkey.png" group-title="Турецкие",ES TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://rafail1982.uz/logo/turkey.png" group-title="Турецкие",Aksu TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://rafail1982.uz/logo/turkey.png" group-title="Турецкие",On 6
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="https://rafail1982.uz/logo/turkey.png" group-title="Турецкие",Tatlises TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="https://rafail1982.uz/logo/turkey.png" group-title="Турецкие",Kanal 12
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://rafail1982.uz/logo/turkey.png" group-title="Турецкие",Power TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://rafail1982.uz/logo/turkey.png" group-title="Турецкие",Power Turk
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://rafail1982.uz/logo/turkey.png" group-title="Турецкие",Power Dance
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://rafail1982.uz/logo/turkey.png" group-title="Турецкие",Power Love
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://rafail1982.uz/logo/turkey.png" group-title="Турецкие",Power Türk Akustik
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://rafail1982.uz/logo/turkey.png" group-title="Турецкие",Power Türk Slow
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://rafail1982.uz/logo/turkey.png" group-title="Турецкие",Power Türk Taptaze
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://rafail1982.uz/logo/turkey.png" group-title="Турецкие",Malatya Vuslat TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://rafail1982.uz/logo/turkey.png" group-title="Турецкие",Tivi 6
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://rafail1982.uz/logo/turkey.png" group-title="Турецкие",Syria TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://rafail1982.uz/logo/turkey.png" group-title="Турецкие",TGRT Belgesel TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://rafail1982.uz/logo/turkey.png" group-title="Турецкие",Number 1 Dance
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://rafail1982.uz/logo/turkey.png" group-title="Турецкие",Sat7 Türk
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://rafail1982.uz/logo/turkey.png" group-title="Турецкие",Number 1 Damar
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8

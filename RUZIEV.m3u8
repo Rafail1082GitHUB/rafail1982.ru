@@ -1,34 +1,43 @@
 #EXTM3U url-tvg="http://epg.one/epg.xml; http://rafail1982.uz/uzbekistan1.xml; http://uztv.su/uploads/channelsarch/channels.xml; https://iptvx.one/EPG_NOARCH; http://gabbarit.drm-play.com/epg_lite.xml.gz; http://epg.cdntv.online/lite.xml; http://epg.it999.ru/epg.xml; http://iptv-content.rv77.pw/guide-lite.xml" tvg-shift="+5" refresh="86400"
+#EXTINF:-1 group-title="RUZIEV+ ПРЕМИУМ ТВ",TV 1000 WORLD KINO
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
 #EXTINF:-1 group-title="RUZIEV+ ПРЕМИУМ ТВ",СТВ (Беларусь)
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
-#EXTINF:-1 group-title="RUZIEV+ ПРЕМИУМ ТВ",RTL9
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://151.80.18.177:86/RTL9/index.m3u8
-#EXTINF:-1 group-title="RUZIEV+ ПРЕМИУМ ТВ",W9
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://145.239.5.177/331/index.m3u8
 #EXTINF:-1 group-title="RUZIEV+ ПРЕМИУМ ТВ",Солнечный ТВ
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 https://fl.biztv.media/stv_720_bizstvvietfujeyrah/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV+ ПРЕМИУМ ТВ",RTL9
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://151.80.18.177:86/RTL9/index.m3u8
+#EXTINF:-1 group-title="RUZIEV+ ПРЕМИУМ ТВ",NICKELODEON USA
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1 group-title="RUZIEV+ ПРЕМИУМ ТВ",FX USA
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://23.237.104.106:8080/USA_FX/index.m3u8
 #EXTINF:-1 group-title="RUZIEV+ ПРЕМИУМ ТВ",FXX USA
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 http://23.237.104.106:8080/USA_FXX/index.m3u8
 #EXTINF:-1 group-title="RUZIEV+ ПРЕМИУМ ТВ",DISCOVERY USA
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
-#EXTINF:-1 group-title="RUZIEV+ ПРЕМИУМ ТВ",FX USA
+#EXTINF:-1 group-title="RUZIEV+ ПРЕМИУМ ТВ",W9
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://23.237.104.106:8080/USA_FX/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3l38w595m1kt26k/logopit_1652914443716.jpg" group-title="✓ LOADING............LIST",{ ОБНОВИЛ }™
+http://145.239.5.177/331/index.m3u8
+#EXTINF:-1 group-title="RUZIEV+ ПРЕМИУМ ТВ",Discovery Asia
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="RUZIEV+ ПРЕМИУМ ТВ",NICKELODEON USA
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 group-title="RUZIEV+ ПРЕМИУМ ТВ",WB TV
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+https://s7.iptv-24.net/blocked/index.m3u8
 #EXTINF:-1 group-title="RUZIEV+ ПРЕМИУМ ТВ",FRANCE 2
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 http://69.64.57.208/france2/playlist.m3u8
+#EXTINF:-1 group-title="RUZIEV+ ПРЕМИУМ ТВ",TF1
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://176.65.146.100:8047/play/a07d/index.m3u8
 #EXTINF:-1 group-title="RUZIEV+ ПРЕМИУМ ТВ", HBO 3
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 http://88.212.7.11/live/test_hbo3_hd_hevc/playlist.m3u8
@@ -38,63 +47,54 @@ http://88.212.7.11/live/test_hbo2_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="RUZIEV+ ПРЕМИУМ ТВ", HBO 1
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 http://88.212.7.11/live/test_hbo_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="RUZIEV+ ПРЕМИУМ ТВ",TF1
+#EXTINF:-1 group-title="RUZIEV+ ПРЕМИУМ ТВ", BET SOUL
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://176.65.146.100:8047/play/a07d/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.anwap.cam/films/screen/41433.jpg" group-title="RUZIEV+ ПРЕМИУМ ТВ",Охотники за привидениями Леденящий ужа(2024)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 group-title="RUZIEV+ ПРЕМИУМ ТВ",NOW TR
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://o8.anwap.be/ohls/Qqe6Hj7HFHYaj7T6tL-cEA/1712008068/Ohotniki_za_privideniyami_Ledenyawij_uzhas-41433_(anwap.org).m3u8
-#EXTINF:-1 group-title="RUZIEV+ ПРЕМИУМ ТВ",Arirang Korea
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 group-title="RUZIEV+ ПРЕМИУМ ТВ",9 ВОЛНА
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
+https://s7.iptv-24.net/blocked/index.m3u8
 #EXTINF:-1 group-title="RUZIEV+ ПРЕМИУМ ТВ",OnlineTV
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 http://185.221.213.254:8080/Okko/index.m3u8
-#EXTINF:-1 group-title="RUZIEV+ ПРЕМИУМ ТВ",ОККО ФУТБОЛ
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3l38w595m1kt26k/logopit_1652914443716.jpg" group-title="✓ LOADING............LIST",{ ОБНОВИЛ }™
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://rr3.tvdosug.net/~201051a5d6032d17d26dc4515d2fea2c393/63048/hlsx/pl.m3u8
-#EXTINF:-1 group-title="RUZIEV+ ПРЕМИУМ ТВ",ОККО СПОРТ
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://rr3.tvdosug.net/~201051a5d6032d17d26dc4515d2fea2c393/73732/hlsx/pl.m3u8
-#EXTINF:-1 group-title="RUZIEV+ ПРЕМИУМ ТВ",TVP 1 HD
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
-#EXTINF:-1 group-title="RUZIEV+ ПРЕМИУМ ТВ",TELEMUNDO
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 group-title="RUZIEV+ ПРЕМИУМ ТВ",FOX NEWS NOW
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 tvg-name="Наш Кинопоказ" group-title="RUZIEV+ ПРЕМИУМ ТВ",Новый Век Тамбов
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist.m3u8
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/5441.png" group-title="RUZIEV+ IPTV| РОССИЯ", ТВОЕ ТВ HD
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 http://tvoetv.space:8080/tvoetv/index.m3u8
-#EXTINF:-1 group-title="RUZIEV+ ПРЕМИУМ ТВ", MBC 3
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://93.184.10.248/MBC3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/m2FWVxW3/Background-Eraser-20230805-095630572.png" group-title="RUZIEV+ IPTV| РОССИЯ", ТВОЕ ТВ HD - ЮМОР
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" group-title="RUZIEV+ IPTV| РОССИЯ",Твоё ТВ HD Юмор v2
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 http://tvoetv.space:8080/tvoetv_humor/video.m3u8
-#EXTINF:-1 group-title="RUZIEV+ ПРЕМИУМ ТВ",SKY NEWS ARABIA
+#EXTINF:-1 group-title="RUZIEV+ IPTV| РОССИЯ",СТС Киселёвск
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://stream.skynewsarabia.com/hls/sna_720.m3u8
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 group-title="RUZIEV+ IPTV| РОССИЯ", ТНТ4 International
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 group-title="RUZIEV+ IPTV| РОССИЯ", Рен ТВ International
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 group-title="RUZIEV+ IPTV| РОССИЯ", Пятница! International
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/649.png" group-title="RUZIEV+ IPTV| РОССИЯ", ТВЦ
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/649.png" group-title="RUZIEV+ IPTV| РОССИЯ", ТВЦ
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="МИР International" tvg-logo="https://i.ibb.co/LrSTPbc/image-12.png" group-title="RUZIEV+ IPTV| РОССИЯ",МИР International
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
 #EXTINF:-1 group-title="RUZIEV+ IPTV| РОССИЯ",Мир HD
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 tvg-name="МИР International" tvg-logo="https://i.ibb.co/LrSTPbc/image-12.png" group-title="RUZIEV+ IPTV| РОССИЯ",МИР International
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
 #EXTINF:-1 group-title="RUZIEV+ IPTV| РОССИЯ",Мир +2
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
@@ -104,480 +104,308 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
 #EXTINF:-1 group-title="RUZIEV+ IPTV| РОССИЯ",МИР +7
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
-#EXTINF:-1 group-title="RUZIEV+ ПРЕМИУМ ТВ",Sky News Au
+#EXTINF:-1 group-title="RUZIEV+ IPTV| РОССИЯ", Перец
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/4661.png" group-title="RUZIEV+ IPTV| РОССИЯ", Звезда Плюс HD
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
+https://s7.iptv-24.net/blocked/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4PAcpfM.png" group-title="RUZIEV+ IPTV| РОССИЯ", Звезда
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/4661.png" group-title="RUZIEV+ IPTV| РОССИЯ", Звезда Плюс
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v2a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/405.png" group-title="RUZIEV+ IPTV| РОССИЯ",Звезда HD
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-logo="https://www.pro-tv.info/images/tpl/logo4.png?1" group-title="RUZIEV+ IPTV| РОССИЯ", Продвижение
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/405.png" group-title="RUZIEV+ IPTV| РОССИЯ",Звезда
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
 #EXTINF:-1 group-title="RUZIEV+ IPTV| РОССИЯ", Звезда
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
-#EXTINF:-1 tvg-logo="https://toplogos.ru/images/logo-iz.png" group-title="RUZIEV+ IPTV| РОССИЯ", Известия HD
+#EXTINF:-1 tvg-logo="http://epg.one/img/4661.png" group-title="RUZIEV+ IPTV| РОССИЯ", Звезда Плюс
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="RUZIEV+ IPTV| РОССИЯ", Мир 24 HD
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v2a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/405.png" group-title="RUZIEV+ IPTV| РОССИЯ",Звезда HD
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 group-title="RUZIEV+ IPTV| РОССИЯ",ОКино
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://v4.proofix.ru/okino-tv/index.m3u8
-#EXTINF:-1 group-title="RUZIEV+ IPTV| РОССИЯ", Красная линия
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
-#EXTINF:-1 group-title="RUZIEV+ IPTV| РОССИЯ",Первый Медицинский Канал
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://rq3qltxnbx1.a.trbcdn.net/livemaster/8hwxnq4s0v_efir0_tcode1080p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qU9ohQu.png" group-title="RUZIEV+ IPTV| РОССИЯ",Leomax 24
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-logo="https://livetvcentral.com/imgs/tvs/1103.jpg" g,roup-title="RUZIEV+ IPTV| GEORGIA", 2TV Georgia
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 http://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/24_Group_Ukraine_04.png/512px-24_Group_Ukraine_04.png" group-title="RUZIEV+ IPTV| РОССИЯ",24 Канал
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="RUZIEV+ IPTV| РОССИЯ",360 HD
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 group-title="RUZIEV+ IPTV| РОССИЯ, СТС International
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
+https://s7.iptv-24.net/blocked/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/6/60/MTV_%282021%29.svg/revision/latest?cb=20210213111650&path-prefix=ru" group-title="MTV CHANNEL", MTV USA HD
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 http://23.237.104.106:8080/USA_MTV/index.m3u8
-#EXTINF:-1 group-title="RUZIEV+ ПРЕМИУМ ТВ", Китай ТВ HD
+#EXTINF:-1 group-title="MTV CHANNEL",MTV USA
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 group-title="MTV CHANNEL",MTV 2
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
 #EXTINF:-1 tvg-logo="https://epgx.site/p/mtv-live-hd.png" group-title="MTV CHANNEL", MTV Live USA HD
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
+#EXTINF:-1 group-title="MTV CHANNEL",MTV Europe
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 group-title="MTV CHANNEL",MTV LIVE USA
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 group-title="MTV CHANNEL",MTV CLASSIC USA
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 group-title="MTV CHANNEL",MTV 80s
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 group-title="MTV CHANNEL",MTV Espanol
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 group-title="MTV CHANNEL",MTV Club
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/1hd-music.png" group-title="МУЗЫКА",1HD
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
 #EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/2d/df/ae/2ddfae21-9e5c-1ae8-0806-b74a895e2b05/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/492x0w.webp" group-title="МУЗЫКА",Новое Радио ТВ
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 http://hls-video01.cdnvideo.ru/video01/hDvideo01-0O.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/radio-strana-fm-tv.png" group-title="МУЗЫКА",Страна FM
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1 group-title="МУЗЫКА", Страна FM
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2277.png" group-title="МУЗЫКА", RU.TV HD
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://live.stranafm.cdnvideo.ru/stranafm/stranafm.sdp/playlist.m3u8
+https://s7.iptv-24.net/blocked/index.m3u8
 #EXTINF:-1 group-title="МУЗЫКА",Новое Телевидение HD
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+#EXTINF:-1 group-title="МУЗЫКА", Страна FM
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm.sdp/playlist.m3u8
+#EXTINF:-1 group-title="МУЗЫКА", М2 HD
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 group-title="МУЗЫКА", М2
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/ru-tv.png" group-title="МУЗЫКА",RU TV
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2277.png" group-title="МУЗЫКА",RU.TV HD
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5vV9Vg4/Radio-Shanson.png" group-title="МУЗЫКА",Радио Шансон HD
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bJpCqrVT/Shanson-TV.png" group-title="МУЗЫКА",Шансон ТВ
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nLtiXNf.png" group-title="RUZIEV+ ПРЕМИУМ ТВ",Wanasah
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 #EXTINF:-1 group-title="МУЗЫКА", Туган Тел HD
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 http://streamer.rtcommufa.ru:1935/tugantel/hd/playlist.m3u8
-#EXTINF:-1 group-title="RUZIEV+ ПРЕМИУМ ТВ",CNN INTERNATIONAL
+#EXTINF:-1 group-title="МУЗЫКА",Жар Птица
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+https://s7.iptv-24.net/blocked/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/shanson-tv.png" group-title="МУЗЫКА",Шансон ТВ
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/zhar-ptica.png" group-title="МУЗЫКА",Жар-Птица
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
 #EXTINF:-1 group-title="МУЗЫКА",Майдан
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC",RTL 102.5 TRAFFIC
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://streamcdng6-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/chunklist_b3256000.m3u8
-#EXTINF:-1 group-title="MUSIC",Music Az
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC",Music tv
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 http://217.79.184.52/Nostalgia/index.m3u8
-#EXTINF:-1 group-title="MUSIC",MCM FR
+#EXTINF:-1 group-title="MUSIC",Music Az
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://41.205.93.154/MCM/index.m3u8
+http://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC",RTL 102.5 TRAFFIC
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://streamcdng6-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/chunklist_b3256000.m3u8
 #EXTINF:-1 group-title="MUSIC",RTL 102.5 DISCO
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 https://streamcdnb4-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/chunklist_b3256000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JWFOYuD.png" group-title="MUSIC" ,Alpha HOST
+#EXTINF:-1 group-title="MUSIC",Music Russian
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
+https://s7.iptv-24.net/blocked/index.m3u8
 #EXTINF:-1 group-title="MUSIC",Music Az Hit
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 https://cdn4.yayin.com.tr/musicazhit/video.m3u8
-#EXTINF:-1 tvg-logo="https://tlgur.com/d/4z3Xrkk8" group-title="MUSIC",Hi Hop TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWFOYuD.png" group-title="MUSIC" ,Alpha HOST
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://k4.usastreams.com/festivatelevision/HiHop/media.m3u8
-#EXTINF:-1 group-title="MUSIC",Zico
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/tracks-v2a1/mono.m3u8
+http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC",Mix Music
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 https://cdamix.streaming.ws/mixmusic/live/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/81/9e/819e332533069f165336021c8ec01540.jpg" group-title="MUSIC",GENERATION TV
+#EXTINF:-1 tvg-id="" tvg-name="AL: ALB Music HD" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/AlbMuzik.al.png" group-title="MUSIC",ALB Music
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://edge13.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLX_RAP_LOGO_RGB-1.png" group-title="MUSIC",Deluxe Rap
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 group-title="MUSIC",MCM FR
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-logo="https://tlgur.com/d/4z3Xrkk8" group-title="MUSIC",Hi Hop TV
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://k4.usastreams.com/festivatelevision/HiHop/media.m3u8
 #EXTINF:-1 tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2019/11/Deluxe-Musik-logo.png" group-title="MUSIC",Deluxe Music TV
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLX_RAP_LOGO_RGB-1.png" group-title="MUSIC",Deluxe Rap
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:-1 group-title="MUSIC",Zico
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/81/9e/819e332533069f165336021c8ec01540.jpg" group-title="MUSIC",GENERATION TV
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://edge13.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 #EXTINF:-1 group-title="MUSIC",RTL 102.5 Bro & Sis
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 https://streamcdng2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/chunklist_b3256000.m3u8
-#EXTINF:-1 group-title="MUSIC",RADIO IBIZA TV
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://5929b138b139d.streamlock.net:1935/RadioIbizaTV/livestream/chunklist.m3u8
 #EXTINF:-1 group-title="MUSIC",RTL 102.5 Caliente
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 https://streamcdnb3-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/chunklist_b3256000.m3u8
 #EXTINF:-1 group-title="MUSIC",Radio Love TV
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 http://56b50ada2d659.streamlock.net:1935/LoveFM/livestream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/77/795/png-transparent-nrj-hits-internet-radio-television-music-hits-television-text-logo-thumbnail.png" group-title="MUSIC", NRJ TV BELGIUM
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://tv.ngroup.be:1935/live/nrj/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://tlgur.com/d/4r7jkb68" group-title="MUSIC", VM Latino
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/81/9e/819e332533069f165336021c8ec01540.jpg" group-title="MUSIC",Generation TV
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://edge11.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/81/9e/819e332533069f165336021c8ec01540.jpg" group-title="MUSIC",GENERATION TV
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 https://edge18.vedge.infomaniak.com/livecast/ik:generation-tv/chunklist_w961899692.m3u8
-#EXTINF:-1 group-title="MUSIC",HIT FM TV
+#EXTINF:-1 group-title="MUSIC",RADIO IBIZA TV
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://5db313b643fd8.streamlock.net:1935/HITTV/HITTV/chunklist.m3u8
-#EXTINF:-1 group-title="MUSIC", RADIO 538
+http://5929b138b139d.streamlock.net:1935/RadioIbizaTV/livestream/chunklist.m3u8
+#EXTINF:-1 group-title="FDC", Box Spy HD
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
-#EXTINF:-1 group-title="MUSIC", Trace Urban
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 group-title="FDC", Box Travel HD
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CUVAi4u.png" group-title="MUSIC",Trace Latina
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 group-title="FDC", Box Zombie HD
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/32mmGvB.png" group-title="MUSIC" , Radio Contact HD
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 group-title="FDC", Box Stories HD
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8
-#EXTINF:-1 group-title="MUSIC",NRG 91 TV
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 group-title="FDC", Box Gangster HD
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://tv.nrg91.gr:1935/onweb/live/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DLIbUMx.png" group-title="MUSIC",Trace Urban
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 group-title="FDC", Box Serial HD
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://amg01131-tracetv-traceurban-klowdtv-utiqd.amagi.tv/playlist/amg01131-tracetv-traceurban-klowdtv/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC", TopEstrada TV
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 group-title="FDC", BCU Kids+
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://live.topestrada.com/live/topestrada/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC",NR1 DANCE
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 group-title="FDC", BCU Kinorating
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2aa89e721.smil/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC", Topestrada TV
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 group-title="FDC", BCU Catastrophe HD
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://live.topestrada.com/live/topestrada/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eEV4r6J.jpg" group-title="RUZIEV+ ПРЕМИУМ ТВ",Al Arabiya Business
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 group-title="FDC", BCU Romantic HD
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/4653.png" group-title="MUSIC",Kronehit FHD
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 group-title="FDC", BCU Сваты
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/5483.png" group-title="MUSIC",V2Beat
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 group-title="FDC", Продвижение
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CUVAi4u.png" group-title="MUSIC",Trace Latino
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 group-title="FDC", Наше Мужское HD
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/4653.png" group-title="MUSIC",Kronehit HD
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 group-title="FDC", MM Honey
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0ReU9da.png" group-title="MUSIC",M2O TV
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 group-title="FDC", MM Драма HD
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://streamcdnb4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TTAGFHG.png" group-title="RUZIEV+ ПРЕМИУМ ТВ",MBC Bollywood
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 group-title="FDC", MM Макромир
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/4673.png" group-title="MUSIC",Deejay TV HD
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 group-title="FDC", MM Newfilm 3
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://streamcdnb4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/4673.png" group-title="MUSIC",Deejay TV
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 group-title="FDC", MM Relax
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://streamcdnm4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0ReU9da.png" group-title="MUSIC",m2o TV HD
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 group-title="FDC", MM Celebrity HD
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC",Trace Brazuca
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 group-title="FDC", CineMan VHS
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/4653.png" group-title="MUSIC",Kronehit HD
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Мульт H
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist.m3u8
-#EXTINF:-1 group-title="MUSIC",RTL 102.5
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Мульт HD
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://streamcdnb4-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/chunklist_b3256000.m3u8
-#EXTINF:-1 group-title="MUSIC",Radio 51 TV
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ", Ani
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pzxUE0O.png" group-title="MUSIC" , Super TV
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ", Мама
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://iptv.supertv.ro:8000/play/a001/index.m3u8
-#EXTINF:-1 group-title="MUSIC",NR1
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Карусель International
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC", Fun Radio TV
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Fox Kids
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://edge15.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
-#EXTINF:-1 group-title="MUSIC", Play TV
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 group-title="SPORT",МАТЧ ТВ
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
-#EXTINF:-1 group-title="MUSIC",NR1 ASK
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 group-title="SPORT",Матч ТВ
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sTOoDy1.png" group-title="MUSIC" , Arabica TV
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC",RTL 102.5 Best
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://streamcdng2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/chunklist_b3256000.m3u8
-#EXTINF:-1 group-title="MUSIC",NR1 TURK
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunks.m3u8
-#EXTINF:-1 group-title="MUSIC",NR1 DAMAR
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/retro-music-cz.png" group-title="MUSIC",Retro Music TV
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.iran-tv.net/media/7xmusic.webp" group-title="MUSIC",7X Music HD
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://stream.e2is.in/hls/7xMusic.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/krp3kgv.png" group-title="MUSIC" , NogoumFMTV
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://nogoumtv.nrpstream.com/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8ayl1fq.png" group-title="MUSIC",AFROBEATS HD
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MUSIC",Panorama FM
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
-#EXTINF:-1 group-title="MUSIC",PowerTürk Slow
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2542.png" group-title="MUSIC",PowerTürk Akustik
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2534.png" group-title="MUSIC",PowerTürk Taptaze
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC",Power Hits Radio (LT)
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://cdnlb.tvplayhome.lt/live/eds/PWR_LTU_Live/H1s_0utput/PWR_LTU_Live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KHuKQQL.png" group-title="MUSIC" , JooMusic
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+https://s7.iptv-24.net/blocked/index.m3u8
 #EXTINF:-1 group-title="SPORT",Матч HD
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
-#EXTINF:-1 tvg-logo="https://myspirit.tv/wp-content/uploads/2017/01/SpiritLogoFull244x86.png" group-title="MUSIC",Spirit TV
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/konny-mir.png" group-title="SPORT",Конный мир HD
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
+https://s7.iptv-24.net/blocked/index.m3u8
 #EXTINF:-1 group-title="SPORT",Eurosport 1 HD
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 http://178.134.1.158:8081/eurosport/index.m3u8
-#EXTINF:-1 group-title="SPORT",FENERBAHÇE TV
+#EXTINF:-1 group-title="SPORT",Extreme Sports
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 group-title="SPORT",KHL Prime
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
 #EXTINF:-1 group-title="SPORT",Real Madrid
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 group-title="SPORT",FENERBAHÇE TV
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+#EXTINF:-1 group-title="SPORT",Premier_Sports_1
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
 #EXTINF:-1 group-title="SPORT",CANAL MOTOR
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+#EXTINF:-1 group-title="SPORT",Dubai Sports 1
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
 #EXTINF:-1 group-title="SPORT",Sports Grid
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 https://sportsgrid-tribal.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="SPORT",Premier_Sports_4
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
+https://s7.iptv-24.net/blocked/index.m3u8
 #EXTINF:-1 group-title="SPORT",UFC Network
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="KZ",КТК
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT",Bein EXTRAS
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 group-title="KZ",КТК HD
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://89.218.30.37/ktklive/live.hd/playlist.m3u8
-#EXTINF:-1 group-title="EDGE TV",Вектор 24
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://136723.edgevideo.ru/streams/136723_657205/720n/index.m3u8
-#EXTINF:-1 group-title="SPORT",TOP Barca
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
 #EXTINF:-1 group-title="SPORT",UNBEATEN
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
 https://unbeaten-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA",VIJU TV1000 action
+#EXTINF:-1 group-title="SPORT",TOP Barca
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
-#EXTINF:-1 group-title="CINEMA",КИНОСАТ
+https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
+#EXTINF:-1 group-title="SPORT",Premier_Sports_5
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://31.148.48.15/Kineko/index.m3u8
-#EXTINF:-1 group-title="SPORT", DAZN Combat German
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 group-title="SPORT",Premier_Sports_2
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
-#EXTINF:-1 group-title="CINEMA",A1 720x576
+https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 group-title="SPORT",Bein EXTRAS
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://31.148.48.15/A1/index.m3u8
-#EXTINF:-1 group-title="CINEMA",nstv
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Крик-ТВ.png" group-title="РАЗВЛЕК",Крик-ТВ
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://cdn-01.bonus-tv.ru:80/kriktv_edge/index.m3u8
-#EXTINF:-1 group-title="CINEMA",Ностальгия [R]
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://31.148.48.15:80/Nostalgiya/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Открытый мир.png" group-title="РАЗВЛЕК",Открытый мир
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://v4.proofix.ru/0mir/index.m3u8
-#EXTINF:-1 group-title="ИСПАНИЯ",Antofagasta TV
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
-#EXTINF:-1 group-title="ИСПАНИЯ",Congreso de los Diputados 1 (360p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8
-#EXTINF:-1 group-title="ИСПАНИЯ",Canal Parlamento (360p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
-#EXTINF:-1 group-title="ИСПАНИЯ",Congreso de los Diputados 2 (360p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://congresodirecto.akamaized.net/hls/live/2038275/canal2/master.m3u8
-#EXTINF:-1 group-title="ИСПАНИЯ",Congreso de los Diputados 3 (360p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://congresodirecto.akamaized.net/hls/live/2038276/canal3/master.m3u8
-#EXTINF:-1 group-title="ИСПАНИЯ",Congreso de los Diputados 4 (360p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://congresodirecto.akamaized.net/hls/live/2038277/canal4/master.m3u8
-#EXTINF:-1 group-title="ИСПАНИЯ",Congreso de los Diputados 5 (360p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://congresodirecto.akamaized.net/hls/live/2038278/canal5/master.m3u8
-#EXTINF:-1 group-title="ИСПАНИЯ",Logos TV (1080p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://streamer1.streamhost.org/salive/logosH/master.m3u8
-#EXTINF:-1 group-title="ИСПАНИЯ",Logos TV Kids (720p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iM9AN6Z.png" group-title="ИСПАНИЯ",Costa Noroeste TV (1080p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
-#EXTINF:-1 group-title="ИСПАНИЯ",Logos TV Salud (720p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RH1zLLs.png" group-title="ИСПАНИЯ",Mijas 3.40TV (720p)
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://streaming004.gestec-video.com/hls/MIJAS.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2521.png" group-title="Познавательные", Нано ТВ
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://s1.tv-nano.com/Nano_rec/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RzAkP1V.png" group-title="ИСПАНИЯ",M95 Televisión Marbella (1080p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://limited2.todostreaming.es/live/m95-livestream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EqUfEAh.png" group-title="ИСПАНИЯ",RTV Vida (1080p)
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E2SqVT2.png" group-title="Познавательные", Зоо ТВ
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://31.148.48.15/Zoo_TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/univer-tv.png" group-title="Познавательные", UNIVER (HD)
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://cdn.universmotri.ru/live/univer.sdp_1080p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/rtg-tv.png" group-title="Познавательные", RTG
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://195.26.83.96:7007/play/a00n/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/5700.png" group-title="Спортивные",Fc real madrid tv HD
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mPvSubP.png" group-title="ИСПАНИЯ",Ribera TV (576p)
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://common01.todostreaming.es/live/ribera-livestream.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/prosveschenie.png" group-title="Познавательные", Просвещение (SDTV)
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/radost-moya.png" group-title="TV ДЕТСКИЙ ЧАС",Радость моя
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/ege-tv.png" group-title="Познавательные", ЕГЭ ТВ
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://tv.streams.baikal-telecom.net:8080/RT_DOC/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AsmhlT1.png" group-title="Познавательные", World Fashion
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://cdn.wfc.tv/cdn/stream-eng-720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pYHhWVZ.png" group-title="RUZIEV+ IPTV| TV", 8 канал
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://cdn-01.bonus-tv.ru:80/8kanal/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/sts-kids-hd.png" group-title="TV ДЕТСКИЙ ЧАС",СТС Kids
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://195.26.83.96:7006/play/a00z/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/7tv.png" group-title="RUZIEV+ IPTV| TV",7 TV
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://v4.proofix.ru:80/7tv-live/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/solnce.png" group-title="TV ДЕТСКИЙ ЧАС",Солнце
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kaleydoskop.png" group-title="RUZIEV+ IPTV| TV",Калейдоскоп ТВ
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/9155.png" group-title="Познавательные", Travelxp HD
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/sarafan.png" group-title="RUZIEV+ IPTV| TV",Сарафан
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://31.148.48.15/Sarafan/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/teatr.png" group-title="RUZIEV+ IPTV| TV",Театр
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://195.26.83.96:7005/play/16/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/tochka-tv.png" group-title="RUZIEV+ IPTV| TV",Точка ТВ
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://31.148.48.15/Tochka_TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wo37spz.png" group-title="RUZIEV+ IPTV| TV", Смотрим
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2294.png" group-title="RUZIEV+ IPTV| TV", БелРос
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://live.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2543.png" group-title="RUZIEV+ IPTV| TV", СТВ
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://edge55.dc.beltelecom.by/ctv/_definst_/ctv.stream/chunklist_w1789650572.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/1037.png" group-title="TV КИНО", Кино ТВ
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bridge-tv.png" group-title="TV Музыка",Bridge
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://195.26.83.96:7007/play/a00m/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/o2tv.png" group-title="TV Музыка",О!2
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-http://195.26.83.96:7006/play/1/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2563.png" group-title="Зарубежные", Imedi TV GE
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://tv.cdn.xsg.ge/imedihd/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2560.png" group-title="Зарубежные", 1TV Georgia GE
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
-#EXTINF:-1 group-title="ИСПАНИЯ",Fibwi (1080p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0 (Linux; Android 11)
-https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
